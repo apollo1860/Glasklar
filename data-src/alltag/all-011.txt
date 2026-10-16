@@ -1,0 +1,100 @@
+@id all-011
+@text Nenne etwas, das man aufladen muss
+# Geräte und Dinge mit Akku oder Guthaben, die regelmäßig (wieder) aufgeladen werden.
+
+1 Handy = Smartphone
+1 Laptop
+1 Elektroauto = E-Auto
+2 Tablet
+2 Powerbank
+2 Akku
+2 Kopfhörer = Earbuds; AirPods
+2 Smartwatch
+2 E-Bike = Pedelec
+2 E-Scooter
+2 Elektrische Zahnbürste = Zahnbürste
+3 Rasierer
+3 Kamera
+3 Bluetooth-Lautsprecher = Lautsprecher
+3 Akkuschrauber
+3 Gamecontroller = Controller
+3 Nintendo Switch = Spielkonsole
+3 Saugroboter
+3 Akkustaubsauger = Staubsauger
+3 Drohne
+3 E-Zigarette = Vape
+3 Fitnesstracker
+3 Guthaben = Handyguthaben; Prepaid
+3 Fahrkarte = Chipkarte; Monatskarte
+3 Geschenkkarte = Gutscheinkarte
+3 Fahrradlicht
+3 Taschenlampe
+3 Mähroboter = Rasenmähroboter
+3 Hörgerät
+3 Vibrator
+3 Maus = Computermaus
+3 Tastatur
+3 E-Reader = Kindle
+3 Batterie = Akku-Batterie
+3 Autobatterie
+4 Hybridauto
+4 E-Motorrad
+4 Elektroroller
+4 Hoverboard
+4 Segway
+4 Elektrorollstuhl
+4 Golfcart
+4 Gabelstapler
+4 Elektroboot
+4 Modellauto
+4 Modellflugzeug
+4 Walkie-Talkie
+4 Babyphone
+4 Stirnlampe
+4 Haarschneider
+4 Epilierer
+4 Milchaufschäumer
+4 Laubbläser
+4 Heckenschere
+4 Kettensäge
+4 Bohrmaschine
+4 Funkkopfhörer
+4 Headset
+4 Mikrofon
+4 Funkmaus
+4 Stift = Apple Pencil; Eingabestift
+4 Smart Ring
+4 VR-Brille
+4 Fernbedienung
+4 Wärmekissen
+4 Handwärmer
+4 Heizweste
+4 Massagepistole
+4 Munddusche
+4 Lockenstab
+4 Glätteisen
+4 Insulinpumpe
+4 Mensakarte = Kantinenkarte
+4 Kopiererkarte
+4 Waschkarte
+4 Bezahlkarte
+4 Prepaidkarte = Kreditkarte
+4 Paysafecard
+4 Steam-Guthaben
+4 Kinderspielzeug = Spielzeug
+4 Toniebox
+4 Solarlampe
+4 Lichterkette
+4 Gartenleuchte
+4 Kühlbox
+4 Wohnmobil
+4 Wasserstoffauto = Wasserstoff tanken
+5 Kondensator
+5 Satellit
+5 Stromspeicher = Heimspeicher
+5 Pufferspeicher
+5 Elektrobus = E-Bus
+5 Akkuzug
+5 Elektroflugzeug
+5 Funkgerät
+5 Defibrillator

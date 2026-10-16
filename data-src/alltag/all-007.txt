@@ -1,0 +1,128 @@
+@id all-007
+@text Nenne etwas, das man an einer Tankstelle kaufen kann
+# Kraftstoffe, Autozubehör, Shop-Sortiment (Lebensmittel, Getränke, Tabak, Zeitschriften) und Dienstleistungen.
+
+1 Benzin = Super; Sprit
+1 Diesel
+1 Zigaretten = Kippen
+2 Bier
+2 Snacks
+2 Kaffee
+2 Kaugummi
+2 Wasser
+2 Brötchen = Belegtes Brötchen
+2 Schokolade = Schokoriegel
+2 Chips
+3 Super E10 = E10
+3 Super Plus
+3 AdBlue
+3 Motoröl = Öl
+3 Scheibenwischwasser = Wischwasser; Scheibenreiniger
+3 Autowäsche = Waschanlage
+3 Zeitung
+3 Zeitschrift = Magazin
+3 Energy Drink = Red Bull
+3 Cola
+3 Alkohol
+3 Schnaps
+3 Wein
+3 Sekt
+3 Eis
+3 Bockwurst = Würstchen
+3 Brezel
+3 Croissant
+3 Sandwich
+3 Süßigkeiten
+3 Gummibärchen
+3 Feuerzeug
+3 Tabak
+3 Blumen = Blumenstrauß
+3 Kohle = Grillkohle
+3 Gas = Gasflasche
+3 Autogas = LPG
+3 Strom = Ladestrom
+4 Erdgas = CNG
+4 Wasserstoff
+4 Frostschutzmittel
+4 Kühlflüssigkeit
+4 Glühbirne = Autolampe
+4 Scheibenwischer
+4 Eiskratzer
+4 Enteiserspray
+4 Duftbaum
+4 Warnweste
+4 Verbandskasten
+4 Warndreieck
+4 Starthilfekabel
+4 Reservekanister = Kanister
+4 Vignette
+4 Straßenkarte = Landkarte
+4 Handyhalterung
+4 Ladekabel
+4 Autoshampoo
+4 Felgenreiniger
+4 Cockpitspray
+4 Mikrofasertuch
+4 Luft = Reifenluft
+4 Staubsauger
+4 Hotdog
+4 Pizza
+4 Kuchen
+4 Donut
+4 Muffin
+4 Joghurt
+4 Milch
+4 Brot
+4 Butter
+4 Eier
+4 Toastbrot
+4 Obst
+4 Banane
+4 Saft
+4 Limonade
+4 Eistee
+4 Kakao
+4 Tee
+4 Cappuccino
+4 Latte Macchiato
+4 Zigarren
+4 E-Zigarette
+4 Lotto = Lottoschein; Rubbellos
+4 Paysafecard = Guthabenkarte
+4 Handyguthaben = Prepaid-Karte
+4 Gutscheinkarte = Geschenkkarte
+4 Batterien
+4 Kondome
+4 Kopfschmerztabletten
+4 Taschentücher
+4 Sonnenbrille
+4 Feuerholz = Brennholz
+4 Grillanzünder
+4 Eiswürfel
+4 Spielzeugauto
+4 Pfefferminz = Pfefferminzbonbons
+4 Nüsse
+4 Erdnüsse
+4 Studentenfutter
+4 Salzstangen
+5 Toilette = Toilettenbenutzung
+5 Vape
+5 Shisha-Tabak
+5 Grußkarte
+5 Sammelkarten
+5 Panini-Sticker = Sticker
+5 Hundefutter
+5 Katzenfutter
+5 Waschmittel
+5 Spülmittel
+5 Klopapier
+5 Zahnbürste
+5 Deo
+5 Kopfhörer
+5 Powerbank
+5 Kühlbox
+5 Thermobecher
+5 Frikadelle
+5 Leberkäse = Leberkässemmel
+5 Schnitzelbrötchen
+5 Currywurst

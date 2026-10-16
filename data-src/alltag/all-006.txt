@@ -1,0 +1,116 @@
+@id all-006
+@text Nenne etwas, das man in einem Schlafzimmer findet
+# Möbel, Bettwaren, Textilien, Elektronik und typische Gegenstände im Schlafzimmer.
+
+1 Bett
+1 Kissen = Kopfkissen
+1 Decke = Bettdecke
+1 Kleiderschrank = Schrank
+2 Nachttisch = Nachtschrank; Nachtkästchen
+2 Lampe = Nachttischlampe
+2 Wecker
+2 Matratze
+2 Spiegel
+2 Teppich
+3 Vorhang = Gardine; Vorhänge
+3 Kommode
+3 Fenster
+3 Bettwäsche
+3 Laken = Bettlaken; Spannbettlaken
+3 Fernseher = TV
+3 Kuscheltier = Teddy; Plüschtier
+3 Handy = Smartphone
+3 Ladekabel
+3 Kleidung = Klamotten
+3 Schlafanzug = Pyjama
+3 Bild
+3 Pflanze = Zimmerpflanze
+3 Stuhl
+3 Rollladen = Jalousie; Rollo
+3 Heizung = Heizkörper
+3 Buch
+4 Kuscheldecke = Tagesdecke
+4 Lattenrost
+4 Bettgestell
+4 Kopfteil
+4 Schminktisch
+4 Schreibtisch
+4 Sessel
+4 Hocker
+4 Regal
+4 Bücherregal
+4 Wäschekorb
+4 Kleiderständer = Kleiderbügel
+4 Schuhe
+4 Hausschuhe = Pantoffeln
+4 Bademantel
+4 Unterwäsche
+4 Socken
+4 Nachthemd
+4 Schlafmaske
+4 Ohrstöpsel = Ohropax
+4 Wasserglas = Glas Wasser
+4 Taschentücher
+4 Kerze
+4 Duftkerze
+4 Lichterkette
+4 Deckenlampe = Deckenleuchte
+4 Steckdose
+4 Lichtschalter
+4 Rauchmelder
+4 Luftbefeuchter
+4 Ventilator
+4 Klimaanlage
+4 Radio
+4 Laptop
+4 Tablet
+4 Kopfhörer
+4 Brille
+4 Schmuck = Schmuckkästchen
+4 Uhr
+4 Fotos = Bilderrahmen
+4 Poster
+4 Tapete
+4 Kissenbezug
+4 Bettbezug
+4 Zierkissen = Dekokissen
+4 Wärmflasche
+4 Heizdecke
+4 Babyphone
+4 Kinderbett = Babybett
+4 Wiege
+4 Spieluhr
+4 Tagebuch
+4 Parfüm
+4 Bürste
+4 Haargummi
+4 Ehering
+4 Boxspringbett
+4 Wasserbett
+4 Hochbett
+4 Etagenbett
+4 Schlafsofa = Schlafcouch
+4 Bettkasten
+4 Staub
+5 Spinne
+5 Wollmaus = Staubflocke
+5 Bügelbrett
+5 Bügeleisen
+5 Nähmaschine
+5 Hantel
+5 Yogamatte
+5 Heimtrainer
+5 Sexspielzeug
+5 Kondome
+5 Gleitgel
+5 Handschellen
+5 Tresor = Safe
+5 Diffusor
+5 Traumfänger
+5 Globus
+5 Aquarium
+5 Hundekorb = Hundebett
+5 Katzenkorb
+5 Paravent
+5 Kleiderhaken
+5 Nachtlicht

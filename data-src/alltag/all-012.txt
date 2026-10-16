@@ -1,0 +1,166 @@
+@id all-012
+@text Nenne etwas, das klebrig sein kann
+# Stoffe, Lebensmittel, Naturprodukte und Gegenstände, die (oft) klebrig sind.
+
+1 Kleber = Klebstoff; Leim
+1 Honig
+1 Kaugummi
+2 Klebeband = Tesa; Tesafilm
+2 Marmelade = Konfitüre
+2 Sirup
+2 Bonbon
+2 Karamell
+2 Harz = Baumharz
+2 Hände = Finger
+3 Klebezettel = Post-it; Haftnotiz
+3 Pflaster
+3 Briefmarke
+3 Sticker = Aufkleber
+3 Etikett
+3 Klebestift = Pritt
+3 Sekundenkleber = Superkleber
+3 Heißkleber
+3 Kleister = Tapetenkleister
+3 Silikon
+3 Teig
+3 Zuckerwatte
+3 Lutscher = Lolli
+3 Gummibärchen
+3 Nutella = Schokocreme
+3 Erdnussbutter
+3 Zucker = Zuckerguss
+3 Cola = Limonade; Saft
+3 Eis = Eiscreme
+3 Schleim = Slime
+3 Schnecke = Schneckenschleim
+3 Spinnennetz
+3 Fliegenfänger
+3 Boden = Fußboden
+3 Tisch
+3 Teer = Asphalt
+3 Haargel
+3 Haarspray
+3 Lipgloss
+3 Wimperntusche
+3 Sonnencreme
+3 Haut = Schweiß
+3 Ahornsirup
+3 Agavendicksaft
+3 Melasse
+3 Rübensirup
+3 Dattel = Datteln
+3 Feige
+3 Mango
+3 Ananas
+4 Klebreis = Sushireis; Reis
+4 Mochi
+4 Nougat
+4 Toffee
+4 Fudge
+4 Marshmallow
+4 Fruchtgummi
+4 Lakritz
+4 Popcorn = Karamellpopcorn
+4 Donut = Glasur
+4 Zimtschnecke
+4 Baklava
+4 Kuchen = Kuchenteig
+4 Brownie
+4 Torte = Sahnetorte
+4 Pudding
+4 Grießbrei
+4 Spaghetti = Nudeln
+4 Käse = Mozzarella; Raclette
+4 Fondue
+4 Ketchup
+4 Senf
+4 BBQ-Sauce
+4 Teriyaki
+4 Sojasauce
+4 Ei = Eigelb; Eiweiß
+4 Tapete
+4 Schuhsohle
+4 Klettverschluss
+4 Klebepad
+4 Doppelseitiges Klebeband
+4 Gaffa-Tape = Panzertape
+4 Malerkrepp
+4 Isolierband
+4 Klebefolie
+4 Fliegenpapier
+4 Mausefalle = Klebefalle
+4 Gelbtafel = Gelbsticker
+4 Wachs = Kerzenwachs
+4 Knete = Knetmasse
+4 Blu Tack = Patafix
+4 Latex
+4 Gummi
+4 Kautschuk
+4 Bitumen
+4 Öl = Motoröl
+4 Fett
+4 Schmierfett
+4 Vaseline
+4 Creme
+4 Salbe
+4 Wundgel
+4 Gleitgel
+4 Massageöl
+4 Bodylotion
+4 Duschgel
+4 Shampoo
+4 Spülmittel
+4 Seife
+4 Farbe = Wandfarbe; Lack
+4 Nagellack
+4 Fensterkitt = Kitt
+4 Spachtelmasse
+4 Fugenmasse
+4 Montagekleber
+4 Zweikomponentenkleber = Epoxidharz
+4 Pech
+4 Blut
+4 Spucke = Speichel
+4 Sabber
+4 Rotz = Nasenschleim
+4 Eiter
+4 Ohrenschmalz
+4 Pollen
+4 Nektar
+4 Blattlaus-Honigtau = Honigtau
+4 Kastanie = Kastanienknospe
+4 Klette
+4 Kletten-Labkraut = Labkraut
+4 Sonnentau
+4 Frosch = Froschzunge
+4 Gecko
+4 Chamäleonzunge
+4 Ameisenbär-Zunge
+5 Kinosessel
+5 Partyboden
+5 Cocktailglas
+5 Bierglas
+5 Barhocker
+5 Tresen
+5 Lenkrad
+5 Handy-Display = Display
+5 Tastatur
+5 Fernbedienung
+5 Türklinke
+5 Einkaufswagen
+5 Haltestange
+5 Kinderhände
+5 Lebkuchen
+5 Waffeln
+5 Crêpes
+5 Pfannkuchen
+5 Kaiserschmarrn
+5 Dampfnudeln
+5 Germknödel
+5 Zuckerwürfel
+5 Schokolade
+5 Eiswaffel
+5 Kandierte Früchte
+5 Glühwein
+5 Likör
+5 Met

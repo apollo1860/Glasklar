@@ -1,0 +1,127 @@
+@id all-013
+@text Nenne etwas, das man in einem Zug oder Flugzeug tun kann
+# Tätigkeiten während einer Zug- oder Flugreise.
+
+1 Schlafen
+1 Lesen
+1 Essen
+2 Trinken
+2 Musik hören = Musik
+2 Filme schauen = Film schauen; Serie schauen; Film; Filme; Serie; Netflix
+2 Aus dem Fenster schauen = Rausschauen; Landschaft anschauen
+2 Arbeiten
+2 Reden = Unterhalten; Quatschen
+2 Handy spielen = Am Handy sein; Handy
+3 Telefonieren
+3 Zocken = Spielen; Videospiele spielen; Videospiele; Gaming
+3 Karten spielen = Karten
+3 Lernen
+3 Podcast hören = Podcast
+3 Hörbuch hören = Hörbuch
+3 Schreiben = Tagebuch schreiben
+3 Malen = Zeichnen
+3 Rätsel lösen = Rätsel; Kreuzworträtsel; Sudoku
+3 Stricken
+3 Laptop benutzen = Am Laptop arbeiten; Laptop
+3 Surfen = Im Internet surfen
+3 E-Mails schreiben
+3 Nachrichten schreiben = Chatten; Texten
+3 Toilette gehen = Aufs Klo gehen; Toilette; Klo
+3 Leute beobachten = Menschen beobachten
+3 Nachdenken = Träumen; Tagträumen
+3 Beten
+3 Meditieren
+3 Entspannen = Ausruhen
+3 Dösen
+3 Streiten
+3 Flirten
+3 Kennenlernen = Leute kennenlernen
+3 Snacks essen = Snacken
+3 Kaffee trinken = Kaffee
+3 Bier trinken = Alkohol trinken; Bier; Alkohol
+3 Fotos machen = Fotografieren; Fotos
+3 Videos drehen = Filmen
+3 Schnarchen
+3 Warten
+3 Langweilen
+4 Gesellschaftsspiele spielen = Brettspiel spielen
+4 Schach spielen = Schach
+4 Uno spielen = Uno
+4 Stadt-Land-Fluss spielen
+4 Ich sehe was, was du nicht siehst
+4 Zeitung lesen = Zeitung
+4 Zeitschrift lesen
+4 Comics lesen
+4 Bücher schreiben
+4 Brief schreiben
+4 Postkarte schreiben
+4 Planen = Urlaub planen; Reise planen
+4 Hausaufgaben machen
+4 Vokabeln lernen
+4 Programmieren
+4 Präsentation vorbereiten
+4 Videocall = Meeting
+4 Sprachnachricht aufnehmen
+4 Social Media checken = Scrollen
+4 Online shoppen
+4 Nägel lackieren
+4 Schminken
+4 Zähne putzen
+4 Umziehen
+4 Stretchen = Dehnen
+4 Spazieren gehen = Durch den Gang laufen
+4 Beine vertreten
+4 Picknicken
+4 Mittagessen
+4 Frühstücken
+4 Bordbistro besuchen = Speisewagen
+4 Duty-free einkaufen = Einkaufen
+4 Kotzbeutel benutzen = Sich übergeben
+4 Kaugummi kauen
+4 Häkeln
+4 Nähen
+4 Basteln
+4 Origami falten
+4 Singen
+4 Pfeifen
+4 Summen
+4 Gitarre spielen = Instrument spielen
+4 Weinen
+4 Lachen
+4 Kuscheln
+4 Händchen halten
+4 Küssen
+4 Diskutieren
+4 Beschweren
+4 Sitzplatz wechseln = Platz tauschen
+4 Koffer verstauen = Gepäck verstauen
+4 Ticket kontrollieren lassen = Fahrkarte vorzeigen
+4 Sicherheitsvideo anschauen
+4 Durchsage hören
+4 Babys beruhigen = Kind beruhigen
+4 Kinder bespaßen
+4 Stillen
+4 Wickeln
+4 Tabletten nehmen = Medikamente nehmen
+5 Schwarzfahren
+5 Notbremse ziehen
+5 Fliegen
+5 Reisen
+5 Pendeln
+5 Sterne beobachten
+5 Wolken beobachten
+5 Sonnenaufgang anschauen
+5 Bahnhöfe zählen
+5 Kühe zählen
+5 Tunnel zählen
+5 Puzzle legen
+5 Gedichte schreiben
+5 Briefe lesen
+5 Bewerbung schreiben
+5 Steuererklärung machen
+5 Fingernägel schneiden
+5 Haare flechten
+5 Heiraten
+5 Geburtstag feiern
+5 Junggesellenabschied feiern
+5 Trinkspiel spielen = Glasklar spielen

@@ -1,0 +1,125 @@
+@id all-004
+@text Nenne etwas, das man in einem Badezimmer findet
+# Einrichtung, Sanitär, Hygiene- und Pflegeprodukte, Textilien und typische Kleinteile.
+
+1 Toilette = Klo; WC; Klosett
+1 Dusche
+1 Badewanne = Wanne
+1 Waschbecken
+1 Spiegel
+2 Zahnbürste
+2 Handtuch
+2 Seife
+2 Klopapier = Toilettenpapier
+2 Zahnpasta = Zahncreme
+2 Shampoo
+3 Duschgel
+3 Föhn = Haartrockner; Fön
+3 Badematte = Badvorleger
+3 Duschvorhang
+3 Wasserhahn = Armatur
+3 Kamm
+3 Haarbürste = Bürste
+3 Rasierer = Rasierapparat
+3 Deo = Deodorant
+3 Creme
+3 Waschmaschine
+3 Bademantel
+3 Klobürste = Toilettenbürste
+3 Schwamm
+3 Badeente = Quietscheente
+3 Duschkopf = Brause
+3 Fliesen
+3 Bidet
+4 Spülkasten
+4 Klobrille = Toilettensitz
+4 Abfluss
+4 Seifenspender
+4 Zahnputzbecher
+4 Zahnseide
+4 Mundwasser
+4 Spülung = Haarspülung; Conditioner
+4 Haargel = Gel
+4 Haarspray
+4 Parfüm
+4 Bodylotion = Körperlotion
+4 Gesichtscreme
+4 Wattestäbchen
+4 Wattepads
+4 Make-up
+4 Wimperntusche = Mascara
+4 Lippenstift
+4 Nagelschere
+4 Nagelfeile
+4 Pinzette
+4 Rasierschaum
+4 Aftershave
+4 Glätteisen
+4 Lockenstab
+4 Waschlappen
+4 Duschhaube
+4 Badezusatz = Badesalz; Badeschaum
+4 Badebombe
+4 Handseife
+4 Medizinschrank = Spiegelschrank
+4 Handtuchhalter
+4 Heizkörper = Heizung
+4 Mülleimer
+4 Wäschekorb
+4 Personenwaage = Waage
+4 Fenster
+4 Lüftung = Lüfter
+4 Kerze
+4 Pflaster
+4 Tampon
+4 Binde
+4 Kondom
+4 Feuchttücher
+4 Taschentücher
+4 Kosmetiktücher
+4 Abschminktücher
+4 Elektrische Zahnbürste
+4 Rasierklinge
+4 Sonnencreme
+4 Pickelcreme
+4 Kontaktlinsen
+4 Brille
+4 Haarband = Haargummi
+4 Haarspange
+4 Lufterfrischer = Raumspray
+4 WC-Reiniger
+4 Badreiniger = Putzmittel
+4 Gummihandschuhe
+4 Pümpel = Saugglocke
+4 Toilettenpapierhalter = Klorollenhalter
+5 Trockner
+5 Duschabzieher = Abzieher
+5 Fugen
+5 Steckdose
+5 Lichtschalter
+5 Hocker
+5 Pflanze
+5 Radio
+5 Thermometer
+5 Fieberthermometer
+5 Haarfarbe
+5 Peeling
+5 Gesichtsmaske
+5 Bimsstein
+5 Hornhautraspel
+5 Nagellack
+5 Nagellackentferner
+5 Puder
+5 Lidschatten
+5 Kajal
+5 Rouge
+5 Concealer
+5 Wimpernzange
+5 Zungenreiniger
+5 Interdentalbürste
+5 Zahnprothese = Gebiss
+5 Silberfischchen
+5 Schimmel
+5 Duschvorhangstange
+5 Wäscheständer
+5 Kosmetiktasche = Kulturbeutel

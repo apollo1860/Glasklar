@@ -1,0 +1,142 @@
+@id all-008
+@text Nenne einen Beruf, bei dem man eine Uniform trägt
+# Berufe mit vorgeschriebener Dienst- oder Berufskleidung (Uniform, Dienstkleidung, Tracht).
+
+1 Polizist = Polizei; Polizistin
+1 Feuerwehrmann = Feuerwehr; Feuerwehrfrau
+1 Soldat = Bundeswehr; Soldatin
+2 Pilot = Pilotin
+2 Stewardess = Flugbegleiter; Flugbegleiterin; Steward
+2 Arzt = Ärztin
+2 Krankenschwester = Krankenpfleger; Pflegekraft
+2 Koch = Köchin
+2 Sanitäter = Rettungssanitäter; Notfallsanitäter
+2 Postbote = Briefträger; Postbotin
+3 Zugbegleiter = Schaffner
+3 Kellner = Kellnerin
+3 Busfahrer
+3 Lokführer
+3 Sicherheitsdienst = Security; Wachmann
+3 Zollbeamter = Zoll
+3 Richter
+3 Pfarrer = Priester
+3 Nonne
+3 Mönch
+3 Hotelpage = Page
+3 Concierge
+3 Rezeptionist
+3 Matrose = Seemann
+3 Kapitän
+3 Müllmann = Müllabfuhr
+3 Mechaniker = Kfz-Mechatroniker
+3 Bäcker
+3 Metzger = Fleischer
+3 Zahnarzt
+3 Pfleger = Altenpfleger
+3 Gefängniswärter = Justizvollzugsbeamter
+3 Schornsteinfeger
+3 Zimmermann = Zimmerer
+3 Jockey
+3 Schiedsrichter
+4 Bundespolizist = Bundespolizei
+4 Grenzschützer = Grenzpolizei
+4 Militärpolizist = Feldjäger
+4 Marinesoldat = Marine
+4 Luftwaffe
+4 Fallschirmjäger
+4 Kampfpilot
+4 Astronaut
+4 Fluglotse
+4 Bodenpersonal
+4 Lotse
+4 Rettungsschwimmer = Bademeister
+4 Bergwacht = Bergretter
+4 Seenotretter
+4 Notarzt
+4 Hebamme
+4 Arzthelfer = Medizinische Fachangestellte
+4 Apotheker
+4 Tierarzt
+4 Chirurg
+4 Physiotherapeut
+4 Friseur
+4 Kosmetikerin
+4 Barkeeper
+4 Barista
+4 Sommelier
+4 Konditor
+4 Verkäufer = Kassierer
+4 Tankwart
+4 Paketbote = Paketzusteller
+4 Kurier
+4 Fahrradkurier
+4 Taxifahrer
+4 Chauffeur
+4 Straßenbahnfahrer
+4 Fahrkartenkontrolleur = Kontrolleur
+4 Parkwächter
+4 Politesse = Ordnungsamt; Verkehrsüberwachung
+4 Hausmeister
+4 Gärtner
+4 Bauarbeiter
+4 Elektriker
+4 Klempner = Installateur
+4 Maler = Malerin
+4 Dachdecker
+4 Schreiner = Tischler
+4 Landwirt = Bauer
+4 Schäfer
+4 Förster = Jäger
+4 Fischer
+4 Bergmann = Bergarbeiter
+4 Laborant
+4 Wissenschaftler
+4 Zahnarzthelfer
+4 Rechtsanwalt = Anwalt
+4 Staatsanwalt
+4 Schüler = Schuluniform
+4 Pfadfinder
+4 Sportler = Fußballspieler
+4 Torwart
+4 Bandmitglied = Musiker
+4 Dirigent
+4 Zirkusdirektor
+4 Clown
+4 Croupier
+4 Butler
+4 Zimmermädchen = Zimmerservice
+4 Portier
+4 Animateur
+4 Reiseleiter
+4 Museumswärter
+4 Türsteher
+4 Ordner
+4 Leibwächter = Bodyguard
+5 Gardist = Leibgarde
+5 Schweizergarde
+5 Sheriff
+5 Ranger
+5 Pferdepfleger
+5 Fahrlehrer
+5 Pizzabote
+5 Lieferando-Fahrer = Lieferdienst
+5 Hostess
+5 Messehostess
+5 Promoter
+5 Kaminkehrer
+5 Brandmeister
+5 Schutzpolizist
+5 Kriminalpolizist
+5 Bundeswehrarzt
+5 Militärmusiker
+5 Kadett
+5 Offizier
+5 General
+5 Admiral
+5 Kampfmittelräumer
+5 Imker
+5 Schweißer
+5 Kirchendiener = Küster
+5 Messdiener = Ministrant
+5 Bischof
+5 Papst

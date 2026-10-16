@@ -1,0 +1,179 @@
+@id all-009
+@text Nenne etwas, das aus Holz gemacht ist
+# Gegenstände, Möbel, Bauteile, Instrumente und Spielzeug, die typischerweise aus Holz bestehen.
+
+1 Tisch
+1 Stuhl
+1 Schrank
+1 Haus = Holzhaus; Blockhaus
+2 Bleistift = Stift
+2 Papier
+2 Bett
+2 Tür
+2 Zaun
+2 Regal
+2 Löffel = Kochlöffel; Holzlöffel
+2 Streichholz = Streichhölzer
+3 Boot = Ruderboot
+3 Schiff
+3 Brett = Schneidebrett; Frühstücksbrettchen
+3 Fenster = Fensterrahmen
+3 Treppe
+3 Bank = Holzbank
+3 Kommode
+3 Parkett = Holzboden; Dielen
+3 Möbel
+3 Geige
+3 Gitarre
+3 Klavier
+3 Bauklötze = Holzklötze
+3 Spielzeug = Holzspielzeug
+3 Baumhaus
+3 Hütte
+3 Brücke
+3 Leiter
+3 Kiste = Holzkiste
+3 Palette = Europalette
+3 Bilderrahmen = Rahmen
+3 Pfeife
+3 Zahnstocher
+3 Essstäbchen = Stäbchen
+3 Besen = Besenstiel
+3 Hammer = Hammerstiel
+3 Axt = Axtstiel
+3 Baseballschläger
+3 Ski
+3 Schlitten
+3 Pinocchio
+3 Sarg
+3 Kreuz
+3 Holzpferd = Schaukelpferd
+3 Fass = Weinfass
+4 Dachstuhl = Dachbalken; Balken
+4 Fachwerk
+4 Carport
+4 Gartenhaus
+4 Sauna
+4 Terrasse = Holzterrasse
+4 Pergola
+4 Hochbeet
+4 Vogelhaus
+4 Hundehütte
+4 Kaninchenstall = Stall
+4 Spielhaus
+4 Sandkasten
+4 Schaukel
+4 Wippe
+4 Klettergerüst
+4 Kinderbett = Wiege
+4 Hochstuhl
+4 Laufstall
+4 Puppenhaus
+4 Holzeisenbahn
+4 Kreisel
+4 Jo-Jo
+4 Domino
+4 Schachfiguren = Schachbrett
+4 Mikado
+4 Jenga
+4 Kegel
+4 Bumerang
+4 Pfeil und Bogen = Bogen
+4 Speer
+4 Kanu
+4 Floß
+4 Ruder
+4 Paddel
+4 Surfbrett
+4 Skateboard
+4 Hockeyschläger
+4 Cricketschläger
+4 Golfschläger = Holz
+4 Tischtennisschläger
+4 Billardqueue = Queue
+4 Trommel
+4 Xylophon
+4 Flöte = Blockflöte
+4 Klarinette
+4 Cello
+4 Kontrabass
+4 Harfe
+4 Cajón
+4 Taktstock
+4 Nudelholz = Teigrolle
+4 Pfeffermühle
+4 Salatbesteck
+4 Tablett
+4 Schüssel = Holzschüssel
+4 Wäscheklammer
+4 Kleiderbügel
+4 Zollstock
+4 Lineal
+4 Kuckucksuhr
+4 Uhr
+4 Holzschuhe = Clogs
+4 Kutsche
+4 Wagenrad
+4 Spinnrad
+4 Webstuhl
+4 Galgen
+4 Pranger
+4 Kanzel
+4 Altar
+4 Kirchenbank
+4 Krippe
+4 Nussknacker
+4 Räuchermännchen
+4 Schwibbogen
+4 Weihnachtspyramide
+4 Holzfigur = Schnitzfigur
+4 Maske
+4 Totempfahl
+4 Holzkohle
+4 Brennholz = Feuerholz
+4 Spanplatte
+4 Sperrholz
+4 MDF
+4 Pellets = Holzpellets
+4 Korken
+4 Sägespäne
+4 Mulch = Rindenmulch
+4 Zellstoff
+4 Pappe = Karton
+4 Toilettenpapier = Klopapier
+4 Eisstiel
+4 Schaschlikspieß = Holzspieß
+4 Pinsel = Pinselstiel
+4 Werkzeuggriff = Griff
+4 Messergriff
+4 Gewehrkolben
+4 Schreibtisch
+4 Couchtisch
+4 Hocker
+4 Sessel
+4 Bettgestell
+4 Lattenrost
+4 Garderobe
+4 Truhe
+4 Vitrine
+4 Wandverkleidung = Paneele
+4 Arbeitsplatte
+4 Küche
+5 Mast
+5 Steg
+5 Bootssteg
+5 Wassermühle = Mühlrad
+5 Windmühle
+5 Hochsitz
+5 Futterkrippe
+5 Weidezaun
+5 Jägerzaun
+5 Bienenstock = Bienenkasten
+5 Insektenhotel
+5 Barrique
+5 Zigarrenkiste
+5 Schmuckkästchen
+5 Holzbrille
+5 Holzuhr
+5 Spatel
+5 Mundspatel

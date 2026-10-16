@@ -1,0 +1,99 @@
+@id all-005
+@text Nenne etwas, das aus einer Sprühdose kommt
+# Produkte, die als Spray aus einer Druck- oder Pumpsprühdose kommen.
+
+1 Deo = Deodorant; Deospray
+1 Haarspray
+1 Sprühfarbe = Graffiti; Lack; Farbe
+2 Sahne = Sprühsahne
+2 Rasierschaum
+2 Insektenspray = Mückenspray; Insektenschutz
+2 Pfefferspray
+2 Raumspray = Lufterfrischer
+3 Sonnenspray = Sonnencreme
+3 Parfüm
+3 Bratspray = Backspray
+3 Schaumfestiger = Haarschaum
+3 Trockenshampoo
+3 WD-40 = Kriechöl; Rostlöser
+3 Imprägnierspray
+3 Kältespray = Eisspray
+3 Desinfektionsspray = Desinfektionsmittel
+3 Glasreiniger
+3 Fensterreiniger
+3 Silikonspray
+3 Montageschaum = Bauschaum
+3 Bodyspray
+3 Haarfärbespray
+3 Kunstschnee = Schneespray
+3 Luftschlangen-Spray = Partyspray
+4 Enteiserspray = Enteiser
+4 Starthilfespray
+4 Reifenpilot = Reifendichtmittel
+4 Zinkspray
+4 Lackspray
+4 Grundierung
+4 Klarlack
+4 Kontaktspray
+4 Druckluftspray = Druckluft
+4 Kettenspray = Kettenfett
+4 Backofenreiniger
+4 Möbelpolitur
+4 Fleckenspray
+4 Stärkespray = Bügelspray
+4 Selbstbräuner
+4 Fixierspray
+4 Hitzeschutzspray
+4 Glanzspray
+4 Feuchtigkeitsspray = Gesichtsspray
+4 Mundspray
+4 Nasenspray
+4 Asthmaspray = Asthmainhalator
+4 Wundspray = Sprühpflaster
+4 Fußspray
+4 Schuhspray
+4 Antitranspirant
+4 Sprühkleber
+4 Feuerlöschspray = Feuerlöscher
+4 Tierabwehrspray
+4 Zeckenspray
+4 Spinnenspray
+4 Wespenspray
+4 Ameisenspray
+4 Olivenölspray = Ölspray
+4 Käsespray = Sprühkäse
+4 Pfannkuchenteig = Sprühteig
+4 Schokosauce = Schokospray
+4 Lebensmittelfarbe = Farbspray für Torten
+4 Glitzerspray
+4 Tafelfarbe
+4 Antibeschlagspray
+4 Kunststoffpflege
+4 Cockpitspray
+4 Leder-Spray = Lederpflege
+4 Insektizid
+4 Pflanzenschutzmittel
+4 Blattglanzspray
+4 Holzschutz
+4 Rostschutz
+4 Gummipflege
+4 Teflonspray
+4 Schmierfett
+4 Bremsenreiniger
+4 Kältemittel
+4 Leuchtfarbe
+4 Grafitspray
+5 Theaterblut
+5 Silberspray
+5 Goldspray
+5 Kreidespray
+5 Markierungsspray
+5 Hundeabwehrspray
+5 Bärenspray
+5 Lecksuchspray
+5 Haftspray
+5 Trennspray
+5 Formenspray
+5 Fugenspray
+5 Antistatikspray
+5 Wimpernspray

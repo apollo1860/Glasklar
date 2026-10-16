@@ -1,0 +1,125 @@
+@id all-010
+@text Nenne etwas, das mit Batterien betrieben wird
+# Geräte, die mit wechselbaren Batterien oder einem eingebauten Akku laufen.
+
+1 Fernbedienung
+1 Taschenlampe
+1 Uhr = Armbanduhr; Wanduhr
+2 Handy = Smartphone
+2 Wecker
+2 Spielzeug = Spielzeugauto; Ferngesteuertes Auto
+2 Rauchmelder
+2 Elektroauto = E-Auto
+2 Laptop
+2 Taschenrechner
+3 Kopfhörer
+3 Computermaus = Maus
+3 Tastatur
+3 Gamecontroller = Controller
+3 Fahrradlicht = Fahrradlampe
+3 E-Bike = Pedelec
+3 E-Scooter
+3 Elektrische Zahnbürste = Zahnbürste
+3 Rasierer
+3 Waage = Personenwaage; Küchenwaage
+3 Thermometer = Fieberthermometer
+3 Hörgerät
+3 Herzschrittmacher
+3 Kamera = Digitalkamera
+3 Radio
+3 Lichterkette
+3 Tablet
+3 Bluetooth-Lautsprecher = Lautsprecher; Box
+3 Smartwatch
+3 Akkuschrauber
+3 Drohne
+3 Vibrator
+3 Autoschlüssel
+3 Türklingel = Klingel; Funkklingel
+4 Blutdruckmessgerät
+4 Blutzuckermessgerät
+4 Insulinpumpe
+4 Stirnlampe
+4 Laserpointer
+4 Gameboy = Nintendo Switch; Spielkonsole
+4 Tamagotchi
+4 Walkie-Talkie = Funkgerät
+4 Babyphone
+4 Elektrische Kerze = LED-Kerze
+4 Nachtlicht
+4 Bewegungsmelder
+4 Funkthermometer = Wetterstation
+4 Kohlenmonoxidmelder = CO-Melder
+4 Garagentoröffner
+4 Schlüsselfinder
+4 Navi = Navigationsgerät
+4 E-Reader = Kindle
+4 MP3-Player = iPod
+4 Diktiergerät
+4 Mikrofon
+4 Lupe = Leuchtlupe
+4 Milchaufschäumer
+4 Pfeffermühle = Elektrische Pfeffermühle
+4 Fusselrasierer
+4 Haarschneider
+4 Epiliergerät = Epilierer
+4 Akkustaubsauger = Staubsauger
+4 Saugroboter
+4 Rasenmähroboter = Mähroboter
+4 Akku-Rasenmäher
+4 Heckenschere
+4 Laubbläser
+4 Kettensäge
+4 Bohrmaschine
+4 Wasserwaage = Laser-Wasserwaage
+4 Messgerät = Multimeter
+4 Elektroroller
+4 Hoverboard
+4 Segway
+4 Elektrorollstuhl = Rollstuhl
+4 Golfcart
+4 Gabelstapler
+4 Hybridauto
+4 Motorrad = E-Motorrad
+4 Boot = Elektroboot
+4 Modellflugzeug
+4 Modellauto
+4 Modelleisenbahn
+4 Puppe
+4 Sprechende Puppe
+4 Furby
+4 Roboter = Spielzeugroboter
+4 Rennbahn = Carrera-Bahn
+4 Seifenblasenmaschine
+4 Wasserpistole
+4 Nerf-Blaster
+4 Schrittzähler = Fitnesstracker
+4 Pulsuhr
+4 Fahrradcomputer = Tacho
+4 Taschenventilator = Handventilator
+4 Feuerzeug = Stabfeuerzeug
+4 E-Zigarette
+4 Insektenvernichter = Mückenschläger
+4 Duftspender
+4 Seifenspender
+4 Zahnseide-Gerät = Munddusche
+4 Massagegerät
+4 Heizhandschuhe
+4 Beheizte Socken
+4 Hörspielbox = Toniebox
+4 Kinderkamera
+5 Satellit
+5 Raumsonde
+5 Mars-Rover
+5 USV = Unterbrechungsfreie Stromversorgung
+5 Notbeleuchtung
+5 Alarmanlage
+5 Defibrillator
+5 Digitales Türschloss = Smart Lock
+5 Heizkörperthermostat
+5 Smarthome-Sensor
+5 Glukosesensor
+5 Elektronischer Bilderrahmen
+5 Leuchtschild
+5 Kassenterminal = Kartenterminal
+5 Barcodescanner
