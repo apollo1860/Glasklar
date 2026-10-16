@@ -1,0 +1,70 @@
+@id tie-004
+@text Nenne ein Tier, das man als Haustier halten kann
+# Heim-, Hof- und Terrarientiere, die in Deutschland privat gehalten werden (keine Wildtiere ohne Haltungserlaubnis).
+
+1 Hund
+1 Katze
+2 Hamster
+2 Kaninchen
+2 Meerschweinchen
+2 Wellensittich
+2 Goldfisch
+2 Fisch
+2 Schildkröte
+3 Maus
+3 Ratte
+3 Hase
+3 Vogel
+3 Pferd
+3 Huhn
+3 Frettchen
+3 Chinchilla
+3 Kanarienvogel
+3 Papagei
+3 Schlange
+4 Pony
+4 Esel
+4 Ziege
+4 Schaf
+4 Ente
+4 Schwein = Minischwein; Hängebauchschwein
+4 Alpaka
+4 Lama
+4 Degu
+4 Rennmaus = Gerbil
+4 Igel = Weißbauchigel
+4 Nymphensittich
+4 Kakadu
+4 Ara
+4 Graupapagei
+4 Agapornide = Unzertrennliche
+4 Zebrafink
+4 Taube
+4 Echse
+4 Leguan
+4 Gecko
+4 Bartagame
+4 Chamäleon
+4 Axolotl
+4 Frosch
+4 Vogelspinne
+4 Stabheuschrecke
+4 Achatschnecke
+4 Guppy
+4 Koi
+4 Kampffisch
+5 Gans
+5 Kuh
+5 Farbmaus
+5 Skorpion
+5 Ameise
+5 Neonsalmler
+5 Garnele
+5 Krebs
+5 Einsiedlerkrebs
+5 Seepferdchen
+5 Kornnatter
+5 Königspython
+5 Wachtel
+5 Pfau
+5 Truthahn = Pute

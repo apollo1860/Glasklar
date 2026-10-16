@@ -74,9 +74,16 @@
       "id": "tiere",
       "name": "Tiere",
       "icon": "🐟",
-      "count": 1,
+      "count": 8,
       "questions": [
-        "tie-003"
+        "tie-003",
+        "tie-004",
+        "tie-005",
+        "tie-006",
+        "tie-007",
+        "tie-008",
+        "tie-009",
+        "tie-010"
       ]
     },
     {

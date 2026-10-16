@@ -1,0 +1,183 @@
+@id tie-010
+@text Nenne ein Tier, das fliegen kann
+# Vögel (ohne Laufvögel und Pinguine), Fledertiere, fliegende Insekten sowie Gleitflieger (Flughörnchen, Flugfisch)
+# und ausgestorbene Flugsaurier.
+
+1 Vogel
+1 Adler
+1 Taube
+1 Fledermaus
+2 Biene
+2 Fliege
+2 Schmetterling
+2 Möwe
+2 Spatz = Haussperling; Sperling
+2 Amsel
+2 Papagei
+2 Eule
+2 Falke
+2 Rabe = Kolkrabe
+3 Krähe
+3 Mücke = Stechmücke
+3 Libelle
+3 Marienkäfer
+3 Wespe
+3 Hummel
+3 Storch = Weißstorch
+3 Schwalbe
+3 Ente
+3 Gans
+3 Schwan
+3 Specht
+3 Meise
+3 Elster
+3 Kolibri
+3 Wellensittich
+3 Flamingo
+3 Pelikan
+3 Geier
+3 Uhu
+3 Bussard = Mäusebussard
+3 Kranich
+3 Reiher = Graureiher
+3 Rotkehlchen
+3 Kuckuck
+3 Kondor
+3 Weißkopfseeadler
+3 Tukan
+3 Ara
+3 Kakadu
+3 Albatros
+3 Eisvogel
+3 Motte
+3 Maikäfer
+3 Hornisse
+4 Steinadler
+4 Seeadler
+4 Fischadler
+4 Turmfalke
+4 Wanderfalke
+4 Habicht
+4 Sperber
+4 Rotmilan = Milan
+4 Gänsegeier
+4 Bartgeier
+4 Schleiereule
+4 Waldkauz
+4 Schneeeule
+4 Waldohreule
+4 Steinkauz
+4 Schwarzstorch
+4 Silberreiher
+4 Kormoran
+4 Höckerschwan
+4 Graugans
+4 Kanadagans
+4 Stockente
+4 Buntspecht
+4 Grünspecht
+4 Schwarzspecht
+4 Kohlmeise
+4 Blaumeise
+4 Buchfink = Fink
+4 Grünfink
+4 Stieglitz = Distelfink
+4 Gimpel = Dompfaff
+4 Zeisig
+4 Kanarienvogel
+4 Nymphensittich
+4 Graupapagei
+4 Agapornide = Unzertrennliche
+4 Mauersegler
+4 Rauchschwalbe
+4 Mehlschwalbe
+4 Feldlerche = Lerche
+4 Nachtigall
+4 Star
+4 Drossel = Singdrossel
+4 Zaunkönig
+4 Wiedehopf
+4 Bienenfresser
+4 Pirol
+4 Kiebitz
+4 Austernfischer
+4 Schnepfe
+4 Basstölpel
+4 Papageitaucher
+4 Seeschwalbe
+4 Haubentaucher
+4 Blässhuhn
+4 Bachstelze
+4 Hausrotschwanz = Rotschwanz
+4 Kleiber
+4 Dohle
+4 Eichelhäher
+4 Fasan
+4 Huhn
+4 Pfau
+4 Ibis
+4 Paradiesvogel
+4 Beo
+4 Flughund
+4 Vampirfledermaus
+4 Fliegender Fisch = Flugfisch
+4 Flugsaurier = Pterodaktylus
+4 Bremse
+4 Hirschkäfer
+4 Gottesanbeterin
+4 Zikade
+4 Florfliege
+4 Eintagsfliege
+4 Schwebfliege
+4 Tsetsefliege
+4 Glühwürmchen
+4 Nachtfalter
+5 Truthahn
+5 Rebhuhn
+5 Wachtel
+5 Teichhuhn
+5 Wasseramsel
+5 Grasmücke
+5 Zilpzalp
+5 Goldhähnchen
+5 Baumläufer
+5 Neuntöter
+5 Saatkrähe
+5 Nebelkrähe
+5 Wespenbussard
+5 Rohrweihe
+5 Merlin
+5 Ziegenmelker
+5 Wendehals
+5 Kernbeißer
+5 Girlitz
+5 Hänfling
+5 Goldammer = Ammer
+5 Wachtelkönig
+5 Rohrdommel
+5 Löffler
+5 Marabu
+5 Sekretär
+5 Harpyie
+5 Webervogel
+5 Zebrafink
+5 Rosella
+5 Lori
+5 Brachvogel
+5 Abendsegler
+5 Zwergfledermaus
+5 Flughörnchen
+5 Flugdrache
+5 Köcherfliege
+5 Taubenschwänzchen
+5 Zitronenfalter
+5 Kohlweißling
+5 Admiral
+5 Tagpfauenauge
+5 Monarchfalter
+5 Schwalbenschwanz
+5 Junikäfer
+5 Rosenkäfer
+5 Fruchtfliege
+5 Schnake
+5 Stubenfliege

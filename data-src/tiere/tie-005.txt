@@ -1,0 +1,228 @@
+@id tie-005
+@text Nenne ein Tier, das im Wasser lebt
+# Alle Tiere, die dauerhaft oder überwiegend im Wasser leben (Meer und Süßwasser): Fische (Liste aus "Nenne einen Fisch"),
+# Meeressäuger, Wirbellose, Amphibien und wasserlebende Reptilien. Gelegentliche Schwimmer (Elefant, Hund) zählen nicht.
+
+1 Fisch
+1 Wal
+1 Delfin = Delphin
+2 Qualle
+2 Krake = Oktopus
+2 Tintenfisch
+2 Seestern
+2 Krebs
+2 Robbe
+3 Hummer
+3 Garnele = Shrimp
+3 Krabbe
+3 Muschel
+3 Seeigel
+3 Seehund
+3 Seelöwe
+3 Walross
+3 Otter = Fischotter
+3 Pinguin
+3 Schildkröte = Meeresschildkröte
+3 Krokodil
+3 Frosch
+3 Nilpferd = Flusspferd
+3 Orca = Schwertwal; Killerwal
+3 Blauwal
+3 Koralle
+4 Seeotter
+4 Biber
+4 Alligator
+4 Kaulquappe
+4 Molch
+4 Axolotl
+4 Seekuh
+4 Dugong
+4 Narwal
+4 Pottwal
+4 Buckelwal
+4 Beluga = Weißwal
+4 Schweinswal
+4 Schwamm
+4 Seeanemone
+4 Seegurke
+4 Kalmar
+4 Languste
+4 Flusskrebs
+4 Krill
+4 Seeschlange
+4 Ente
+4 Schwan
+4 Blutegel
+4 Auster
+4 Miesmuschel
+5 Sepia
+5 Nautilus
+5 Wasserschnecke
+5 Wasserfloh
+5 Meerechse
+5 Kormoran
+5 Wasserläufer
+5 Gelbrandkäfer
+5 Wasserspinne
+5 Seepocke
+5 Jakobsmuschel
+5 Anakonda
+5 Bisamratte
+5 Nutria
+5 Pfeilschwanzkrebs
+5 Seeelefant
+5 Seeleopard
+5 Mondqualle
+5 Portugiesische Galeere
+5 Feuerqualle
+5 Seescheide
+2 Lachs
+3 Forelle
+3 Thunfisch = Thun; Tunfisch
+1 Hai
+3 Goldfisch
+3 Karpfen
+3 Hering
+3 Hecht
+4 Kabeljau = Dorsch; Skrei
+4 Barsch = Flussbarsch
+4 Clownfisch = Anemonenfisch
+4 Aal
+4 Zander
+4 Seelachs = Köhler
+4 Sardine
+4 Makrele
+4 Scholle
+4 Wels = Waller
+4 Piranha
+4 Schwertfisch
+4 Rochen
+4 Kugelfisch
+4 Stör
+4 Seepferdchen
+4 Weißer Hai
+4 Tilapia
+4 Pangasius
+4 Dorade = Goldbrasse
+4 Guppy
+5 Hammerhai
+5 Walhai
+5 Tigerhai
+5 Blauhai
+5 Makohai
+5 Bullenhai
+5 Riesenhai
+5 Katzenhai
+5 Dornhai
+5 Grönlandhai
+5 Zitronenhai
+5 Mantarochen = Manta
+5 Stachelrochen
+5 Zitterrochen
+5 Sägefisch
+5 Wolfsbarsch = Seebarsch; Loup de Mer
+5 Rotbarsch
+5 Heilbutt
+5 Steinbutt
+5 Seezunge
+5 Flunder
+5 Schellfisch
+5 Seehecht
+5 Sprotte = Sprott
+5 Sardelle = Anchovis; Anschovis
+5 Saibling
+5 Regenbogenforelle
+5 Bachforelle
+5 Schleie
+5 Brasse = Brachse; Blei
+5 Rotauge = Plötze
+5 Barbe
+5 Äsche
+5 Renke = Felchen; Maräne
+5 Koi
+5 Neonsalmler = Neonfisch
+5 Skalar
+5 Diskus = Diskusfisch
+5 Kampffisch = Betta
+5 Molly
+5 Platy
+5 Schwertträger
+5 Antennenwels
+5 Barrakuda
+5 Marlin
+5 Mondfisch
+5 Seeteufel = Anglerfisch
+5 Muräne
+5 Rotfeuerfisch = Feuerfisch
+5 Doktorfisch
+5 Papageifisch
+5 Kaiserfisch
+5 Fliegender Fisch
+5 Stint
+5 Mahi-Mahi = Goldmakrele; Dorado
+5 Red Snapper = Snapper
+5 Zackenbarsch
+5 Petersfisch = Heringskönig
+5 Buntbarsch
+5 Quastenflosser
+5 Kofferfisch
+5 Igelfisch
+5 Steinfisch
+5 Stichling
+5 Hornhecht
+5 Huchen = Donaulachs
+5 Quappe = Rutte; Aalquappe
+5 Karausche
+5 Döbel = Aitel
+5 Nase
+5 Rotfeder
+5 Ukelei = Laube
+5 Gründling
+5 Elritze
+5 Kaulbarsch
+5 Moderlieschen
+5 Bitterling
+5 Groppe = Mühlkoppe
+5 Schlammpeitzger
+5 Sterlet
+5 Hausen = Beluga-Stör
+5 Löffelstör
+5 Pollack
+5 Wittling = Merlan
+5 Lengfisch = Leng
+5 Knurrhahn
+5 Rotbarbe = Meerbarbe
+5 Seewolf = Katfisch
+5 Lumpfisch = Seehase
+5 Meeraal = Conger
+5 Lodde = Kapelan
+5 Bonito
+5 Segelfisch
+5 Drückerfisch
+5 Falterfisch
+5 Lungenfisch
+5 Laternenfisch
+5 Beilfisch
+5 Panzerwels
+5 Zebrabärbling
+5 Sumatrabarbe
+5 Fadenfisch
+5 Arowana
+5 Schützenfisch
+5 Schlammspringer
+5 Schwarzspitzen-Riffhai = Schwarzspitzenhai
+5 Adlerrochen
+5 Engelhai
+5 Wobbegong
+5 Ammenhai
+5 Kardinalbarsch
+5 Leierfisch
+5 Grundel
+5 Petermännchen
+5 Seenadel
+5 Großer Fetzenfisch = Fetzenfisch
+5 Schlangenkopffisch
+5 Zwergbuntbarsch
+5 Messerfisch
+5 Elefantenrüsselfisch
+5 Hundsfisch

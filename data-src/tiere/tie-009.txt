@@ -1,0 +1,120 @@
+@id tie-009
+@text Nenne ein Tier, das in Europa wild lebt
+# Wildlebende Tiere in Europa (inkl. eingebürgerter Arten wie Waschbär, Marderhund, Nutria und europäischer Meere).
+
+1 Fuchs = Rotfuchs
+1 Reh
+1 Wildschwein
+1 Hirsch = Rothirsch
+2 Wolf
+2 Bär = Braunbär
+2 Hase = Feldhase
+2 Eichhörnchen
+2 Igel
+3 Dachs
+3 Luchs
+3 Elch
+3 Wisent
+3 Gämse
+3 Steinbock
+3 Murmeltier
+3 Biber
+3 Fischotter = Otter
+3 Marder
+3 Wiesel
+3 Waschbär
+3 Wildkatze
+3 Damhirsch
+3 Rentier
+3 Seehund
+3 Adler
+3 Storch
+3 Ente
+3 Amsel
+3 Spatz
+3 Meise
+3 Eule
+3 Eidechse
+3 Frosch
+3 Kröte
+3 Maus
+3 Ratte
+3 Maulwurf
+3 Fledermaus
+3 Kaninchen = Wildkaninchen
+4 Iltis
+4 Hermelin
+4 Marderhund
+4 Goldschakal = Schakal
+4 Mufflon
+4 Vielfraß
+4 Eisbär
+4 Polarfuchs
+4 Kegelrobbe
+4 Delfin
+4 Schweinswal
+4 Uhu
+4 Habicht
+4 Falke
+4 Bussard
+4 Rotmilan
+4 Kranich
+4 Graureiher = Reiher
+4 Schwan
+4 Gans
+4 Möwe
+4 Specht
+4 Kuckuck
+4 Rabe
+4 Krähe
+4 Elster
+4 Taube
+4 Rotkehlchen
+4 Fasan
+4 Auerhahn
+4 Gänsegeier = Geier
+4 Flamingo
+4 Eisvogel
+4 Papageitaucher
+4 Seeadler
+4 Kreuzotter
+4 Ringelnatter
+4 Blindschleiche
+4 Feuersalamander
+4 Molch
+4 Siebenschläfer
+4 Feldhamster = Hamster
+4 Spitzmaus
+4 Wühlmaus
+4 Lemming
+4 Schneehase
+4 Wildpferd = Przewalski-Pferd
+4 Berberaffe
+4 Hirschkäfer
+4 Lachs
+4 Forelle
+4 Hecht
+4 Aal
+5 Orca
+5 Rebhuhn
+5 Birkhuhn
+5 Bartgeier
+5 Wiedehopf
+5 Bienenfresser
+5 Sumpfschildkröte
+5 Bisamratte
+5 Nutria
+5 Stachelschwein
+5 Ginsterkatze
+5 Ichneumon
+5 Steinadler
+5 Wanderfalke
+5 Schwarzstorch
+5 Alpendohle
+5 Alpensalamander
+5 Gelbbauchunke
+5 Smaragdeidechse
+5 Äskulapnatter
+5 Europäischer Nerz = Nerz
+5 Baummarder
+5 Mink

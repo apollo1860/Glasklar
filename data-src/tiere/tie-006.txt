@@ -1,0 +1,94 @@
+@id tie-006
+@text Nenne ein Reptil
+# Krokodile, Schildkröten, Echsen, Schlangen, Brückenechse sowie ausgestorbene Reptilien (Dinosaurier, Flug- und Meeressaurier).
+# Amphibien (Frosch, Molch, Salamander) sind keine Reptilien.
+
+1 Krokodil
+1 Schlange
+1 Schildkröte
+2 Eidechse
+2 Alligator
+2 Chamäleon
+2 Leguan
+2 Gecko
+3 Komodowaran
+3 Waran
+3 Python
+3 Kobra
+3 Anakonda
+3 Klapperschlange
+3 Boa = Boa constrictor; Abgottschlange
+3 Blindschleiche
+3 Bartagame
+3 Kaiman
+3 Dinosaurier
+3 Riesenschildkröte = Galápagos-Riesenschildkröte
+3 Meeresschildkröte
+3 Kreuzotter
+3 Ringelnatter
+3 Viper
+3 Schwarze Mamba = Mamba
+4 Gavial
+4 Leistenkrokodil
+4 Nilkrokodil
+4 Landschildkröte
+4 Wasserschildkröte
+4 Lederschildkröte
+4 Suppenschildkröte
+4 Schnappschildkröte
+4 Königskobra
+4 Taipan
+4 Korallenotter
+4 Kornnatter
+4 Königspython
+4 Netzpython
+4 Seeschlange
+4 Grüne Mamba
+4 Zauneidechse
+4 Smaragdeidechse
+4 Mauereidechse
+4 Skink
+4 Gila-Krustenechse = Krustenechse
+4 Basilisk
+4 Dornteufel
+4 Kragenechse
+4 Meerechse
+4 Anolis
+4 Leopardgecko
+4 Brückenechse = Tuatara
+4 Flugsaurier = Pterosaurier
+4 Tyrannosaurus rex = T-Rex; Tyrannosaurus
+4 Sumpfschildkröte
+5 Rotwangen-Schmuckschildkröte
+5 Griechische Landschildkröte
+5 Tigerpython
+5 Strumpfbandnatter
+5 Würfelnatter
+5 Äskulapnatter
+5 Schlingnatter
+5 Sandotter
+5 Hornviper
+5 Puffotter
+5 Lanzenotter
+5 Buschmeister
+5 Gabunviper
+5 Wassermokassinotter
+5 Kupferkopf
+5 Bergeidechse
+5 Teju
+5 Flugdrache
+5 Wüstenleguan
+5 Tokeh
+5 Taggecko
+5 Pantherchamäleon
+5 Jemenchamäleon
+5 Doppelschleiche
+5 Wurmschlange
+5 Ichthyosaurier
+5 Plesiosaurier
+5 Mosasaurier
+5 Triceratops
+5 Stegosaurus
+5 Brachiosaurus
+5 Velociraptor
+5 Glattechse

@@ -1,0 +1,126 @@
+@id tie-008
+@text Nenne ein Insekt
+# Insekten (sechs Beine) inkl. Larvenformen mit eigenem Namen. Spinnen, Zecken, Milben, Tausendfüßer und Asseln sind keine Insekten.
+
+1 Biene = Honigbiene
+1 Ameise
+1 Fliege
+1 Mücke = Stechmücke; Gelse
+1 Schmetterling = Falter
+2 Käfer
+2 Marienkäfer
+2 Wespe
+2 Hummel
+2 Libelle
+2 Heuschrecke = Grashüpfer
+3 Grille
+3 Maikäfer
+3 Hornisse
+3 Motte
+3 Kakerlake = Schabe
+3 Floh
+3 Laus = Kopflaus
+3 Glühwürmchen = Leuchtkäfer
+3 Gottesanbeterin
+3 Termite
+3 Hirschkäfer
+3 Mistkäfer
+3 Wanze
+3 Zikade
+3 Ohrwurm
+3 Silberfischchen
+3 Stabheuschrecke
+3 Blattlaus
+3 Raupe
+4 Borkenkäfer
+4 Kartoffelkäfer
+4 Junikäfer
+4 Rosenkäfer
+4 Bettwanze
+4 Stinkwanze
+4 Bremse
+4 Stubenfliege
+4 Fruchtfliege = Obstfliege; Drosophila
+4 Tsetsefliege
+4 Schwebfliege
+4 Eintagsfliege
+4 Florfliege
+4 Wandelndes Blatt
+4 Wasserläufer
+4 Kohlweißling
+4 Zitronenfalter
+4 Admiral
+4 Tagpfauenauge = Pfauenauge
+4 Schwalbenschwanz
+4 Monarchfalter
+4 Taubenschwänzchen
+4 Nachtfalter
+4 Kleidermotte
+4 Lebensmittelmotte
+4 Seidenspinner = Seidenraupe
+4 Heimchen
+4 Maulwurfsgrille
+4 Wanderheuschrecke
+4 Bockkäfer
+4 Goliathkäfer
+4 Herkuleskäfer
+4 Nashornkäfer
+4 Rüsselkäfer
+4 Mehlkäfer = Mehlwurm
+4 Holzwurm
+4 Wildbiene
+4 Feuerameise
+4 Rote Waldameise = Waldameise
+4 Blattschneiderameise
+4 Schnake
+4 Malariamücke = Anopheles
+4 Tigermücke
+4 Ameisenlöwe
+4 Feuerwanze
+4 Made
+5 Köcherfliege
+5 Steinfliege
+5 Gelbrandkäfer
+5 Schwimmkäfer
+5 Kleiner Fuchs
+5 Schildlaus
+5 Wollaus
+5 Weiße Fliege
+5 Thripse = Gewittertierchen
+5 Feldgrille
+5 Ölkäfer
+5 Prachtkäfer
+5 Laufkäfer
+5 Weichkäfer
+5 Speckkäfer
+5 Totenkopfschwärmer
+5 Apollofalter
+5 Bläuling
+5 Distelfalter
+5 Erdhummel
+5 Holzbiene
+5 Mauerbiene
+5 Sandwespe
+5 Schlupfwespe
+5 Gallwespe
+5 Riesenholzwespe
+5 Wanderameise
+5 Pharaoameise
+5 Kriebelmücke
+5 Gnitze
+5 Trauermücke
+5 Dasselfliege
+5 Raubfliege
+5 Skorpionsfliege
+5 Kamelhalsfliege
+5 Prachtlibelle
+5 Zuckmücke
+5 Filzlaus
+5 Katzenfloh
+5 Bücherlaus
+5 Riesenwanze
+5 Wasserwanze
+5 Rückenschwimmer
+5 Schaumzikade
+5 Buckelzikade
+5 Engerling

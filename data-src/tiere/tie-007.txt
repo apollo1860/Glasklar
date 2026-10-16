@@ -1,0 +1,61 @@
+@id tie-007
+@text Nenne ein Tier, das in der Wüste lebt
+@typ geschlossen
+# Tiere, die in Wüsten oder Halbwüsten heimisch sind (Sahara, Namib, Kalahari, Arabien, nordamerikanische und australische Wüsten).
+
+1 Kamel
+1 Skorpion
+2 Dromedar
+2 Schlange
+2 Klapperschlange
+2 Wüstenfuchs = Fennek
+2 Erdmännchen
+3 Echse = Eidechse
+3 Geier
+3 Kojote
+3 Oryx = Oryxantilope; Gemsbock
+3 Gazelle
+3 Wüstenspringmaus = Springmaus
+3 Dornteufel
+3 Strauß
+3 Känguru
+3 Antilope
+4 Rennmaus
+4 Gila-Krustenechse
+4 Wüstenschildkröte
+4 Hornviper
+4 Seitenwinder = Seitenwinder-Klapperschlange
+4 Rennkuckuck = Roadrunner
+4 Emu
+4 Dingo
+4 Vogelspinne = Tarantel
+4 Walzenspinne = Kamelspinne
+4 Wüstenheuschrecke = Heuschrecke
+4 Mistkäfer = Skarabäus
+4 Karakal = Wüstenluchs
+4 Sandkatze
+4 Hyäne
+4 Schakal
+4 Bartagame
+4 Eselhase = Jackrabbit
+4 Wildesel
+4 Springbock
+4 Wüstenrennmaus
+4 Addax = Mendesantilope
+5 Nebeltrinker-Käfer
+5 Wüstenwaran
+5 Namaqua-Chamäleon
+5 Wüstenigel
+5 Wüstenrabe
+5 Lannerfalke
+5 Sandflughuhn
+5 Wüstenelefant
+5 Wüstenlöwe
+5 Wüstendickhornschaf = Dickhornschaf
+5 Puma
+5 Tausendfüßer
+5 Wüstenameise
+5 Kragenechse
+5 Apothekerskink
+5 Schaufelfußkröte
+5 Wüstengoldmaulwurf
