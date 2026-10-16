@@ -1,0 +1,69 @@
+@id fil-003
+@text Nenne eine Figur aus „Family Guy“
+# Haupt-, Neben- und wiederkehrende Figuren.
+
+1 Peter Griffin = Peter
+1 Stewie Griffin = Stewie
+2 Brian Griffin = Brian
+2 Lois Griffin = Lois
+2 Meg Griffin = Meg
+2 Chris Griffin = Chris
+2 Glenn Quagmire = Quagmire
+2 Cleveland Brown = Cleveland
+3 Joe Swanson = Joe
+3 Herbert
+3 Mort Goldman = Mort
+3 Bonnie Swanson = Bonnie
+3 Carter Pewterschmidt = Carter
+3 Bürgermeister Adam West = Adam West
+3 Das Riesenhuhn = Ernie das Riesenhuhn; Ernie
+3 Der böse Affe = Evil Monkey
+3 Tom Tucker
+4 Barbara Pewterschmidt = Babs
+4 Tricia Takanawa
+4 Ollie Williams
+4 Neil Goldman = Neil
+4 Muriel Goldman
+4 Consuela
+4 Seamus
+4 Bruce
+4 Jillian
+4 Der Tod = Death
+4 Rupert
+4 Vinny
+4 Jerome
+4 Donna Tubbs
+4 Loretta Brown
+4 Cleveland Junior = Cleveland Brown Jr.
+4 Rallo Tubbs = Rallo
+4 Francis Griffin
+4 Thelma Griffin
+4 Mickey McFinnigan
+4 Kevin Swanson
+4 Susie Swanson
+4 Dr. Hartman = Elmer Hartman
+4 Opie
+4 Horace
+4 Angela
+4 Connie D’Amico = Connie
+4 James Woods
+4 Bertram
+4 Diane Simmons
+4 Joyce Kinney
+4 Jake Tucker
+4 Ida Quagmire = Ida
+5 Patrick Pewterschmidt
+5 Carol Pewterschmidt
+5 Rektor Shepherd
+5 Jasper
+5 Greased-Up Deaf Guy = Eingeölter tauber Typ
+5 Buzz Killington
+5 Gott
+5 Jesus
+5 Olivia Fuller
+5 Al Harrington
+5 Dylan Flannigan
+5 Brenda Quagmire
+5 Fouad
+5 Doug
+5 Chip

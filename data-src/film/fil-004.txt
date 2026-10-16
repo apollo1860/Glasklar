@@ -1,0 +1,145 @@
+@id fil-004
+@text Nenne eine Figur aus „Harry Potter“
+# Figuren aus Büchern und Filmen (inkl. "Das verwunschene Kind"), deutsche Namen; englische Namen als Alias.
+
+1 Harry Potter = Harry
+1 Hermine Granger = Hermine; Hermione Granger
+1 Ron Weasley = Ron
+2 Albus Dumbledore = Dumbledore
+2 Severus Snape = Snape
+2 Lord Voldemort = Voldemort; Tom Riddle; Tom Vorlost Riddle; Du-weißt-schon-wer
+2 Rubeus Hagrid = Hagrid
+2 Draco Malfoy = Draco
+2 Dobby
+3 Ginny Weasley = Ginny
+3 Fred Weasley = Fred
+3 George Weasley = George
+3 Neville Longbottom = Neville
+3 Luna Lovegood = Luna
+3 Sirius Black = Sirius
+3 Remus Lupin = Lupin
+3 Minerva McGonagall = McGonagall; Professor McGonagall
+3 Bellatrix Lestrange = Bellatrix
+3 Lucius Malfoy = Lucius
+3 Dolores Umbridge = Umbridge
+3 Hedwig
+3 Peter Pettigrew = Wurmschwanz; Krätze
+3 Cedric Diggory = Cedric
+3 Molly Weasley
+3 Arthur Weasley
+3 Dudley Dursley = Dudley
+3 Gilderoy Lockhart = Lockhart
+3 Alastor Moody = Mad-Eye Moody; Moody
+3 Nymphadora Tonks = Tonks
+3 Cho Chang = Cho
+3 James Potter
+3 Lily Potter
+3 Vernon Dursley
+3 Petunia Dursley
+3 Argus Filch = Filch
+3 Maulende Myrte = Myrte; Moaning Myrtle
+4 Percy Weasley = Percy
+4 Bill Weasley
+4 Charlie Weasley
+4 Narzissa Malfoy
+4 Horace Slughorn = Slughorn
+4 Kingsley Shacklebolt = Kingsley
+4 Mrs. Norris
+4 Kreacher
+4 Winky
+4 Fawkes
+4 Seidenschnabel = Buckbeak
+4 Krummbein = Crookshanks
+4 Fang
+4 Aragog
+4 Fluffy
+4 Nagini
+4 Norbert
+4 Sybill Trelawney = Trelawney
+4 Filius Flitwick = Flitwick
+4 Pomona Sprout = Sprout
+4 Madam Pomfrey = Poppy Pomfrey
+4 Madam Hooch = Rolanda Hooch
+4 Quirinus Quirrell = Quirrell
+4 Cornelius Fudge = Fudge
+4 Barty Crouch junior = Bartemius Crouch junior
+4 Barty Crouch senior = Bartemius Crouch senior
+4 Viktor Krum = Krum
+4 Fleur Delacour = Fleur
+4 Gellert Grindelwald = Grindelwald
+4 Aberforth Dumbledore = Aberforth
+4 Griphook
+4 Ollivander = Garrick Ollivander
+4 Peeves
+4 Fast Kopfloser Nick = Nick; Nearly Headless Nick
+4 Seamus Finnigan = Seamus
+4 Dean Thomas
+4 Lavender Brown
+4 Oliver Wood
+4 Vincent Crabbe = Crabbe
+4 Gregory Goyle = Goyle
+4 Rita Kimmkorn = Rita Skeeter
+4 Fenrir Greyback
+4 Grawp
+4 Firenze
+4 Madame Maxime = Olympe Maxime
+4 Igor Karkaroff = Karkaroff
+4 Godric Gryffindor
+4 Salazar Slytherin
+4 Helga Hufflepuff
+4 Rowena Ravenclaw
+4 Nicolas Flamel
+4 Mundungus Fletcher = Dung
+4 Albus Severus Potter
+4 Scorpius Malfoy
+4 Teddy Lupin
+5 Ariana Dumbledore
+5 Rufus Scrimgeour
+5 Die Graue Dame = Helena Ravenclaw
+5 Der Blutige Baron
+5 Der Fette Mönch
+5 Parvati Patil
+5 Padma Patil
+5 Lee Jordan
+5 Katie Bell
+5 Angelina Johnson
+5 Pansy Parkinson
+5 Blaise Zabini
+5 Antonin Dolohow
+5 Xenophilius Lovegood
+5 Rose Weasley
+5 Marcus Flint
+5 Colin Creevey
+5 Dennis Creevey
+5 Ernie Macmillan
+5 Hannah Abbott
+5 Susan Bones
+5 Justin Finch-Fletchley
+5 Zacharias Smith
+5 Romilda Vane
+5 Cormac McLaggen
+5 Ludo Bagman
+5 Amos Diggory
+5 Arabella Figg
+5 Gabrielle Delacour
+5 Regulus Black
+5 Walburga Black
+5 Andromeda Tonks
+5 Ted Tonks
+5 Bathilda Bagshot
+5 Stan Shunpike = Stan
+5 Ernie Prang
+5 Pius Thicknesse
+5 Yaxley
+5 Alecto Carrow
+5 Amycus Carrow
+5 Augusta Longbottom
+5 Frank Longbottom
+5 Alice Longbottom
+5 Bane
+5 Hokey
+5 Kendra Dumbledore
+5 Delphini
+5 Marvolo Gaunt
+5 Merope Gaunt
+5 Morfin Gaunt

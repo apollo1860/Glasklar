@@ -1,0 +1,104 @@
+@id fil-005
+@text Nenne eine Figur aus „Der Herr der Ringe“
+# Figuren aus "Der Herr der Ringe" und "Der Hobbit" (Bücher und Filme), deutsche Namen; englische Namen als Alias.
+
+1 Frodo Beutlin = Frodo; Frodo Baggins
+1 Gandalf = Gandalf der Graue; Gandalf der Weiße; Mithrandir
+1 Gollum = Sméagol
+2 Samweis Gamdschie = Sam; Samweis; Samwise
+2 Aragorn = Streicher; Elessar
+2 Legolas
+2 Gimli
+2 Bilbo Beutlin = Bilbo; Bilbo Baggins
+2 Sauron
+3 Boromir
+3 Faramir
+3 Meriadoc Brandybock = Merry
+3 Peregrin Tuk = Pippin
+3 Saruman
+3 Galadriel
+3 Elrond
+3 Arwen
+3 Éowyn
+3 Théoden
+3 Éomer
+3 Smaug
+3 Thorin Eichenschild = Thorin
+3 Der Hexenkönig von Angmar = Hexenkönig
+3 Baumbart = Treebeard
+3 Gríma Schlangenzunge = Schlangenzunge; Gríma
+3 Denethor
+3 Balrog = Durins Fluch
+3 Kankra = Shelob
+4 Nazgûl = Ringgeister; Schwarze Reiter
+4 Tom Bombadil
+4 Goldbeere
+4 Celeborn
+4 Haldir
+4 Glorfindel
+4 Bard = Bard der Bogenschütze
+4 Thranduil
+4 Radagast
+4 Beorn
+4 Azog
+4 Bolg
+4 Fili
+4 Kili
+4 Balin
+4 Dwalin
+4 Bofur
+4 Bombur
+4 Bifur
+4 Dori
+4 Nori
+4 Ori
+4 Óin
+4 Glóin
+4 Tauriel
+4 Gwaihir
+4 Schattenfell = Shadowfax
+4 Gerstenmann Butterblume = Butterblume
+4 Rosie Kattun = Rosie
+4 Lobelia Sackheim-Beutlin = Lobelia
+4 Isildur
+4 Elendil
+4 Lurtz
+4 Der Mund Saurons
+4 Gothmog
+4 Morgoth = Melkor
+4 Ugluk
+4 Grischnákh
+4 Gorbag
+4 Schagrat
+4 Alfrid
+4 Ohm Gamdschie = Hamfast Gamdschie
+4 Bauer Maggot
+4 Fredegar Bolger = Dick Bolger
+5 Gil-galad
+5 Círdan
+5 Celebrimbor
+5 Beren
+5 Lúthien
+5 Túrin
+5 Fëanor
+5 Eärendil
+5 Thingol
+5 Melian
+5 Imrahil
+5 Beregond
+5 Bergil
+5 Háma
+5 Gamling
+5 Erkenbrand
+5 Ioreth
+5 Déagol
+5 Elladan
+5 Elrohir
+5 Halbarad
+5 Lutz Farning
+5 Der Alte Weidenmann
+5 Thrór
+5 Thráin
+5 Dáin Eisenfuß = Dáin
+5 Der Bürgermeister von Seestadt
+5 Bill das Pony

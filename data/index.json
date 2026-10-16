@@ -79,6 +79,24 @@
       ]
     },
     {
+      "id": "film",
+      "name": "Film & Serien",
+      "icon": "🎬",
+      "count": 10,
+      "questions": [
+        "fil-001",
+        "fil-002",
+        "fil-003",
+        "fil-004",
+        "fil-005",
+        "fil-006",
+        "fil-007",
+        "fil-008",
+        "fil-009",
+        "fil-010"
+      ]
+    },
+    {
       "id": "musik",
       "name": "Musik",
       "icon": "🎸",

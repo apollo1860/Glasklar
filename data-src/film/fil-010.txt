@@ -1,0 +1,84 @@
+@id fil-010
+@text Nenne einen aktiven deutschen Fernsehsender
+# Frei empfangbare, öffentlich-rechtliche, Pay-TV- und Regionalsender mit Sendebetrieb in Deutschland (Stand 2026).
+# Eingestellte Sender (Bild TV, Tele 5 linear, N24 als Name) fehlen bzw. stehen als Alias beim Nachfolger.
+
+1 Das Erste = ARD; Erstes Deutsches Fernsehen
+1 ZDF
+1 RTL
+1 ProSieben = Pro7
+2 Sat.1 = Sat eins
+2 VOX
+2 Kabel eins = Kabel 1
+2 RTLZWEI = RTL 2; RTL II
+3 arte
+3 3sat
+3 KiKA = Kinderkanal
+3 Phoenix
+3 n-tv
+3 WELT = Welt TV; N24
+3 Super RTL
+3 Nickelodeon = Nick
+3 Disney Channel
+3 DMAX
+3 Sport1
+3 Sixx
+3 ZDFneo
+3 BR Fernsehen = BR; Bayerisches Fernsehen
+3 WDR Fernsehen = WDR
+3 NDR Fernsehen = NDR
+3 MDR Fernsehen = MDR
+3 SWR Fernsehen = SWR
+3 MTV
+3 Comedy Central
+3 Eurosport = Eurosport 1
+4 hr-fernsehen = HR; Hessischer Rundfunk
+4 rbb Fernsehen = rbb
+4 TLC
+4 Nitro = RTL Nitro
+4 RTLup = RTLplus
+4 ProSieben Maxx
+4 Sat.1 Gold
+4 Kabel eins Doku
+4 QVC
+4 HSE = HSE24
+4 ZDFinfo
+4 tagesschau24
+4 ONE
+4 ARD alpha
+4 ServusTV
+4 Sky One
+4 Sky Atlantic
+4 Sky Sport
+4 Sky Cinema
+4 National Geographic = Nat Geo
+4 Discovery Channel = Discovery
+4 Cartoon Network
+4 Deutsche Welle = DW
+4 Toggo plus
+5 Radio Bremen TV
+5 SR Fernsehen = SR
+5 Deluxe Music
+5 Bibel TV
+5 1-2-3.tv
+5 sonnenklar.TV
+5 Anixe
+5 TNT Serie
+5 Romance TV
+5 Heimatkanal
+5 History = History Channel
+5 Welt der Wunder TV
+5 München TV
+5 Hamburg 1
+5 TV Berlin
+5 Disney Junior
+5 Boomerang
+5 Nick Jr.
+5 Sky Krimi
+5 Universal TV
+5 Crime + Investigation
+5 Kabel eins Classics
+5 RTL Crime
+5 RTL Passion
+5 Spiegel TV Wissen
+5 Juwelo

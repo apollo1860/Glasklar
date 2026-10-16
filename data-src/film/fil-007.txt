@@ -1,0 +1,176 @@
+@id fil-007
+@text Nenne eine Figur aus dem Marvel-Universum
+# Helden, Schurken und Nebenfiguren aus Marvel-Comics, MCU, X-Men- und Spider-Man-Filmen.
+
+1 Iron Man = Tony Stark
+1 Spider-Man = Peter Parker
+1 Captain America = Steve Rogers
+2 Thor
+2 Hulk = Bruce Banner
+2 Thanos
+2 Black Widow = Natasha Romanoff
+2 Loki
+2 Deadpool = Wade Wilson
+2 Wolverine = Logan
+3 Hawkeye = Clint Barton
+3 Doctor Strange = Dr. Strange; Stephen Strange
+3 Black Panther = T’Challa
+3 Captain Marvel = Carol Danvers
+3 Ant-Man = Scott Lang
+3 Scarlet Witch = Wanda Maximoff; Wanda
+3 Vision
+3 Groot
+3 Rocket = Rocket Raccoon
+3 Star-Lord = Peter Quill
+3 Gamora
+3 Drax
+3 Nick Fury
+3 Venom = Eddie Brock
+3 Green Goblin = Norman Osborn
+3 Doctor Octopus = Doc Ock; Otto Octavius
+3 Professor X = Charles Xavier
+3 Magneto
+3 Falcon = Sam Wilson
+3 Winter Soldier = Bucky Barnes; Bucky
+3 Daredevil = Matt Murdock
+3 Silver Surfer
+3 Ultron
+3 Storm = Sturm
+3 Jean Grey = Phoenix
+3 Mystique = Raven Darkhölme
+4 The Wasp = Wasp; Hope van Dyne
+4 War Machine = James Rhodes; Rhodey
+4 Mantis
+4 Nebula
+4 Yondu
+4 Maria Hill
+4 Phil Coulson = Coulson
+4 Pepper Potts
+4 Happy Hogan
+4 J.A.R.V.I.S.
+4 Red Skull = Roter Schädel
+4 Hela
+4 Odin
+4 Frigga
+4 Heimdall
+4 Valkyrie = Walküre
+4 Korg
+4 Killmonger = Erik Killmonger
+4 Shuri
+4 Okoye
+4 M’Baku
+4 Wong
+4 Die Älteste = The Ancient One
+4 Dormammu
+4 Karl Mordo = Mordo
+4 Ego
+4 Ronan
+4 Kang der Eroberer = Kang
+4 Mysterio
+4 Carnage
+4 Vulture = Adrian Toomes; Geier
+4 Sandman
+4 Electro
+4 Kraven
+4 Rhino
+4 Lizard = Echse
+4 Miles Morales
+4 Gwen Stacy = Spider-Gwen
+4 Mary Jane Watson = MJ; Mary Jane
+4 Tante May = Aunt May; May Parker
+4 J. Jonah Jameson = Jonah Jameson
+4 Cyclops = Zyklop; Scott Summers
+4 Rogue
+4 Gambit
+4 Beast = Hank McCoy
+4 Nightcrawler
+4 Colossus
+4 Iceman
+4 Juggernaut
+4 Sabretooth
+4 Apocalypse
+4 Quicksilver = Pietro Maximoff
+4 Galactus
+4 Mister Fantastic = Reed Richards
+4 Die Unsichtbare = Invisible Woman; Sue Storm
+4 Die Fackel = Human Torch; Johnny Storm
+4 Das Ding = The Thing; Ben Grimm
+4 Doctor Doom = Dr. Doom; Victor von Doom
+4 Kingpin = Wilson Fisk
+4 Punisher = Frank Castle
+4 Elektra
+4 Jessica Jones
+4 Luke Cage
+4 Iron Fist = Danny Rand
+4 Moon Knight
+4 Ms. Marvel = Kamala Khan
+4 She-Hulk = Jennifer Walters
+4 Shang-Chi
+4 Blade
+4 Ghost Rider
+4 Morbius
+4 Black Cat
+4 Baron Zemo = Helmut Zemo; Zemo
+4 Peggy Carter = Agent Carter
+4 Yelena Belova = Yelena
+4 Kate Bishop
+4 Agatha Harkness = Agatha
+4 Namor
+4 Abomination = Emil Blonsky
+4 Hank Pym
+4 Howard Stark
+4 Der Sammler = The Collector
+4 Grandmaster = Großmeister
+4 Malekith
+4 Mandarin = Wenwu
+4 Cable
+4 Domino
+4 Psylocke
+4 Kitty Pryde
+4 Adam Warlock
+4 Nova
+4 Taskmaster
+5 Jubilee
+5 Bishop
+5 Ironheart = Riri Williams
+5 America Chavez
+5 Echo
+5 Sersi
+5 Ikaris
+5 Thena
+5 Kingo
+5 Druig
+5 Ajak
+5 Makkari
+5 Phastos
+5 Gilgamesh
+5 Sprite
+5 MODOK
+5 Leader = Samuel Sterns
+5 Crossbones
+5 Sharon Carter
+5 Ghost = Ava Starr
+5 Yellowjacket
+5 Whiplash
+5 Justin Hammer
+5 Aldrich Killian
+5 Surtur
+5 Ebony Maw
+5 Proxima Midnight
+5 Corvus Glaive
+5 Cull Obsidian
+5 Talos
+5 Arnim Zola
+5 Alexander Pierce
+5 Squirrel Girl
+5 Howard the Duck
+5 U.S. Agent = John Walker
+5 Sentry
+5 Red Guardian
+5 Gorr
+5 Silk
+5 Moira MacTaggert
+5 Emma Frost
+5 Mr. Sinister
+5 Sebastian Shaw
+5 Bullseye

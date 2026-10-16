@@ -1,0 +1,132 @@
+@id fil-006
+@text Nenne eine Figur aus „Star Wars“
+# Filme (Episoden I–IX, Rogue One, Solo) und Serien (Clone Wars, Rebels, Mandalorian, Andor, Ahsoka u. a.).
+# Darth Vader und Anakin Skywalker sind dieselbe Figur, ebenso Kylo Ren und Ben Solo.
+
+1 Darth Vader = Anakin Skywalker; Vader; Anakin
+1 Luke Skywalker = Luke
+1 Yoda = Meister Yoda
+2 Han Solo = Han
+2 Prinzessin Leia = Leia; Leia Organa
+2 Obi-Wan Kenobi = Obi-Wan; Ben Kenobi
+2 Chewbacca = Chewie
+2 R2-D2 = R2
+2 C-3PO
+2 Imperator Palpatine = Palpatine; Darth Sidious; Imperator; Sheev Palpatine
+2 Darth Maul = Maul
+3 Boba Fett
+3 Jango Fett
+3 Padmé Amidala = Padmé; Amidala
+3 Mace Windu
+3 Qui-Gon Jinn = Qui-Gon
+3 Jar Jar Binks = Jar Jar
+3 Lando Calrissian = Lando
+3 Jabba der Hutte = Jabba
+3 Graf Dooku = Dooku; Count Dooku; Darth Tyranus
+3 General Grievous = Grievous
+3 Kylo Ren = Ben Solo
+3 Rey = Rey Skywalker
+3 Finn
+3 Poe Dameron = Poe
+3 BB-8
+3 Grogu = Baby Yoda
+3 Din Djarin = Der Mandalorianer; Mando
+3 Ahsoka Tano = Ahsoka
+3 Grand Moff Tarkin = Tarkin
+4 Snoke = Oberster Anführer Snoke
+4 Captain Phasma = Phasma
+4 Cassian Andor = Andor
+4 Jyn Erso
+4 K-2SO
+4 Chirrut Îmwe
+4 Baze Malbus
+4 Bodhi Rook
+4 Orson Krennic = Krennic
+4 Saw Gerrera
+4 Wedge Antilles = Wedge
+4 Admiral Ackbar = Ackbar
+4 Mon Mothma
+4 Bail Organa
+4 Owen Lars = Onkel Owen
+4 Beru Lars = Tante Beru
+4 Shmi Skywalker
+4 Watto
+4 Sebulba
+4 Nute Gunray
+4 Wicket
+4 Greedo
+4 Bossk
+4 IG-88
+4 Nien Nunb
+4 Ki-Adi-Mundi
+4 Plo Koon
+4 Kit Fisto
+4 Aayla Secura
+4 Asajj Ventress = Ventress
+4 Cad Bane
+4 Captain Rex = Rex
+4 Commander Cody = Cody
+4 Ezra Bridger
+4 Kanan Jarrus
+4 Hera Syndulla
+4 Sabine Wren
+4 Großadmiral Thrawn = Thrawn
+4 Moff Gideon
+4 Cara Dune
+4 Greef Karga
+4 Bo-Katan Kryze = Bo-Katan
+4 Fennec Shand
+4 Cal Kestis
+4 Rose Tico
+4 Vizeadmiral Holdo = Holdo
+4 General Hux = Hux
+4 Maz Kanata
+4 Qi’ra
+4 Tobias Beckett = Beckett
+4 Großinquisitor
+4 Darth Bane
+4 Darth Plagueis
+4 Captain Panaka = Panaka
+4 Boss Nass
+4 Mara Jade
+4 Galen Erso
+5 Bib Fortuna
+5 Dengar
+5 Zuckuss
+5 4-LOM
+5 Max Rebo
+5 Salacious Crumb
+5 Biggs Darklighter
+5 Shaak Ti
+5 Luminara Unduli
+5 Barriss Offee
+5 Savage Opress
+5 Hondo Ohnaka
+5 Zeb Orrelios = Zeb
+5 Chopper
+5 Kuiil
+5 IG-11
+5 Lor San Tekka
+5 Zorii Bliss
+5 Jannah
+5 Allegiant General Pryde = Pryde
+5 Enfys Nest
+5 L3-37
+5 Dryden Vos
+5 Lyra Erso
+5 Luthen Rael
+5 Dedra Meero
+5 Syril Karn
+5 Bix Caleen
+5 Reva = Dritte Schwester
+5 Baylan Skoll
+5 Shin Hati
+5 Yaddle
+5 Dexter Jettster
+5 Zam Wesell
+5 Lama Su
+5 Wat Tambor
+5 Poggle der Geringere
+5 Mas Amedda
+5 Jocasta Nu
+5 Dormé

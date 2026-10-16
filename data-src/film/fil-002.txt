@@ -1,0 +1,74 @@
+@id fil-002
+@text Nenne eine Figur aus „South Park“
+# Haupt-, Neben- und wiederkehrende Figuren (inkl. Alter Egos der Jungs).
+
+1 Eric Cartman = Cartman; Eric
+1 Kenny McCormick = Kenny
+2 Stan Marsh = Stan
+2 Kyle Broflovski = Kyle
+2 Butters Stotch = Butters; Leopold Stotch
+2 Randy Marsh = Randy
+2 Mr. Garrison = Herbert Garrison; Mrs. Garrison
+2 Chef
+3 Mr. Mackey = Mackey
+3 Mr. Hankey = Mr. Hankey der Weihnachtskot
+3 Timmy Burch = Timmy
+3 Wendy Testaburger = Wendy
+3 Token Black = Token
+3 Jimmy Valmer = Jimmy
+3 Ike Broflovski = Ike
+3 Sheila Broflovski = Sheila
+3 Towelie = Handtuch
+3 Satan
+3 Tweek Tweak = Tweek
+3 Craig Tucker = Craig
+4 Gerald Broflovski = Gerald
+4 Sharon Marsh = Sharon
+4 Shelley Marsh = Shelley
+4 Marvin Marsh = Opa Marsh
+4 Liane Cartman = Liane
+4 Stuart McCormick
+4 Carol McCormick
+4 Karen McCormick
+4 Kevin McCormick
+4 Clyde Donovan = Clyde
+4 Bebe Stevens = Bebe
+4 Heidi Turner = Heidi
+4 Pip Pirrup = Pip
+4 Terrance
+4 Phillip
+4 Big Gay Al
+4 Mr. Slave
+4 Officer Barbrady = Barbrady
+4 Bürgermeisterin McDaniels = Mayor McDaniels
+4 PC Principal = PC-Direktor
+4 Jesus
+4 Saddam Hussein
+4 Mr. Hat = Mr. Zylinder
+4 Ms. Crabtree = Busfahrerin Crabtree
+4 Onkel Jimbo = Jimbo Kern
+4 Ned Gerblanski = Ned
+4 ManBearPig = Bärschweinmensch
+4 Mysterion
+4 Der Waschbär = The Coon
+4 Professor Chaos
+4 Mr. Kitty
+4 Stephen Stotch
+4 Linda Stotch
+4 Tuong Lu Kim = City-Wok-Besitzer
+5 Red
+5 Scott Malkinson
+5 Kevin Stoley
+5 Dr. Mephesto
+5 Scuzzlebutt
+5 General Disarray = Dougie
+5 Sparky
+5 Ms. Choksondik
+5 Mr. Adler
+5 Nathan
+5 Mimsy
+5 Kyle Schwartz
+5 Lemmiwinks
+5 Sexual Harassment Panda = Belästigungs-Panda
+5 Mint-Berry Crunch
+5 Strong Woman = Starke Frau

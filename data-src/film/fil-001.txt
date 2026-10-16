@@ -1,0 +1,121 @@
+@id fil-001
+@text Nenne eine Figur aus „Die Simpsons“
+# Haupt-, Neben- und wiederkehrende Figuren mit deutschen Namen; englische Namen als Alias, wo verbreitet.
+
+1 Homer Simpson = Homer
+1 Bart Simpson = Bart
+2 Marge Simpson = Marge
+2 Lisa Simpson = Lisa
+2 Maggie Simpson = Maggie
+2 Mr. Burns = Montgomery Burns; Monty Burns
+2 Ned Flanders = Flanders
+2 Moe Szyslak = Moe
+3 Apu Nahasapeemapetilon = Apu
+3 Krusty der Clown = Krusty
+3 Milhouse Van Houten = Milhouse
+3 Waylon Smithers = Smithers
+3 Ralph Wiggum = Ralph
+3 Chief Wiggum = Clancy Wiggum; Polizeichef Wiggum
+3 Barney Gumble = Barney
+3 Abe Simpson = Grampa Simpson; Opa Simpson; Abraham Simpson
+3 Rektor Skinner = Seymour Skinner; Direktor Skinner
+3 Nelson Muntz = Nelson
+3 Tingeltangel-Bob = Sideshow Bob
+3 Patty Bouvier = Patty
+3 Selma Bouvier = Selma
+3 Hausmeister Willie = Groundskeeper Willie
+3 Comicbuchverkäufer = Comic Book Guy
+3 Otto Mann = Otto
+3 Lenny Leonard = Lenny
+3 Carl Carlson = Carl
+3 Edna Krabappel = Mrs. Krabappel
+3 Knecht Ruprecht = Santa’s Little Helper
+4 Martin Prince = Martin
+4 Dr. Hibbert = Julius Hibbert
+4 Dr. Nick Riviera = Dr. Nick
+4 Reverend Lovejoy = Timothy Lovejoy
+4 Helen Lovejoy
+4 Maude Flanders
+4 Rod Flanders
+4 Todd Flanders
+4 Kent Brockman
+4 Troy McClure
+4 Lionel Hutz
+4 Bürgermeister Quimby = Joe Quimby; Mayor Quimby
+4 Fat Tony
+4 Snake
+4 Hans Maulwurf = Hans Moleman
+4 Cletus
+4 Jimbo Jones = Jimbo
+4 Kang
+4 Kodos
+4 Itchy
+4 Scratchy
+4 Duffman
+4 Professor Frink = Frink
+4 Mona Simpson
+4 Herb Powell
+4 Agnes Skinner
+4 Rainier Wolfcastle = McBain
+4 Schneeball = Snowball
+4 Disco Stu
+4 Hummelmann = Bumblebee Man
+4 Kapitän McCallister = Sea Captain
+4 Dolph
+4 Kearney
+4 Superintendent Chalmers = Chalmers
+4 Frank Grimes = Grimey
+4 Tingeltangel-Mel = Sideshow Mel
+4 Kirk Van Houten
+4 Luann Van Houten
+4 Manjula
+4 Plopper = Spider-Schwein
+4 Mr. Largo = Dewey Largo
+4 Mrs. Hoover = Elizabeth Hoover
+4 Lunchlady Doris = Doris
+4 Poochie
+4 Gil Gunderson = Gil
+5 Brandine
+5 Sherri
+5 Terri
+5 Wendell
+5 Lewis
+5 Uter
+5 Database
+5 Jessica Lovejoy
+5 Allison Taylor
+5 Lou
+5 Eddie
+5 Jasper
+5 Herman
+5 Lurleen Lumpkin
+5 Artie Ziff
+5 Jacqueline Bouvier
+5 Ling Bouvier
+5 Mr. Teeny
+5 Blinky
+5 Zahnfleischbluter Murphy = Bleeding Gums Murphy
+5 Arnie Pye
+5 Akira
+5 Cookie Kwan
+5 Drederick Tatum
+5 Lyle Lanley
+5 Ruth Powers
+5 Marvin Monroe = Dr. Marvin Monroe
+5 Lance Murdock
+5 Gabbo
+5 Hank Scorpio
+5 Bill und Marty
+5 Cecil Terwilliger
+5 Lindsey Naegle
+5 Roger Meyers Jr.
+5 Reicher Texaner = Rich Texan
+5 Kumiko
+5 Greta Wolfcastle
+5 Ms. Albright
+5 Sanjay
+5 Shauna Chalmers
+5 Squeaky Voiced Teen = Stimmbruch-Teenager
+5 Old Jewish Man = Alter jüdischer Mann
+5 Rabbi Krustofski
+5 Mrs. Muntz

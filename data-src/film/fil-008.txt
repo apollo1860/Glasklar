@@ -1,0 +1,152 @@
+@id fil-008
+@text Nenne eine Figur aus dem DC-Universum
+# Helden, Schurken und Nebenfiguren aus DC-Comics, -Filmen und -Serien (inkl. Watchmen, Vertigo).
+
+1 Batman = Bruce Wayne
+1 Superman = Clark Kent; Kal-El
+1 Joker
+2 Wonder Woman = Diana Prince
+2 Harley Quinn = Harley
+2 Robin = Dick Grayson
+2 Catwoman = Selina Kyle
+2 The Flash = Flash; Barry Allen
+2 Aquaman = Arthur Curry
+2 Lex Luthor = Luthor
+3 Green Lantern = Hal Jordan
+3 Riddler = Edward Nygma
+3 Pinguin = Penguin; Oswald Cobblepot
+3 Two-Face = Harvey Dent
+3 Bane
+3 Poison Ivy
+3 Scarecrow = Jonathan Crane
+3 Mr. Freeze
+3 Alfred Pennyworth = Alfred
+3 Commissioner Gordon = James Gordon; Jim Gordon
+3 Batgirl = Barbara Gordon
+3 Nightwing
+3 Lois Lane
+3 Supergirl = Kara Zor-El; Kara Danvers
+3 Cyborg
+3 Shazam = Billy Batson
+3 Green Arrow = Oliver Queen
+3 Darkseid
+3 General Zod = Zod
+3 Deathstroke = Slade Wilson
+3 Doomsday
+3 Martian Manhunter = J’onn J’onzz
+4 Red Hood = Jason Todd
+4 Damian Wayne
+4 Tim Drake
+4 Jimmy Olsen
+4 Perry White
+4 Superboy
+4 Black Adam
+4 Black Canary
+4 Hawkman
+4 Hawkgirl
+4 Zatanna
+4 John Constantine = Constantine
+4 Swamp Thing
+4 Brainiac
+4 Sinestro
+4 Reverse-Flash = Eobard Thawne
+4 Ra’s al Ghul
+4 Talia al Ghul
+4 Killer Croc
+4 Hush
+4 Mad Hatter = Der verrückte Hutmacher
+4 Clayface
+4 Deadshot
+4 Captain Boomerang
+4 King Shark
+4 Peacemaker
+4 Amanda Waller
+4 Rick Flag
+4 El Diablo
+4 Katana
+4 Enchantress
+4 Blue Beetle
+4 Starfire
+4 Raven
+4 Beast Boy
+4 Kid Flash = Wally West
+4 Huntress
+4 Lucius Fox
+4 Rachel Dawes
+4 Steve Trevor
+4 Cheetah
+4 Ares
+4 Hippolyta
+4 Mera
+4 Black Manta
+4 Gorilla Grodd
+4 Captain Cold
+4 Bizarro
+4 Lobo
+4 Steppenwolf
+4 Rorschach
+4 Dr. Manhattan
+4 Ozymandias
+4 The Comedian
+4 Lucifer = Lucifer Morningstar
+4 Sandman = Morpheus; Dream
+4 Krypto
+4 Jor-El
+4 Martha Kent
+4 Jonathan Kent
+4 Lana Lang
+4 Batwoman
+4 Victor Zsasz = Zsasz
+4 Black Mask
+4 Solomon Grundy
+4 Man-Bat
+4 Firefly
+5 Booster Gold
+5 Firestorm
+5 The Atom = Atom; Ray Palmer
+5 Static
+5 Vicki Vale
+5 Ocean Master
+5 Heat Wave
+5 Mirror Master
+5 Zoom
+5 Parasite
+5 Metallo
+5 Toyman
+5 Mister Mxyzptlk
+5 Jonah Hex
+5 Etrigan
+5 Spectre
+5 Doctor Fate
+5 Wildcat
+5 Jay Garrick
+5 Alan Scott
+5 John Stewart
+5 Guy Gardner
+5 Kyle Rayner
+5 Jessica Cruz
+5 Atrocitus
+5 Lara Lor-Van
+5 Granny Goodness
+5 Desaad
+5 Mister Miracle
+5 Big Barda
+5 Orion
+5 Metron
+5 Nite Owl
+5 Silk Spectre
+5 The Question
+5 Plastic Man
+5 Elongated Man
+5 Animal Man
+5 Black Lightning
+5 Vixen
+5 Red Tornado
+5 Mister Terrific
+5 Power Girl
+5 Stargirl
+5 Azrael
+5 Calendar Man
+5 Killer Moth
+5 Professor Pyg
+5 Spoiler

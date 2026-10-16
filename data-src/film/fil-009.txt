@@ -1,0 +1,43 @@
+@id fil-009
+@text Nenne eine Figur aus dem Micky-Maus-Universum
+@typ geschlossen
+# Figuren aus Entenhausen (Micky-Maus- und Donald-Duck-Comics, Cartoons), deutsche Namen; englische Namen als Alias.
+
+1 Micky Maus = Micky; Mickey Mouse
+1 Donald Duck = Donald
+2 Goofy
+2 Minnie Maus = Minnie; Minnie Mouse
+2 Dagobert Duck = Onkel Dagobert; Dagobert; Scrooge McDuck
+2 Daisy Duck = Daisy
+2 Pluto
+3 Tick
+3 Trick
+3 Track
+3 Gustav Gans = Gustav
+3 Daniel Düsentrieb = Düsentrieb
+3 Panzerknacker
+3 Kater Karlo = Karlo; Pete
+3 Gundel Gaukeley = Gundel
+3 Chip
+3 Chap
+4 Helferlein
+4 Klarabella Kuh = Klarabella
+4 Rudi Ross = Rudi
+4 Oma Duck
+4 Phantomias = Paperinik
+4 Supergoof
+4 Kommissar Hunter
+4 Mac Moneysac
+4 Primus von Quack = Ludwig von Drake
+4 Max Goof = Max
+4 Mack
+4 Muck
+4 Dussel Duck
+4 Franz Gans
+4 Gamma
+5 Baptist
+5 Fräulein Rührig
+5 Figaro
+5 José Carioca
+5 Panchito
+5 Inspektor Issel
