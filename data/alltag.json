@@ -1,0 +1,971 @@
+[
+ {
+  "id": "all-001",
+  "text": "Nenne ein noch aktives soziales Netzwerk",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-001-a0001",
+    "text": "Instagram",
+    "aliases": [
+     "Insta"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-001-a0002",
+    "text": "TikTok",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-001-a0003",
+    "text": "Facebook",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-001-a0004",
+    "text": "YouTube",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-001-a0005",
+    "text": "Snapchat",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-001-a0006",
+    "text": "X",
+    "aliases": [
+     "Twitter"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-001-a0007",
+    "text": "WhatsApp",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-001-a0008",
+    "text": "LinkedIn",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-001-a0009",
+    "text": "Pinterest",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0010",
+    "text": "Reddit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0011",
+    "text": "Twitch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0012",
+    "text": "Telegram",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0013",
+    "text": "Discord",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0014",
+    "text": "BeReal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0015",
+    "text": "Threads",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0016",
+    "text": "Tumblr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0017",
+    "text": "Bluesky",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0018",
+    "text": "Jodel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-001-a0019",
+    "text": "Xing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0020",
+    "text": "Mastodon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0021",
+    "text": "WeChat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0022",
+    "text": "Weibo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0023",
+    "text": "VK",
+    "aliases": [
+     "VKontakte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0024",
+    "text": "Clubhouse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0025",
+    "text": "Quora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0026",
+    "text": "Flickr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0027",
+    "text": "Behance",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0028",
+    "text": "Goodreads",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0029",
+    "text": "Letterboxd",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0030",
+    "text": "Strava",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0031",
+    "text": "Nextdoor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0032",
+    "text": "nebenan.de",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0033",
+    "text": "Truth Social",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0034",
+    "text": "Xiaohongshu",
+    "aliases": [
+     "RedNote"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0035",
+    "text": "Lemon8",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0036",
+    "text": "Substack",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0037",
+    "text": "OnlyFans",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0038",
+    "text": "Kick",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0039",
+    "text": "SoundCloud",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0040",
+    "text": "DeviantArt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0041",
+    "text": "9GAG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0042",
+    "text": "Signal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0043",
+    "text": "Stayfriends",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0044",
+    "text": "Knuddels",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-001-a0045",
+    "text": "Dribbble",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0046",
+    "text": "Kik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0047",
+    "text": "Line",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0048",
+    "text": "Viber",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0049",
+    "text": "Gab",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0050",
+    "text": "Rumble",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0051",
+    "text": "Odnoklassniki",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0052",
+    "text": "Douyin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0053",
+    "text": "Medium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0054",
+    "text": "Patreon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0055",
+    "text": "Imgur",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0056",
+    "text": "Yubo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0057",
+    "text": "Wattpad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0058",
+    "text": "Untappd",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0059",
+    "text": "Komoot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0060",
+    "text": "Couchsurfing",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0061",
+    "text": "Ravelry",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0062",
+    "text": "LiveJournal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-001-a0063",
+    "text": "Diaspora",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "all-002",
+  "text": "Nenne ein mittlerweile inaktives soziales Netzwerk",
+  "kategorie": "alltag",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "all-002-a0001",
+    "text": "StudiVZ",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-002-a0002",
+    "text": "SchülerVZ",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-002-a0003",
+    "text": "Myspace",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-002-a0004",
+    "text": "Google+",
+    "aliases": [
+     "Google Plus"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-002-a0005",
+    "text": "wer-kennt-wen",
+    "aliases": [
+     "wkw"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-002-a0006",
+    "text": "ICQ",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-002-a0007",
+    "text": "MSN Messenger",
+    "aliases": [
+     "MSN",
+     "Windows Live Messenger"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-002-a0008",
+    "text": "Vine",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-002-a0009",
+    "text": "Musical.ly",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-002-a0010",
+    "text": "MeinVZ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0011",
+    "text": "Lokalisten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0012",
+    "text": "Periscope",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0013",
+    "text": "Skype",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0014",
+    "text": "Houseparty",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0015",
+    "text": "Jappy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0016",
+    "text": "Kwick",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-002-a0017",
+    "text": "Orkut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0018",
+    "text": "Friendster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0019",
+    "text": "Bebo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0020",
+    "text": "hi5",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0021",
+    "text": "Yik Yak",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0022",
+    "text": "Google Buzz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0023",
+    "text": "Netlog",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0024",
+    "text": "Yahoo! Messenger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0025",
+    "text": "AIM",
+    "aliases": [
+     "AOL Instant Messenger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0026",
+    "text": "StumbleUpon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0027",
+    "text": "Dubsmash",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0028",
+    "text": "Path",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0029",
+    "text": "Formspring",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-002-a0030",
+    "text": "Xanga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0031",
+    "text": "Google Wave",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0032",
+    "text": "Ello",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0033",
+    "text": "Gowalla",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0034",
+    "text": "Picasa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0035",
+    "text": "Delicious",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0036",
+    "text": "Peach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0037",
+    "text": "Meerkat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0038",
+    "text": "Keek",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0039",
+    "text": "Google Talk",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0040",
+    "text": "Windows Live Spaces",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0041",
+    "text": "Tribe.net",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0042",
+    "text": "schueler.cc",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0043",
+    "text": "Spinchat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0044",
+    "text": "Mixer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-002-a0045",
+    "text": "Google Hangouts",
+    "aliases": [
+     "Hangouts"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "all-003",
+  "text": "Nenne eine App, die auf dem iPhone vorinstalliert ist",
+  "kategorie": "alltag",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "all-003-a0001",
+    "text": "Safari",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-003-a0002",
+    "text": "Kamera",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-003-a0003",
+    "text": "Nachrichten",
+    "aliases": [
+     "iMessage"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-003-a0004",
+    "text": "Fotos",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-003-a0005",
+    "text": "Einstellungen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-003-a0006",
+    "text": "App Store",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-003-a0007",
+    "text": "Wetter",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-003-a0008",
+    "text": "Telefon",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-003-a0009",
+    "text": "Uhr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0010",
+    "text": "Rechner",
+    "aliases": [
+     "Taschenrechner"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0011",
+    "text": "Notizen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0012",
+    "text": "Kalender",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0013",
+    "text": "Karten",
+    "aliases": [
+     "Apple Maps"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0014",
+    "text": "Musik",
+    "aliases": [
+     "Apple Music"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0015",
+    "text": "FaceTime",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0016",
+    "text": "Mail",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0017",
+    "text": "Wallet",
+    "aliases": [
+     "Apple Wallet"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0018",
+    "text": "Health",
+    "aliases": [
+     "Gesundheit",
+     "Apple Health"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0019",
+    "text": "Kontakte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0020",
+    "text": "Erinnerungen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0021",
+    "text": "Wo ist?",
+    "aliases": [
+     "Find My"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-003-a0022",
+    "text": "Podcasts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0023",
+    "text": "Bücher",
+    "aliases": [
+     "Apple Books"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0024",
+    "text": "Kompass",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0025",
+    "text": "Sprachmemos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0026",
+    "text": "Aktien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0027",
+    "text": "Home",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0028",
+    "text": "TV",
+    "aliases": [
+     "Apple TV"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0029",
+    "text": "Tipps",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0030",
+    "text": "Dateien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0031",
+    "text": "Übersetzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0032",
+    "text": "Lupe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0033",
+    "text": "Maßband",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0034",
+    "text": "Kurzbefehle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0035",
+    "text": "Fitness",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0036",
+    "text": "Watch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0037",
+    "text": "iTunes Store",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0038",
+    "text": "Passwörter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-003-a0039",
+    "text": "Freeform",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-003-a0040",
+    "text": "Journal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-003-a0041",
+    "text": "Vorschau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-003-a0042",
+    "text": "Spiele",
+    "aliases": [
+     "Games"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-003-a0043",
+    "text": "Image Playground",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

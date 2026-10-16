@@ -1,0 +1,77 @@
+@id ess-003
+@text Nenne etwas, das man bei McDonald’s essen oder trinken kann
+# Aktuelles und früheres Sortiment von McDonald’s Deutschland inkl. McCafé, Frühstück, Saucen und Aktionsprodukten.
+
+1 Big Mac
+1 Cheeseburger
+1 Pommes = Pommes frites; Fritten
+1 Chicken McNuggets = McNuggets; Nuggets; Chicken Nuggets
+2 Hamburger
+2 McChicken
+2 McFlurry
+2 McRib
+2 Filet-o-Fish = Fishburger
+2 Happy Meal
+2 Cola = Coca-Cola
+3 Royal Käse = Hamburger Royal Käse; Quarter Pounder
+3 Big Tasty = Big Tasty Bacon
+3 Double Cheeseburger
+3 Chickenburger
+3 McWrap
+3 Apfeltasche
+3 Sundae
+3 Milchshake = Milkshake; Shake
+3 McMuffin = Egg McMuffin
+3 McCrispy
+3 Veggieburger
+3 Salat
+3 Ketchup
+4 Royal TS = Hamburger Royal TS
+4 Chicken Wings
+4 Fanta
+4 Sprite
+4 Hash Brown = Hash Browns
+4 Pancakes
+4 Croissant
+4 Muffin
+4 Donut
+4 Latte Macchiato
+4 Cappuccino
+4 Espresso
+4 Kaffee
+4 Potato Wedges = Wedges
+4 Grand Big Mac
+4 McPlant
+4 Chicken Big Mac
+4 1955 Burger = 1955
+4 Big Rösti
+4 Mozzarella Sticks
+4 Mayonnaise = Mayo
+4 Süß-Sauer-Sauce
+4 Curry-Sauce
+4 Barbecue-Sauce = BBQ-Sauce
+4 Big Mac Sauce
+4 Eistee
+4 Orangensaft
+4 Wasser
+4 Mezzo Mix
+5 Apfelschnitze
+5 Fruchttüte
+5 McToast
+5 McCroissant
+5 Rührei
+5 Bagel
+5 Brownie
+5 Cookie
+5 Cheesecake
+5 Frappé
+5 Smoothie
+5 Iced Coffee = Eiskaffee
+5 Karottensticks
+5 Chili Cheese Fries
+5 Spicy Chicken McNuggets
+5 Fish McBites
+5 Heiße Schokolade = Kakao
+5 Tee
+5 Apfelschorle
+5 Milch

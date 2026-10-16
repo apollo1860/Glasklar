@@ -1,0 +1,53 @@
+@id pol-002
+@text Nenne eine noch existierende deutsche Partei
+@typ geschlossen
+# Beim Bundeswahlleiter geführte Parteien mit Wahlteilnahmen in den letzten Jahren (Stand 2026).
+# Die NPD heißt seit 2023 "Die Heimat"; der alte Name ist Alias.
+
+1 CDU = Christlich Demokratische Union
+1 SPD = Sozialdemokratische Partei Deutschlands
+1 AfD = Alternative für Deutschland
+1 Bündnis 90/Die Grünen = Die Grünen; Grüne; Bündnis 90
+2 FDP = Freie Demokratische Partei; Liberale
+2 Die Linke = Linkspartei
+2 CSU = Christlich-Soziale Union
+2 BSW = Bündnis Sahra Wagenknecht
+3 Freie Wähler
+3 Die PARTEI
+3 ÖDP = Ökologisch-Demokratische Partei
+3 Volt
+3 Piratenpartei = Piraten
+3 Tierschutzpartei = Partei Mensch Umwelt Tierschutz
+3 Die Heimat = NPD
+4 dieBasis = Basisdemokratische Partei Deutschland
+4 MLPD = Marxistisch-Leninistische Partei Deutschlands
+4 DKP = Deutsche Kommunistische Partei
+4 Die Republikaner = REP
+4 Bayernpartei
+4 SSW = Südschleswigscher Wählerverband
+4 Familienpartei
+4 Partei der Humanisten = Die Humanisten
+4 Werteunion
+4 Bündnis Deutschland
+4 Team Todenhöfer = Die Gerechtigkeitspartei
+4 Der III. Weg = Der Dritte Weg
+4 Zentrum = Deutsche Zentrumspartei
+4 Freie Sachsen
+4 LKR = Liberal-Konservative Reformer
+5 Die Urbane
+5 Menschliche Welt
+5 Bündnis C
+5 V-Partei³
+5 Klimaliste
+5 Die Violetten
+5 Partei des Fortschritts = PdF
+5 MERA25
+5 Feministische Partei Die Frauen
+5 Allianz Deutscher Demokraten
+5 SGP = Sozialistische Gleichheitspartei
+5 PdV = Partei der Vernunft
+5 Partei für Gesundheitsforschung
+5 Demokratie in Bewegung = DiB
+5 Die Friesen
+5 Tierschutzallianz
+5 BIG = Bündnis für Innovation und Gerechtigkeit

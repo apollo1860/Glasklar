@@ -1,0 +1,1200 @@
+[
+ {
+  "id": "mar-001",
+  "text": "Nenne eine Bank in Deutschland",
+  "kategorie": "marken",
+  "answers": [
+   {
+    "id": "mar-001-a0001",
+    "text": "Sparkasse",
+    "aliases": [
+     "Kreissparkasse",
+     "Stadtsparkasse"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-001-a0002",
+    "text": "Deutsche Bank",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-001-a0003",
+    "text": "Commerzbank",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-001-a0004",
+    "text": "Volksbank",
+    "aliases": [
+     "Volks- und Raiffeisenbank",
+     "VR-Bank"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-001-a0005",
+    "text": "Postbank",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-001-a0006",
+    "text": "ING",
+    "aliases": [
+     "ING-DiBa",
+     "DiBa"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-001-a0007",
+    "text": "Raiffeisenbank",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-001-a0008",
+    "text": "Sparda-Bank",
+    "aliases": [
+     "Sparda"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-001-a0009",
+    "text": "Comdirect",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0010",
+    "text": "DKB",
+    "aliases": [
+     "Deutsche Kreditbank"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0011",
+    "text": "N26",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0012",
+    "text": "HypoVereinsbank",
+    "aliases": [
+     "HVB",
+     "UniCredit"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0013",
+    "text": "Targobank",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0014",
+    "text": "Consorsbank",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0015",
+    "text": "Santander",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0016",
+    "text": "Deutsche Bundesbank",
+    "aliases": [
+     "Bundesbank"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0017",
+    "text": "KfW",
+    "aliases": [
+     "Kreditanstalt für Wiederaufbau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0018",
+    "text": "Norisbank",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0019",
+    "text": "Revolut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0020",
+    "text": "Trade Republic",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-001-a0021",
+    "text": "Haspa",
+    "aliases": [
+     "Hamburger Sparkasse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0022",
+    "text": "1822direkt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0023",
+    "text": "Oldenburgische Landesbank",
+    "aliases": [
+     "OLB"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0024",
+    "text": "BayernLB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0025",
+    "text": "LBBW",
+    "aliases": [
+     "Landesbank Baden-Württemberg"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0026",
+    "text": "Helaba",
+    "aliases": [
+     "Landesbank Hessen-Thüringen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0027",
+    "text": "Nord/LB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0028",
+    "text": "DekaBank",
+    "aliases": [
+     "Deka"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0029",
+    "text": "DZ Bank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0030",
+    "text": "Apobank",
+    "aliases": [
+     "Deutsche Apotheker- und Ärztebank"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0031",
+    "text": "PSD Bank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0032",
+    "text": "GLS Bank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0033",
+    "text": "Tomorrow Bank",
+    "aliases": [
+     "Tomorrow"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0034",
+    "text": "C24",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0035",
+    "text": "Barclays",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0036",
+    "text": "Wüstenrot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0037",
+    "text": "Schwäbisch Hall",
+    "aliases": [
+     "Bausparkasse Schwäbisch Hall"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0038",
+    "text": "BHW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0039",
+    "text": "LBS",
+    "aliases": [
+     "Landesbausparkasse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0040",
+    "text": "Berenberg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0041",
+    "text": "Warburg",
+    "aliases": [
+     "M.M. Warburg"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0042",
+    "text": "Volkswagen Bank",
+    "aliases": [
+     "VW Bank"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0043",
+    "text": "BMW Bank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0044",
+    "text": "Mercedes-Benz Bank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0045",
+    "text": "Consors Finanz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0046",
+    "text": "bunq",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0047",
+    "text": "Klarna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0048",
+    "text": "Berliner Volksbank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-001-a0049",
+    "text": "Triodos Bank",
+    "aliases": [
+     "Triodos"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0050",
+    "text": "Metzler",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0051",
+    "text": "Hauck Aufhäuser Lampe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0052",
+    "text": "Merck Finck",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0053",
+    "text": "Degussa Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0054",
+    "text": "Bank11",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0055",
+    "text": "Hanseatic Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0056",
+    "text": "Advanzia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0057",
+    "text": "Fyrst",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0058",
+    "text": "Penta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0059",
+    "text": "Solaris",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0060",
+    "text": "Openbank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0061",
+    "text": "Deutsche Skatbank",
+    "aliases": [
+     "Skatbank"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0062",
+    "text": "Evangelische Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0063",
+    "text": "Pax-Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0064",
+    "text": "Ethikbank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0065",
+    "text": "UmweltBank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0066",
+    "text": "Quirin Privatbank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0067",
+    "text": "Aareal Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0068",
+    "text": "Deutsche Pfandbriefbank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0069",
+    "text": "IKB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0070",
+    "text": "NRW.Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0071",
+    "text": "L-Bank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-001-a0072",
+    "text": "Hamburg Commercial Bank",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-002",
+  "text": "Nenne eine Wassermarke aus dem Supermarkt",
+  "kategorie": "marken",
+  "answers": [
+   {
+    "id": "mar-002-a0001",
+    "text": "Gerolsteiner",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-002-a0002",
+    "text": "Volvic",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0003",
+    "text": "Vittel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0004",
+    "text": "Evian",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0005",
+    "text": "San Pellegrino",
+    "aliases": [
+     "S. Pellegrino"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0006",
+    "text": "Adelholzener",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0007",
+    "text": "Apollinaris",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0008",
+    "text": "Saskia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-002-a0009",
+    "text": "Ja!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0010",
+    "text": "Gut & Günstig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0011",
+    "text": "K-Classic",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0012",
+    "text": "Quellbrunn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0013",
+    "text": "Perrier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0014",
+    "text": "Bad Vilbeler",
+    "aliases": [
+     "Bad Vilbeler Urquelle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0015",
+    "text": "Hassia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0016",
+    "text": "Fiji",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0017",
+    "text": "Voss",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0018",
+    "text": "Acqua Panna",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0019",
+    "text": "Christinen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0020",
+    "text": "Selters",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0021",
+    "text": "Vilsa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0022",
+    "text": "Teinacher",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0023",
+    "text": "Rhodius",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0024",
+    "text": "Viva con Agua",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0025",
+    "text": "Fürst Bismarck",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-002-a0026",
+    "text": "Staatl. Fachingen",
+    "aliases": [
+     "Fachinger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0027",
+    "text": "Margon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0028",
+    "text": "Lichtenauer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0029",
+    "text": "Bad Liebenwerda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0030",
+    "text": "Peterstaler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0031",
+    "text": "Rietenauer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0032",
+    "text": "Ensinger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0033",
+    "text": "Krumbach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0034",
+    "text": "Thüringer Waldquell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0035",
+    "text": "Rosbacher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0036",
+    "text": "Tönissteiner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0037",
+    "text": "Aqua Römer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0038",
+    "text": "Steinsieker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0039",
+    "text": "Vöslauer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0040",
+    "text": "Römerquelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0041",
+    "text": "Rhön Sprudel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0042",
+    "text": "Bad Brambacher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0043",
+    "text": "Spreequell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0044",
+    "text": "Residenz Quelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0045",
+    "text": "Sinziger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0046",
+    "text": "Glashäger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0047",
+    "text": "Teusser",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0048",
+    "text": "Labertaler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0049",
+    "text": "Bad Dürrheimer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0050",
+    "text": "Black Forest",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0051",
+    "text": "Hirschquelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0052",
+    "text": "Löwensteiner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0053",
+    "text": "Odenwald Quelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0054",
+    "text": "Vio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0055",
+    "text": "Share",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0056",
+    "text": "St. Leonhards",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0057",
+    "text": "Lauretana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0058",
+    "text": "Alasia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-002-a0059",
+    "text": "Elisabethen Quelle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0060",
+    "text": "Haaner Felsenquelle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0061",
+    "text": "Aquintéll",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0062",
+    "text": "Mineau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0063",
+    "text": "Extaler",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0064",
+    "text": "Overberg",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0065",
+    "text": "Kondrauer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0066",
+    "text": "Wernigeröder",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-002-a0067",
+    "text": "Brohler",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-003",
+  "text": "Nenne eine Zahnpasta-Marke",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-003-a0001",
+    "text": "Colgate",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-003-a0002",
+    "text": "Elmex",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-003-a0003",
+    "text": "Signal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-003-a0004",
+    "text": "Blend-a-med",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-003-a0005",
+    "text": "Odol-med3",
+    "aliases": [
+     "Odol"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-003-a0006",
+    "text": "Sensodyne",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-003-a0007",
+    "text": "Parodontax",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-003-a0008",
+    "text": "Aronal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0009",
+    "text": "Meridol",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0010",
+    "text": "Oral-B",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0011",
+    "text": "Lacalut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0012",
+    "text": "Ajona",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0013",
+    "text": "Theramed",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0014",
+    "text": "Dontodent",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-003-a0015",
+    "text": "Perlweiss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0016",
+    "text": "Pearls & Dents",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0017",
+    "text": "Weleda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0018",
+    "text": "Ben & Anna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0019",
+    "text": "Nenedent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0020",
+    "text": "Vitis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0021",
+    "text": "Curaprox",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0022",
+    "text": "Biorepair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0023",
+    "text": "Rembrandt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0024",
+    "text": "Pepsodent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0025",
+    "text": "Close-up",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0026",
+    "text": "Crest",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0027",
+    "text": "Aquafresh",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0028",
+    "text": "Lavera",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0029",
+    "text": "Logona",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0030",
+    "text": "Sante",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0031",
+    "text": "Marvis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0032",
+    "text": "Emoform",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0033",
+    "text": "Zendium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0034",
+    "text": "GUM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0035",
+    "text": "Elkos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0036",
+    "text": "Denivit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-003-a0037",
+    "text": "Splat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0038",
+    "text": "Himalaya",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0039",
+    "text": "Davids",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0040",
+    "text": "Hello",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0041",
+    "text": "Denttabs",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0042",
+    "text": "Tom’s of Maine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0043",
+    "text": "Euthymol",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0044",
+    "text": "Kalodont",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0045",
+    "text": "Chlorodont",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0046",
+    "text": "Blendax",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0047",
+    "text": "Duraphat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-003-a0048",
+    "text": "Swiss Smile",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

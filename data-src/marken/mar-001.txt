@@ -1,0 +1,77 @@
+@id mar-001
+@text Nenne eine Bank in Deutschland
+# Banken, Direktbanken, Neobanken, Privat-, Förder-, Bauspar- und Autobanken mit Geschäft in Deutschland.
+# Einzelne Sparkassen und Volksbanken sind unter dem Verbundnamen zusammengefasst (Ausnahme: Haspa).
+
+1 Sparkasse = Kreissparkasse; Stadtsparkasse
+1 Deutsche Bank
+2 Commerzbank
+2 Volksbank = Volks- und Raiffeisenbank; VR-Bank
+2 Postbank
+2 ING = ING-DiBa; DiBa
+2 Raiffeisenbank
+2 Sparda-Bank = Sparda
+3 Comdirect
+3 DKB = Deutsche Kreditbank
+3 N26
+3 HypoVereinsbank = HVB; UniCredit
+3 Targobank
+3 Consorsbank
+3 Santander
+3 Deutsche Bundesbank = Bundesbank
+3 KfW = Kreditanstalt für Wiederaufbau
+3 Norisbank
+3 Revolut
+3 Trade Republic
+4 Haspa = Hamburger Sparkasse
+4 1822direkt
+4 Oldenburgische Landesbank = OLB
+4 BayernLB
+4 LBBW = Landesbank Baden-Württemberg
+4 Helaba = Landesbank Hessen-Thüringen
+4 Nord/LB
+4 DekaBank = Deka
+4 DZ Bank
+4 Apobank = Deutsche Apotheker- und Ärztebank
+4 PSD Bank
+4 GLS Bank
+4 Tomorrow Bank = Tomorrow
+4 C24
+4 Barclays
+4 Wüstenrot
+4 Schwäbisch Hall = Bausparkasse Schwäbisch Hall
+4 BHW
+4 LBS = Landesbausparkasse
+4 Berenberg
+4 Warburg = M.M. Warburg
+4 Volkswagen Bank = VW Bank
+4 BMW Bank
+4 Mercedes-Benz Bank
+4 Consors Finanz
+4 bunq
+4 Klarna
+4 Berliner Volksbank
+5 Triodos Bank = Triodos
+5 Metzler
+5 Hauck Aufhäuser Lampe
+5 Merck Finck
+5 Degussa Bank
+5 Bank11
+5 Hanseatic Bank
+5 Advanzia
+5 Fyrst
+5 Penta
+5 Solaris
+5 Openbank
+5 Deutsche Skatbank = Skatbank
+5 Evangelische Bank
+5 Pax-Bank
+5 Ethikbank
+5 UmweltBank
+5 Quirin Privatbank
+5 Aareal Bank
+5 Deutsche Pfandbriefbank
+5 IKB
+5 NRW.Bank
+5 L-Bank
+5 Hamburg Commercial Bank

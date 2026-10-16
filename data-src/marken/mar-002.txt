@@ -1,0 +1,71 @@
+@id mar-002
+@text Nenne eine Wassermarke aus dem Supermarkt
+# Mineral- und Tafelwassermarken im deutschen Handel inkl. Eigenmarken der Händler.
+
+1 Gerolsteiner
+2 Volvic
+2 Vittel
+2 Evian
+2 San Pellegrino = S. Pellegrino
+2 Adelholzener
+2 Apollinaris
+2 Saskia
+3 Ja!
+3 Gut & Günstig
+3 K-Classic
+3 Quellbrunn
+3 Perrier
+3 Bad Vilbeler = Bad Vilbeler Urquelle
+3 Hassia
+3 Fiji
+3 Voss
+3 Acqua Panna
+3 Christinen
+3 Selters
+3 Vilsa
+3 Teinacher
+3 Rhodius
+3 Viva con Agua
+3 Fürst Bismarck
+4 Staatl. Fachingen = Fachinger
+4 Margon
+4 Lichtenauer
+4 Bad Liebenwerda
+4 Peterstaler
+4 Rietenauer
+4 Ensinger
+4 Krumbach
+4 Thüringer Waldquell
+4 Rosbacher
+4 Tönissteiner
+4 Aqua Römer
+4 Steinsieker
+4 Vöslauer
+4 Römerquelle
+4 Rhön Sprudel
+4 Bad Brambacher
+4 Spreequell
+4 Residenz Quelle
+4 Sinziger
+4 Glashäger
+4 Teusser
+4 Labertaler
+4 Bad Dürrheimer
+4 Black Forest
+4 Hirschquelle
+4 Löwensteiner
+4 Odenwald Quelle
+4 Vio
+4 Share
+4 St. Leonhards
+4 Lauretana
+4 Alasia
+5 Elisabethen Quelle
+5 Haaner Felsenquelle
+5 Aquintéll
+5 Mineau
+5 Extaler
+5 Overberg
+5 Kondrauer
+5 Wernigeröder
+5 Brohler

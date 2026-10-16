@@ -1,0 +1,53 @@
+@id mar-003
+@text Nenne eine Zahnpasta-Marke
+@typ geschlossen
+# Zahnpasta-Marken im deutschen Handel inkl. Eigenmarken, Naturkosmetik und historischer Marken.
+
+1 Colgate
+1 Elmex
+2 Signal
+2 Blend-a-med
+2 Odol-med3 = Odol
+2 Sensodyne
+2 Parodontax
+3 Aronal
+3 Meridol
+3 Oral-B
+3 Lacalut
+3 Ajona
+3 Theramed
+3 Dontodent
+4 Perlweiss
+4 Pearls & Dents
+4 Weleda
+4 Ben & Anna
+4 Nenedent
+4 Vitis
+4 Curaprox
+4 Biorepair
+4 Rembrandt
+4 Pepsodent
+4 Close-up
+4 Crest
+4 Aquafresh
+4 Lavera
+4 Logona
+4 Sante
+4 Marvis
+4 Emoform
+4 Zendium
+4 GUM
+4 Elkos
+4 Denivit
+5 Splat
+5 Himalaya
+5 Davids
+5 Hello
+5 Denttabs
+5 Tom’s of Maine
+5 Euthymol
+5 Kalodont
+5 Chlorodont
+5 Blendax
+5 Duraphat
+5 Swiss Smile

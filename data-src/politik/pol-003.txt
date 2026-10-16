@@ -1,0 +1,59 @@
+@id pol-003
+@text Nenne eine Terrororganisation
+@typ geschlossen
+# Organisationen, die von der EU, Deutschland, den USA oder der UN als terroristisch eingestuft sind oder waren,
+# sowie historische Terrorgruppen (RAF, NSU, ETA u. a.).
+
+1 IS = Islamischer Staat; ISIS; Daesh
+1 Al-Qaida = Al Kaida; al-Qaeda
+1 Hamas
+2 Taliban
+2 RAF = Rote Armee Fraktion
+2 Hisbollah = Hezbollah
+2 IRA = Irisch-Republikanische Armee
+2 ETA
+2 Boko Haram
+2 NSU = Nationalsozialistischer Untergrund
+3 PKK = Arbeiterpartei Kurdistans
+3 Al-Shabaab = al-Shabab
+3 Ku-Klux-Klan = KKK
+3 Palästinensischer Islamischer Dschihad = Islamischer Dschihad
+3 Rote Brigaden
+3 Huthi = Ansar Allah; Houthis
+3 FARC
+4 Abu Sayyaf
+4 Lashkar-e-Taiba
+4 Jaish-e-Mohammed
+4 Aum Shinrikyo = Ōmu Shinrikyō
+4 Leuchtender Pfad = Sendero Luminoso
+4 ELN
+4 Tamil Tigers = LTTE; Tamilische Befreiungstiger
+4 Schwarzer September
+4 Al-Aqsa-Märtyrerbrigaden
+4 Hayat Tahrir al-Sham = HTS
+4 Al-Nusra-Front = Nusra-Front
+4 Weather Underground = Weathermen
+4 Bewegung 2. Juni
+4 Revolutionäre Zellen
+4 Atomwaffen Division
+4 Gruppe Freital
+4 Haqqani-Netzwerk
+4 Abu-Nidal-Organisation
+4 PFLP = Volksfront zur Befreiung Palästinas
+4 Japanische Rote Armee
+4 Real IRA
+4 IS-K = ISIS-K; Islamischer Staat Provinz Khorasan
+4 Jemaah Islamiyah
+4 Lord’s Resistance Army = LRA
+5 Islamische Bewegung Usbekistans
+5 Ansar al-Islam
+5 Symbionese Liberation Army
+5 Action Directe
+5 17. November = Revolutionäre Organisation 17. November
+5 Kahane Chai
+5 UVF = Ulster Volunteer Force
+5 UDA = Ulster Defence Association
+5 Nordic Resistance Movement
+5 The Base
+5 Ansaru
+5 Babbar Khalsa

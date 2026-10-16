@@ -372,5 +372,1360 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "pol-002",
+  "text": "Nenne eine noch existierende deutsche Partei",
+  "kategorie": "politik",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "pol-002-a0001",
+    "text": "CDU",
+    "aliases": [
+     "Christlich Demokratische Union"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-002-a0002",
+    "text": "SPD",
+    "aliases": [
+     "Sozialdemokratische Partei Deutschlands"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-002-a0003",
+    "text": "AfD",
+    "aliases": [
+     "Alternative für Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-002-a0004",
+    "text": "Bündnis 90/Die Grünen",
+    "aliases": [
+     "Die Grünen",
+     "Grüne",
+     "Bündnis 90"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-002-a0005",
+    "text": "FDP",
+    "aliases": [
+     "Freie Demokratische Partei",
+     "Liberale"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-002-a0006",
+    "text": "Die Linke",
+    "aliases": [
+     "Linkspartei"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-002-a0007",
+    "text": "CSU",
+    "aliases": [
+     "Christlich-Soziale Union"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-002-a0008",
+    "text": "BSW",
+    "aliases": [
+     "Bündnis Sahra Wagenknecht"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-002-a0009",
+    "text": "Freie Wähler",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0010",
+    "text": "Die PARTEI",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0011",
+    "text": "ÖDP",
+    "aliases": [
+     "Ökologisch-Demokratische Partei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0012",
+    "text": "Volt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0013",
+    "text": "Piratenpartei",
+    "aliases": [
+     "Piraten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0014",
+    "text": "Tierschutzpartei",
+    "aliases": [
+     "Partei Mensch Umwelt Tierschutz"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0015",
+    "text": "Die Heimat",
+    "aliases": [
+     "NPD"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-002-a0016",
+    "text": "dieBasis",
+    "aliases": [
+     "Basisdemokratische Partei Deutschland"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0017",
+    "text": "MLPD",
+    "aliases": [
+     "Marxistisch-Leninistische Partei Deutschlands"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0018",
+    "text": "DKP",
+    "aliases": [
+     "Deutsche Kommunistische Partei"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0019",
+    "text": "Die Republikaner",
+    "aliases": [
+     "REP"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0020",
+    "text": "Bayernpartei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0021",
+    "text": "SSW",
+    "aliases": [
+     "Südschleswigscher Wählerverband"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0022",
+    "text": "Familienpartei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0023",
+    "text": "Partei der Humanisten",
+    "aliases": [
+     "Die Humanisten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0024",
+    "text": "Werteunion",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0025",
+    "text": "Bündnis Deutschland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0026",
+    "text": "Team Todenhöfer",
+    "aliases": [
+     "Die Gerechtigkeitspartei"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0027",
+    "text": "Der III. Weg",
+    "aliases": [
+     "Der Dritte Weg"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0028",
+    "text": "Zentrum",
+    "aliases": [
+     "Deutsche Zentrumspartei"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0029",
+    "text": "Freie Sachsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0030",
+    "text": "LKR",
+    "aliases": [
+     "Liberal-Konservative Reformer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-002-a0031",
+    "text": "Die Urbane",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0032",
+    "text": "Menschliche Welt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0033",
+    "text": "Bündnis C",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0034",
+    "text": "V-Partei³",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0035",
+    "text": "Klimaliste",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0036",
+    "text": "Die Violetten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0037",
+    "text": "Partei des Fortschritts",
+    "aliases": [
+     "PdF"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0038",
+    "text": "MERA25",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0039",
+    "text": "Feministische Partei Die Frauen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0040",
+    "text": "Allianz Deutscher Demokraten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0041",
+    "text": "SGP",
+    "aliases": [
+     "Sozialistische Gleichheitspartei"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0042",
+    "text": "PdV",
+    "aliases": [
+     "Partei der Vernunft"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0043",
+    "text": "Partei für Gesundheitsforschung",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0044",
+    "text": "Demokratie in Bewegung",
+    "aliases": [
+     "DiB"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0045",
+    "text": "Die Friesen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0046",
+    "text": "Tierschutzallianz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-002-a0047",
+    "text": "BIG",
+    "aliases": [
+     "Bündnis für Innovation und Gerechtigkeit"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "pol-003",
+  "text": "Nenne eine Terrororganisation",
+  "kategorie": "politik",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "pol-003-a0001",
+    "text": "IS",
+    "aliases": [
+     "Islamischer Staat",
+     "ISIS",
+     "Daesh"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-003-a0002",
+    "text": "Al-Qaida",
+    "aliases": [
+     "Al Kaida",
+     "al-Qaeda"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-003-a0003",
+    "text": "Hamas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "pol-003-a0004",
+    "text": "Taliban",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0005",
+    "text": "RAF",
+    "aliases": [
+     "Rote Armee Fraktion"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0006",
+    "text": "Hisbollah",
+    "aliases": [
+     "Hezbollah"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0007",
+    "text": "IRA",
+    "aliases": [
+     "Irisch-Republikanische Armee"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0008",
+    "text": "ETA",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0009",
+    "text": "Boko Haram",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0010",
+    "text": "NSU",
+    "aliases": [
+     "Nationalsozialistischer Untergrund"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-003-a0011",
+    "text": "PKK",
+    "aliases": [
+     "Arbeiterpartei Kurdistans"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0012",
+    "text": "Al-Shabaab",
+    "aliases": [
+     "al-Shabab"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0013",
+    "text": "Ku-Klux-Klan",
+    "aliases": [
+     "KKK"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0014",
+    "text": "Palästinensischer Islamischer Dschihad",
+    "aliases": [
+     "Islamischer Dschihad"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0015",
+    "text": "Rote Brigaden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0016",
+    "text": "Huthi",
+    "aliases": [
+     "Ansar Allah",
+     "Houthis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0017",
+    "text": "FARC",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-003-a0018",
+    "text": "Abu Sayyaf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0019",
+    "text": "Lashkar-e-Taiba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0020",
+    "text": "Jaish-e-Mohammed",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0021",
+    "text": "Aum Shinrikyo",
+    "aliases": [
+     "Ōmu Shinrikyō"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0022",
+    "text": "Leuchtender Pfad",
+    "aliases": [
+     "Sendero Luminoso"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0023",
+    "text": "ELN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0024",
+    "text": "Tamil Tigers",
+    "aliases": [
+     "LTTE",
+     "Tamilische Befreiungstiger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0025",
+    "text": "Schwarzer September",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0026",
+    "text": "Al-Aqsa-Märtyrerbrigaden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0027",
+    "text": "Hayat Tahrir al-Sham",
+    "aliases": [
+     "HTS"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0028",
+    "text": "Al-Nusra-Front",
+    "aliases": [
+     "Nusra-Front"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0029",
+    "text": "Weather Underground",
+    "aliases": [
+     "Weathermen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0030",
+    "text": "Bewegung 2. Juni",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0031",
+    "text": "Revolutionäre Zellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0032",
+    "text": "Atomwaffen Division",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0033",
+    "text": "Gruppe Freital",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0034",
+    "text": "Haqqani-Netzwerk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0035",
+    "text": "Abu-Nidal-Organisation",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0036",
+    "text": "PFLP",
+    "aliases": [
+     "Volksfront zur Befreiung Palästinas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0037",
+    "text": "Japanische Rote Armee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0038",
+    "text": "Real IRA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0039",
+    "text": "IS-K",
+    "aliases": [
+     "ISIS-K",
+     "Islamischer Staat Provinz Khorasan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0040",
+    "text": "Jemaah Islamiyah",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0041",
+    "text": "Lord’s Resistance Army",
+    "aliases": [
+     "LRA"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-003-a0042",
+    "text": "Islamische Bewegung Usbekistans",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0043",
+    "text": "Ansar al-Islam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0044",
+    "text": "Symbionese Liberation Army",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0045",
+    "text": "Action Directe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0046",
+    "text": "17. November",
+    "aliases": [
+     "Revolutionäre Organisation 17. November"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0047",
+    "text": "Kahane Chai",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0048",
+    "text": "UVF",
+    "aliases": [
+     "Ulster Volunteer Force"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0049",
+    "text": "UDA",
+    "aliases": [
+     "Ulster Defence Association"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0050",
+    "text": "Nordic Resistance Movement",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0051",
+    "text": "The Base",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0052",
+    "text": "Ansaru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-003-a0053",
+    "text": "Babbar Khalsa",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "pol-004",
+  "text": "Nenne eine berühmte Persönlichkeit mit dem Vornamen John",
+  "kategorie": "politik",
+  "answers": [
+   {
+    "id": "pol-004-a0001",
+    "text": "John Lennon",
+    "aliases": [
+     "Lennon"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-004-a0002",
+    "text": "John F. Kennedy",
+    "aliases": [
+     "JFK",
+     "John Kennedy"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-004-a0003",
+    "text": "John Travolta",
+    "aliases": [
+     "Travolta"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-004-a0004",
+    "text": "John Legend",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-004-a0005",
+    "text": "John Cena",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-004-a0006",
+    "text": "John Wayne",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-004-a0007",
+    "text": "John Malkovich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-004-a0008",
+    "text": "John Cleese",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-004-a0009",
+    "text": "John Goodman",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0010",
+    "text": "John Krasinski",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0011",
+    "text": "John Mayer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0012",
+    "text": "John Lithgow",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0013",
+    "text": "John Cusack",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0014",
+    "text": "John Williams",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0015",
+    "text": "John Grisham",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0016",
+    "text": "John Steinbeck",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0017",
+    "text": "John Denver",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0018",
+    "text": "John Oliver",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0019",
+    "text": "John Adams",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0020",
+    "text": "J. R. R. Tolkien",
+    "aliases": [
+     "John Ronald Reuel Tolkien",
+     "Tolkien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0021",
+    "text": "John D. Rockefeller",
+    "aliases": [
+     "John Rockefeller",
+     "Rockefeller"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0022",
+    "text": "John McEnroe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0023",
+    "text": "Johnny Depp",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-004-a0024",
+    "text": "John Lee Hooker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0025",
+    "text": "John Belushi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0026",
+    "text": "John Candy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0027",
+    "text": "John Hurt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0028",
+    "text": "John Boyega",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0029",
+    "text": "John Stamos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0030",
+    "text": "John Cho",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0031",
+    "text": "John Leguizamo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0032",
+    "text": "John Turturro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0033",
+    "text": "John Carpenter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0034",
+    "text": "John Hughes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0035",
+    "text": "John Ford",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0036",
+    "text": "John Huston",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0037",
+    "text": "John Woo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0038",
+    "text": "John Kerry",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0039",
+    "text": "John McCain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0040",
+    "text": "John Quincy Adams",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0041",
+    "text": "John Locke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0042",
+    "text": "John Milton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0043",
+    "text": "John Keats",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0044",
+    "text": "John le Carré",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0045",
+    "text": "John Irving",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0046",
+    "text": "John Green",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0047",
+    "text": "John Major",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0048",
+    "text": "John Bolton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0049",
+    "text": "John Glenn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0050",
+    "text": "John Nash",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0051",
+    "text": "John von Neumann",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0052",
+    "text": "John Maynard Keynes",
+    "aliases": [
+     "Keynes"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0053",
+    "text": "John Deere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0054",
+    "text": "J. Paul Getty",
+    "aliases": [
+     "John Paul Getty"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0055",
+    "text": "John Coltrane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0056",
+    "text": "John Frusciante",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0057",
+    "text": "John Bonham",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0058",
+    "text": "John Deacon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0059",
+    "text": "John Lydon",
+    "aliases": [
+     "Johnny Rotten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0060",
+    "text": "John Newman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0061",
+    "text": "John Miles",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0062",
+    "text": "John Kelly",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0063",
+    "text": "John Terry",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0064",
+    "text": "John Galliano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0065",
+    "text": "John Lasseter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0066",
+    "text": "John Dillinger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0067",
+    "text": "John Wayne Gacy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0068",
+    "text": "John Barrowman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-004-a0069",
+    "text": "John Donne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0070",
+    "text": "John Updike",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0071",
+    "text": "John Dos Passos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0072",
+    "text": "John Lewis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0073",
+    "text": "John Roberts",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0074",
+    "text": "John Fogerty",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0075",
+    "text": "John Paul Jones",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0076",
+    "text": "John Mellencamp",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0077",
+    "text": "John Farnham",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0078",
+    "text": "John Isner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0079",
+    "text": "John Daly",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0080",
+    "text": "John Carew",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0081",
+    "text": "John Heitinga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0082",
+    "text": "John Barnes",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0083",
+    "text": "John Logie Baird",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0084",
+    "text": "John Harrison",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0085",
+    "text": "John Calvin",
+    "aliases": [
+     "Johannes Calvin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0086",
+    "text": "John Wesley",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0087",
+    "text": "John Cabot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0088",
+    "text": "John Smith",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0089",
+    "text": "John Hancock",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0090",
+    "text": "John Brown",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0091",
+    "text": "John Hinckley",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0092",
+    "text": "John Kennedy junior",
+    "aliases": [
+     "John F. Kennedy Jr."
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0093",
+    "text": "John Constable",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0094",
+    "text": "John Dalton",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0095",
+    "text": "John Stuart Mill",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0096",
+    "text": "John Cage",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0097",
+    "text": "John Barry",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0098",
+    "text": "John Carmack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0099",
+    "text": "John Fashanu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-004-a0100",
+    "text": "John Toshack",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

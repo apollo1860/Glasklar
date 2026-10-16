@@ -725,5 +725,487 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "ess-003",
+  "text": "Nenne etwas, das man bei McDonald’s essen oder trinken kann",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-003-a0001",
+    "text": "Big Mac",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-003-a0002",
+    "text": "Cheeseburger",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-003-a0003",
+    "text": "Pommes",
+    "aliases": [
+     "Pommes frites",
+     "Fritten"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-003-a0004",
+    "text": "Chicken McNuggets",
+    "aliases": [
+     "McNuggets",
+     "Nuggets",
+     "Chicken Nuggets"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-003-a0005",
+    "text": "Hamburger",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0006",
+    "text": "McChicken",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0007",
+    "text": "McFlurry",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0008",
+    "text": "McRib",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0009",
+    "text": "Filet-o-Fish",
+    "aliases": [
+     "Fishburger"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0010",
+    "text": "Happy Meal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0011",
+    "text": "Cola",
+    "aliases": [
+     "Coca-Cola"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-003-a0012",
+    "text": "Royal Käse",
+    "aliases": [
+     "Hamburger Royal Käse",
+     "Quarter Pounder"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0013",
+    "text": "Big Tasty",
+    "aliases": [
+     "Big Tasty Bacon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0014",
+    "text": "Double Cheeseburger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0015",
+    "text": "Chickenburger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0016",
+    "text": "McWrap",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0017",
+    "text": "Apfeltasche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0018",
+    "text": "Sundae",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0019",
+    "text": "Milchshake",
+    "aliases": [
+     "Milkshake",
+     "Shake"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0020",
+    "text": "McMuffin",
+    "aliases": [
+     "Egg McMuffin"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0021",
+    "text": "McCrispy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0022",
+    "text": "Veggieburger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0023",
+    "text": "Salat",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0024",
+    "text": "Ketchup",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-003-a0025",
+    "text": "Royal TS",
+    "aliases": [
+     "Hamburger Royal TS"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0026",
+    "text": "Chicken Wings",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0027",
+    "text": "Fanta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0028",
+    "text": "Sprite",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0029",
+    "text": "Hash Brown",
+    "aliases": [
+     "Hash Browns"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0030",
+    "text": "Pancakes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0031",
+    "text": "Croissant",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0032",
+    "text": "Muffin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0033",
+    "text": "Donut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0034",
+    "text": "Latte Macchiato",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0035",
+    "text": "Cappuccino",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0036",
+    "text": "Espresso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0037",
+    "text": "Kaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0038",
+    "text": "Potato Wedges",
+    "aliases": [
+     "Wedges"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0039",
+    "text": "Grand Big Mac",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0040",
+    "text": "McPlant",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0041",
+    "text": "Chicken Big Mac",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0042",
+    "text": "1955 Burger",
+    "aliases": [
+     "1955"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0043",
+    "text": "Big Rösti",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0044",
+    "text": "Mozzarella Sticks",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0045",
+    "text": "Mayonnaise",
+    "aliases": [
+     "Mayo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0046",
+    "text": "Süß-Sauer-Sauce",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0047",
+    "text": "Curry-Sauce",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0048",
+    "text": "Barbecue-Sauce",
+    "aliases": [
+     "BBQ-Sauce"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0049",
+    "text": "Big Mac Sauce",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0050",
+    "text": "Eistee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0051",
+    "text": "Orangensaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0052",
+    "text": "Wasser",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0053",
+    "text": "Mezzo Mix",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-003-a0054",
+    "text": "Apfelschnitze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0055",
+    "text": "Fruchttüte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0056",
+    "text": "McToast",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0057",
+    "text": "McCroissant",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0058",
+    "text": "Rührei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0059",
+    "text": "Bagel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0060",
+    "text": "Brownie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0061",
+    "text": "Cookie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0062",
+    "text": "Cheesecake",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0063",
+    "text": "Frappé",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0064",
+    "text": "Smoothie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0065",
+    "text": "Iced Coffee",
+    "aliases": [
+     "Eiskaffee"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0066",
+    "text": "Karottensticks",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0067",
+    "text": "Chili Cheese Fries",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0068",
+    "text": "Spicy Chicken McNuggets",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0069",
+    "text": "Fish McBites",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0070",
+    "text": "Heiße Schokolade",
+    "aliases": [
+     "Kakao"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0071",
+    "text": "Tee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0072",
+    "text": "Apfelschorle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-003-a0073",
+    "text": "Milch",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

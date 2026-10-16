@@ -1,0 +1,50 @@
+@id all-002
+@text Nenne ein mittlerweile inaktives soziales Netzwerk
+@typ geschlossen
+# Eingestellte oder praktisch verwaiste Plattformen und Messenger (Myspace existiert formal noch, gilt aber als inaktiv).
+
+1 StudiVZ
+1 SchülerVZ
+1 Myspace
+1 Google+ = Google Plus
+2 wer-kennt-wen = wkw
+2 ICQ
+2 MSN Messenger = MSN; Windows Live Messenger
+2 Vine
+2 Musical.ly
+3 MeinVZ
+3 Lokalisten
+3 Periscope
+3 Skype
+3 Houseparty
+3 Jappy
+3 Kwick
+4 Orkut
+4 Friendster
+4 Bebo
+4 hi5
+4 Yik Yak
+4 Google Buzz
+4 Netlog
+4 Yahoo! Messenger
+4 AIM = AOL Instant Messenger
+4 StumbleUpon
+4 Dubsmash
+4 Path
+4 Formspring
+5 Xanga
+5 Google Wave
+5 Ello
+5 Gowalla
+5 Picasa
+5 Delicious
+5 Peach
+5 Meerkat
+5 Keek
+5 Google Talk
+5 Windows Live Spaces
+5 Tribe.net
+5 schueler.cc
+5 Spinchat
+5 Mixer
+5 Google Hangouts = Hangouts

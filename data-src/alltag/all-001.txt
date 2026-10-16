@@ -1,0 +1,67 @@
+@id all-001
+@text Nenne ein noch aktives soziales Netzwerk
+# Plattformen mit laufendem Betrieb (Stand 2026) inkl. Messenger mit Community-Funktion, Video- und Nischen-Communities.
+
+1 Instagram = Insta
+1 TikTok
+1 Facebook
+2 YouTube
+2 Snapchat
+2 X = Twitter
+2 WhatsApp
+2 LinkedIn
+3 Pinterest
+3 Reddit
+3 Twitch
+3 Telegram
+3 Discord
+3 BeReal
+3 Threads
+3 Tumblr
+3 Bluesky
+3 Jodel
+4 Xing
+4 Mastodon
+4 WeChat
+4 Weibo
+4 VK = VKontakte
+4 Clubhouse
+4 Quora
+4 Flickr
+4 Behance
+4 Goodreads
+4 Letterboxd
+4 Strava
+4 Nextdoor
+4 nebenan.de
+4 Truth Social
+4 Xiaohongshu = RedNote
+4 Lemon8
+4 Substack
+4 OnlyFans
+4 Kick
+4 SoundCloud
+4 DeviantArt
+4 9GAG
+4 Signal
+4 Stayfriends
+4 Knuddels
+5 Dribbble
+5 Kik
+5 Line
+5 Viber
+5 Gab
+5 Rumble
+5 Odnoklassniki
+5 Douyin
+5 Medium
+5 Patreon
+5 Imgur
+5 Yubo
+5 Wattpad
+5 Untappd
+5 Komoot
+5 Couchsurfing
+5 Ravelry
+5 LiveJournal
+5 Diaspora

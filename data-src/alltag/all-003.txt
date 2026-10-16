@@ -1,0 +1,48 @@
+@id all-003
+@text Nenne eine App, die auf dem iPhone vorinstalliert ist
+@typ geschlossen
+# Apple-Apps, die ab Werk auf einem aktuellen iPhone (iOS 18/26) installiert sind. Drittanbieter-Apps zählen nicht.
+
+1 Safari
+1 Kamera
+2 Nachrichten = iMessage
+2 Fotos
+2 Einstellungen
+2 App Store
+2 Wetter
+2 Telefon
+3 Uhr
+3 Rechner = Taschenrechner
+3 Notizen
+3 Kalender
+3 Karten = Apple Maps
+3 Musik = Apple Music
+3 FaceTime
+3 Mail
+3 Wallet = Apple Wallet
+3 Health = Gesundheit; Apple Health
+3 Kontakte
+3 Erinnerungen
+3 Wo ist? = Find My
+4 Podcasts
+4 Bücher = Apple Books
+4 Kompass
+4 Sprachmemos
+4 Aktien
+4 Home
+4 TV = Apple TV
+4 Tipps
+4 Dateien
+4 Übersetzen
+4 Lupe
+4 Maßband
+4 Kurzbefehle
+4 Fitness
+4 Watch
+4 iTunes Store
+4 Passwörter
+5 Freeform
+5 Journal
+5 Vorschau
+5 Spiele = Games
+5 Image Playground

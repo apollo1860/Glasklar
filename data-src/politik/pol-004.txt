@@ -1,0 +1,105 @@
+@id pol-004
+@text Nenne eine berühmte Persönlichkeit mit dem Vornamen John
+# Reale Personen (lebend oder verstorben), deren Vorname John ist. Nicht: Jon (Bon Jovi, Hamm), Johnny Cash (J. R.),
+# Elton John (Nachname). Johnny Depp zählt (bürgerlich John Christopher Depp).
+
+1 John Lennon = Lennon
+1 John F. Kennedy = JFK; John Kennedy
+1 John Travolta = Travolta
+2 John Legend
+2 John Cena
+2 John Wayne
+2 John Malkovich
+2 John Cleese
+3 John Goodman
+3 John Krasinski
+3 John Mayer
+3 John Lithgow
+3 John Cusack
+3 John Williams
+3 John Grisham
+3 John Steinbeck
+3 John Denver
+3 John Oliver
+3 John Adams
+3 J. R. R. Tolkien = John Ronald Reuel Tolkien; Tolkien
+3 John D. Rockefeller = John Rockefeller; Rockefeller
+3 John McEnroe
+3 Johnny Depp
+4 John Lee Hooker
+4 John Belushi
+4 John Candy
+4 John Hurt
+4 John Boyega
+4 John Stamos
+4 John Cho
+4 John Leguizamo
+4 John Turturro
+4 John Carpenter
+4 John Hughes
+4 John Ford
+4 John Huston
+4 John Woo
+4 John Kerry
+4 John McCain
+4 John Quincy Adams
+4 John Locke
+4 John Milton
+4 John Keats
+4 John le Carré
+4 John Irving
+4 John Green
+4 John Major
+4 John Bolton
+4 John Glenn
+4 John Nash
+4 John von Neumann
+4 John Maynard Keynes = Keynes
+4 John Deere
+4 J. Paul Getty = John Paul Getty
+4 John Coltrane
+4 John Frusciante
+4 John Bonham
+4 John Deacon
+4 John Lydon = Johnny Rotten
+4 John Newman
+4 John Miles
+4 John Kelly
+4 John Terry
+4 John Galliano
+4 John Lasseter
+4 John Dillinger
+4 John Wayne Gacy
+4 John Barrowman
+5 John Donne
+5 John Updike
+5 John Dos Passos
+5 John Lewis
+5 John Roberts
+5 John Fogerty
+5 John Paul Jones
+5 John Mellencamp
+5 John Farnham
+5 John Isner
+5 John Daly
+5 John Carew
+5 John Heitinga
+5 John Barnes
+5 John Logie Baird
+5 John Harrison
+5 John Calvin = Johannes Calvin
+5 John Wesley
+5 John Cabot
+5 John Smith
+5 John Hancock
+5 John Brown
+5 John Hinckley
+5 John Kennedy junior = John F. Kennedy Jr.
+5 John Constable
+5 John Dalton
+5 John Stuart Mill
+5 John Cage
+5 John Barry
+5 John Carmack
+5 John Fashanu
+5 John Toshack

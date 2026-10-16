@@ -64,9 +64,10 @@
       "id": "essen",
       "name": "Essen & Trinken",
       "icon": "🍕",
-      "count": 1,
+      "count": 2,
       "questions": [
-        "ess-002"
+        "ess-002",
+        "ess-003"
       ]
     },
     {
@@ -125,12 +126,37 @@
       ]
     },
     {
+      "id": "marken",
+      "name": "Marken & Firmen",
+      "icon": "🏷️",
+      "count": 3,
+      "questions": [
+        "mar-001",
+        "mar-002",
+        "mar-003"
+      ]
+    },
+    {
       "id": "politik",
       "name": "Politik & Persönlichkeiten",
       "icon": "🏛️",
-      "count": 1,
+      "count": 4,
       "questions": [
-        "pol-001"
+        "pol-001",
+        "pol-002",
+        "pol-003",
+        "pol-004"
+      ]
+    },
+    {
+      "id": "alltag",
+      "name": "Alltag, Party & Technik",
+      "icon": "🎲",
+      "count": 3,
+      "questions": [
+        "all-001",
+        "all-002",
+        "all-003"
       ]
     }
   ]
