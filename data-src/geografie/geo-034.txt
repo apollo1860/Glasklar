@@ -1,0 +1,153 @@
+@id geo-034
+@text Nenne einen Münchner S-Bahnhof
+# Stationen der S-Bahn München (S1–S8, S20) inkl. Außenäste. Aus eigenem Wissen, nicht gegen die MVV-Liste geprüft –
+# fehlende Stationen bitte über das Fehlend-Log melden.
+
+1 Marienplatz
+1 Hauptbahnhof = Hbf; München Hauptbahnhof
+2 Flughafen München = Flughafen; Airport
+2 Ostbahnhof
+2 Pasing
+2 Karlsplatz (Stachus) = Karlsplatz; Stachus
+2 Isartor
+2 Hackerbrücke
+2 Donnersbergerbrücke
+3 Rosenheimer Platz
+3 Starnberg
+3 Dachau Bahnhof = Dachau
+3 Freising
+3 Erding
+3 Laim
+3 Hirschgarten
+3 Leuchtenbergring
+3 Fürstenfeldbruck
+3 Herrsching
+3 Tutzing
+3 Holzkirchen
+3 Ebersberg
+3 Wolfratshausen
+3 Grafing Bahnhof = Grafing
+3 Unterföhring
+3 Ismaning
+3 Harras
+3 Heimeranplatz
+3 Moosach
+3 Feldmoching
+3 Unterschleißheim
+3 Flughafen Besucherpark = Besucherpark
+3 Westkreuz
+3 Berg am Laim
+3 Giesing
+3 Poing
+3 Markt Schwaben
+3 Haar
+3 Germering-Unterpfaffenhofen = Germering
+3 Gauting
+3 Unterhaching
+3 Ottobrunn
+3 Solln
+4 Petershausen
+4 Vierkirchen-Esterhofen
+4 Röhrmoos
+4 Hebertshausen
+4 Dachau Stadt
+4 Karlsfeld
+4 Allach
+4 Untermenzing
+4 Obermenzing
+4 Riem
+4 Feldkirchen
+4 Heimstetten
+4 Grub
+4 Ottenhofen
+4 St. Koloman = Sankt Koloman
+4 Aufhausen
+4 Altenerding
+4 Fasanerie
+4 Oberschleißheim
+4 Lohhof
+4 Eching
+4 Neufahrn
+4 Pulling
+4 Mammendorf
+4 Malching
+4 Maisach
+4 Gernlinden
+4 Esting
+4 Olching
+4 Gröbenzell
+4 Lochhausen
+4 Langwied
+4 St.-Martin-Straße = Sankt-Martin-Straße
+4 Fasangarten
+4 Fasanenpark
+4 Taufkirchen
+4 Furth
+4 Deisenhofen
+4 Sauerlach
+4 Otterfing
+4 Geltendorf
+4 Türkenfeld
+4 Grafrath
+4 Schöngeising
+4 Buchenau
+4 Eichenau
+4 Puchheim
+4 Aubing
+4 Leienfelsstraße
+4 Trudering
+4 Gronsdorf
+4 Vaterstetten
+4 Baldham
+4 Zorneding
+4 Eglharting
+4 Kirchseeon
+4 Grafing Stadt
+4 Feldafing
+4 Possenhofen
+4 Starnberg Nord
+4 Stockdorf
+4 Planegg
+4 Gräfelfing
+4 Lochham
+4 Icking
+4 Ebenhausen-Schäftlarn
+4 Hohenschäftlarn
+4 Baierbrunn
+4 Buchenhain
+4 Höllriegelskreuth
+4 Pullach
+4 Großhesselohe Isartalbahnhof = Großhesselohe
+4 Siemenswerke
+4 Mittersendling
+4 Perlach
+4 Neuperlach Süd
+4 Neubiberg
+4 Hohenbrunn
+4 Höhenkirchen-Siegertsbrunn
+4 Aying
+4 Kreuzstraße
+4 Seefeld-Hechendorf
+4 Steinebach
+4 Weßling
+4 Neugilching
+4 Gilching-Argelsried = Gilching
+4 Geisenbrunn
+4 Harthaus
+4 Freiham
+4 Neuaubing
+4 Daglfing
+4 Englschalking
+4 Johanneskirchen
+4 Hallbergmoos
+5 Bachern
+5 Arnbach
+5 Markt Indersdorf
+5 Niederroth
+5 Schwabhausen
+5 Erdweg
+5 Altomünster
+5 Wächterhof
+5 Dürrnhaar
+5 Peiß
+5 Großhelfendorf

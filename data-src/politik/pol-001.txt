@@ -1,0 +1,51 @@
+@id pol-001
+@text Nenne einen US-Präsidenten
+@typ geschlossen
+# Alle 45 Personen, die US-Präsident waren (Stand 2026). Doppelte Nachnamen (Adams, Harrison, Johnson, Roosevelt, Bush)
+# haben nur eindeutige Aliase – der reine Nachname zeigt nichts an.
+
+1 Donald Trump = Trump; Donald J. Trump
+1 Barack Obama = Obama
+2 Joe Biden = Biden; Joseph Biden
+2 Abraham Lincoln = Lincoln; Abe Lincoln
+2 John F. Kennedy = Kennedy; JFK; John Kennedy
+2 George Washington = Washington
+2 George W. Bush = Bush junior; George Bush junior; Dubya
+2 Bill Clinton = Clinton; William Clinton
+3 Ronald Reagan = Reagan
+3 Franklin D. Roosevelt = FDR; Franklin Roosevelt
+3 Richard Nixon = Nixon
+3 Jimmy Carter = Carter
+3 George H. W. Bush = Bush senior; George Bush senior
+3 Thomas Jefferson = Jefferson
+4 Dwight D. Eisenhower = Eisenhower; Dwight Eisenhower; Ike
+4 Harry S. Truman = Truman; Harry Truman
+4 Theodore Roosevelt = Teddy Roosevelt; Theodor Roosevelt
+4 Gerald Ford = Ford
+4 Lyndon B. Johnson = LBJ; Lyndon Johnson
+4 John Adams
+4 Woodrow Wilson = Wilson
+4 Ulysses S. Grant = Grant; Ulysses Grant
+4 Andrew Jackson = Jackson
+4 James Madison = Madison
+4 James Monroe = Monroe
+4 Herbert Hoover = Hoover
+5 William McKinley = McKinley
+5 William Howard Taft = Taft
+5 Calvin Coolidge = Coolidge
+5 Warren G. Harding = Harding
+5 James K. Polk = Polk
+5 John Tyler = Tyler
+5 Martin Van Buren = Van Buren
+5 Zachary Taylor = Taylor
+5 Millard Fillmore = Fillmore
+5 Franklin Pierce = Pierce
+5 James Buchanan = Buchanan
+5 Rutherford B. Hayes = Hayes
+5 James A. Garfield = Garfield
+5 Chester A. Arthur = Arthur
+5 Grover Cleveland = Cleveland
+5 Benjamin Harrison
+5 William Henry Harrison
+5 John Quincy Adams
+5 Andrew Johnson

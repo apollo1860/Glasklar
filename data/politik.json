@@ -1,0 +1,376 @@
+[
+ {
+  "id": "pol-001",
+  "text": "Nenne einen US-Präsidenten",
+  "kategorie": "politik",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "pol-001-a0001",
+    "text": "Donald Trump",
+    "aliases": [
+     "Trump",
+     "Donald J. Trump"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-001-a0002",
+    "text": "Barack Obama",
+    "aliases": [
+     "Obama"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-001-a0003",
+    "text": "Joe Biden",
+    "aliases": [
+     "Biden",
+     "Joseph Biden"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-001-a0004",
+    "text": "Abraham Lincoln",
+    "aliases": [
+     "Lincoln",
+     "Abe Lincoln"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-001-a0005",
+    "text": "John F. Kennedy",
+    "aliases": [
+     "Kennedy",
+     "JFK",
+     "John Kennedy"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-001-a0006",
+    "text": "George Washington",
+    "aliases": [
+     "Washington"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-001-a0007",
+    "text": "George W. Bush",
+    "aliases": [
+     "Bush junior",
+     "George Bush junior",
+     "Dubya"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-001-a0008",
+    "text": "Bill Clinton",
+    "aliases": [
+     "Clinton",
+     "William Clinton"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-001-a0009",
+    "text": "Ronald Reagan",
+    "aliases": [
+     "Reagan"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-001-a0010",
+    "text": "Franklin D. Roosevelt",
+    "aliases": [
+     "FDR",
+     "Franklin Roosevelt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-001-a0011",
+    "text": "Richard Nixon",
+    "aliases": [
+     "Nixon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-001-a0012",
+    "text": "Jimmy Carter",
+    "aliases": [
+     "Carter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-001-a0013",
+    "text": "George H. W. Bush",
+    "aliases": [
+     "Bush senior",
+     "George Bush senior"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-001-a0014",
+    "text": "Thomas Jefferson",
+    "aliases": [
+     "Jefferson"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-001-a0015",
+    "text": "Dwight D. Eisenhower",
+    "aliases": [
+     "Eisenhower",
+     "Dwight Eisenhower",
+     "Ike"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0016",
+    "text": "Harry S. Truman",
+    "aliases": [
+     "Truman",
+     "Harry Truman"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0017",
+    "text": "Theodore Roosevelt",
+    "aliases": [
+     "Teddy Roosevelt",
+     "Theodor Roosevelt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0018",
+    "text": "Gerald Ford",
+    "aliases": [
+     "Ford"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0019",
+    "text": "Lyndon B. Johnson",
+    "aliases": [
+     "LBJ",
+     "Lyndon Johnson"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0020",
+    "text": "John Adams",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0021",
+    "text": "Woodrow Wilson",
+    "aliases": [
+     "Wilson"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0022",
+    "text": "Ulysses S. Grant",
+    "aliases": [
+     "Grant",
+     "Ulysses Grant"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0023",
+    "text": "Andrew Jackson",
+    "aliases": [
+     "Jackson"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0024",
+    "text": "James Madison",
+    "aliases": [
+     "Madison"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0025",
+    "text": "James Monroe",
+    "aliases": [
+     "Monroe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0026",
+    "text": "Herbert Hoover",
+    "aliases": [
+     "Hoover"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-001-a0027",
+    "text": "William McKinley",
+    "aliases": [
+     "McKinley"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0028",
+    "text": "William Howard Taft",
+    "aliases": [
+     "Taft"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0029",
+    "text": "Calvin Coolidge",
+    "aliases": [
+     "Coolidge"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0030",
+    "text": "Warren G. Harding",
+    "aliases": [
+     "Harding"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0031",
+    "text": "James K. Polk",
+    "aliases": [
+     "Polk"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0032",
+    "text": "John Tyler",
+    "aliases": [
+     "Tyler"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0033",
+    "text": "Martin Van Buren",
+    "aliases": [
+     "Van Buren"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0034",
+    "text": "Zachary Taylor",
+    "aliases": [
+     "Taylor"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0035",
+    "text": "Millard Fillmore",
+    "aliases": [
+     "Fillmore"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0036",
+    "text": "Franklin Pierce",
+    "aliases": [
+     "Pierce"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0037",
+    "text": "James Buchanan",
+    "aliases": [
+     "Buchanan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0038",
+    "text": "Rutherford B. Hayes",
+    "aliases": [
+     "Hayes"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0039",
+    "text": "James A. Garfield",
+    "aliases": [
+     "Garfield"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0040",
+    "text": "Chester A. Arthur",
+    "aliases": [
+     "Arthur"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0041",
+    "text": "Grover Cleveland",
+    "aliases": [
+     "Cleveland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0042",
+    "text": "Benjamin Harrison",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0043",
+    "text": "William Henry Harrison",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0044",
+    "text": "John Quincy Adams",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-001-a0045",
+    "text": "Andrew Johnson",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

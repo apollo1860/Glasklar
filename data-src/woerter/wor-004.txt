@@ -1,0 +1,64 @@
+@id wor-004
+@text Nenne eine Sprache, die nicht mit dem lateinischen Alphabet geschrieben wird
+@typ geschlossen
+# Lebende und historische Sprachen, deren übliche Schrift nicht lateinisch ist (Kyrillisch, Arabisch, Brahmi-Schriften,
+# chinesische Zeichen usw.). Serbisch zählt (Kyrillisch ist Amtsschrift).
+
+1 Russisch
+1 Chinesisch = Mandarin; Hochchinesisch
+1 Arabisch
+2 Japanisch
+2 Griechisch
+3 Hebräisch = Ivrit
+3 Koreanisch
+3 Hindi
+3 Thai = Thailändisch
+3 Ukrainisch
+3 Persisch = Farsi
+4 Bulgarisch
+4 Serbisch
+4 Urdu
+4 Bengalisch = Bengali; Bangla
+4 Tamil
+4 Georgisch
+4 Armenisch
+4 Mongolisch
+4 Belarussisch = Weißrussisch
+4 Mazedonisch
+4 Jiddisch
+4 Paschtu = Paschto
+4 Kantonesisch
+4 Sanskrit
+4 Aramäisch
+4 Altgriechisch
+4 Kasachisch
+5 Amharisch
+5 Tigrinya
+5 Telugu
+5 Marathi
+5 Gujarati
+5 Punjabi = Pandschabi
+5 Kannada
+5 Malayalam
+5 Singhalesisch
+5 Nepali
+5 Kirgisisch
+5 Tadschikisch
+5 Kurdisch (Sorani) = Sorani; Kurdisch
+5 Uigurisch
+5 Tibetisch
+5 Birmanisch = Burmesisch
+5 Khmer
+5 Laotisch
+5 Dzongkha
+5 Dhivehi
+5 Tatarisch
+5 Baschkirisch
+5 Tschetschenisch
+5 Odia
+5 Assamesisch
+5 Sindhi
+5 Inuktitut
+5 Cherokee
+5 Syrisch-Aramäisch = Syrisch
+5 Koptisch

@@ -1,0 +1,42 @@
+@id geo-026
+@text Nenne ein Land mit einer Dollar-Währung
+@typ geschlossen
+# Länder mit eigenem Dollar (z. B. Kanada, Taiwan, Namibia, Ostkaribischer Dollar), mit US-Dollar als offizieller Währung
+# (Ecuador, El Salvador, Panama, Osttimor, Simbabwe, pazifische Staaten) oder australischem Dollar (Kiribati, Tuvalu, Nauru).
+# Hongkong ist kein Land; Kambodscha nutzt den US-Dollar nur inoffiziell.
+
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+1 Kanada
+1 Australien
+2 Neuseeland
+3 Singapur
+3 Jamaika
+3 Bahamas
+4 Taiwan
+4 Ecuador
+4 El Salvador
+4 Panama
+4 Simbabwe
+4 Liberia
+4 Namibia
+4 Fidschi
+4 Barbados
+4 Belize
+4 Trinidad und Tobago
+5 Brunei
+5 Salomonen
+5 Guyana
+5 Suriname
+5 Antigua und Barbuda
+5 Dominica
+5 Grenada
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 Kiribati
+5 Tuvalu
+5 Nauru
+5 Osttimor = Timor-Leste
+5 Marshallinseln
+5 Mikronesien = Föderierte Staaten von Mikronesien
+5 Palau

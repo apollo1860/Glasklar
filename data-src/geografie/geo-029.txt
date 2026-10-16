@@ -1,0 +1,25 @@
+@id geo-029
+@text Nenne ein Land, das schon eine Fußball-EM der Männer ausgerichtet hat
+@typ geschlossen
+# UEFA-Europameisterschaften 1960–2024 inkl. aller Gastgeber der paneuropäischen EM 2021; Jugoslawien 1976.
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+2 Frankreich
+2 England
+2 Portugal
+2 Österreich
+2 Schweiz
+3 Polen
+3 Ukraine
+3 Niederlande = Holland
+3 Belgien
+3 Italien
+3 Spanien
+4 Schweden
+4 Dänemark
+4 Ungarn
+4 Schottland
+4 Russland = Russische Föderation
+5 Rumänien
+5 Aserbaidschan
+5 Jugoslawien

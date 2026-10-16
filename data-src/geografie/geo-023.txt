@@ -1,0 +1,18 @@
+@id geo-023
+@text Nenne eine Hauptstadt in Südamerika
+@typ geschlossen
+# Hauptstädte der 12 Staaten Südamerikas; Bolivien: Sucre (Verfassung) und La Paz (Regierungssitz). Rio ist keine Hauptstadt.
+
+1 Buenos Aires
+1 Brasília
+2 Lima
+2 Santiago de Chile = Santiago
+2 Bogotá
+2 Caracas
+3 Quito
+3 La Paz
+3 Montevideo
+3 Asunción
+4 Sucre
+4 Georgetown
+4 Paramaribo

@@ -1,0 +1,48 @@
+@id geo-030
+@text Nenne ein Land für All-inclusive-Urlaub
+@typ geschlossen
+# Länder mit einem nennenswerten Angebot an All-inclusive-Hotels bei deutschen Reiseveranstaltern.
+
+1 Türkei = Türkiye
+1 Ägypten
+2 Spanien
+2 Griechenland
+2 Tunesien
+2 Dominikanische Republik
+3 Mexiko
+3 Kuba
+3 Bulgarien
+3 Marokko
+3 Malediven
+3 Mauritius
+3 Jamaika
+3 Zypern
+3 Kap Verde = Cabo Verde
+3 Vereinigte Arabische Emirate = VAE; Emirate
+4 Thailand
+4 Kroatien
+4 Italien
+4 Portugal
+4 Montenegro
+4 Albanien
+4 Malta
+4 Sri Lanka
+4 Kenia
+4 Tansania
+4 Seychellen
+4 Oman
+4 Bahamas
+4 Costa Rica
+4 Indonesien
+4 St. Lucia = Saint Lucia; Sankt Lucia
+5 Jordanien
+5 Katar
+5 Barbados
+5 Panama
+5 Brasilien
+5 Vietnam
+5 Philippinen
+5 Senegal
+5 Gambia
+5 Kolumbien
+5 Antigua und Barbuda

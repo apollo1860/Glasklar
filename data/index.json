@@ -6,7 +6,7 @@
       "id": "geografie",
       "name": "Geografie",
       "icon": "🌍",
-      "count": 21,
+      "count": 34,
       "questions": [
         "geo-001",
         "geo-002",
@@ -28,7 +28,20 @@
         "geo-018",
         "geo-019",
         "geo-020",
-        "geo-021"
+        "geo-021",
+        "geo-022",
+        "geo-023",
+        "geo-024",
+        "geo-025",
+        "geo-026",
+        "geo-027",
+        "geo-028",
+        "geo-029",
+        "geo-030",
+        "geo-031",
+        "geo-032",
+        "geo-033",
+        "geo-034"
       ]
     },
     {
@@ -62,9 +75,19 @@
       "id": "woerter",
       "name": "Wörter & Sprache",
       "icon": "🔤",
+      "count": 2,
+      "questions": [
+        "wor-003",
+        "wor-004"
+      ]
+    },
+    {
+      "id": "politik",
+      "name": "Politik & Persönlichkeiten",
+      "icon": "🏛️",
       "count": 1,
       "questions": [
-        "wor-003"
+        "pol-001"
       ]
     }
   ]

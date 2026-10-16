@@ -1,0 +1,29 @@
+@id geo-024
+@text Nenne eine Hauptstadt in Mittel- oder Nordamerika
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Mittel- oder Nordamerika". New York ist keine Hauptstadt.
+
+1 Washington, D.C. = Washington
+1 Mexiko-Stadt = Mexico City; Ciudad de México
+2 Ottawa
+2 Havanna = La Habana
+3 San José
+3 Panama-Stadt = Panama City
+3 Kingston
+3 Santo Domingo
+3 Port-au-Prince
+3 Nassau
+3 Guatemala-Stadt = Guatemala City
+3 San Salvador
+4 Tegucigalpa
+4 Managua
+4 Belmopan
+4 Bridgetown
+4 Port of Spain
+4 Nuuk
+5 St. George’s = Saint George’s
+5 Castries
+5 Kingstown
+5 Basseterre
+5 St. John’s = Saint John’s
+5 Roseau

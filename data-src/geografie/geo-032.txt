@@ -1,0 +1,86 @@
+@id geo-032
+@text Nenne eine deutsche Stadt mit mindestens 100.000 Einwohnern
+# Alle Großstädte laut Destatis (Stand 2023, Basis Zensus 2022). Grenzfälle knapp unter 100.000 (Cottbus, Schwerin) fehlen.
+
+1 Berlin
+1 Hamburg
+1 München
+2 Köln
+2 Frankfurt am Main = Frankfurt
+2 Stuttgart
+2 Düsseldorf
+2 Dresden
+3 Leipzig
+3 Dortmund
+3 Bremen
+3 Hannover
+3 Nürnberg
+3 Essen
+3 Duisburg
+3 Bochum
+3 Bonn
+3 Münster
+3 Augsburg
+3 Karlsruhe
+3 Mannheim
+3 Wiesbaden
+3 Kiel
+3 Rostock
+3 Freiburg im Breisgau = Freiburg
+3 Heidelberg
+3 Mainz
+3 Aachen
+3 Bielefeld
+3 Wuppertal
+3 Regensburg
+3 Würzburg
+3 Ingolstadt
+3 Wolfsburg
+3 Erfurt
+3 Magdeburg
+3 Potsdam
+3 Lübeck
+3 Chemnitz
+3 Braunschweig
+4 Halle (Saale) = Halle; Halle an der Saale
+4 Gelsenkirchen
+4 Mönchengladbach
+4 Krefeld
+4 Oberhausen
+4 Kassel
+4 Hagen
+4 Saarbrücken
+4 Hamm
+4 Ludwigshafen am Rhein = Ludwigshafen
+4 Oldenburg
+4 Mülheim an der Ruhr = Mülheim
+4 Osnabrück
+4 Leverkusen
+4 Darmstadt
+4 Solingen
+4 Herne
+4 Neuss
+4 Paderborn
+4 Offenbach am Main = Offenbach
+4 Fürth
+4 Ulm
+4 Heilbronn
+4 Pforzheim
+4 Göttingen
+4 Erlangen
+4 Bremerhaven
+4 Koblenz
+4 Trier
+4 Jena
+4 Kaiserslautern
+5 Bottrop
+5 Reutlingen
+5 Bergisch Gladbach
+5 Remscheid
+5 Recklinghausen
+5 Moers
+5 Salzgitter
+5 Siegen
+5 Gütersloh
+5 Hildesheim
+5 Hanau

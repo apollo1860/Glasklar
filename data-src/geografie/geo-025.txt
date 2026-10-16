@@ -1,0 +1,33 @@
+@id geo-025
+@text Nenne ein Land mit dem Euro als Währung
+@typ geschlossen
+# Stand 2026: 21 Eurozonen-Staaten (inkl. Kroatien 2023, Bulgarien 2026), dazu per Abkommen Monaco, San Marino,
+# Vatikanstadt, Andorra und einseitig Kosovo und Montenegro.
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Frankreich
+2 Italien
+2 Spanien
+2 Österreich
+2 Niederlande = Holland
+3 Belgien
+3 Portugal
+3 Griechenland
+3 Irland
+3 Luxemburg
+3 Finnland
+3 Kroatien
+4 Slowakei
+4 Slowenien
+4 Estland
+4 Lettland
+4 Litauen
+4 Malta
+4 Zypern
+4 Bulgarien
+4 Monaco
+4 Vatikanstadt = Vatikan; Heiliger Stuhl
+5 San Marino
+5 Andorra
+5 Kosovo
+5 Montenegro

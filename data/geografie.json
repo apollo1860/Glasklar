@@ -5051,5 +5051,3856 @@
     "tier": 4
    }
   ]
+ },
+ {
+  "id": "geo-022",
+  "text": "Nenne eine Hauptstadt im Süden Afrikas",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-022-a0001",
+    "text": "Pretoria",
+    "aliases": [
+     "Tshwane"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-022-a0002",
+    "text": "Kapstadt",
+    "aliases": [
+     "Cape Town"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-022-a0003",
+    "text": "Windhuk",
+    "aliases": [
+     "Windhoek"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-022-a0004",
+    "text": "Harare",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-022-a0005",
+    "text": "Gaborone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-022-a0006",
+    "text": "Maputo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-022-a0007",
+    "text": "Bloemfontein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-022-a0008",
+    "text": "Lusaka",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-022-a0009",
+    "text": "Luanda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-022-a0010",
+    "text": "Maseru",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-022-a0011",
+    "text": "Mbabane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-022-a0012",
+    "text": "Lilongwe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-022-a0013",
+    "text": "Antananarivo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-022-a0014",
+    "text": "Lobamba",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-023",
+  "text": "Nenne eine Hauptstadt in Südamerika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-023-a0001",
+    "text": "Buenos Aires",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-023-a0002",
+    "text": "Brasília",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-023-a0003",
+    "text": "Lima",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-023-a0004",
+    "text": "Santiago de Chile",
+    "aliases": [
+     "Santiago"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-023-a0005",
+    "text": "Bogotá",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-023-a0006",
+    "text": "Caracas",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-023-a0007",
+    "text": "Quito",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-023-a0008",
+    "text": "La Paz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-023-a0009",
+    "text": "Montevideo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-023-a0010",
+    "text": "Asunción",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-023-a0011",
+    "text": "Sucre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-023-a0012",
+    "text": "Georgetown",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-023-a0013",
+    "text": "Paramaribo",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "geo-024",
+  "text": "Nenne eine Hauptstadt in Mittel- oder Nordamerika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-024-a0001",
+    "text": "Washington, D.C.",
+    "aliases": [
+     "Washington"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-024-a0002",
+    "text": "Mexiko-Stadt",
+    "aliases": [
+     "Mexico City",
+     "Ciudad de México"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-024-a0003",
+    "text": "Ottawa",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-024-a0004",
+    "text": "Havanna",
+    "aliases": [
+     "La Habana"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-024-a0005",
+    "text": "San José",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0006",
+    "text": "Panama-Stadt",
+    "aliases": [
+     "Panama City"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0007",
+    "text": "Kingston",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0008",
+    "text": "Santo Domingo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0009",
+    "text": "Port-au-Prince",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0010",
+    "text": "Nassau",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0011",
+    "text": "Guatemala-Stadt",
+    "aliases": [
+     "Guatemala City"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0012",
+    "text": "San Salvador",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-024-a0013",
+    "text": "Tegucigalpa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-024-a0014",
+    "text": "Managua",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-024-a0015",
+    "text": "Belmopan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-024-a0016",
+    "text": "Bridgetown",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-024-a0017",
+    "text": "Port of Spain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-024-a0018",
+    "text": "Nuuk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-024-a0019",
+    "text": "St. George’s",
+    "aliases": [
+     "Saint George’s"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-024-a0020",
+    "text": "Castries",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-024-a0021",
+    "text": "Kingstown",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-024-a0022",
+    "text": "Basseterre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-024-a0023",
+    "text": "St. John’s",
+    "aliases": [
+     "Saint John’s"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-024-a0024",
+    "text": "Roseau",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-025",
+  "text": "Nenne ein Land mit dem Euro als Währung",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-025-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-025-a0002",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-025-a0003",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-025-a0004",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-025-a0005",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-025-a0006",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-025-a0007",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0008",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0009",
+    "text": "Griechenland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0010",
+    "text": "Irland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0011",
+    "text": "Luxemburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0012",
+    "text": "Finnland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0013",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-025-a0014",
+    "text": "Slowakei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0015",
+    "text": "Slowenien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0016",
+    "text": "Estland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0017",
+    "text": "Lettland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0018",
+    "text": "Litauen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0019",
+    "text": "Malta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0020",
+    "text": "Zypern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0021",
+    "text": "Bulgarien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0022",
+    "text": "Monaco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0023",
+    "text": "Vatikanstadt",
+    "aliases": [
+     "Vatikan",
+     "Heiliger Stuhl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-025-a0024",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-025-a0025",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-025-a0026",
+    "text": "Kosovo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-025-a0027",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-026",
+  "text": "Nenne ein Land mit einer Dollar-Währung",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-026-a0001",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-026-a0002",
+    "text": "Kanada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-026-a0003",
+    "text": "Australien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-026-a0004",
+    "text": "Neuseeland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-026-a0005",
+    "text": "Singapur",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-026-a0006",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-026-a0007",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-026-a0008",
+    "text": "Taiwan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0009",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0010",
+    "text": "El Salvador",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0011",
+    "text": "Panama",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0012",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0013",
+    "text": "Liberia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0014",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0015",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0016",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0017",
+    "text": "Belize",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0018",
+    "text": "Trinidad und Tobago",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-026-a0019",
+    "text": "Brunei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0020",
+    "text": "Salomonen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0021",
+    "text": "Guyana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0022",
+    "text": "Suriname",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0023",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0024",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0025",
+    "text": "Grenada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0026",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0027",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0028",
+    "text": "St. Vincent und die Grenadinen",
+    "aliases": [
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0029",
+    "text": "Kiribati",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0030",
+    "text": "Tuvalu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0031",
+    "text": "Nauru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0032",
+    "text": "Osttimor",
+    "aliases": [
+     "Timor-Leste"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0033",
+    "text": "Marshallinseln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0034",
+    "text": "Mikronesien",
+    "aliases": [
+     "Föderierte Staaten von Mikronesien"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-026-a0035",
+    "text": "Palau",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-027",
+  "text": "Nenne ein Land, das schon Olympische Spiele ausgerichtet hat",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-027-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-027-a0002",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-027-a0003",
+    "text": "Griechenland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-027-a0004",
+    "text": "China",
+    "aliases": [
+     "Volksrepublik China"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-027-a0005",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-027-a0006",
+    "text": "Japan",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-027-a0007",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-027-a0008",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0009",
+    "text": "England",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0010",
+    "text": "Australien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0011",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0012",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0013",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0014",
+    "text": "Kanada",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0015",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0016",
+    "text": "Norwegen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-027-a0017",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0018",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0019",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0020",
+    "text": "Schweden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0021",
+    "text": "Finnland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0022",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0023",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0024",
+    "text": "Sowjetunion",
+    "aliases": [
+     "UdSSR"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-027-a0025",
+    "text": "Jugoslawien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-027-a0026",
+    "text": "Bosnien und Herzegowina",
+    "aliases": [
+     "Bosnien"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-028",
+  "text": "Nenne ein Land, das schon eine Fußball-WM der Männer ausgerichtet hat",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-028-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-028-a0002",
+    "text": "Katar",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-028-a0003",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-028-a0004",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-028-a0005",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-028-a0006",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-028-a0007",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-028-a0008",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0009",
+    "text": "England",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0010",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0011",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0012",
+    "text": "Japan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0013",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0014",
+    "text": "Argentinien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0015",
+    "text": "Kanada",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-028-a0016",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-028-a0017",
+    "text": "Schweden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-028-a0018",
+    "text": "Chile",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-028-a0019",
+    "text": "Uruguay",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "geo-029",
+  "text": "Nenne ein Land, das schon eine Fußball-EM der Männer ausgerichtet hat",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-029-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-029-a0002",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-029-a0003",
+    "text": "England",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-029-a0004",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-029-a0005",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-029-a0006",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-029-a0007",
+    "text": "Polen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-029-a0008",
+    "text": "Ukraine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-029-a0009",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-029-a0010",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-029-a0011",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-029-a0012",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-029-a0013",
+    "text": "Schweden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-029-a0014",
+    "text": "Dänemark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-029-a0015",
+    "text": "Ungarn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-029-a0016",
+    "text": "Schottland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-029-a0017",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-029-a0018",
+    "text": "Rumänien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-029-a0019",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-029-a0020",
+    "text": "Jugoslawien",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-030",
+  "text": "Nenne ein Land für All-inclusive-Urlaub",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-030-a0001",
+    "text": "Türkei",
+    "aliases": [
+     "Türkiye"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-030-a0002",
+    "text": "Ägypten",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-030-a0003",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-030-a0004",
+    "text": "Griechenland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-030-a0005",
+    "text": "Tunesien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-030-a0006",
+    "text": "Dominikanische Republik",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-030-a0007",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0008",
+    "text": "Kuba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0009",
+    "text": "Bulgarien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0010",
+    "text": "Marokko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0011",
+    "text": "Malediven",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0012",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0013",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0014",
+    "text": "Zypern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0015",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0016",
+    "text": "Vereinigte Arabische Emirate",
+    "aliases": [
+     "VAE",
+     "Emirate"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-030-a0017",
+    "text": "Thailand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0018",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0019",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0020",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0021",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0022",
+    "text": "Albanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0023",
+    "text": "Malta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0024",
+    "text": "Sri Lanka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0025",
+    "text": "Kenia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0026",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0027",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0028",
+    "text": "Oman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0029",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0030",
+    "text": "Costa Rica",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0031",
+    "text": "Indonesien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0032",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-030-a0033",
+    "text": "Jordanien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0034",
+    "text": "Katar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0035",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0036",
+    "text": "Panama",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0037",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0038",
+    "text": "Vietnam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0039",
+    "text": "Philippinen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0040",
+    "text": "Senegal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0041",
+    "text": "Gambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0042",
+    "text": "Kolumbien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-030-a0043",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-031",
+  "text": "Nenne einen Bundesstaat der USA",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-031-a0001",
+    "text": "Kalifornien",
+    "aliases": [
+     "California"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-031-a0002",
+    "text": "Texas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-031-a0003",
+    "text": "Florida",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-031-a0004",
+    "text": "New York",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-031-a0005",
+    "text": "Hawaii",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-031-a0006",
+    "text": "Alaska",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-031-a0007",
+    "text": "Nevada",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0008",
+    "text": "Arizona",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0009",
+    "text": "Washington",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0010",
+    "text": "Colorado",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0011",
+    "text": "Georgia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0012",
+    "text": "Illinois",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0013",
+    "text": "Ohio",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0014",
+    "text": "Michigan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0015",
+    "text": "Massachusetts",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0016",
+    "text": "Louisiana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0017",
+    "text": "Utah",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0018",
+    "text": "Oregon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0019",
+    "text": "Tennessee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0020",
+    "text": "Pennsylvania",
+    "aliases": [
+     "Pennsylvanien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0021",
+    "text": "Virginia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0022",
+    "text": "New Jersey",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0023",
+    "text": "Kentucky",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0024",
+    "text": "Alabama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0025",
+    "text": "Mississippi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-031-a0026",
+    "text": "North Carolina",
+    "aliases": [
+     "Nordkarolina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0027",
+    "text": "South Carolina",
+    "aliases": [
+     "Südkarolina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0028",
+    "text": "Montana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0029",
+    "text": "Wyoming",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0030",
+    "text": "Idaho",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0031",
+    "text": "Kansas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0032",
+    "text": "Nebraska",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0033",
+    "text": "Oklahoma",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0034",
+    "text": "Iowa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0035",
+    "text": "Missouri",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0036",
+    "text": "Minnesota",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0037",
+    "text": "Wisconsin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0038",
+    "text": "Indiana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0039",
+    "text": "Arkansas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0040",
+    "text": "New Mexico",
+    "aliases": [
+     "Neumexiko"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0041",
+    "text": "Maine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0042",
+    "text": "Vermont",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0043",
+    "text": "Connecticut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0044",
+    "text": "Maryland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0045",
+    "text": "North Dakota",
+    "aliases": [
+     "Norddakota"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0046",
+    "text": "South Dakota",
+    "aliases": [
+     "Süddakota"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0047",
+    "text": "West Virginia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-031-a0048",
+    "text": "Delaware",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-031-a0049",
+    "text": "Rhode Island",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-031-a0050",
+    "text": "New Hampshire",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-032",
+  "text": "Nenne eine deutsche Stadt mit mindestens 100.000 Einwohnern",
+  "kategorie": "geografie",
+  "answers": [
+   {
+    "id": "geo-032-a0001",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-032-a0002",
+    "text": "Hamburg",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-032-a0003",
+    "text": "München",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-032-a0004",
+    "text": "Köln",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-032-a0005",
+    "text": "Frankfurt am Main",
+    "aliases": [
+     "Frankfurt"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-032-a0006",
+    "text": "Stuttgart",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-032-a0007",
+    "text": "Düsseldorf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-032-a0008",
+    "text": "Dresden",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-032-a0009",
+    "text": "Leipzig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0010",
+    "text": "Dortmund",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0011",
+    "text": "Bremen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0012",
+    "text": "Hannover",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0013",
+    "text": "Nürnberg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0014",
+    "text": "Essen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0015",
+    "text": "Duisburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0016",
+    "text": "Bochum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0017",
+    "text": "Bonn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0018",
+    "text": "Münster",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0019",
+    "text": "Augsburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0020",
+    "text": "Karlsruhe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0021",
+    "text": "Mannheim",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0022",
+    "text": "Wiesbaden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0023",
+    "text": "Kiel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0024",
+    "text": "Rostock",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0025",
+    "text": "Freiburg im Breisgau",
+    "aliases": [
+     "Freiburg"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0026",
+    "text": "Heidelberg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0027",
+    "text": "Mainz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0028",
+    "text": "Aachen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0029",
+    "text": "Bielefeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0030",
+    "text": "Wuppertal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0031",
+    "text": "Regensburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0032",
+    "text": "Würzburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0033",
+    "text": "Ingolstadt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0034",
+    "text": "Wolfsburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0035",
+    "text": "Erfurt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0036",
+    "text": "Magdeburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0037",
+    "text": "Potsdam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0038",
+    "text": "Lübeck",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0039",
+    "text": "Chemnitz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0040",
+    "text": "Braunschweig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-032-a0041",
+    "text": "Halle (Saale)",
+    "aliases": [
+     "Halle",
+     "Halle an der Saale"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0042",
+    "text": "Gelsenkirchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0043",
+    "text": "Mönchengladbach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0044",
+    "text": "Krefeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0045",
+    "text": "Oberhausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0046",
+    "text": "Kassel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0047",
+    "text": "Hagen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0048",
+    "text": "Saarbrücken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0049",
+    "text": "Hamm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0050",
+    "text": "Ludwigshafen am Rhein",
+    "aliases": [
+     "Ludwigshafen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0051",
+    "text": "Oldenburg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0052",
+    "text": "Mülheim an der Ruhr",
+    "aliases": [
+     "Mülheim"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0053",
+    "text": "Osnabrück",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0054",
+    "text": "Leverkusen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0055",
+    "text": "Darmstadt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0056",
+    "text": "Solingen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0057",
+    "text": "Herne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0058",
+    "text": "Neuss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0059",
+    "text": "Paderborn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0060",
+    "text": "Offenbach am Main",
+    "aliases": [
+     "Offenbach"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0061",
+    "text": "Fürth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0062",
+    "text": "Ulm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0063",
+    "text": "Heilbronn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0064",
+    "text": "Pforzheim",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0065",
+    "text": "Göttingen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0066",
+    "text": "Erlangen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0067",
+    "text": "Bremerhaven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0068",
+    "text": "Koblenz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0069",
+    "text": "Trier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0070",
+    "text": "Jena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0071",
+    "text": "Kaiserslautern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-032-a0072",
+    "text": "Bottrop",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0073",
+    "text": "Reutlingen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0074",
+    "text": "Bergisch Gladbach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0075",
+    "text": "Remscheid",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0076",
+    "text": "Recklinghausen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0077",
+    "text": "Moers",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0078",
+    "text": "Salzgitter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0079",
+    "text": "Siegen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0080",
+    "text": "Gütersloh",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0081",
+    "text": "Hildesheim",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-032-a0082",
+    "text": "Hanau",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-033",
+  "text": "Nenne einen Münchner U-Bahnhof",
+  "kategorie": "geografie",
+  "answers": [
+   {
+    "id": "geo-033-a0001",
+    "text": "Marienplatz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-033-a0002",
+    "text": "Hauptbahnhof",
+    "aliases": [
+     "Hbf",
+     "München Hauptbahnhof"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-033-a0003",
+    "text": "Odeonsplatz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0004",
+    "text": "Sendlinger Tor",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0005",
+    "text": "Münchner Freiheit",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0006",
+    "text": "Karlsplatz (Stachus)",
+    "aliases": [
+     "Karlsplatz",
+     "Stachus"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0007",
+    "text": "Olympiazentrum",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0008",
+    "text": "Universität",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0009",
+    "text": "Fröttmaning",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0010",
+    "text": "Theresienwiese",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-033-a0011",
+    "text": "Ostbahnhof",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0012",
+    "text": "Goetheplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0013",
+    "text": "Rotkreuzplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0014",
+    "text": "Giselastraße",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0015",
+    "text": "Königsplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0016",
+    "text": "Max-Weber-Platz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0017",
+    "text": "Implerstraße",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0018",
+    "text": "Scheidplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0019",
+    "text": "Harras",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0020",
+    "text": "Garching",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0021",
+    "text": "Garching-Forschungszentrum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0022",
+    "text": "Klinikum Großhadern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0023",
+    "text": "Studentenstadt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0024",
+    "text": "Kolumbusplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0025",
+    "text": "Lehel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0026",
+    "text": "Prinzregentenplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0027",
+    "text": "Moosach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0028",
+    "text": "Giesing",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0029",
+    "text": "Westfriedhof",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0030",
+    "text": "Innsbrucker Ring",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0031",
+    "text": "Neuperlach Zentrum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0032",
+    "text": "Olympia-Einkaufszentrum",
+    "aliases": [
+     "OEZ"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0033",
+    "text": "Heimeranplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0034",
+    "text": "Theresienstraße",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-033-a0035",
+    "text": "Poccistraße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0036",
+    "text": "Fraunhoferstraße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0037",
+    "text": "Hohenzollernplatz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0038",
+    "text": "Josephsplatz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0039",
+    "text": "Schwanthalerhöhe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0040",
+    "text": "Westendstraße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0041",
+    "text": "Laimer Platz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0042",
+    "text": "Thalkirchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0043",
+    "text": "Arabellapark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0044",
+    "text": "Petuelring",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0045",
+    "text": "Bonner Platz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0046",
+    "text": "Nordfriedhof",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0047",
+    "text": "Kieferngarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0048",
+    "text": "Freimann",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0049",
+    "text": "Alte Heide",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0050",
+    "text": "Westpark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0051",
+    "text": "Großhadern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0052",
+    "text": "Messestadt West",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0053",
+    "text": "Messestadt Ost",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0054",
+    "text": "Candidplatz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0055",
+    "text": "Wettersteinplatz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0056",
+    "text": "Feldmoching",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0057",
+    "text": "Hasenbergl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0058",
+    "text": "Milbertshofen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0059",
+    "text": "Trudering",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0060",
+    "text": "Michaelibad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0061",
+    "text": "Neuperlach Süd",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0062",
+    "text": "Georg-Brauchle-Ring",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0063",
+    "text": "Maillingerstraße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0064",
+    "text": "Stiglmaierplatz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0065",
+    "text": "Frankfurter Ring",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0066",
+    "text": "Obersendling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-033-a0067",
+    "text": "Mangfallplatz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0068",
+    "text": "St.-Quirin-Platz",
+    "aliases": [
+     "Sankt-Quirin-Platz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0069",
+    "text": "Gern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0070",
+    "text": "Dülferstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0071",
+    "text": "Harthof",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0072",
+    "text": "Am Hart",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0073",
+    "text": "Silberhornstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0074",
+    "text": "Untersbergstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0075",
+    "text": "Karl-Preis-Platz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0076",
+    "text": "Josephsburg",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0077",
+    "text": "Kreillerstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0078",
+    "text": "Moosfeld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0079",
+    "text": "Moosacher St.-Martins-Platz",
+    "aliases": [
+     "Moosacher Sankt-Martins-Platz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0080",
+    "text": "Oberwiesenfeld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0081",
+    "text": "Brudermühlstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0082",
+    "text": "Aidenbachstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0083",
+    "text": "Machtlfinger Straße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0084",
+    "text": "Forstenrieder Allee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0085",
+    "text": "Basler Straße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0086",
+    "text": "Fürstenried West",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0087",
+    "text": "Böhmerwaldplatz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0088",
+    "text": "Richard-Strauss-Straße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0089",
+    "text": "Friedenheimer Straße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0090",
+    "text": "Quiddestraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0091",
+    "text": "Therese-Giehse-Allee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0092",
+    "text": "Garching-Hochbrück",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0093",
+    "text": "Dietlindenstraße",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0094",
+    "text": "Partnachplatz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0095",
+    "text": "Holzapfelkreuth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-033-a0096",
+    "text": "Haderner Stern",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-034",
+  "text": "Nenne einen Münchner S-Bahnhof",
+  "kategorie": "geografie",
+  "answers": [
+   {
+    "id": "geo-034-a0001",
+    "text": "Marienplatz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-034-a0002",
+    "text": "Hauptbahnhof",
+    "aliases": [
+     "Hbf",
+     "München Hauptbahnhof"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-034-a0003",
+    "text": "Flughafen München",
+    "aliases": [
+     "Flughafen",
+     "Airport"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0004",
+    "text": "Ostbahnhof",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0005",
+    "text": "Pasing",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0006",
+    "text": "Karlsplatz (Stachus)",
+    "aliases": [
+     "Karlsplatz",
+     "Stachus"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0007",
+    "text": "Isartor",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0008",
+    "text": "Hackerbrücke",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0009",
+    "text": "Donnersbergerbrücke",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-034-a0010",
+    "text": "Rosenheimer Platz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0011",
+    "text": "Starnberg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0012",
+    "text": "Dachau Bahnhof",
+    "aliases": [
+     "Dachau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0013",
+    "text": "Freising",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0014",
+    "text": "Erding",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0015",
+    "text": "Laim",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0016",
+    "text": "Hirschgarten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0017",
+    "text": "Leuchtenbergring",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0018",
+    "text": "Fürstenfeldbruck",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0019",
+    "text": "Herrsching",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0020",
+    "text": "Tutzing",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0021",
+    "text": "Holzkirchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0022",
+    "text": "Ebersberg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0023",
+    "text": "Wolfratshausen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0024",
+    "text": "Grafing Bahnhof",
+    "aliases": [
+     "Grafing"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0025",
+    "text": "Unterföhring",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0026",
+    "text": "Ismaning",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0027",
+    "text": "Harras",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0028",
+    "text": "Heimeranplatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0029",
+    "text": "Moosach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0030",
+    "text": "Feldmoching",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0031",
+    "text": "Unterschleißheim",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0032",
+    "text": "Flughafen Besucherpark",
+    "aliases": [
+     "Besucherpark"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0033",
+    "text": "Westkreuz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0034",
+    "text": "Berg am Laim",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0035",
+    "text": "Giesing",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0036",
+    "text": "Poing",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0037",
+    "text": "Markt Schwaben",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0038",
+    "text": "Haar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0039",
+    "text": "Germering-Unterpfaffenhofen",
+    "aliases": [
+     "Germering"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0040",
+    "text": "Gauting",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0041",
+    "text": "Unterhaching",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0042",
+    "text": "Ottobrunn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0043",
+    "text": "Solln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-034-a0044",
+    "text": "Petershausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0045",
+    "text": "Vierkirchen-Esterhofen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0046",
+    "text": "Röhrmoos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0047",
+    "text": "Hebertshausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0048",
+    "text": "Dachau Stadt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0049",
+    "text": "Karlsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0050",
+    "text": "Allach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0051",
+    "text": "Untermenzing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0052",
+    "text": "Obermenzing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0053",
+    "text": "Riem",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0054",
+    "text": "Feldkirchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0055",
+    "text": "Heimstetten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0056",
+    "text": "Grub",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0057",
+    "text": "Ottenhofen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0058",
+    "text": "St. Koloman",
+    "aliases": [
+     "Sankt Koloman"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0059",
+    "text": "Aufhausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0060",
+    "text": "Altenerding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0061",
+    "text": "Fasanerie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0062",
+    "text": "Oberschleißheim",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0063",
+    "text": "Lohhof",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0064",
+    "text": "Eching",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0065",
+    "text": "Neufahrn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0066",
+    "text": "Pulling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0067",
+    "text": "Mammendorf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0068",
+    "text": "Malching",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0069",
+    "text": "Maisach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0070",
+    "text": "Gernlinden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0071",
+    "text": "Esting",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0072",
+    "text": "Olching",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0073",
+    "text": "Gröbenzell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0074",
+    "text": "Lochhausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0075",
+    "text": "Langwied",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0076",
+    "text": "St.-Martin-Straße",
+    "aliases": [
+     "Sankt-Martin-Straße"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0077",
+    "text": "Fasangarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0078",
+    "text": "Fasanenpark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0079",
+    "text": "Taufkirchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0080",
+    "text": "Furth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0081",
+    "text": "Deisenhofen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0082",
+    "text": "Sauerlach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0083",
+    "text": "Otterfing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0084",
+    "text": "Geltendorf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0085",
+    "text": "Türkenfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0086",
+    "text": "Grafrath",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0087",
+    "text": "Schöngeising",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0088",
+    "text": "Buchenau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0089",
+    "text": "Eichenau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0090",
+    "text": "Puchheim",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0091",
+    "text": "Aubing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0092",
+    "text": "Leienfelsstraße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0093",
+    "text": "Trudering",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0094",
+    "text": "Gronsdorf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0095",
+    "text": "Vaterstetten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0096",
+    "text": "Baldham",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0097",
+    "text": "Zorneding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0098",
+    "text": "Eglharting",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0099",
+    "text": "Kirchseeon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0100",
+    "text": "Grafing Stadt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0101",
+    "text": "Feldafing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0102",
+    "text": "Possenhofen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0103",
+    "text": "Starnberg Nord",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0104",
+    "text": "Stockdorf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0105",
+    "text": "Planegg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0106",
+    "text": "Gräfelfing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0107",
+    "text": "Lochham",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0108",
+    "text": "Icking",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0109",
+    "text": "Ebenhausen-Schäftlarn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0110",
+    "text": "Hohenschäftlarn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0111",
+    "text": "Baierbrunn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0112",
+    "text": "Buchenhain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0113",
+    "text": "Höllriegelskreuth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0114",
+    "text": "Pullach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0115",
+    "text": "Großhesselohe Isartalbahnhof",
+    "aliases": [
+     "Großhesselohe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0116",
+    "text": "Siemenswerke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0117",
+    "text": "Mittersendling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0118",
+    "text": "Perlach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0119",
+    "text": "Neuperlach Süd",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0120",
+    "text": "Neubiberg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0121",
+    "text": "Hohenbrunn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0122",
+    "text": "Höhenkirchen-Siegertsbrunn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0123",
+    "text": "Aying",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0124",
+    "text": "Kreuzstraße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0125",
+    "text": "Seefeld-Hechendorf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0126",
+    "text": "Steinebach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0127",
+    "text": "Weßling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0128",
+    "text": "Neugilching",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0129",
+    "text": "Gilching-Argelsried",
+    "aliases": [
+     "Gilching"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0130",
+    "text": "Geisenbrunn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0131",
+    "text": "Harthaus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0132",
+    "text": "Freiham",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0133",
+    "text": "Neuaubing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0134",
+    "text": "Daglfing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0135",
+    "text": "Englschalking",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0136",
+    "text": "Johanneskirchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0137",
+    "text": "Hallbergmoos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-034-a0138",
+    "text": "Bachern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0139",
+    "text": "Arnbach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0140",
+    "text": "Markt Indersdorf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0141",
+    "text": "Niederroth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0142",
+    "text": "Schwabhausen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0143",
+    "text": "Erdweg",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0144",
+    "text": "Altomünster",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0145",
+    "text": "Wächterhof",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0146",
+    "text": "Dürrnhaar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0147",
+    "text": "Peiß",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-034-a0148",
+    "text": "Großhelfendorf",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

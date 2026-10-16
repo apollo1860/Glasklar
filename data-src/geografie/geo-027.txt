@@ -1,0 +1,33 @@
+@id geo-027
+@text Nenne ein Land, das schon Olympische Spiele ausgerichtet hat
+@typ geschlossen
+# Sommer- und Winterspiele bis einschließlich 2026 (Mailand/Cortina). Historische Staaten zählen
+# (Sowjetunion 1980, Jugoslawien 1984), ebenso deren Nachfolger mit Austragungsort (Russland, Bosnien und Herzegowina).
+# England zählt für London 1908/1948/2012.
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+2 Griechenland
+2 China = Volksrepublik China
+2 Frankreich
+2 Japan
+2 Brasilien
+3 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+3 England
+3 Australien
+3 Russland = Russische Föderation
+3 Spanien
+3 Italien
+3 Kanada
+3 Südkorea = Korea; Republik Korea
+3 Norwegen
+4 Mexiko
+4 Niederlande = Holland
+4 Belgien
+4 Schweden
+4 Finnland
+4 Schweiz
+4 Österreich
+4 Sowjetunion = UdSSR
+5 Jugoslawien
+5 Bosnien und Herzegowina = Bosnien

@@ -1,0 +1,24 @@
+@id geo-028
+@text Nenne ein Land, das schon eine Fußball-WM der Männer ausgerichtet hat
+@typ geschlossen
+# FIFA-Weltmeisterschaften 1930–2026 (2002 Japan/Südkorea, 2026 USA/Kanada/Mexiko).
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Katar
+2 Brasilien
+2 Russland = Russische Föderation
+2 Südafrika
+2 Frankreich
+2 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+3 Italien
+3 England
+3 Spanien
+3 Mexiko
+3 Japan
+3 Südkorea = Korea; Republik Korea
+3 Argentinien
+3 Kanada
+4 Schweiz
+4 Schweden
+4 Chile
+4 Uruguay

@@ -686,5 +686,386 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "wor-004",
+  "text": "Nenne eine Sprache, die nicht mit dem lateinischen Alphabet geschrieben wird",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-004-a0001",
+    "text": "Russisch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-004-a0002",
+    "text": "Chinesisch",
+    "aliases": [
+     "Mandarin",
+     "Hochchinesisch"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-004-a0003",
+    "text": "Arabisch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-004-a0004",
+    "text": "Japanisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-004-a0005",
+    "text": "Griechisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-004-a0006",
+    "text": "Hebräisch",
+    "aliases": [
+     "Ivrit"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-004-a0007",
+    "text": "Koreanisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-004-a0008",
+    "text": "Hindi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-004-a0009",
+    "text": "Thai",
+    "aliases": [
+     "Thailändisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-004-a0010",
+    "text": "Ukrainisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-004-a0011",
+    "text": "Persisch",
+    "aliases": [
+     "Farsi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-004-a0012",
+    "text": "Bulgarisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0013",
+    "text": "Serbisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0014",
+    "text": "Urdu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0015",
+    "text": "Bengalisch",
+    "aliases": [
+     "Bengali",
+     "Bangla"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0016",
+    "text": "Tamil",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0017",
+    "text": "Georgisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0018",
+    "text": "Armenisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0019",
+    "text": "Mongolisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0020",
+    "text": "Belarussisch",
+    "aliases": [
+     "Weißrussisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0021",
+    "text": "Mazedonisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0022",
+    "text": "Jiddisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0023",
+    "text": "Paschtu",
+    "aliases": [
+     "Paschto"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0024",
+    "text": "Kantonesisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0025",
+    "text": "Sanskrit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0026",
+    "text": "Aramäisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0027",
+    "text": "Altgriechisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0028",
+    "text": "Kasachisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-004-a0029",
+    "text": "Amharisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0030",
+    "text": "Tigrinya",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0031",
+    "text": "Telugu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0032",
+    "text": "Marathi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0033",
+    "text": "Gujarati",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0034",
+    "text": "Punjabi",
+    "aliases": [
+     "Pandschabi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0035",
+    "text": "Kannada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0036",
+    "text": "Malayalam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0037",
+    "text": "Singhalesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0038",
+    "text": "Nepali",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0039",
+    "text": "Kirgisisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0040",
+    "text": "Tadschikisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0041",
+    "text": "Kurdisch (Sorani)",
+    "aliases": [
+     "Sorani",
+     "Kurdisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0042",
+    "text": "Uigurisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0043",
+    "text": "Tibetisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0044",
+    "text": "Birmanisch",
+    "aliases": [
+     "Burmesisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0045",
+    "text": "Khmer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0046",
+    "text": "Laotisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0047",
+    "text": "Dzongkha",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0048",
+    "text": "Dhivehi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0049",
+    "text": "Tatarisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0050",
+    "text": "Baschkirisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0051",
+    "text": "Tschetschenisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0052",
+    "text": "Odia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0053",
+    "text": "Assamesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0054",
+    "text": "Sindhi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0055",
+    "text": "Inuktitut",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0056",
+    "text": "Cherokee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0057",
+    "text": "Syrisch-Aramäisch",
+    "aliases": [
+     "Syrisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-004-a0058",
+    "text": "Koptisch",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

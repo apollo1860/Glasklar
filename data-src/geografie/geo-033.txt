@@ -1,0 +1,100 @@
+@id geo-033
+@text Nenne einen Münchner U-Bahnhof
+# Alle 96 U-Bahnhöfe (U1–U6, Stand 2026). Kreuzungsbahnhöfe zählen einmal.
+
+1 Marienplatz
+1 Hauptbahnhof = Hbf; München Hauptbahnhof
+2 Odeonsplatz
+2 Sendlinger Tor
+2 Münchner Freiheit
+2 Karlsplatz (Stachus) = Karlsplatz; Stachus
+2 Olympiazentrum
+2 Universität
+2 Fröttmaning
+2 Theresienwiese
+3 Ostbahnhof
+3 Goetheplatz
+3 Rotkreuzplatz
+3 Giselastraße
+3 Königsplatz
+3 Max-Weber-Platz
+3 Implerstraße
+3 Scheidplatz
+3 Harras
+3 Garching
+3 Garching-Forschungszentrum
+3 Klinikum Großhadern
+3 Studentenstadt
+3 Kolumbusplatz
+3 Lehel
+3 Prinzregentenplatz
+3 Moosach
+3 Giesing
+3 Westfriedhof
+3 Innsbrucker Ring
+3 Neuperlach Zentrum
+3 Olympia-Einkaufszentrum = OEZ
+3 Heimeranplatz
+3 Theresienstraße
+4 Poccistraße
+4 Fraunhoferstraße
+4 Hohenzollernplatz
+4 Josephsplatz
+4 Schwanthalerhöhe
+4 Westendstraße
+4 Laimer Platz
+4 Thalkirchen
+4 Arabellapark
+4 Petuelring
+4 Bonner Platz
+4 Nordfriedhof
+4 Kieferngarten
+4 Freimann
+4 Alte Heide
+4 Westpark
+4 Großhadern
+4 Messestadt West
+4 Messestadt Ost
+4 Candidplatz
+4 Wettersteinplatz
+4 Feldmoching
+4 Hasenbergl
+4 Milbertshofen
+4 Trudering
+4 Michaelibad
+4 Neuperlach Süd
+4 Georg-Brauchle-Ring
+4 Maillingerstraße
+4 Stiglmaierplatz
+4 Frankfurter Ring
+4 Obersendling
+5 Mangfallplatz
+5 St.-Quirin-Platz = Sankt-Quirin-Platz
+5 Gern
+5 Dülferstraße
+5 Harthof
+5 Am Hart
+5 Silberhornstraße
+5 Untersbergstraße
+5 Karl-Preis-Platz
+5 Josephsburg
+5 Kreillerstraße
+5 Moosfeld
+5 Moosacher St.-Martins-Platz = Moosacher Sankt-Martins-Platz
+5 Oberwiesenfeld
+5 Brudermühlstraße
+5 Aidenbachstraße
+5 Machtlfinger Straße
+5 Forstenrieder Allee
+5 Basler Straße
+5 Fürstenried West
+5 Böhmerwaldplatz
+5 Richard-Strauss-Straße
+5 Friedenheimer Straße
+5 Quiddestraße
+5 Therese-Giehse-Allee
+5 Garching-Hochbrück
+5 Dietlindenstraße
+5 Partnachplatz
+5 Holzapfelkreuth
+5 Haderner Stern

@@ -1,0 +1,19 @@
+@id geo-022
+@text Nenne eine Hauptstadt im Süden Afrikas
+@typ geschlossen
+# Hauptstädte der Länder aus "Land im Süden Afrikas". Südafrika hat drei, Eswatini zwei Hauptstädte.
+
+1 Pretoria = Tshwane
+1 Kapstadt = Cape Town
+2 Windhuk = Windhoek
+2 Harare
+3 Gaborone
+3 Maputo
+3 Bloemfontein
+3 Lusaka
+3 Luanda
+4 Maseru
+4 Mbabane
+4 Lilongwe
+4 Antananarivo
+5 Lobamba
