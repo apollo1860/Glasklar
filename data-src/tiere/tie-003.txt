@@ -1,0 +1,156 @@
+@id tie-003
+@text Nenne einen Fisch
+# Speisefische, heimische Süßwasserfische, Meeres- und Riff-Fische, Aquarienfische, Haie und Rochen.
+# Nicht enthalten: Wale, Delfine, Tintenfische, Krebstiere, Muscheln (keine Fische).
+# Gattungsnamen (Hai, Rochen) und bekannte Arten stehen getrennt.
+
+1 Lachs
+2 Forelle
+2 Thunfisch = Thun
+2 Hai
+2 Goldfisch
+2 Karpfen
+2 Hering
+2 Hecht
+3 Kabeljau = Dorsch; Skrei
+3 Barsch = Flussbarsch
+3 Clownfisch = Anemonenfisch
+3 Aal
+3 Zander
+3 Seelachs = Köhler
+3 Sardine
+3 Makrele
+3 Scholle
+3 Wels = Waller
+3 Piranha
+3 Schwertfisch
+3 Rochen
+3 Kugelfisch
+3 Stör
+3 Seepferdchen
+3 Weißer Hai
+3 Tilapia
+3 Pangasius
+3 Dorade = Goldbrasse
+3 Guppy
+4 Hammerhai
+4 Walhai
+4 Tigerhai
+4 Blauhai
+4 Makohai
+4 Bullenhai
+4 Riesenhai
+4 Katzenhai
+4 Dornhai
+4 Grönlandhai
+4 Zitronenhai
+4 Mantarochen = Manta
+4 Stachelrochen
+4 Zitterrochen
+4 Sägefisch
+4 Wolfsbarsch = Seebarsch; Loup de Mer
+4 Rotbarsch
+4 Heilbutt
+4 Steinbutt
+4 Seezunge
+4 Flunder
+4 Schellfisch
+4 Seehecht
+4 Sprotte = Sprott
+4 Sardelle = Anchovis; Anschovis
+4 Saibling
+4 Regenbogenforelle
+4 Bachforelle
+4 Schleie
+4 Brasse = Brachse; Blei
+4 Rotauge = Plötze
+4 Barbe
+4 Äsche
+4 Renke = Felchen; Maräne
+4 Koi
+4 Neonsalmler = Neonfisch
+4 Skalar
+4 Diskus = Diskusfisch
+4 Kampffisch = Betta
+4 Molly
+4 Platy
+4 Schwertträger
+4 Antennenwels
+4 Barrakuda
+4 Marlin
+4 Mondfisch
+4 Seeteufel = Anglerfisch
+4 Muräne
+4 Rotfeuerfisch = Feuerfisch
+4 Doktorfisch
+4 Papageifisch
+4 Kaiserfisch
+4 Fliegender Fisch
+4 Stint
+4 Mahi-Mahi = Goldmakrele; Dorado
+4 Red Snapper = Snapper
+4 Zackenbarsch
+4 Petersfisch = Heringskönig
+4 Buntbarsch
+4 Quastenflosser
+4 Kofferfisch
+4 Igelfisch
+4 Steinfisch
+4 Stichling
+4 Hornhecht
+5 Huchen = Donaulachs
+5 Quappe = Rutte; Aalquappe
+5 Karausche
+5 Döbel = Aitel
+5 Nase
+5 Rotfeder
+5 Ukelei = Laube
+5 Gründling
+5 Elritze
+5 Kaulbarsch
+5 Moderlieschen
+5 Bitterling
+5 Groppe = Mühlkoppe
+5 Schlammpeitzger
+5 Sterlet
+5 Hausen = Beluga-Stör
+5 Löffelstör
+5 Pollack
+5 Wittling = Merlan
+5 Lengfisch = Leng
+5 Knurrhahn
+5 Rotbarbe = Meerbarbe
+5 Seewolf = Katfisch
+5 Lumpfisch = Seehase
+5 Meeraal = Conger
+5 Lodde = Kapelan
+5 Bonito
+5 Segelfisch
+5 Drückerfisch
+5 Falterfisch
+5 Lungenfisch
+5 Laternenfisch
+5 Beilfisch
+5 Panzerwels
+5 Zebrabärbling
+5 Sumatrabarbe
+5 Fadenfisch
+5 Arowana
+5 Schützenfisch
+5 Schlammspringer
+5 Schwarzspitzen-Riffhai = Schwarzspitzenhai
+5 Adlerrochen
+5 Engelhai
+5 Wobbegong
+5 Ammenhai
+5 Kardinalbarsch
+5 Leierfisch
+5 Grundel
+5 Petermännchen
+5 Seenadel
+5 Großer Fetzenfisch = Fetzenfisch
+5 Schlangenkopffisch
+5 Zwergbuntbarsch
+5 Messerfisch
+5 Elefantenrüsselfisch
+5 Hundsfisch

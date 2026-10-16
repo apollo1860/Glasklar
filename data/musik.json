@@ -1,0 +1,880 @@
+[
+ {
+  "id": "mus-003",
+  "text": "Nenne ein Musikinstrument",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-003-a0001",
+    "text": "Gitarre",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-003-a0002",
+    "text": "Klavier",
+    "aliases": [
+     "Piano"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-003-a0003",
+    "text": "Schlagzeug",
+    "aliases": [
+     "Drums",
+     "Drumset"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-003-a0004",
+    "text": "Geige",
+    "aliases": [
+     "Violine"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-003-a0005",
+    "text": "Flöte",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-003-a0006",
+    "text": "Trompete",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-003-a0007",
+    "text": "Saxophon",
+    "aliases": [
+     "Saxofon",
+     "Sax"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-003-a0008",
+    "text": "Blockflöte",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-003-a0009",
+    "text": "Cello",
+    "aliases": [
+     "Violoncello"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0010",
+    "text": "Harfe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0011",
+    "text": "Klarinette",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0012",
+    "text": "Posaune",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0013",
+    "text": "E-Gitarre",
+    "aliases": [
+     "Elektrogitarre"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0014",
+    "text": "E-Bass",
+    "aliases": [
+     "Bass",
+     "Bassgitarre"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0015",
+    "text": "Kontrabass",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0016",
+    "text": "Akkordeon",
+    "aliases": [
+     "Ziehharmonika",
+     "Schifferklavier",
+     "Quetschkommode"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0017",
+    "text": "Mundharmonika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0018",
+    "text": "Orgel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0019",
+    "text": "Keyboard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0020",
+    "text": "Tuba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0021",
+    "text": "Triangel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0022",
+    "text": "Xylophon",
+    "aliases": [
+     "Xylofon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0023",
+    "text": "Ukulele",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0024",
+    "text": "Querflöte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0025",
+    "text": "Trommel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0026",
+    "text": "Banjo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-003-a0027",
+    "text": "Horn",
+    "aliases": [
+     "Waldhorn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0028",
+    "text": "Bratsche",
+    "aliases": [
+     "Viola"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0029",
+    "text": "Oboe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0030",
+    "text": "Fagott",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0031",
+    "text": "Panflöte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0032",
+    "text": "Dudelsack",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0033",
+    "text": "Mandoline",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0034",
+    "text": "Sitar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0035",
+    "text": "Didgeridoo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0036",
+    "text": "Bongo",
+    "aliases": [
+     "Bongos"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0037",
+    "text": "Djembe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0038",
+    "text": "Cajón",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0039",
+    "text": "Tamburin",
+    "aliases": [
+     "Schellenkranz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0040",
+    "text": "Pauke",
+    "aliases": [
+     "Kesselpauke",
+     "Timpani"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0041",
+    "text": "Becken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0042",
+    "text": "Gong",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0043",
+    "text": "Kastagnetten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0044",
+    "text": "Marimba",
+    "aliases": [
+     "Marimbaphon",
+     "Marimbafon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0045",
+    "text": "Vibraphon",
+    "aliases": [
+     "Vibrafon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0046",
+    "text": "Glockenspiel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0047",
+    "text": "Cembalo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0048",
+    "text": "Synthesizer",
+    "aliases": [
+     "Synth"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0049",
+    "text": "Flügel",
+    "aliases": [
+     "Konzertflügel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0050",
+    "text": "E-Piano",
+    "aliases": [
+     "Digitalpiano"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0051",
+    "text": "Akustikgitarre",
+    "aliases": [
+     "Westerngitarre"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0052",
+    "text": "Konzertgitarre",
+    "aliases": [
+     "Klassische Gitarre"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0053",
+    "text": "Zither",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0054",
+    "text": "Balalaika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0055",
+    "text": "Harmonium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0056",
+    "text": "Melodica",
+    "aliases": [
+     "Melodika"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0057",
+    "text": "Piccoloflöte",
+    "aliases": [
+     "Piccolo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0058",
+    "text": "Alphorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0059",
+    "text": "Steel Drum",
+    "aliases": [
+     "Steelpan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0060",
+    "text": "Kalimba",
+    "aliases": [
+     "Daumenklavier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0061",
+    "text": "Bandoneon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0062",
+    "text": "Maracas",
+    "aliases": [
+     "Rumbakugeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0063",
+    "text": "Okarina",
+    "aliases": [
+     "Ocarina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0064",
+    "text": "Conga",
+    "aliases": [
+     "Congas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0065",
+    "text": "Snare Drum",
+    "aliases": [
+     "Snare",
+     "Kleine Trommel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0066",
+    "text": "Große Trommel",
+    "aliases": [
+     "Bassdrum"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0067",
+    "text": "Hackbrett",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0068",
+    "text": "Laute",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0069",
+    "text": "Theremin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0070",
+    "text": "Hammondorgel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0071",
+    "text": "Kazoo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0072",
+    "text": "Vuvuzela",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0073",
+    "text": "Rassel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0074",
+    "text": "Kuhglocke",
+    "aliases": [
+     "Cowbell"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0075",
+    "text": "Röhrenglocken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0076",
+    "text": "Tenorhorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0077",
+    "text": "Flügelhorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0078",
+    "text": "Euphonium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0079",
+    "text": "Sousaphon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0080",
+    "text": "Kornett",
+    "aliases": [
+     "Cornet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0081",
+    "text": "Englischhorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-003-a0082",
+    "text": "Kontrafagott",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0083",
+    "text": "Bassklarinette",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0084",
+    "text": "Celesta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0085",
+    "text": "Spinett",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0086",
+    "text": "Clavichord",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0087",
+    "text": "Bouzouki",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0088",
+    "text": "Oud",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0089",
+    "text": "Shakuhachi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0090",
+    "text": "Koto",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0091",
+    "text": "Erhu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0092",
+    "text": "Pipa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0093",
+    "text": "Guzheng",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0094",
+    "text": "Tabla",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0095",
+    "text": "Sarangi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0096",
+    "text": "Konzertina",
+    "aliases": [
+     "Concertina"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0097",
+    "text": "Drehleier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0098",
+    "text": "Maultrommel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0099",
+    "text": "Güiro",
+    "aliases": [
+     "Guiro"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0100",
+    "text": "Claves",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0101",
+    "text": "Timbales",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0102",
+    "text": "Darbuka",
+    "aliases": [
+     "Darabukka"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0103",
+    "text": "Taiko",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0104",
+    "text": "Lyra",
+    "aliases": [
+     "Leier"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0105",
+    "text": "Handpan",
+    "aliases": [
+     "Hang"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0106",
+    "text": "Glasharmonika",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0107",
+    "text": "Tin Whistle",
+    "aliases": [
+     "Irish Whistle"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0108",
+    "text": "Viola da Gamba",
+    "aliases": [
+     "Gambe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0109",
+    "text": "Keytar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0110",
+    "text": "Charango",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0111",
+    "text": "Mellotron",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0112",
+    "text": "Bağlama",
+    "aliases": [
+     "Saz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0113",
+    "text": "Kantele",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0114",
+    "text": "Nyckelharpa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0115",
+    "text": "Waschbrett",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0116",
+    "text": "Fanfare",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0117",
+    "text": "Schalmei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0118",
+    "text": "Dulcimer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0119",
+    "text": "Lap Steel",
+    "aliases": [
+     "Lap-Steel-Gitarre",
+     "Steel-Gitarre"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0120",
+    "text": "Dobro",
+    "aliases": [
+     "Resonatorgitarre"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0121",
+    "text": "Stylophon",
+    "aliases": [
+     "Stylophone"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0122",
+    "text": "Drumcomputer",
+    "aliases": [
+     "Drum Machine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0123",
+    "text": "Sampler",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0124",
+    "text": "Schellen",
+    "aliases": [
+     "Schellenband"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0125",
+    "text": "Ratsche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0126",
+    "text": "Regenmacher",
+    "aliases": [
+     "Regenstab"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0127",
+    "text": "Klangschale",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-003-a0128",
+    "text": "Kirchenglocke",
+    "aliases": [
+     "Glocke"
+    ],
+    "tier": 5
+   }
+  ]
+ }
+]

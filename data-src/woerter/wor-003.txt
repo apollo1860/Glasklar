@@ -1,0 +1,111 @@
+@id wor-003
+@text Nenne eine Farbe
+# Grund- und Mischfarben sowie gängige Farbnamen (Mode, Malerei, Alltag).
+# Hell-/Dunkel-Varianten und zusammengesetzte Farbnamen sind eigene Einträge.
+
+1 Rot
+1 Blau
+1 Grün
+2 Gelb
+2 Schwarz
+2 Weiß
+2 Lila = Violett
+2 Orange
+3 Pink
+3 Rosa
+3 Braun
+3 Grau
+3 Türkis
+3 Gold
+3 Silber
+3 Beige
+4 Magenta
+4 Cyan
+4 Bordeaux = Bordeauxrot; Weinrot
+4 Dunkelblau
+4 Hellblau
+4 Dunkelgrün
+4 Hellgrün
+4 Dunkelrot
+4 Hellgrau
+4 Dunkelgrau
+4 Hellbraun
+4 Dunkelbraun
+4 Petrol
+4 Mint = Mintgrün
+4 Oliv = Olivgrün
+4 Ocker
+4 Khaki
+4 Navy = Marineblau; Navyblau
+4 Königsblau
+4 Himmelblau
+4 Babyblau
+4 Indigo
+4 Anthrazit
+4 Creme = Cremeweiß
+4 Elfenbein
+4 Lavendel
+4 Flieder
+4 Aubergine
+4 Fuchsia
+4 Lachs = Lachsrosa; Lachsfarben
+4 Koralle = Korallenrot
+4 Apricot
+4 Bronze
+4 Kupfer
+4 Purpur
+4 Senfgelb = Senf
+4 Neongelb
+4 Neongrün
+4 Altrosa
+4 Smaragdgrün = Smaragd
+4 Tannengrün
+4 Azurblau = Azur
+4 Kobaltblau = Kobalt
+4 Scharlachrot = Scharlach
+4 Karminrot = Karmin
+4 Zitronengelb
+4 Grasgrün
+4 Taupe
+4 Sand = Sandfarben
+4 Bernstein
+4 Mahagoni
+4 Kastanienbraun
+4 Terrakotta
+4 Ultramarin = Ultramarinblau
+4 Burgunderrot = Burgund
+5 Preußischblau
+5 Stahlblau
+5 Eisblau
+5 Taubenblau
+5 Zinnoberrot = Zinnober
+5 Kirschrot
+5 Rubinrot
+5 Ziegelrot
+5 Blutrot
+5 Rostrot = Rost
+5 Lindgrün
+5 Giftgrün
+5 Flaschengrün
+5 Apfelgrün
+5 Moosgrün
+5 Jadegrün = Jade
+5 Chartreuse
+5 Limettengrün
+5 Aquamarin
+5 Mauve
+5 Champagner
+5 Karamell
+5 Sepia
+5 Umbra
+5 Siena
+5 Kanariengelb
+5 Schneeweiß
+5 Platin
+5 Graphit
+5 Schokobraun = Schokoladenbraun
+5 Nougat
+5 Magnolie
+5 Ecru
+5 Puderrosa
+5 Zartrosa

@@ -1,0 +1,133 @@
+@id mus-003
+@text Nenne ein Musikinstrument
+# Saiten-, Tasten-, Blas-, Schlag- und elektronische Instrumente inkl. bekannter Volks- und Weltmusik-Instrumente.
+# Bauformen stehen getrennt, wenn sie als eigene Instrumente gelten (Klavier/Flügel, Gitarre/E-Gitarre).
+
+1 Gitarre
+1 Klavier = Piano
+2 Schlagzeug = Drums; Drumset
+2 Geige = Violine
+2 Flöte
+2 Trompete
+2 Saxophon = Saxofon; Sax
+2 Blockflöte
+3 Cello = Violoncello
+3 Harfe
+3 Klarinette
+3 Posaune
+3 E-Gitarre = Elektrogitarre
+3 E-Bass = Bass; Bassgitarre
+3 Kontrabass
+3 Akkordeon = Ziehharmonika; Schifferklavier; Quetschkommode
+3 Mundharmonika
+3 Orgel
+3 Keyboard
+3 Tuba
+3 Triangel
+3 Xylophon = Xylofon
+3 Ukulele
+3 Querflöte
+3 Trommel
+3 Banjo
+4 Horn = Waldhorn
+4 Bratsche = Viola
+4 Oboe
+4 Fagott
+4 Panflöte
+4 Dudelsack
+4 Mandoline
+4 Sitar
+4 Didgeridoo
+4 Bongo = Bongos
+4 Djembe
+4 Cajón
+4 Tamburin = Schellenkranz
+4 Pauke = Kesselpauke; Timpani
+4 Becken
+4 Gong
+4 Kastagnetten
+4 Marimba = Marimbaphon; Marimbafon
+4 Vibraphon = Vibrafon
+4 Glockenspiel
+4 Cembalo
+4 Synthesizer = Synth
+4 Flügel = Konzertflügel
+4 E-Piano = Digitalpiano
+4 Akustikgitarre = Westerngitarre
+4 Konzertgitarre = Klassische Gitarre
+4 Zither
+4 Balalaika
+4 Harmonium
+4 Melodica = Melodika
+4 Piccoloflöte = Piccolo
+4 Alphorn
+4 Steel Drum = Steelpan
+4 Kalimba = Daumenklavier
+4 Bandoneon
+4 Maracas = Rumbakugeln
+4 Okarina = Ocarina
+4 Conga = Congas
+4 Snare Drum = Snare; Kleine Trommel
+4 Große Trommel = Bassdrum
+4 Hackbrett
+4 Laute
+4 Theremin
+4 Hammondorgel
+4 Kazoo
+4 Vuvuzela
+4 Rassel
+4 Kuhglocke = Cowbell
+4 Röhrenglocken
+4 Tenorhorn
+4 Flügelhorn
+4 Euphonium
+4 Sousaphon
+4 Kornett = Cornet
+4 Englischhorn
+5 Kontrafagott
+5 Bassklarinette
+5 Celesta
+5 Spinett
+5 Clavichord
+5 Bouzouki
+5 Oud
+5 Shakuhachi
+5 Koto
+5 Erhu
+5 Pipa
+5 Guzheng
+5 Tabla
+5 Sarangi
+5 Konzertina = Concertina
+5 Drehleier
+5 Maultrommel
+5 Güiro = Guiro
+5 Claves
+5 Timbales
+5 Darbuka = Darabukka
+5 Taiko
+5 Lyra = Leier
+5 Handpan = Hang
+5 Glasharmonika
+5 Tin Whistle = Irish Whistle
+5 Viola da Gamba = Gambe
+5 Keytar
+5 Charango
+5 Mellotron
+5 Bağlama = Saz
+5 Kantele
+5 Nyckelharpa
+5 Waschbrett
+5 Fanfare
+5 Schalmei
+5 Dulcimer
+5 Lap Steel = Lap-Steel-Gitarre; Steel-Gitarre
+5 Dobro = Resonatorgitarre
+5 Stylophon = Stylophone
+5 Drumcomputer = Drum Machine
+5 Sampler
+5 Schellen = Schellenband
+5 Ratsche
+5 Regenmacher = Regenstab
+5 Klangschale
+5 Kirchenglocke = Glocke

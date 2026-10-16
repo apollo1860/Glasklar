@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generated": "2026-10-16",
+  "categories": [
+    {
+      "id": "geografie",
+      "name": "Geografie",
+      "icon": "🌍",
+      "count": 1,
+      "questions": [
+        "geo-001"
+      ]
+    },
+    {
+      "id": "essen",
+      "name": "Essen & Trinken",
+      "icon": "🍕",
+      "count": 1,
+      "questions": [
+        "ess-002"
+      ]
+    },
+    {
+      "id": "tiere",
+      "name": "Tiere",
+      "icon": "🐟",
+      "count": 1,
+      "questions": [
+        "tie-003"
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "icon": "🎸",
+      "count": 1,
+      "questions": [
+        "mus-003"
+      ]
+    },
+    {
+      "id": "woerter",
+      "name": "Wörter & Namen",
+      "icon": "🔤",
+      "count": 1,
+      "questions": [
+        "wor-003"
+      ]
+    }
+  ]
+}

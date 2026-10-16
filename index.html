@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="theme-color" content="#fff3dc">
+  <meta name="description" content="Glasklar – das Trinkspiel, bei dem seltene Antworten dein Glas leer halten.">
+  <title>Glasklar</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍺</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="bg" aria-hidden="true">
+    <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
+    <span class="float-bubbles"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
+  </div>
+
+  <main id="app">
+    <!-- START -->
+    <section id="screen-start" class="screen active">
+      <div class="start-wrap">
+        <div class="logo">
+          <div id="logo-glass" class="logo-glass"></div>
+          <h1 class="title" aria-label="Glasklar">
+            <span>G</span><span>l</span><span>a</span><span>s</span><span>k</span><span>l</span><span>a</span><span>r</span>
+          </h1>
+          <p class="tagline">Je offensichtlicher die Antwort,<br>desto voller das Glas.</p>
+        </div>
+
+        <div class="menu">
+          <button class="btn btn-primary btn-xl" data-act="single">🍺 Singleplayer</button>
+          <button class="btn btn-secondary btn-xl" data-act="multi">👯 Multiplayer <span class="badge">bald</span></button>
+          <div class="menu-row">
+            <button class="btn btn-ghost" data-act="howto">❓ So geht's</button>
+            <button class="btn btn-ghost" data-act="settings">⚙️ Einstellungen</button>
+          </div>
+        </div>
+
+        <div id="start-stats" class="start-stats"></div>
+        <p id="start-count" class="start-count">Lade Fragen …</p>
+        <p class="legal">🔞 Ab 18 · Verantwortungsvoll trinken · Alkoholfrei ist völlig ok</p>
+      </div>
+    </section>
+
+    <!-- SETUP (Singleplayer) -->
+    <section id="screen-setup" class="screen" hidden>
+      <header class="topbar">
+        <button class="icon-btn" data-act="home" aria-label="Zurück">←</button>
+        <h2>Singleplayer</h2>
+        <button class="icon-btn" data-act="mute" aria-label="Ton aus">🔊</button>
+      </header>
+      <div class="scroll">
+        <div class="card">
+          <h3>Kategorien</h3>
+          <div id="setup-categories" class="chips"></div>
+          <p id="setup-hint" class="hint" hidden>Wähle mindestens eine Kategorie.</p>
+        </div>
+        <div class="card">
+          <h3>Antwortzeit <output id="setup-timer-val" class="pill">30 s</output></h3>
+          <input id="setup-timer" type="range" class="slider" aria-label="Antwortzeit in Sekunden">
+        </div>
+        <div class="card rules-mini">
+          <p>3 Fragen pro Runde · seltene Antworten halten dein Glas leer · am Ende trinkst du, was drin ist (max. 10 Schlücke).</p>
+        </div>
+      </div>
+      <footer class="bottombar">
+        <button id="btn-start-round" class="btn btn-primary btn-xl btn-block" data-act="start-round">Runde starten 🚀</button>
+      </footer>
+    </section>
+
+    <!-- SPIEL -->
+    <section id="screen-game" class="screen" hidden>
+      <header class="topbar topbar--game">
+        <button class="icon-btn" data-act="exit" aria-label="Spiel beenden">✕</button>
+        <div class="round-info">
+          <span id="round-label">Runde 1</span>
+          <span id="q-progress" class="progress-dots"></span>
+        </div>
+        <button class="icon-btn" data-act="mute" aria-label="Ton aus">🔊</button>
+      </header>
+
+      <div id="question-card" class="question-card card">
+        <span id="q-cat" class="cat-label"></span>
+        <h2 id="q-text" class="q-text"></h2>
+        <button id="btn-skip" class="skip-btn" data-act="skip" aria-label="Frage überspringen">⤼ Überspringen</button>
+      </div>
+
+      <div class="glass-area">
+        <div id="glass-stage" class="glass-stage"></div>
+        <div id="reveal-msg" class="reveal-msg" aria-live="polite"></div>
+      </div>
+
+      <div class="timer" data-state="ok">
+        <div class="timer-track"><div id="timer-bar" class="timer-bar"></div></div>
+        <span id="timer-num" class="timer-num">30</span>
+      </div>
+
+      <div id="answer-area" class="answer-area">
+        <div class="search-wrap">
+          <input class="answer-input" type="text" inputmode="search" enterkeyhint="done"
+                 autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+                 placeholder="Antwort tippen …" aria-label="Antwort suchen"
+                 role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="suggestions">
+          <span class="choice-check" aria-hidden="true">✓</span>
+          <button class="input-clear" type="button" aria-label="Eingabe löschen" hidden>×</button>
+          <ul id="suggestions" class="suggestions" role="listbox" hidden></ul>
+        </div>
+        <div class="answer-buttons">
+          <button class="btn btn-secondary" data-act="nothing" type="button">🤷 Nichts passt</button>
+          <button class="btn btn-primary" data-act="submit" type="button" disabled>Abschicken</button>
+        </div>
+        <p class="answer-status" hidden></p>
+      </div>
+
+      <div id="reveal-panel" class="reveal-panel" hidden>
+        <p id="reveal-question" class="reveal-question"></p>
+        <div id="reveal-chips" class="answer-chips"></div>
+        <button id="btn-next" class="btn btn-primary btn-xl btn-block" data-act="next" hidden>Nächste Frage →</button>
+      </div>
+    </section>
+
+    <!-- ENDABRECHNUNG -->
+    <section id="screen-result" class="screen" hidden>
+      <div class="scroll result-wrap">
+        <h2 id="result-title" class="result-title">Abrechnung</h2>
+        <div id="result-glass" class="result-glass"></div>
+        <p id="result-big" class="result-big"></p>
+        <p id="result-note" class="result-note"></p>
+        <div id="result-stats" class="stats-grid"></div>
+        <div id="result-actions" class="result-actions">
+          <button class="btn btn-primary btn-xl btn-block" data-act="new-round">Neue Runde 🍻</button>
+          <button class="btn btn-ghost btn-block" data-act="end-game">Spiel beenden</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABSCHLUSS -->
+    <section id="screen-summary" class="screen" hidden>
+      <header class="topbar"><span></span><h2>Abschlussübersicht</h2><span></span></header>
+      <div class="scroll">
+        <div id="summary-body" class="card summary"></div>
+      </div>
+      <footer class="bottombar">
+        <button class="btn btn-primary btn-xl btn-block" data-act="home">Zum Start</button>
+      </footer>
+    </section>
+
+    <!-- EINSTELLUNGEN -->
+    <section id="screen-settings" class="screen" hidden>
+      <header class="topbar">
+        <button class="icon-btn" data-act="home" aria-label="Zurück">←</button>
+        <h2>Einstellungen</h2>
+        <span></span>
+      </header>
+      <div class="scroll">
+        <div class="card">
+          <h3>Antwortzeit <output id="settings-timer-val" class="pill">30 s</output></h3>
+          <input id="settings-timer" type="range" class="slider" aria-label="Antwortzeit in Sekunden">
+        </div>
+        <div class="card">
+          <label class="switch-row"><span>🔊 Sound</span><input id="settings-sound" type="checkbox" class="switch"></label>
+          <label class="switch-row"><span>📳 Vibration</span><input id="settings-vibrate" type="checkbox" class="switch"></label>
+        </div>
+        <div class="card">
+          <h3>Fehlende Antworten <span id="missing-count" class="pill">0 Einträge</span></h3>
+          <p class="hint">Getippte Texte ohne Treffer und jedes „Nichts passt" werden lokal gespeichert, damit die Listen ergänzt werden können.</p>
+          <div class="btn-row">
+            <button class="btn btn-secondary" data-act="export-missing">⬇️ Als JSON exportieren</button>
+            <button class="btn btn-ghost" data-act="clear-missing">Leeren</button>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Daten</h3>
+          <div class="btn-row">
+            <button class="btn btn-ghost" data-act="reset-played">Gespielte Fragen zurücksetzen</button>
+            <button class="btn btn-ghost" data-act="reset-stats">Statistik zurücksetzen</button>
+          </div>
+        </div>
+        <p class="legal">🔞 Ab 18 · Verantwortungsvoll trinken · Alkoholfrei ist völlig ok</p>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="js/game.js"></script>
+</body>
+</html>

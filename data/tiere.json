@@ -1,0 +1,990 @@
+[
+ {
+  "id": "tie-003",
+  "text": "Nenne einen Fisch",
+  "kategorie": "tiere",
+  "answers": [
+   {
+    "id": "tie-003-a0001",
+    "text": "Lachs",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-003-a0002",
+    "text": "Forelle",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0003",
+    "text": "Thunfisch",
+    "aliases": [
+     "Thun"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0004",
+    "text": "Hai",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0005",
+    "text": "Goldfisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0006",
+    "text": "Karpfen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0007",
+    "text": "Hering",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0008",
+    "text": "Hecht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-003-a0009",
+    "text": "Kabeljau",
+    "aliases": [
+     "Dorsch",
+     "Skrei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0010",
+    "text": "Barsch",
+    "aliases": [
+     "Flussbarsch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0011",
+    "text": "Clownfisch",
+    "aliases": [
+     "Anemonenfisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0012",
+    "text": "Aal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0013",
+    "text": "Zander",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0014",
+    "text": "Seelachs",
+    "aliases": [
+     "Köhler"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0015",
+    "text": "Sardine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0016",
+    "text": "Makrele",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0017",
+    "text": "Scholle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0018",
+    "text": "Wels",
+    "aliases": [
+     "Waller"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0019",
+    "text": "Piranha",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0020",
+    "text": "Schwertfisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0021",
+    "text": "Rochen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0022",
+    "text": "Kugelfisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0023",
+    "text": "Stör",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0024",
+    "text": "Seepferdchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0025",
+    "text": "Weißer Hai",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0026",
+    "text": "Tilapia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0027",
+    "text": "Pangasius",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0028",
+    "text": "Dorade",
+    "aliases": [
+     "Goldbrasse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0029",
+    "text": "Guppy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-003-a0030",
+    "text": "Hammerhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0031",
+    "text": "Walhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0032",
+    "text": "Tigerhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0033",
+    "text": "Blauhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0034",
+    "text": "Makohai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0035",
+    "text": "Bullenhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0036",
+    "text": "Riesenhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0037",
+    "text": "Katzenhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0038",
+    "text": "Dornhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0039",
+    "text": "Grönlandhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0040",
+    "text": "Zitronenhai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0041",
+    "text": "Mantarochen",
+    "aliases": [
+     "Manta"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0042",
+    "text": "Stachelrochen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0043",
+    "text": "Zitterrochen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0044",
+    "text": "Sägefisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0045",
+    "text": "Wolfsbarsch",
+    "aliases": [
+     "Seebarsch",
+     "Loup de Mer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0046",
+    "text": "Rotbarsch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0047",
+    "text": "Heilbutt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0048",
+    "text": "Steinbutt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0049",
+    "text": "Seezunge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0050",
+    "text": "Flunder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0051",
+    "text": "Schellfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0052",
+    "text": "Seehecht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0053",
+    "text": "Sprotte",
+    "aliases": [
+     "Sprott"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0054",
+    "text": "Sardelle",
+    "aliases": [
+     "Anchovis",
+     "Anschovis"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0055",
+    "text": "Saibling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0056",
+    "text": "Regenbogenforelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0057",
+    "text": "Bachforelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0058",
+    "text": "Schleie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0059",
+    "text": "Brasse",
+    "aliases": [
+     "Brachse",
+     "Blei"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0060",
+    "text": "Rotauge",
+    "aliases": [
+     "Plötze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0061",
+    "text": "Barbe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0062",
+    "text": "Äsche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0063",
+    "text": "Renke",
+    "aliases": [
+     "Felchen",
+     "Maräne"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0064",
+    "text": "Koi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0065",
+    "text": "Neonsalmler",
+    "aliases": [
+     "Neonfisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0066",
+    "text": "Skalar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0067",
+    "text": "Diskus",
+    "aliases": [
+     "Diskusfisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0068",
+    "text": "Kampffisch",
+    "aliases": [
+     "Betta"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0069",
+    "text": "Molly",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0070",
+    "text": "Platy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0071",
+    "text": "Schwertträger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0072",
+    "text": "Antennenwels",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0073",
+    "text": "Barrakuda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0074",
+    "text": "Marlin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0075",
+    "text": "Mondfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0076",
+    "text": "Seeteufel",
+    "aliases": [
+     "Anglerfisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0077",
+    "text": "Muräne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0078",
+    "text": "Rotfeuerfisch",
+    "aliases": [
+     "Feuerfisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0079",
+    "text": "Doktorfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0080",
+    "text": "Papageifisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0081",
+    "text": "Kaiserfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0082",
+    "text": "Fliegender Fisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0083",
+    "text": "Stint",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0084",
+    "text": "Mahi-Mahi",
+    "aliases": [
+     "Goldmakrele",
+     "Dorado"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0085",
+    "text": "Red Snapper",
+    "aliases": [
+     "Snapper"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0086",
+    "text": "Zackenbarsch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0087",
+    "text": "Petersfisch",
+    "aliases": [
+     "Heringskönig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0088",
+    "text": "Buntbarsch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0089",
+    "text": "Quastenflosser",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0090",
+    "text": "Kofferfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0091",
+    "text": "Igelfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0092",
+    "text": "Steinfisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0093",
+    "text": "Stichling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0094",
+    "text": "Hornhecht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-003-a0095",
+    "text": "Huchen",
+    "aliases": [
+     "Donaulachs"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0096",
+    "text": "Quappe",
+    "aliases": [
+     "Rutte",
+     "Aalquappe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0097",
+    "text": "Karausche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0098",
+    "text": "Döbel",
+    "aliases": [
+     "Aitel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0099",
+    "text": "Nase",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0100",
+    "text": "Rotfeder",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0101",
+    "text": "Ukelei",
+    "aliases": [
+     "Laube"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0102",
+    "text": "Gründling",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0103",
+    "text": "Elritze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0104",
+    "text": "Kaulbarsch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0105",
+    "text": "Moderlieschen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0106",
+    "text": "Bitterling",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0107",
+    "text": "Groppe",
+    "aliases": [
+     "Mühlkoppe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0108",
+    "text": "Schlammpeitzger",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0109",
+    "text": "Sterlet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0110",
+    "text": "Hausen",
+    "aliases": [
+     "Beluga-Stör"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0111",
+    "text": "Löffelstör",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0112",
+    "text": "Pollack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0113",
+    "text": "Wittling",
+    "aliases": [
+     "Merlan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0114",
+    "text": "Lengfisch",
+    "aliases": [
+     "Leng"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0115",
+    "text": "Knurrhahn",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0116",
+    "text": "Rotbarbe",
+    "aliases": [
+     "Meerbarbe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0117",
+    "text": "Seewolf",
+    "aliases": [
+     "Katfisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0118",
+    "text": "Lumpfisch",
+    "aliases": [
+     "Seehase"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0119",
+    "text": "Meeraal",
+    "aliases": [
+     "Conger"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0120",
+    "text": "Lodde",
+    "aliases": [
+     "Kapelan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0121",
+    "text": "Bonito",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0122",
+    "text": "Segelfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0123",
+    "text": "Drückerfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0124",
+    "text": "Falterfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0125",
+    "text": "Lungenfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0126",
+    "text": "Laternenfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0127",
+    "text": "Beilfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0128",
+    "text": "Panzerwels",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0129",
+    "text": "Zebrabärbling",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0130",
+    "text": "Sumatrabarbe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0131",
+    "text": "Fadenfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0132",
+    "text": "Arowana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0133",
+    "text": "Schützenfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0134",
+    "text": "Schlammspringer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0135",
+    "text": "Schwarzspitzen-Riffhai",
+    "aliases": [
+     "Schwarzspitzenhai"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0136",
+    "text": "Adlerrochen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0137",
+    "text": "Engelhai",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0138",
+    "text": "Wobbegong",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0139",
+    "text": "Ammenhai",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0140",
+    "text": "Kardinalbarsch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0141",
+    "text": "Leierfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0142",
+    "text": "Grundel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0143",
+    "text": "Petermännchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0144",
+    "text": "Seenadel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0145",
+    "text": "Großer Fetzenfisch",
+    "aliases": [
+     "Fetzenfisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0146",
+    "text": "Schlangenkopffisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0147",
+    "text": "Zwergbuntbarsch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0148",
+    "text": "Messerfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0149",
+    "text": "Elefantenrüsselfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-003-a0150",
+    "text": "Hundsfisch",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

@@ -1,0 +1,217 @@
+@id geo-001
+@text Nenne ein Land der Erde
+# Alle 193 UN-Mitglieder + Vatikanstadt, Palästina, Kosovo, Taiwan.
+# Zusätzlich die umgangssprachlich als "Land" genannten Landesteile des UK und Grönland.
+# tier = geschätzt, wie viele von 100 deutschsprachigen Mitspielern das nennen.
+
+# --- Europa
+1 Deutschland = BRD; Bundesrepublik Deutschland
+2 Frankreich
+2 Italien
+2 Spanien
+2 Österreich
+2 Schweiz
+3 Niederlande = Holland
+3 Belgien
+3 Polen
+3 Portugal
+3 Griechenland
+3 Schweden
+3 Norwegen
+3 Dänemark
+3 Finnland
+3 Irland
+3 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+3 England
+3 Türkei = Türkiye
+3 Russland = Russische Föderation
+3 Ukraine
+3 Tschechien = Tschechische Republik
+3 Ungarn
+3 Kroatien
+3 Island
+4 Schottland
+4 Wales
+4 Nordirland
+4 Luxemburg
+4 Rumänien
+4 Bulgarien
+4 Serbien
+4 Slowakei
+4 Slowenien
+4 Albanien
+4 Bosnien und Herzegowina = Bosnien
+4 Montenegro
+4 Nordmazedonien = Mazedonien
+4 Kosovo
+4 Litauen
+4 Lettland
+4 Estland
+4 Belarus = Weißrussland
+4 Moldau = Moldawien; Republik Moldau
+4 Liechtenstein
+4 Monaco
+4 Malta
+4 Zypern
+4 San Marino
+4 Andorra
+4 Vatikanstadt = Vatikan; Heiliger Stuhl
+4 Grönland
+
+# --- Amerika
+2 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+3 Kanada
+3 Mexiko
+3 Brasilien
+3 Argentinien
+4 Chile
+4 Peru
+4 Kolumbien
+4 Venezuela
+4 Kuba
+4 Ecuador
+4 Bolivien
+4 Paraguay
+4 Uruguay
+4 Jamaika
+4 Costa Rica
+4 Panama
+4 Dominikanische Republik
+4 Haiti
+4 Bahamas
+5 Guatemala
+5 Honduras
+5 El Salvador
+5 Nicaragua
+5 Belize
+5 Guyana
+5 Suriname
+5 Barbados
+5 Trinidad und Tobago
+5 Grenada
+5 St. Lucia = Saint Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen
+5 St. Kitts und Nevis = Saint Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica
+
+# --- Asien
+2 China = Volksrepublik China
+3 Japan
+3 Indien
+3 Thailand
+3 Südkorea = Korea; Republik Korea
+4 Nordkorea = Demokratische Volksrepublik Korea
+4 Vietnam
+4 Indonesien
+4 Philippinen
+4 Malaysia
+4 Singapur
+4 Kambodscha
+4 Laos
+4 Myanmar = Birma; Burma
+4 Mongolei
+4 Nepal
+4 Bangladesch
+4 Pakistan
+4 Afghanistan
+4 Iran
+4 Irak
+4 Israel
+4 Palästina = Staat Palästina
+4 Jordanien
+4 Libanon
+4 Syrien
+4 Saudi-Arabien
+4 Vereinigte Arabische Emirate = VAE; Emirate
+4 Katar
+4 Kuwait
+4 Kasachstan
+4 Georgien
+4 Armenien
+4 Sri Lanka
+4 Malediven
+4 Taiwan
+5 Bahrain
+5 Oman
+5 Jemen
+5 Aserbaidschan
+5 Usbekistan
+5 Turkmenistan
+5 Kirgisistan
+5 Tadschikistan
+5 Bhutan
+5 Brunei
+5 Osttimor = Timor-Leste
+
+# --- Ozeanien
+3 Australien
+4 Neuseeland
+5 Fidschi
+5 Papua-Neuguinea
+5 Samoa
+5 Tonga
+5 Vanuatu
+5 Salomonen
+5 Kiribati
+5 Tuvalu
+5 Nauru
+5 Palau
+5 Marshallinseln
+5 Mikronesien = Föderierte Staaten von Mikronesien
+
+# --- Afrika
+3 Ägypten
+3 Südafrika
+4 Marokko
+4 Tunesien
+4 Algerien
+4 Libyen
+4 Kenia
+4 Nigeria
+4 Ghana
+4 Äthiopien
+4 Tansania
+4 Madagaskar
+4 Kamerun
+4 Namibia
+4 Somalia
+4 Sudan
+4 Simbabwe
+4 Uganda
+4 Senegal
+4 Ruanda
+4 Mali
+4 Elfenbeinküste = Côte d'Ivoire
+4 Angola
+4 Mauritius
+4 Seychellen
+5 Südsudan
+5 Eritrea
+5 Dschibuti = Djibouti
+5 Botswana
+5 Sambia
+5 Malawi
+5 Mosambik
+5 Lesotho
+5 Eswatini = Swasiland
+5 Niger
+5 Tschad
+5 Burkina Faso
+5 Mauretanien
+5 Gambia
+5 Guinea
+5 Guinea-Bissau
+5 Äquatorialguinea
+5 Sierra Leone
+5 Liberia
+5 Togo
+5 Benin
+5 Gabun
+5 Zentralafrikanische Republik
+5 Republik Kongo = Kongo-Brazzaville
+5 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+5 Burundi
+5 Komoren
+5 Kap Verde = Cabo Verde
+5 São Tomé und Príncipe

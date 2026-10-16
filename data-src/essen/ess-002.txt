@@ -1,0 +1,110 @@
+@id ess-002
+@text Nenne ein Obst
+# Kultur- und Wildobst inkl. Beeren, Zitrusfrüchte, Exoten und Schalenobst (Nüsse zählen im Handel als Obst).
+# Botanische Grenzfälle (Tomate, Avocado, Rhabarber) sind enthalten, weil Spieler sie nennen.
+
+1 Apfel
+1 Banane
+2 Birne
+2 Erdbeere
+2 Orange = Apfelsine
+2 Kirsche = Süßkirsche
+2 Weintraube = Traube; Weintrauben; Trauben
+2 Ananas
+2 Mango
+2 Kiwi
+3 Pfirsich
+3 Pflaume
+3 Zwetschge = Zwetschke; Zwetsche
+3 Zitrone
+3 Mandarine
+3 Melone
+3 Wassermelone
+3 Himbeere
+3 Heidelbeere = Blaubeere
+3 Aprikose = Marille
+3 Nektarine
+3 Grapefruit = Pampelmuse
+3 Brombeere
+3 Johannisbeere = Ribisel
+3 Granatapfel
+3 Kokosnuss = Kokos
+3 Feige
+3 Papaya
+3 Maracuja = Passionsfrucht
+3 Clementine = Klementine
+3 Limette
+3 Litschi = Lychee
+3 Stachelbeere
+4 Dattel
+4 Sauerkirsche = Weichsel
+4 Mirabelle
+4 Quitte
+4 Honigmelone
+4 Cantaloupe-Melone = Cantaloupe; Netzmelone
+4 Galiamelone
+4 Preiselbeere
+4 Cranberry = Moosbeere; Kranbeere
+4 Holunder = Holunderbeere
+4 Avocado
+4 Kaki = Sharonfrucht; Persimone
+4 Drachenfrucht = Pitaya; Pitahaya
+4 Sternfrucht = Karambole
+4 Guave = Guava
+4 Physalis = Kapstachelbeere; Andenbeere
+4 Blutorange
+4 Pomelo
+4 Kumquat
+4 Tomate
+4 Rhabarber
+4 Hagebutte
+4 Sanddorn
+4 Maulbeere
+4 Goji-Beere = Goji; Bocksdornfrucht
+4 Aronia = Aroniabeere; Apfelbeere
+4 Reneklode = Reneclaude; Ringlotte
+4 Schlehe
+4 Walnuss
+4 Haselnuss
+4 Mandel
+4 Esskastanie = Marone; Maroni
+4 Jackfrucht
+4 Durian = Stinkfrucht
+4 Walderdbeere
+4 Nashi-Birne = Nashi; Asiatische Birne
+4 Olive
+4 Kochbanane
+5 Mispel
+5 Rambutan
+5 Longan
+5 Mangostane = Mangostan
+5 Cherimoya
+5 Kaktusfeige
+5 Tamarinde
+5 Kiwano = Hornmelone
+5 Feijoa
+5 Brotfrucht
+5 Loquat = Japanische Wollmispel
+5 Yuzu
+5 Bergamotte
+5 Satsuma
+5 Moltebeere
+5 Kornelkirsche
+5 Elsbeere
+5 Vogelbeere = Ebereschenbeere
+5 Berberitze
+5 Salak = Schlangenfrucht
+5 Açaí = Açaí-Beere
+5 Pepino = Birnenmelone
+5 Tamarillo = Baumtomate
+5 Jostabeere
+5 Boysenbeere
+5 Granadilla
+5 Zitronatzitrone = Zedrat
+5 Sapote
+5 Pistazie
+5 Cashew = Cashewnuss; Cashewapfel
+5 Kiwibeere = Minikiwi
+5 Wacholderbeere
+5 Buddhas Hand
+5 Kratzbeere

@@ -1,0 +1,690 @@
+[
+ {
+  "id": "wor-003",
+  "text": "Nenne eine Farbe",
+  "kategorie": "woerter",
+  "answers": [
+   {
+    "id": "wor-003-a0001",
+    "text": "Rot",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-003-a0002",
+    "text": "Blau",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-003-a0003",
+    "text": "Grün",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-003-a0004",
+    "text": "Gelb",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-003-a0005",
+    "text": "Schwarz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-003-a0006",
+    "text": "Weiß",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-003-a0007",
+    "text": "Lila",
+    "aliases": [
+     "Violett"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-003-a0008",
+    "text": "Orange",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-003-a0009",
+    "text": "Pink",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0010",
+    "text": "Rosa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0011",
+    "text": "Braun",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0012",
+    "text": "Grau",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0013",
+    "text": "Türkis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0014",
+    "text": "Gold",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0015",
+    "text": "Silber",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0016",
+    "text": "Beige",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-003-a0017",
+    "text": "Magenta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0018",
+    "text": "Cyan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0019",
+    "text": "Bordeaux",
+    "aliases": [
+     "Bordeauxrot",
+     "Weinrot"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0020",
+    "text": "Dunkelblau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0021",
+    "text": "Hellblau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0022",
+    "text": "Dunkelgrün",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0023",
+    "text": "Hellgrün",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0024",
+    "text": "Dunkelrot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0025",
+    "text": "Hellgrau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0026",
+    "text": "Dunkelgrau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0027",
+    "text": "Hellbraun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0028",
+    "text": "Dunkelbraun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0029",
+    "text": "Petrol",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0030",
+    "text": "Mint",
+    "aliases": [
+     "Mintgrün"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0031",
+    "text": "Oliv",
+    "aliases": [
+     "Olivgrün"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0032",
+    "text": "Ocker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0033",
+    "text": "Khaki",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0034",
+    "text": "Navy",
+    "aliases": [
+     "Marineblau",
+     "Navyblau"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0035",
+    "text": "Königsblau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0036",
+    "text": "Himmelblau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0037",
+    "text": "Babyblau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0038",
+    "text": "Indigo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0039",
+    "text": "Anthrazit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0040",
+    "text": "Creme",
+    "aliases": [
+     "Cremeweiß"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0041",
+    "text": "Elfenbein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0042",
+    "text": "Lavendel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0043",
+    "text": "Flieder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0044",
+    "text": "Aubergine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0045",
+    "text": "Fuchsia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0046",
+    "text": "Lachs",
+    "aliases": [
+     "Lachsrosa",
+     "Lachsfarben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0047",
+    "text": "Koralle",
+    "aliases": [
+     "Korallenrot"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0048",
+    "text": "Apricot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0049",
+    "text": "Bronze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0050",
+    "text": "Kupfer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0051",
+    "text": "Purpur",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0052",
+    "text": "Senfgelb",
+    "aliases": [
+     "Senf"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0053",
+    "text": "Neongelb",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0054",
+    "text": "Neongrün",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0055",
+    "text": "Altrosa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0056",
+    "text": "Smaragdgrün",
+    "aliases": [
+     "Smaragd"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0057",
+    "text": "Tannengrün",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0058",
+    "text": "Azurblau",
+    "aliases": [
+     "Azur"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0059",
+    "text": "Kobaltblau",
+    "aliases": [
+     "Kobalt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0060",
+    "text": "Scharlachrot",
+    "aliases": [
+     "Scharlach"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0061",
+    "text": "Karminrot",
+    "aliases": [
+     "Karmin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0062",
+    "text": "Zitronengelb",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0063",
+    "text": "Grasgrün",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0064",
+    "text": "Taupe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0065",
+    "text": "Sand",
+    "aliases": [
+     "Sandfarben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0066",
+    "text": "Bernstein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0067",
+    "text": "Mahagoni",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0068",
+    "text": "Kastanienbraun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0069",
+    "text": "Terrakotta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0070",
+    "text": "Ultramarin",
+    "aliases": [
+     "Ultramarinblau"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0071",
+    "text": "Burgunderrot",
+    "aliases": [
+     "Burgund"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-003-a0072",
+    "text": "Preußischblau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0073",
+    "text": "Stahlblau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0074",
+    "text": "Eisblau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0075",
+    "text": "Taubenblau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0076",
+    "text": "Zinnoberrot",
+    "aliases": [
+     "Zinnober"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0077",
+    "text": "Kirschrot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0078",
+    "text": "Rubinrot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0079",
+    "text": "Ziegelrot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0080",
+    "text": "Blutrot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0081",
+    "text": "Rostrot",
+    "aliases": [
+     "Rost"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0082",
+    "text": "Lindgrün",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0083",
+    "text": "Giftgrün",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0084",
+    "text": "Flaschengrün",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0085",
+    "text": "Apfelgrün",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0086",
+    "text": "Moosgrün",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0087",
+    "text": "Jadegrün",
+    "aliases": [
+     "Jade"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0088",
+    "text": "Chartreuse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0089",
+    "text": "Limettengrün",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0090",
+    "text": "Aquamarin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0091",
+    "text": "Mauve",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0092",
+    "text": "Champagner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0093",
+    "text": "Karamell",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0094",
+    "text": "Sepia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0095",
+    "text": "Umbra",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0096",
+    "text": "Siena",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0097",
+    "text": "Kanariengelb",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0098",
+    "text": "Schneeweiß",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0099",
+    "text": "Platin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0100",
+    "text": "Graphit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0101",
+    "text": "Schokobraun",
+    "aliases": [
+     "Schokoladenbraun"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0102",
+    "text": "Nougat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0103",
+    "text": "Magnolie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0104",
+    "text": "Ecru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0105",
+    "text": "Puderrosa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-003-a0106",
+    "text": "Zartrosa",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

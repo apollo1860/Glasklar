@@ -1,0 +1,729 @@
+[
+ {
+  "id": "ess-002",
+  "text": "Nenne ein Obst",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-002-a0001",
+    "text": "Apfel",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-002-a0002",
+    "text": "Banane",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-002-a0003",
+    "text": "Birne",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0004",
+    "text": "Erdbeere",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0005",
+    "text": "Orange",
+    "aliases": [
+     "Apfelsine"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0006",
+    "text": "Kirsche",
+    "aliases": [
+     "Süßkirsche"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0007",
+    "text": "Weintraube",
+    "aliases": [
+     "Traube",
+     "Weintrauben",
+     "Trauben"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0008",
+    "text": "Ananas",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0009",
+    "text": "Mango",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0010",
+    "text": "Kiwi",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-002-a0011",
+    "text": "Pfirsich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0012",
+    "text": "Pflaume",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0013",
+    "text": "Zwetschge",
+    "aliases": [
+     "Zwetschke",
+     "Zwetsche"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0014",
+    "text": "Zitrone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0015",
+    "text": "Mandarine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0016",
+    "text": "Melone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0017",
+    "text": "Wassermelone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0018",
+    "text": "Himbeere",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0019",
+    "text": "Heidelbeere",
+    "aliases": [
+     "Blaubeere"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0020",
+    "text": "Aprikose",
+    "aliases": [
+     "Marille"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0021",
+    "text": "Nektarine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0022",
+    "text": "Grapefruit",
+    "aliases": [
+     "Pampelmuse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0023",
+    "text": "Brombeere",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0024",
+    "text": "Johannisbeere",
+    "aliases": [
+     "Ribisel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0025",
+    "text": "Granatapfel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0026",
+    "text": "Kokosnuss",
+    "aliases": [
+     "Kokos"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0027",
+    "text": "Feige",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0028",
+    "text": "Papaya",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0029",
+    "text": "Maracuja",
+    "aliases": [
+     "Passionsfrucht"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0030",
+    "text": "Clementine",
+    "aliases": [
+     "Klementine"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0031",
+    "text": "Limette",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0032",
+    "text": "Litschi",
+    "aliases": [
+     "Lychee"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0033",
+    "text": "Stachelbeere",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-002-a0034",
+    "text": "Dattel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0035",
+    "text": "Sauerkirsche",
+    "aliases": [
+     "Weichsel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0036",
+    "text": "Mirabelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0037",
+    "text": "Quitte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0038",
+    "text": "Honigmelone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0039",
+    "text": "Cantaloupe-Melone",
+    "aliases": [
+     "Cantaloupe",
+     "Netzmelone"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0040",
+    "text": "Galiamelone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0041",
+    "text": "Preiselbeere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0042",
+    "text": "Cranberry",
+    "aliases": [
+     "Moosbeere",
+     "Kranbeere"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0043",
+    "text": "Holunder",
+    "aliases": [
+     "Holunderbeere"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0044",
+    "text": "Avocado",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0045",
+    "text": "Kaki",
+    "aliases": [
+     "Sharonfrucht",
+     "Persimone"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0046",
+    "text": "Drachenfrucht",
+    "aliases": [
+     "Pitaya",
+     "Pitahaya"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0047",
+    "text": "Sternfrucht",
+    "aliases": [
+     "Karambole"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0048",
+    "text": "Guave",
+    "aliases": [
+     "Guava"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0049",
+    "text": "Physalis",
+    "aliases": [
+     "Kapstachelbeere",
+     "Andenbeere"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0050",
+    "text": "Blutorange",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0051",
+    "text": "Pomelo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0052",
+    "text": "Kumquat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0053",
+    "text": "Tomate",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0054",
+    "text": "Rhabarber",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0055",
+    "text": "Hagebutte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0056",
+    "text": "Sanddorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0057",
+    "text": "Maulbeere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0058",
+    "text": "Goji-Beere",
+    "aliases": [
+     "Goji",
+     "Bocksdornfrucht"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0059",
+    "text": "Aronia",
+    "aliases": [
+     "Aroniabeere",
+     "Apfelbeere"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0060",
+    "text": "Reneklode",
+    "aliases": [
+     "Reneclaude",
+     "Ringlotte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0061",
+    "text": "Schlehe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0062",
+    "text": "Walnuss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0063",
+    "text": "Haselnuss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0064",
+    "text": "Mandel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0065",
+    "text": "Esskastanie",
+    "aliases": [
+     "Marone",
+     "Maroni"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0066",
+    "text": "Jackfrucht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0067",
+    "text": "Durian",
+    "aliases": [
+     "Stinkfrucht"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0068",
+    "text": "Walderdbeere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0069",
+    "text": "Nashi-Birne",
+    "aliases": [
+     "Nashi",
+     "Asiatische Birne"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0070",
+    "text": "Olive",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0071",
+    "text": "Kochbanane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-002-a0072",
+    "text": "Mispel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0073",
+    "text": "Rambutan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0074",
+    "text": "Longan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0075",
+    "text": "Mangostane",
+    "aliases": [
+     "Mangostan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0076",
+    "text": "Cherimoya",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0077",
+    "text": "Kaktusfeige",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0078",
+    "text": "Tamarinde",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0079",
+    "text": "Kiwano",
+    "aliases": [
+     "Hornmelone"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0080",
+    "text": "Feijoa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0081",
+    "text": "Brotfrucht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0082",
+    "text": "Loquat",
+    "aliases": [
+     "Japanische Wollmispel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0083",
+    "text": "Yuzu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0084",
+    "text": "Bergamotte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0085",
+    "text": "Satsuma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0086",
+    "text": "Moltebeere",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0087",
+    "text": "Kornelkirsche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0088",
+    "text": "Elsbeere",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0089",
+    "text": "Vogelbeere",
+    "aliases": [
+     "Ebereschenbeere"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0090",
+    "text": "Berberitze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0091",
+    "text": "Salak",
+    "aliases": [
+     "Schlangenfrucht"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0092",
+    "text": "Açaí",
+    "aliases": [
+     "Açaí-Beere"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0093",
+    "text": "Pepino",
+    "aliases": [
+     "Birnenmelone"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0094",
+    "text": "Tamarillo",
+    "aliases": [
+     "Baumtomate"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0095",
+    "text": "Jostabeere",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0096",
+    "text": "Boysenbeere",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0097",
+    "text": "Granadilla",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0098",
+    "text": "Zitronatzitrone",
+    "aliases": [
+     "Zedrat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0099",
+    "text": "Sapote",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0100",
+    "text": "Pistazie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0101",
+    "text": "Cashew",
+    "aliases": [
+     "Cashewnuss",
+     "Cashewapfel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0102",
+    "text": "Kiwibeere",
+    "aliases": [
+     "Minikiwi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0103",
+    "text": "Wacholderbeere",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0104",
+    "text": "Buddhas Hand",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-002-a0105",
+    "text": "Kratzbeere",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

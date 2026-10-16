@@ -1,0 +1,13 @@
+{
+  "name": "glasklar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Glasklar – das Trinkspiel, bei dem seltene Antworten das Glas leer halten.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "build-data": "node tools/build-data.js",
+    "validate": "node tools/validate.js",
+    "serve": "npx serve ."
+  }
+}

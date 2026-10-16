@@ -1,0 +1,29 @@
+// Glasklar – zentrale Spielwerte. Hier anpassen, alles andere liest von hier.
+export const CONFIG = {
+  // Füllung pro Frage nach tier der gewählten Antwort
+  fillByTier: { 1: 3, 2: 2, 3: 1, 4: 0, 5: 0 },
+  // "Nichts passt" und keine Antwort bis Timer-Ende
+  fillNothing: 3,
+  fillTimeout: 3,
+
+  // Multiplayer: +1 pro weiterem Spieler mit gleicher Antwort, max. +2
+  sameAnswerBonusPerPlayer: 1,
+  sameAnswerBonusMax: 2,
+
+  // Schlücke pro Runde sind hierauf gekappt (= Füllstufen des Glases)
+  maxSipsPerRound: 10,
+  questionsPerRound: 3,
+
+  // Antwortzeit in Sekunden
+  timer: { default: 30, min: 20, max: 60, step: 5 },
+
+  search: {
+    maxResults: 6,
+    fuzzyMinLength: 5, // Tippfehler-Toleranz erst ab so vielen Buchstaben
+    fuzzyMaxDistance: 1,
+  },
+
+  // Multiplayer (Phase 2)
+  minPlayers: 2,
+  roomInactiveHours: 6,
+};
