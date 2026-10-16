@@ -1,0 +1,58 @@
+@id sta-003
+@text Nenne den US-Bundesstaat mit der niedrigsten Mordrate pro 100.000 Einwohner
+@typ rangliste
+@loesung 1. New Hampshire · 2. Massachusetts · 3. Maine · 4. Hawaii · 5. Idaho (FBI-Kriminalstatistik 2024, gerundet)
+@quelle FBI-Kriminalstatistik 2024, gerundet
+# Mord und Totschlag je 100.000 Einwohner; Quellen weichen ab Platz 4 leicht voneinander ab.
+# Füllung nach Rang: Platz 1–3 = 0, 4–8 = 1, 9–10 = 2, Rest = 3.
+
+5 New Hampshire
+5 Massachusetts
+5 Maine
+3 Hawaii
+3 Idaho
+3 Vermont
+3 Utah
+3 Rhode Island
+2 Iowa
+2 Wyoming
+1 Alabama
+1 Alaska
+1 Arizona
+1 Arkansas
+1 Colorado
+1 Connecticut
+1 Delaware
+1 Florida
+1 Georgia
+1 Illinois
+1 Indiana
+1 Kalifornien = California
+1 Kansas
+1 Kentucky
+1 Louisiana
+1 Maryland
+1 Michigan
+1 Minnesota
+1 Mississippi
+1 Missouri
+1 Montana
+1 Nebraska
+1 Nevada
+1 New Jersey
+1 New Mexico = Neumexiko
+1 New York
+1 North Carolina = Nordkarolina
+1 North Dakota = Norddakota
+1 Ohio
+1 Oklahoma
+1 Oregon
+1 Pennsylvania = Pennsylvanien
+1 South Carolina = Südkarolina
+1 South Dakota = Süddakota
+1 Tennessee
+1 Texas
+1 Virginia
+1 Washington
+1 West Virginia
+1 Wisconsin

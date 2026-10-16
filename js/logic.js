@@ -161,7 +161,9 @@ export function sameAnswerBonus(sameCount, cfg = CONFIG) {
  */
 export function computeQuestionFills(submissions, question, { multiplayer = false, cfg = CONFIG } = {}) {
   const counts = new Map();
-  if (multiplayer) {
+  // Bei Ranglisten zählt Wissen, nicht Originalität: kein Aufschlag für gleiche Antworten
+  const withBonus = multiplayer && question.typ !== 'rangliste';
+  if (withBonus) {
     for (const s of Object.values(submissions)) {
       if (s && s.type === 'answer') counts.set(s.answerId, (counts.get(s.answerId) || 0) + 1);
     }
@@ -169,7 +171,7 @@ export function computeQuestionFills(submissions, question, { multiplayer = fals
   const out = {};
   for (const [pid, s] of Object.entries(submissions)) {
     const base = baseFill(s, question, cfg);
-    const bonus = multiplayer && s && s.type === 'answer' ? sameAnswerBonus(counts.get(s.answerId), cfg) : 0;
+    const bonus = withBonus && s && s.type === 'answer' ? sameAnswerBonus(counts.get(s.answerId), cfg) : 0;
     out[pid] = { base, bonus, fill: base + bonus };
   }
   return out;

@@ -1,0 +1,24 @@
+@id sta-007
+@text Nenne das Bundesland mit den wenigsten Sonnenstunden im Jahr
+@typ rangliste
+@loesung 1. Nordrhein-Westfalen · 2. Niedersachsen · 3. Bremen · 4. Thüringen · 5. Hamburg (DWD-Rasterdaten, Mittel 1991–2020)
+@quelle DWD-Rasterdaten, Mittel 1991–2020
+# NRW 1.579 h, Niedersachsen 1.585 h, Bremen 1.601 h, Thüringen 1.614 h, Hamburg 1.620 h.
+# Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
+5 Nordrhein-Westfalen = NRW
+3 Niedersachsen
+3 Bremen
+2 Thüringen
+2 Hamburg
+2 Schleswig-Holstein
+1 Baden-Württemberg = BaWü
+1 Bayern
+1 Berlin
+1 Brandenburg
+1 Hessen
+1 Mecklenburg-Vorpommern = MV; Meck-Pomm
+1 Rheinland-Pfalz
+1 Saarland
+1 Sachsen
+1 Sachsen-Anhalt

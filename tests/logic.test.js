@@ -232,3 +232,9 @@ test('Multiplayer: alle geantwortet, Reveal-Abgaben, Schlücke und Gesamtsumme',
   assert.deepEqual(sipsByPlayer({ a: { q1: 3, q2: 5, q3: 4 }, b: { q1: 0, q2: 1 } }), { a: 10, b: 1 });
   assert.deepEqual(totalsFromHistory({ r1: { a: 4, b: 2 }, r2: { a: 1, b: 7 } }), { a: 5, b: 9 });
 });
+
+test('Ranglisten: kein Gleiche-Antwort-Aufschlag', () => {
+  const R = { ...Q, typ: 'rangliste' };
+  const f = computeQuestionFills({ a: { type: 'answer', answerId: 'a7' }, b: { type: 'answer', answerId: 'a7' } }, R, { multiplayer: true });
+  assert.deepEqual(f.a, { base: 0, bonus: 0, fill: 0 });
+});

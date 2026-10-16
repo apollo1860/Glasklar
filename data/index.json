@@ -45,6 +45,22 @@
       ]
     },
     {
+      "id": "statistik",
+      "name": "Ranglisten",
+      "icon": "📊",
+      "count": 8,
+      "questions": [
+        "sta-001",
+        "sta-002",
+        "sta-003",
+        "sta-004",
+        "sta-005",
+        "sta-006",
+        "sta-007",
+        "sta-008"
+      ]
+    },
+    {
       "id": "essen",
       "name": "Essen & Trinken",
       "icon": "🍕",

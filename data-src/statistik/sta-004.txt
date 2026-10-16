@@ -1,0 +1,24 @@
+@id sta-004
+@text Nenne das Bundesland mit der höchsten Lebenserwartung
+@typ rangliste
+@loesung 1. Baden-Württemberg · 2. Bayern · 3. Hessen · 4. Sachsen · 5. Hamburg (Destatis, Sterbetafeln 2022/2024)
+@quelle Destatis, Sterbetafeln 2022/2024
+# Mittel aus Frauen und Männern; Baden-Württemberg seit Jahren vorn.
+# Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
+5 Baden-Württemberg = BaWü
+3 Bayern
+3 Hessen
+2 Sachsen
+2 Hamburg
+2 Rheinland-Pfalz
+1 Berlin
+1 Brandenburg
+1 Bremen
+1 Mecklenburg-Vorpommern = MV; Meck-Pomm
+1 Niedersachsen
+1 Nordrhein-Westfalen = NRW
+1 Saarland
+1 Sachsen-Anhalt
+1 Schleswig-Holstein
+1 Thüringen

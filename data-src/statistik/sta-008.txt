@@ -1,0 +1,24 @@
+@id sta-008
+@text Nenne das Bundesland mit den wenigsten Touristen
+@typ rangliste
+@loesung 1. Saarland · 2. Bremen · 3. Sachsen-Anhalt · 4. Thüringen · 5. Brandenburg (DTV, Gästeankünfte 2024)
+@quelle DTV, Gästeankünfte 2024
+# Gemessen an Gästeankünften (Saarland 1,1 Mio., Bremen 1,5 Mio.); Tourismuseinnahmen werden nicht amtlich je Land erhoben.
+# Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
+5 Saarland
+3 Bremen
+3 Sachsen-Anhalt
+2 Thüringen
+2 Brandenburg
+2 Hamburg
+1 Baden-Württemberg = BaWü
+1 Bayern
+1 Berlin
+1 Hessen
+1 Mecklenburg-Vorpommern = MV; Meck-Pomm
+1 Niedersachsen
+1 Nordrhein-Westfalen = NRW
+1 Rheinland-Pfalz
+1 Sachsen
+1 Schleswig-Holstein

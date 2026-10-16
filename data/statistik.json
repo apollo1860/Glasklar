@@ -1,0 +1,1539 @@
+[
+ {
+  "id": "sta-001",
+  "text": "Nenne den US-Bundesstaat mit der höchsten Lebenserwartung",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Hawaii · 2. Massachusetts · 3. New Jersey · 4. New York · 5. Connecticut (CDC/NCHS, U.S. State Life Tables 2022)",
+  "quelle": "CDC/NCHS, U.S. State Life Tables 2022",
+  "answers": [
+   {
+    "id": "sta-001-a0001",
+    "text": "Hawaii",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-001-a0002",
+    "text": "Massachusetts",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-001-a0003",
+    "text": "New Jersey",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-001-a0004",
+    "text": "New York",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-001-a0005",
+    "text": "Connecticut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-001-a0006",
+    "text": "Kalifornien",
+    "aliases": [
+     "California"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-001-a0007",
+    "text": "Minnesota",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-001-a0008",
+    "text": "Rhode Island",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-001-a0009",
+    "text": "Utah",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-001-a0010",
+    "text": "New Hampshire",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-001-a0011",
+    "text": "Alabama",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0012",
+    "text": "Alaska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0013",
+    "text": "Arizona",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0014",
+    "text": "Arkansas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0015",
+    "text": "Colorado",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0016",
+    "text": "Delaware",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0017",
+    "text": "Florida",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0018",
+    "text": "Georgia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0019",
+    "text": "Idaho",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0020",
+    "text": "Illinois",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0021",
+    "text": "Indiana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0022",
+    "text": "Iowa",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0023",
+    "text": "Kansas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0024",
+    "text": "Kentucky",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0025",
+    "text": "Louisiana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0026",
+    "text": "Maine",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0027",
+    "text": "Maryland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0028",
+    "text": "Michigan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0029",
+    "text": "Mississippi",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0030",
+    "text": "Missouri",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0031",
+    "text": "Montana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0032",
+    "text": "Nebraska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0033",
+    "text": "Nevada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0034",
+    "text": "New Mexico",
+    "aliases": [
+     "Neumexiko"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0035",
+    "text": "North Carolina",
+    "aliases": [
+     "Nordkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0036",
+    "text": "North Dakota",
+    "aliases": [
+     "Norddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0037",
+    "text": "Ohio",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0038",
+    "text": "Oklahoma",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0039",
+    "text": "Oregon",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0040",
+    "text": "Pennsylvania",
+    "aliases": [
+     "Pennsylvanien"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0041",
+    "text": "South Carolina",
+    "aliases": [
+     "Südkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0042",
+    "text": "South Dakota",
+    "aliases": [
+     "Süddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0043",
+    "text": "Tennessee",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0044",
+    "text": "Texas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0045",
+    "text": "Vermont",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0046",
+    "text": "Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0047",
+    "text": "Washington",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0048",
+    "text": "West Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0049",
+    "text": "Wisconsin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-001-a0050",
+    "text": "Wyoming",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-002",
+  "text": "Nenne den US-Bundesstaat mit den meisten Verkehrstoten pro 100.000 Einwohner",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Mississippi · 2. Wyoming · 3. New Mexico · 4. South Carolina · 5. Arkansas (IIHS, Fatality Facts 2023)",
+  "quelle": "IIHS, Fatality Facts 2023",
+  "answers": [
+   {
+    "id": "sta-002-a0001",
+    "text": "Mississippi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-002-a0002",
+    "text": "Wyoming",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-002-a0003",
+    "text": "New Mexico",
+    "aliases": [
+     "Neumexiko"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-002-a0004",
+    "text": "South Carolina",
+    "aliases": [
+     "Südkarolina"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-002-a0005",
+    "text": "Arkansas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-002-a0006",
+    "text": "Alabama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-002-a0007",
+    "text": "Tennessee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-002-a0008",
+    "text": "Montana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-002-a0009",
+    "text": "Kentucky",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-002-a0010",
+    "text": "Louisiana",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-002-a0011",
+    "text": "Alaska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0012",
+    "text": "Arizona",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0013",
+    "text": "Colorado",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0014",
+    "text": "Connecticut",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0015",
+    "text": "Delaware",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0016",
+    "text": "Florida",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0017",
+    "text": "Georgia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0018",
+    "text": "Hawaii",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0019",
+    "text": "Idaho",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0020",
+    "text": "Illinois",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0021",
+    "text": "Indiana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0022",
+    "text": "Iowa",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0023",
+    "text": "Kalifornien",
+    "aliases": [
+     "California"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0024",
+    "text": "Kansas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0025",
+    "text": "Maine",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0026",
+    "text": "Maryland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0027",
+    "text": "Massachusetts",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0028",
+    "text": "Michigan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0029",
+    "text": "Minnesota",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0030",
+    "text": "Missouri",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0031",
+    "text": "Nebraska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0032",
+    "text": "Nevada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0033",
+    "text": "New Hampshire",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0034",
+    "text": "New Jersey",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0035",
+    "text": "New York",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0036",
+    "text": "North Carolina",
+    "aliases": [
+     "Nordkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0037",
+    "text": "North Dakota",
+    "aliases": [
+     "Norddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0038",
+    "text": "Ohio",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0039",
+    "text": "Oklahoma",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0040",
+    "text": "Oregon",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0041",
+    "text": "Pennsylvania",
+    "aliases": [
+     "Pennsylvanien"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0042",
+    "text": "Rhode Island",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0043",
+    "text": "South Dakota",
+    "aliases": [
+     "Süddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0044",
+    "text": "Texas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0045",
+    "text": "Utah",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0046",
+    "text": "Vermont",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0047",
+    "text": "Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0048",
+    "text": "Washington",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0049",
+    "text": "West Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-002-a0050",
+    "text": "Wisconsin",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-003",
+  "text": "Nenne den US-Bundesstaat mit der niedrigsten Mordrate pro 100.000 Einwohner",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. New Hampshire · 2. Massachusetts · 3. Maine · 4. Hawaii · 5. Idaho (FBI-Kriminalstatistik 2024, gerundet)",
+  "quelle": "FBI-Kriminalstatistik 2024, gerundet",
+  "answers": [
+   {
+    "id": "sta-003-a0001",
+    "text": "New Hampshire",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-003-a0002",
+    "text": "Massachusetts",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-003-a0003",
+    "text": "Maine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-003-a0004",
+    "text": "Hawaii",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-003-a0005",
+    "text": "Idaho",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-003-a0006",
+    "text": "Vermont",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-003-a0007",
+    "text": "Utah",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-003-a0008",
+    "text": "Rhode Island",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-003-a0009",
+    "text": "Iowa",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-003-a0010",
+    "text": "Wyoming",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-003-a0011",
+    "text": "Alabama",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0012",
+    "text": "Alaska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0013",
+    "text": "Arizona",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0014",
+    "text": "Arkansas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0015",
+    "text": "Colorado",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0016",
+    "text": "Connecticut",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0017",
+    "text": "Delaware",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0018",
+    "text": "Florida",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0019",
+    "text": "Georgia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0020",
+    "text": "Illinois",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0021",
+    "text": "Indiana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0022",
+    "text": "Kalifornien",
+    "aliases": [
+     "California"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0023",
+    "text": "Kansas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0024",
+    "text": "Kentucky",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0025",
+    "text": "Louisiana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0026",
+    "text": "Maryland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0027",
+    "text": "Michigan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0028",
+    "text": "Minnesota",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0029",
+    "text": "Mississippi",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0030",
+    "text": "Missouri",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0031",
+    "text": "Montana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0032",
+    "text": "Nebraska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0033",
+    "text": "Nevada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0034",
+    "text": "New Jersey",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0035",
+    "text": "New Mexico",
+    "aliases": [
+     "Neumexiko"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0036",
+    "text": "New York",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0037",
+    "text": "North Carolina",
+    "aliases": [
+     "Nordkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0038",
+    "text": "North Dakota",
+    "aliases": [
+     "Norddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0039",
+    "text": "Ohio",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0040",
+    "text": "Oklahoma",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0041",
+    "text": "Oregon",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0042",
+    "text": "Pennsylvania",
+    "aliases": [
+     "Pennsylvanien"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0043",
+    "text": "South Carolina",
+    "aliases": [
+     "Südkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0044",
+    "text": "South Dakota",
+    "aliases": [
+     "Süddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0045",
+    "text": "Tennessee",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0046",
+    "text": "Texas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0047",
+    "text": "Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0048",
+    "text": "Washington",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0049",
+    "text": "West Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-003-a0050",
+    "text": "Wisconsin",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-004",
+  "text": "Nenne das Bundesland mit der höchsten Lebenserwartung",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Baden-Württemberg · 2. Bayern · 3. Hessen · 4. Sachsen · 5. Hamburg (Destatis, Sterbetafeln 2022/2024)",
+  "quelle": "Destatis, Sterbetafeln 2022/2024",
+  "answers": [
+   {
+    "id": "sta-004-a0001",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-004-a0002",
+    "text": "Bayern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-004-a0003",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-004-a0004",
+    "text": "Sachsen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-004-a0005",
+    "text": "Hamburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-004-a0006",
+    "text": "Rheinland-Pfalz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-004-a0007",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0008",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0009",
+    "text": "Bremen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0010",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0011",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0012",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0013",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0014",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0015",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-004-a0016",
+    "text": "Thüringen",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-005",
+  "text": "Nenne das Bundesland mit der höchsten Arbeitslosenquote",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Bremen · 2. Berlin · 3. Hamburg · 4. Mecklenburg-Vorpommern / Sachsen-Anhalt · 6. Nordrhein-Westfalen (Bundesagentur für Arbeit, Jahresdurchschnitt 2025)",
+  "quelle": "Bundesagentur für Arbeit, Jahresdurchschnitt 2025",
+  "answers": [
+   {
+    "id": "sta-005-a0001",
+    "text": "Bremen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-005-a0002",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-005-a0003",
+    "text": "Hamburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-005-a0004",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-005-a0005",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-005-a0006",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-005-a0007",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0008",
+    "text": "Bayern",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0009",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0010",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0011",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0012",
+    "text": "Rheinland-Pfalz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0013",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0014",
+    "text": "Sachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0015",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-005-a0016",
+    "text": "Thüringen",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-006",
+  "text": "Nenne das Bundesland mit den meisten Verkehrstoten pro Einwohner",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Mecklenburg-Vorpommern · 2. Sachsen-Anhalt · 3. Brandenburg · 4. Niedersachsen · 5. Thüringen (Destatis, Unfallbilanz 2024)",
+  "quelle": "Destatis, Unfallbilanz 2024",
+  "answers": [
+   {
+    "id": "sta-006-a0001",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-006-a0002",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-006-a0003",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-006-a0004",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-006-a0005",
+    "text": "Thüringen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-006-a0006",
+    "text": "Bayern",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-006-a0007",
+    "text": "Sachsen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-006-a0008",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0009",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0010",
+    "text": "Bremen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0011",
+    "text": "Hamburg",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0012",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0013",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0014",
+    "text": "Rheinland-Pfalz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0015",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-006-a0016",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-007",
+  "text": "Nenne das Bundesland mit den wenigsten Sonnenstunden im Jahr",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Nordrhein-Westfalen · 2. Niedersachsen · 3. Bremen · 4. Thüringen · 5. Hamburg (DWD-Rasterdaten, Mittel 1991–2020)",
+  "quelle": "DWD-Rasterdaten, Mittel 1991–2020",
+  "answers": [
+   {
+    "id": "sta-007-a0001",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-007-a0002",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-007-a0003",
+    "text": "Bremen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-007-a0004",
+    "text": "Thüringen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-007-a0005",
+    "text": "Hamburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-007-a0006",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-007-a0007",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0008",
+    "text": "Bayern",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0009",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0010",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0011",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0012",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0013",
+    "text": "Rheinland-Pfalz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0014",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0015",
+    "text": "Sachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-007-a0016",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-008",
+  "text": "Nenne das Bundesland mit den wenigsten Touristen",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Saarland · 2. Bremen · 3. Sachsen-Anhalt · 4. Thüringen · 5. Brandenburg (DTV, Gästeankünfte 2024)",
+  "quelle": "DTV, Gästeankünfte 2024",
+  "answers": [
+   {
+    "id": "sta-008-a0001",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-008-a0002",
+    "text": "Bremen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-008-a0003",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-008-a0004",
+    "text": "Thüringen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-008-a0005",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-008-a0006",
+    "text": "Hamburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-008-a0007",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0008",
+    "text": "Bayern",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0009",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0010",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0011",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0012",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0013",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0014",
+    "text": "Rheinland-Pfalz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0015",
+    "text": "Sachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-008-a0016",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ }
+]

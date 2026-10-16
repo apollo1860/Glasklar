@@ -1,0 +1,24 @@
+@id sta-006
+@text Nenne das Bundesland mit den meisten Verkehrstoten pro Einwohner
+@typ rangliste
+@loesung 1. Mecklenburg-Vorpommern · 2. Sachsen-Anhalt · 3. Brandenburg · 4. Niedersachsen · 5. Thüringen (Destatis, Unfallbilanz 2024)
+@quelle Destatis, Unfallbilanz 2024
+# MV 59 und Sachsen-Anhalt 52 Getötete je 1 Mio. Einwohner; Plätze 3–6 nach Halbjahresdaten 2024.
+# Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
+5 Mecklenburg-Vorpommern = MV; Meck-Pomm
+3 Sachsen-Anhalt
+3 Brandenburg
+2 Niedersachsen
+2 Thüringen
+2 Bayern
+2 Sachsen
+1 Baden-Württemberg = BaWü
+1 Berlin
+1 Bremen
+1 Hamburg
+1 Hessen
+1 Nordrhein-Westfalen = NRW
+1 Rheinland-Pfalz
+1 Saarland
+1 Schleswig-Holstein
