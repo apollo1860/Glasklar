@@ -83,8 +83,25 @@ export function createMultiplayer(ctx) {
     btn.disabled = true;
     try { await fn(); } catch (e) {
       console.error(e);
-      toast(e?.message?.includes('PERMISSION') ? 'Keine Berechtigung – sind die Firebase-Regeln eingespielt?' : (e?.message || 'Verbindung fehlgeschlagen'), 4000);
+      toast(friendlyError(e), 6000);
     } finally { btn.disabled = false; }
+  }
+
+  function friendlyError(e) {
+    const code = String(e?.code || '');
+    const msg = String(e?.message || '');
+    if (code.includes('operation-not-allowed') || code.includes('admin-restricted-operation')) {
+      return 'Firebase: Anonyme Anmeldung ist nicht aktiviert (Authentication → Anmeldemethode → Anonym).';
+    }
+    if (code.includes('unauthorized-domain')) {
+      return `Firebase: Diese Domain ist nicht autorisiert (Authentication → Einstellungen → Autorisierte Domains → ${location.hostname}).`;
+    }
+    if (code.includes('network-request-failed')) return 'Keine Verbindung zu Firebase – Internet prüfen.';
+    if (/permission/i.test(code + msg)) return 'Firebase: Keine Berechtigung – sind die Regeln aus database.rules.json veröffentlicht?';
+    if (/Failed to fetch dynamically imported module|Importing a module script failed/i.test(msg)) {
+      return 'Firebase-SDK konnte nicht geladen werden – Internet prüfen.';
+    }
+    return msg || 'Verbindung fehlgeschlagen';
   }
 
   function create(btn) {

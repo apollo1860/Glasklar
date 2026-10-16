@@ -14,15 +14,21 @@ const HOUR = 3600 * 1000;
 
 let backendPromise = null;
 
+// ?lokal in der URL erzwingt den lokalen Testmodus (auch mit Firebase-Konfiguration)
+const forceLocal = () => {
+  try { return new URLSearchParams(location.search).has('lokal'); } catch { return false; }
+};
+const useFirebase = () => isFirebaseConfigured() && !forceLocal();
+
 export function getBackend() {
   if (!backendPromise) {
-    backendPromise = (isFirebaseConfigured() ? firebaseBackend() : Promise.resolve(localBackend()));
+    backendPromise = (useFirebase() ? firebaseBackend() : Promise.resolve(localBackend()));
     backendPromise.catch(() => { backendPromise = null; });
   }
   return backendPromise;
 }
 
-export const backendMode = () => (isFirebaseConfigured() ? 'firebase' : 'local');
+export const backendMode = () => (useFirebase() ? 'firebase' : 'local');
 
 /* ------------------------------------------------------------------ */
 /* Firebase                                                            */

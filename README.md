@@ -16,6 +16,7 @@ npx serve .          # oder: npm run serve
 ## Multiplayer
 
 Ohne Firebase-Konfiguration läuft der Multiplayer im **lokalen Testmodus**: Mehrere Tabs im selben Browser spielen gegeneinander (localStorage + BroadcastChannel). Einfach die Seite zweimal öffnen.
+Mit Konfiguration lässt sich der Testmodus über `?lokal` in der URL erzwingen (z. B. `http://localhost:3000/?lokal`).
 
 ### Firebase einrichten
 

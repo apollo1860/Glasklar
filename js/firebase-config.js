@@ -6,13 +6,13 @@
 // Solange hier Platzhalter stehen, läuft der Multiplayer im lokalen Testmodus
 // (mehrere Tabs im selben Browser spielen gegeneinander, kein Server nötig).
 export const firebaseConfig = {
-  apiKey: 'DEIN_API_KEY',
-  authDomain: 'DEIN_PROJEKT.firebaseapp.com',
-  databaseURL: 'https://DEIN_PROJEKT-default-rtdb.europe-west1.firebasedatabase.app',
-  projectId: 'DEIN_PROJEKT',
-  storageBucket: 'DEIN_PROJEKT.appspot.com',
-  messagingSenderId: '000000000000',
-  appId: '1:000000000000:web:0000000000000000',
+  apiKey: 'AIzaSyByQU6vcXymNcQ03wgQqo4AAEtCp_fbypM',
+  authDomain: 'glasklar-d31d7.firebaseapp.com',
+  databaseURL: 'https://glasklar-d31d7-default-rtdb.europe-west1.firebasedatabase.app',
+  projectId: 'glasklar-d31d7',
+  storageBucket: 'glasklar-d31d7.firebasestorage.app',
+  messagingSenderId: '321407558383',
+  appId: '1:321407558383:web:410e12610e863c00aaf11a',
 };
 
 export const isFirebaseConfigured = () =>
