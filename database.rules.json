@@ -1,0 +1,82 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+
+    "rooms": {
+      "$code": {
+        ".validate": "$code.matches(/^[0-9]{4}$/)",
+        ".write": "auth != null && ((!data.exists() && newData.child('meta/hostId').val() === auth.uid && newData.child('players/' + auth.uid + '/name').exists()) || (data.exists() && !newData.exists() && data.child('meta/lastActive').val() < now - 21600000))",
+
+        "meta": {
+          ".read": "auth != null",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists()",
+          ".validate": "newData.hasChildren(['code', 'hostId', 'phase'])",
+          "phase": { ".validate": "newData.isString() && newData.val().matches(/^(lobby|frage|reveal|endabrechnung|ende)$/)" },
+          "timer": { ".validate": "newData.isNumber() && newData.val() >= 20 && newData.val() <= 60" }
+        },
+
+        "players": {
+          ".read": "auth != null && data.child(auth.uid).exists()",
+          "$uid": {
+            ".read": "auth != null && auth.uid === $uid",
+            ".write": "auth != null && auth.uid === $uid && root.child('rooms/' + $code + '/meta').exists()",
+            ".validate": "newData.hasChildren(['name', 'joinedAt'])",
+            "name": { ".validate": "newData.isString() && newData.val().length >= 1 && newData.val().length <= 20" },
+            "connected": { ".validate": "newData.isBoolean()" },
+            "left": { ".validate": "newData.isBoolean()" },
+            "$other": { ".validate": "$other === 'joinedAt' || $other === 'lastSeen'" }
+          }
+        },
+
+        "question": {
+          ".read": "auth != null && data.parent().child('players/' + auth.uid).exists()",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists()"
+        },
+
+        "answered": {
+          ".read": "auth != null && data.parent().child('players/' + auth.uid).exists()",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists() && !newData.exists()",
+          "$uid": {
+            ".write": "auth != null && auth.uid === $uid && root.child('rooms/' + $code + '/players/' + auth.uid).exists() && root.child('rooms/' + $code + '/meta/phase').val() === 'frage'",
+            ".validate": "newData.isBoolean()"
+          }
+        },
+
+        "answers": {
+          ".read": "auth != null && data.parent().child('players/' + auth.uid).exists() && data.parent().child('meta/phase').val() !== 'frage'",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists() && !newData.exists()",
+          "$uid": {
+            ".read": "auth != null && auth.uid === $uid",
+            ".write": "auth != null && auth.uid === $uid && root.child('rooms/' + $code + '/players/' + auth.uid).exists() && root.child('rooms/' + $code + '/meta/phase').val() === 'frage'",
+            ".validate": "newData.hasChild('type') && newData.child('type').val().matches(/^(answer|nothing)$/)"
+          }
+        },
+
+        "fills": {
+          ".read": "auth != null && data.parent().child('players/' + auth.uid).exists()",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists()"
+        },
+        "history": {
+          ".read": "auth != null && data.parent().child('players/' + auth.uid).exists()",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists()"
+        },
+        "played": {
+          ".read": "auth != null && data.parent().child('players/' + auth.uid).exists()",
+          ".write": "auth != null && data.parent().child('players/' + auth.uid).exists()"
+        },
+
+        "$other": { ".validate": false }
+      }
+    },
+
+    "roomsActivity": {
+      ".indexOn": [".value"],
+      ".read": "auth != null && query.orderByValue == true && query.endAt < now - 21600000",
+      "$code": {
+        ".write": "auth != null && (root.child('rooms/' + $code + '/players/' + auth.uid).exists() || (!newData.exists() && data.val() < now - 21600000))",
+        ".validate": "newData.isNumber()"
+      }
+    }
+  }
+}

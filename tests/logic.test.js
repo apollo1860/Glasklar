@@ -201,3 +201,34 @@ test('Ziehen ohne Wiederholung, Reset bei leerem Pool, Kategorie-Wechsel', () =>
   assert.equal(x.id, 'g2');
   assert.equal(drawQuestion({ catalog, enabled: [], played }), null);
 });
+
+test('Multiplayer: Host-Wahl – ältester verbundener Spieler übernimmt', async () => {
+  const { electHost, activePlayers } = await import('../js/logic.js');
+  const players = {
+    host: { name: 'H', joinedAt: 1, connected: false },
+    b: { name: 'B', joinedAt: 3, connected: true },
+    a: { name: 'A', joinedAt: 2, connected: true },
+    gone: { name: 'G', joinedAt: 0, connected: true, left: true },
+  };
+  assert.deepEqual(activePlayers(players).map((p) => p.id), ['a', 'b']);
+  assert.equal(electHost('host', players), 'a');
+  assert.equal(electHost('b', players), 'b'); // verbundener Host bleibt
+  players.host.connected = true;
+  assert.equal(electHost('host', players), 'host');
+  assert.equal(electHost('x', {}), 'x');
+});
+
+test('Multiplayer: alle geantwortet, Reveal-Abgaben, Schlücke und Gesamtsumme', async () => {
+  const { allAnswered, revealSubmissions, sipsByPlayer, totalsFromHistory } = await import('../js/logic.js');
+  const players = {
+    a: { joinedAt: 1, connected: true },
+    b: { joinedAt: 2, connected: true },
+    c: { joinedAt: 3, connected: false },
+  };
+  assert.equal(allAnswered(players, { a: true }), false);
+  assert.equal(allAnswered(players, { a: true, b: true }), true); // c ist weg
+  const subs = revealSubmissions(players, { a: { type: 'answer', answerId: 'a1' }, c: { type: 'nothing' } });
+  assert.deepEqual(subs, { a: { type: 'answer', answerId: 'a1' }, c: { type: 'nothing' }, b: { type: 'timeout' } });
+  assert.deepEqual(sipsByPlayer({ a: { q1: 3, q2: 5, q3: 4 }, b: { q1: 0, q2: 1 } }), { a: 10, b: 1 });
+  assert.deepEqual(totalsFromHistory({ r1: { a: 4, b: 2 }, r2: { a: 1, b: 7 } }), { a: 5, b: 9 });
+});

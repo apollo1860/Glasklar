@@ -13,6 +13,46 @@ npx serve .          # oder: npm run serve
 # → http://localhost:3000
 ```
 
+## Multiplayer
+
+Ohne Firebase-Konfiguration läuft der Multiplayer im **lokalen Testmodus**: Mehrere Tabs im selben Browser spielen gegeneinander (localStorage + BroadcastChannel). Einfach die Seite zweimal öffnen.
+
+### Firebase einrichten
+
+1. In der [Firebase-Konsole](https://console.firebase.google.com/) ein Projekt anlegen.
+2. **Build → Realtime Database → Datenbank erstellen** (Standort z. B. `europe-west1`).
+3. **Build → Authentication → Anmeldemethode → Anonym** aktivieren.
+4. **Projekteinstellungen → Allgemein → Meine Apps → Web-App hinzufügen**, die angezeigte Konfiguration in `js/firebase-config.js` eintragen (inkl. `databaseURL`).
+5. **Realtime Database → Regeln**: Inhalt von `database.rules.json` einfügen und veröffentlichen.
+6. Unter **Authentication → Einstellungen → Autorisierte Domains** die GitHub-Pages-Domain ergänzen (z. B. `apollo1860.github.io`).
+
+### Ablauf
+
+- Raum per 4-stelligem Code (oder Einladungslink `?raum=1234`), Name wählen, Host startet ab 2 verbundenen Spielern.
+- Timer läuft über die Server-Startzeit (`.info/serverTimeOffset`), nicht über die Uhr des Geräts.
+- Antworten liegen bis zum Reveal verdeckt (die Regeln erlauben das Lesen erst nach der Frage), danach sind Eingaben gesperrt.
+- Reveal, sobald alle geantwortet haben oder der Timer abläuft.
+- Reconnect: Spieler-ID und Raum werden gespeichert, beim Neuladen kommt „Zurück ins Spiel?".
+- Verlässt der Host den Raum, übernimmt der älteste verbundene Spieler. Bei weniger als 2 verbundenen Spielern pausiert das Spiel (der Timer wird angehalten).
+- Räume, die länger als 6 Stunden inaktiv sind, werden beim Erstellen eines neuen Raums gelöscht.
+
+### Datenmodell (`rooms/{code}`)
+
+| Pfad | Inhalt |
+|---|---|
+| `meta` | Phase, Host, Runde, Frage-Nr., Kategorien, Timer, Pause, letzte Aktivität |
+| `players/{uid}` | Name, Beitrittszeit, verbunden/ausgetreten |
+| `question` | aktuelle Frage-ID, Server-Startzeit, Dauer |
+| `answered/{uid}` | nur „hat geantwortet" (für alle sichtbar) |
+| `answers/{uid}` | die Antwort selbst – lesbar erst nach dem Reveal |
+| `fills/{uid}/q1..q3` | Füllung pro Frage der laufenden Runde |
+| `history/r{n}/{uid}` | Schlücke pro Runde (Gesamtranking) |
+| `played/{frageId}` | im Raum schon gespielte Fragen |
+
+Zusätzlich `roomsActivity/{code}` (nur Zeitstempel) zum Aufräumen alter Räume; abfragbar ist dort nur, was älter als 6 Stunden ist.
+
+**Grenzen der Regeln:** Ein Raum ist nur mit Code erreichbar, schreiben darf nur, wer im Raum ist, und jeder nur seinen eigenen Spieler-Eintrag und seine eigene Antwort. Die Host-Logik selbst läuft im Browser. Ein Mitspieler, der die Seite manipuliert, könnte also Phase oder Füllungen verändern – für ein Partyspiel unter Freunden ist das vertretbar.
+
 ## Befehle
 
 ```bash
@@ -29,6 +69,10 @@ css/style.css          Heller Look, Glas-Effekte, Animationen
 js/config.js           Alle Spielwerte (Füllung je tier, Cap, Aufschlag, Timer …)
 js/logic.js            Reine Funktionen: Normalisierung, Suche, Bewertung, Ziehen
 js/game.js             App-Start, Zustandsmaschine, Singleplayer
+js/mp.js               Multiplayer-Steuerung (Lobby, Fragen, Reveal, Abrechnung, Host-Wechsel)
+js/net.js              Firebase- bzw. lokales Test-Backend, Räume, Presence
+js/firebase-config.js  Firebase-Konfiguration (Platzhalter)
+js/common.js           Gemeinsame Bausteine (Timer, Glas-Füllung, Einstellungen)
 js/ui.js               Bildschirme, Modals, Antwort-Eingabe mit Dropdown, Fehlend-Log
 js/glass.js            SVG-Glas (Wellen, Schaum, Bläschen, Shake, Overflow)
 js/fx.js               Konfetti, Funkeln, Spritzer, Vibration
@@ -41,6 +85,7 @@ data-src/              Quelldateien zum Bearbeiten (eine .txt pro Frage)
 tools/build-data.js    Baut data/ aus data-src/, hält Antwort-IDs stabil
 tools/validate.js      Schema- und Qualitätsprüfung
 tests/                 Node-Tests (node --test)
+database.rules.json    Security Rules für die Realtime Database
 ```
 
 ## Fragen bearbeiten

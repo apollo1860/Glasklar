@@ -31,7 +31,7 @@
 
         <div class="menu">
           <button class="btn btn-primary btn-xl" data-act="single">Singleplayer</button>
-          <button class="btn btn-secondary btn-xl" data-act="multi">Multiplayer <span class="badge">Bald</span></button>
+          <button class="btn btn-secondary btn-xl" data-act="multi">Multiplayer</button>
           <div class="menu-row">
             <button class="btn btn-ghost" data-act="howto">So geht's</button>
             <button class="btn btn-ghost" data-act="settings">Einstellungen</button>
@@ -81,6 +81,8 @@
         <button class="icon-btn" data-act="mute" aria-label="Ton aus"></button>
       </header>
 
+      <div id="players-strip" class="players-strip" aria-label="Mitspieler"></div>
+
       <div id="question-card" class="question-card card">
         <span id="q-cat" class="cat-label"></span>
         <h2 id="q-text" class="q-text"></h2>
@@ -117,7 +119,8 @@
       <div id="reveal-panel" class="reveal-panel" hidden>
         <p id="reveal-question" class="reveal-question"></p>
         <div id="reveal-chips" class="answer-chips"></div>
-        <button id="btn-next" class="btn btn-primary btn-xl btn-block" data-act="next" hidden>Nächste Frage →</button>
+        <button id="btn-next" class="btn btn-primary btn-xl btn-block" data-act="next" hidden>Nächste Frage</button>
+        <p id="reveal-wait" class="wait-note" hidden>Warte auf den Host …</p>
       </div>
     </section>
 
@@ -145,6 +148,87 @@
       <footer class="bottombar">
         <button class="btn btn-primary btn-xl btn-block" data-act="home">Zum Start</button>
       </footer>
+    </section>
+
+    <!-- MULTIPLAYER: EINSTIEG -->
+    <section id="screen-mp" class="screen" hidden>
+      <header class="topbar">
+        <button class="icon-btn" data-act="home" aria-label="Zurück">←</button>
+        <h2>Multiplayer</h2>
+        <span></span>
+      </header>
+      <div class="scroll">
+        <p id="mp-mode-note" class="mode-note" hidden></p>
+        <div class="card">
+          <h3>Dein Name</h3>
+          <input id="mp-name" class="text-input" type="text" maxlength="16" autocomplete="nickname" placeholder="z. B. Anton" aria-label="Dein Name">
+        </div>
+        <div class="card">
+          <h3>Neuer Raum</h3>
+          <p class="hint mb">Du bist Host: Du wählst Kategorien und Antwortzeit und startest die Runden.</p>
+          <button class="btn btn-primary btn-block" data-act="mp-create">Raum erstellen</button>
+        </div>
+        <div class="card">
+          <h3>Raum beitreten</h3>
+          <div class="join-row">
+            <input id="mp-code" class="text-input code-input" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="0000" aria-label="Raumcode" autocomplete="off">
+            <button class="btn btn-secondary" data-act="mp-join">Beitreten</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- MULTIPLAYER: LOBBY -->
+    <section id="screen-lobby" class="screen" hidden>
+      <header class="topbar">
+        <button class="icon-btn" data-act="mp-leave" aria-label="Raum verlassen">✕</button>
+        <h2>Lobby</h2>
+        <button class="icon-btn" data-act="mute" aria-label="Ton aus"></button>
+      </header>
+      <div class="scroll">
+        <div class="card room-card">
+          <span class="room-label">Raumcode</span>
+          <div id="lobby-code" class="room-code">----</div>
+          <button class="btn btn-ghost" data-act="mp-share">Freunde einladen</button>
+        </div>
+        <div class="card">
+          <h3>Spieler <span id="lobby-count" class="pill"></span></h3>
+          <ul id="lobby-players" class="player-list"></ul>
+        </div>
+        <div id="lobby-host-settings" class="card">
+          <h3>Kategorien</h3>
+          <div id="lobby-categories" class="chips"></div>
+          <h3 class="mt">Antwortzeit <output id="lobby-timer-val" class="pill">30 s</output></h3>
+          <input id="lobby-timer" type="range" class="slider" aria-label="Antwortzeit in Sekunden">
+        </div>
+        <div id="lobby-guest-settings" class="card" hidden>
+          <h3>Einstellungen</h3>
+          <p id="lobby-settings-text" class="muted"></p>
+        </div>
+        <p id="lobby-mode-note" class="mode-note" hidden></p>
+      </div>
+      <footer class="bottombar">
+        <button id="btn-mp-start" class="btn btn-primary btn-xl btn-block" data-act="mp-start">Spiel starten</button>
+        <p id="lobby-wait" class="wait-note"></p>
+      </footer>
+    </section>
+
+    <!-- MULTIPLAYER: ENDABRECHNUNG -->
+    <section id="screen-mp-result" class="screen" hidden>
+      <div class="scroll result-wrap">
+        <h2 id="mpr-title" class="result-title">Abrechnung</h2>
+        <div id="mpr-glasses" class="glass-row"></div>
+        <ol id="mpr-list" class="sip-list"></ol>
+        <div class="card ranking-card">
+          <h3>Gesamtranking</h3>
+          <ol id="mpr-ranking" class="ranking"></ol>
+        </div>
+        <div id="mpr-actions" class="result-actions">
+          <button id="mpr-new" class="btn btn-primary btn-xl btn-block" data-act="new-round">Neue Runde</button>
+          <button id="mpr-end" class="btn btn-ghost btn-block" data-act="end-game">Spiel beenden</button>
+          <p id="mpr-wait" class="wait-note" hidden>Warte auf den Host …</p>
+        </div>
+      </div>
     </section>
 
     <!-- EINSTELLUNGEN -->
@@ -181,6 +265,13 @@
         <p class="legal"><span class="age">18+</span> Verantwortungsvoll trinken · Alkoholfrei ist völlig ok</p>
       </div>
     </section>
+    <div id="pause-overlay" class="pause-overlay" hidden>
+      <div class="card">
+        <h2>Pause</h2>
+        <p>Warte auf Mitspieler – mindestens 2 müssen verbunden sein.</p>
+        <button class="btn btn-ghost" data-act="mp-leave">Raum verlassen</button>
+      </div>
+    </div>
   </main>
 
   <script type="module" src="js/game.js"></script>

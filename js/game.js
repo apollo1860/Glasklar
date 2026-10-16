@@ -6,32 +6,20 @@ import { loadIndex, getCatalog, getQuestion, getSearchIndex } from './data.js';
 import { store } from './storage.js';
 import { initAudio, sfx, isMuted, setMuted } from './audio.js';
 import { createGlass } from './glass.js';
-import { confetti, sparkle, splash, vibrate, wait, reducedMotion } from './fx.js';
+import { confetti, sparkle, vibrate, wait, reducedMotion } from './fx.js';
 import {
   $, $$, showScreen, initViewport, modal, toast, missingLog, AnswerInput,
   renderCategoryChips, renderAnswerChips, sipsLabel,
 } from './ui.js';
+import {
+  settings, played, requestWake, releaseWake, Countdown, bindTimerSlider,
+  revealKind, showRevealMsg, fillGlass, renderQuestionCard,
+} from './common.js';
+import { createMultiplayer } from './mp.js';
 
 /* ------------------------------------------------------------------ */
 /* Einstellungen & Statistik                                           */
 /* ------------------------------------------------------------------ */
-
-const settings = {
-  get() {
-    const s = store.get('settings', {});
-    return {
-      timer: clampTimer(s.timer ?? CONFIG.timer.default),
-      vibrate: s.vibrate !== false,
-      categories: Array.isArray(s.categories) ? s.categories : null,
-    };
-  },
-  set(patch) { store.set('settings', { ...this.get(), ...patch }); },
-};
-
-function clampTimer(v) {
-  const { min, max } = CONFIG.timer;
-  return Math.max(min, Math.min(max, Number(v) || CONFIG.timer.default));
-}
 
 const stats = {
   get: () => store.get('stats', { rounds: 0, sips: 0, best: null }),
@@ -43,74 +31,6 @@ const stats = {
   },
   reset: () => store.remove('stats'),
 };
-
-const played = {
-  get: () => new Set(store.get('played', [])),
-  add(id) { store.update('played', [], (l) => (l.includes(id) ? l : [...l, id])); },
-  resetCategories(catalog, cats) {
-    const drop = new Set(catalog.filter((q) => cats.includes(q.kategorie)).map((q) => q.id));
-    store.update('played', [], (l) => l.filter((id) => !drop.has(id)));
-  },
-  clear: () => store.remove('played'),
-};
-
-/* ------------------------------------------------------------------ */
-/* Wake Lock                                                           */
-/* ------------------------------------------------------------------ */
-
-let wakeLock = null;
-let wantWake = false;
-async function requestWake() {
-  wantWake = true;
-  try {
-    if ('wakeLock' in navigator && !wakeLock && document.visibilityState === 'visible') {
-      wakeLock = await navigator.wakeLock.request('screen');
-      wakeLock.addEventListener('release', () => { wakeLock = null; });
-    }
-  } catch { /* nicht erlaubt */ }
-}
-function releaseWake() {
-  wantWake = false;
-  wakeLock?.release().catch(() => {});
-  wakeLock = null;
-}
-document.addEventListener('visibilitychange', () => { if (wantWake && document.visibilityState === 'visible') requestWake(); });
-
-/* ------------------------------------------------------------------ */
-/* Timer (Deadline-basiert; Multiplayer nutzt später Serverzeit)       */
-/* ------------------------------------------------------------------ */
-
-class Countdown {
-  constructor({ seconds, bar, label, onEnd, now = () => Date.now() }) {
-    Object.assign(this, { seconds, bar, label, onEnd, now });
-    this.raf = 0;
-    this.lastWhole = null;
-  }
-  start(startAt = this.now()) {
-    this.stop();
-    this.deadline = startAt + this.seconds * 1000;
-    const loop = () => {
-      const left = Math.max(0, this.deadline - this.now());
-      const frac = left / (this.seconds * 1000);
-      this.bar.style.transform = `scaleX(${frac})`;
-      this.bar.parentElement.dataset.state = frac < 0.2 ? 'danger' : frac < 0.5 ? 'warn' : 'ok';
-      const whole = Math.ceil(left / 1000);
-      if (whole !== this.lastWhole) {
-        this.lastWhole = whole;
-        this.label.textContent = String(whole);
-        if (whole <= 5 && whole > 0) sfx.tick();
-      }
-      if (left <= 0) { this.raf = 0; this.onEnd(); return; }
-      this.raf = requestAnimationFrame(loop);
-    };
-    this.raf = requestAnimationFrame(loop);
-  }
-  stop() {
-    if (this.raf) cancelAnimationFrame(this.raf);
-    this.raf = 0;
-    this.lastWhole = null;
-  }
-}
 
 /* ------------------------------------------------------------------ */
 /* Spielzustand                                                        */
@@ -137,6 +57,18 @@ let gameGlass = null;
 let resultGlass = null;
 let answerInput = null;
 let countdown = null;
+let mp = null;
+
+function setMode(m) {
+  S.mode = m;
+  document.body.dataset.mode = m;
+}
+
+function goHome() {
+  renderStartStats();
+  setPhase('lobby');
+  showScreen('start');
+}
 
 const catName = (id) => index?.categories.find((c) => c.id === id);
 
@@ -165,19 +97,9 @@ function openSetup() {
   showScreen('setup');
 }
 
-function bindTimerSlider(slider, out) {
-  const { min, max, step } = CONFIG.timer;
-  Object.assign(slider, { min, max, step });
-  slider.value = settings.get().timer;
-  out.textContent = `${slider.value} s`;
-  slider.oninput = () => {
-    out.textContent = `${slider.value} s`;
-    settings.set({ timer: clampTimer(slider.value) });
-  };
-}
-
 async function startSingle() {
-  S.mode = 'single';
+  setMode('single');
+  countdown.now = () => Date.now();
   S.timerSec = settings.get().timer;
   S.round = 0;
   S.history = [];
@@ -219,7 +141,7 @@ async function showNewQuestion() {
     S.lastCat = pick.kategorie;
     const question = await getQuestion(pick.id, pick.kategorie);
     S.question = question;
-    renderQuestion(question);
+    renderQuestionCard(question, { cat: catName(question.kategorie), round: S.round, qNum: S.qNum, canSkip: true });
     setPhase('frage');
     answerInput.setQuestion(question, getSearchIndex(question));
     countdown.seconds = S.timerSec;
@@ -230,24 +152,6 @@ async function showNewQuestion() {
   } finally {
     S.busy = false;
   }
-}
-
-function renderQuestion(q) {
-  const cat = catName(q.kategorie);
-  $('#q-cat').textContent = cat?.name ?? q.kategorie;
-  $('#q-text').textContent = q.text;
-  $('#q-progress').innerHTML = Array.from({ length: CONFIG.questionsPerRound }, (_, i) =>
-    `<span class="dot ${i < S.qNum - 1 ? 'done' : i === S.qNum - 1 ? 'now' : ''}"></span>`).join('');
-  $('#round-label').textContent = `Runde ${S.round}`;
-  $('#reveal-panel').hidden = true;
-  $('#reveal-msg').className = 'reveal-msg';
-  $('#reveal-msg').textContent = '';
-  $('#answer-area').hidden = false;
-  $('#btn-skip').hidden = false;
-  const card = $('#question-card');
-  card.classList.remove('pop');
-  void card.offsetWidth;
-  card.classList.add('pop');
 }
 
 function skipQuestion() {
@@ -278,16 +182,6 @@ function submitAnswer(sub) {
 /* Reveal                                                              */
 /* ------------------------------------------------------------------ */
 
-const MESSAGES = {
-  rare: ['Selten!'],
-  low: ['Nicht schlecht', 'Fast originell', 'Knapp daneben'],
-  mid: ['Naheliegend', 'Das sagen einige', 'Solide, aber bekannt'],
-  top: ['Das sagt jeder', 'Die Standardantwort', 'Wie erwartet'],
-  nothing: ['Passen kostet', 'Nichts gepasst'],
-  timeout: ['Zeit abgelaufen', 'Zu langsam'],
-};
-const pickMsg = (k) => MESSAGES[k][Math.floor(Math.random() * MESSAGES[k].length)];
-
 async function reveal(sub) {
   const q = S.question;
   $('#btn-skip').hidden = true;
@@ -299,8 +193,7 @@ async function reveal(sub) {
   const total = S.fills.reduce((a, b) => a + b, 0);
 
   const answer = sub.type === 'answer' ? q.answers.find((a) => a.id === sub.answerId) : null;
-  const kind = sub.type === 'timeout' ? 'timeout' : sub.type === 'nothing' ? 'nothing'
-    : fill === 0 ? 'rare' : fill === 1 ? 'low' : fill === 2 ? 'mid' : 'top';
+  const kind = revealKind(sub, me.base);
 
   // Antwort-Chips (Häufigkeit), keine Schluck-Anzahl
   const groups = answerFrequencies({ me: sub }, q);
@@ -310,9 +203,7 @@ async function reveal(sub) {
   $('#btn-next').hidden = true;
 
   await wait(250);
-  const msg = $('#reveal-msg');
-  msg.textContent = pickMsg(kind);
-  msg.className = `reveal-msg show kind-${kind}`;
+  showRevealMsg(kind);
 
   if (answer && answer.tier === 1) gameGlass.flashRed();
   await fillGlass(gameGlass, before, Math.min(total, CONFIG.maxSipsPerRound));
@@ -330,21 +221,6 @@ async function reveal(sub) {
   next.textContent = last ? 'Zur Abrechnung' : 'Nächste Frage';
   next.hidden = false;
   next.focus({ preventScroll: true });
-}
-
-/** Füllt ein Glas schrittweise von a nach b – mit Shake, Blubbern und Vibration. */
-async function fillGlass(glass, from, to, { stepMs = 420, sound = true } = {}) {
-  for (let lvl = from + 1; lvl <= to; lvl++) {
-    glass.setLevel(lvl);
-    glass.shake(lvl >= 7);
-    if (sound) sfx.blub(lvl);
-    vibrate(lvl >= 7 ? 45 : 22);
-    if (lvl % 2 === 0 && !reducedMotion()) {
-      const p = glass.surfacePoint();
-      splash(p.x, p.y, 4);
-    }
-    await wait(reducedMotion() ? 120 : stepMs);
-  }
 }
 
 function onNext() {
@@ -516,12 +392,13 @@ function bind() {
     const el = e.target.closest('[data-act]');
     if (!el) return;
     const act = el.dataset.act;
+    if (S.mode === 'multi' && mp.onAction(act, el)) return;
     switch (act) {
-      case 'single': openSetup(); break;
-      case 'multi': toast('Multiplayer kommt in Phase 2'); break;
+      case 'single': setMode('single'); openSetup(); break;
+      case 'multi': mp.openEntry(); break;
       case 'settings': openSettings(); break;
       case 'howto': howTo(); break;
-      case 'home': renderStartStats(); setPhase('lobby'); showScreen('start'); break;
+      case 'home': goHome(); break;
       case 'start-round': if (S.enabled.length) startSingle(); break;
       case 'skip': skipQuestion(); break;
       case 'next': onNext(); break;
@@ -552,6 +429,8 @@ function bind() {
       default: break;
     }
   });
+  $('#mp-code').addEventListener('keydown', (e) => { if (e.key === 'Enter') $('[data-act="mp-join"]').click(); });
+  $('#mp-code').addEventListener('input', (e) => { e.target.value = e.target.value.replace(/\D/g, '').slice(0, 4); });
   $('#settings-sound').addEventListener('change', (e) => { setMuted(!e.target.checked); updateMuteButtons(); });
   $('#settings-vibrate').addEventListener('change', (e) => settings.set({ vibrate: e.target.checked }));
 }
@@ -564,9 +443,18 @@ async function init() {
   createGlass($('#logo-glass'), { compact: true }).setLevel(6, { animate: false });
   answerInput = new AnswerInput({
     root: $('#answer-area'),
-    onSubmit: (sub) => submitAnswer(sub),
+    onSubmit: (sub) => (S.mode === 'multi' ? mp.onSubmit(sub) : submitAnswer(sub)),
   });
-  countdown = new Countdown({ seconds: S.timerSec, bar: $('#timer-bar'), label: $('#timer-num'), onEnd: onTimeout });
+  countdown = new Countdown({
+    seconds: S.timerSec, bar: $('#timer-bar'), label: $('#timer-num'),
+    onEnd: () => (S.mode === 'multi' ? mp.onTimeout() : onTimeout()),
+  });
+  mp = createMultiplayer({
+    gameGlass, answerInput, countdown, setPhase, setMode, goHome, catName,
+    getIndex: () => index,
+    getCatalog: () => catalog,
+  });
+  setMode('single');
   bind();
   updateMuteButtons();
   setPhase('lobby');
@@ -579,9 +467,11 @@ async function init() {
   } catch (e) {
     console.error(e);
     $('#start-count').textContent = 'Fragen konnten nicht geladen werden. Läuft ein lokaler Server (npx serve)?';
-    for (const b of $$('[data-act="single"]')) b.disabled = true;
+    for (const b of $$('[data-act="single"], [data-act="multi"]')) b.disabled = true;
+    return;
   }
   await ageGate();
+  await mp.resume();
 }
 
 init();

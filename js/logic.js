@@ -252,3 +252,55 @@ export function drawQuestion({ catalog, enabled, played = new Set(), exclude = n
 export function catalogFromIndex(index) {
   return index.categories.flatMap((c) => c.questions.map((id) => ({ id, kategorie: c.id })));
 }
+
+/* ------------------------------------------------------------------ */
+/* Multiplayer-Helfer                                                  */
+/* ------------------------------------------------------------------ */
+
+/** Verbundene, nicht ausgetretene Spieler, sortiert nach Beitritt (älteste zuerst). */
+export function activePlayers(players) {
+  return Object.entries(players || {})
+    .filter(([, p]) => p && p.connected && !p.left)
+    .map(([id, p]) => ({ id, ...p }))
+    .sort((a, b) => (a.joinedAt ?? 0) - (b.joinedAt ?? 0) || (a.id < b.id ? -1 : 1));
+}
+
+/** Host bleibt, solange verbunden; sonst wird der älteste verbundene Spieler Host. */
+export function electHost(hostId, players) {
+  const active = activePlayers(players);
+  if (active.some((p) => p.id === hostId)) return hostId;
+  return active[0]?.id ?? hostId ?? null;
+}
+
+/** Haben alle aktiven Spieler geantwortet? */
+export function allAnswered(players, answered) {
+  const active = activePlayers(players);
+  return active.length > 0 && active.every((p) => answered?.[p.id]);
+}
+
+/**
+ * Abgaben für den Reveal: alle, die geantwortet haben, plus aktive Spieler ohne Antwort (= Timeout).
+ * Weggefallene Spieler ohne Antwort werden übersprungen.
+ */
+export function revealSubmissions(players, answers) {
+  const subs = {};
+  for (const [pid, s] of Object.entries(answers || {})) if (s) subs[pid] = s;
+  for (const p of activePlayers(players)) if (!subs[p.id]) subs[p.id] = { type: 'timeout' };
+  return subs;
+}
+
+/** Schlücke pro Spieler aus den Füllungen der Runde: { pid: { q1: 3, q2: 0 } } → { pid: sips } */
+export function sipsByPlayer(fills, cfg = CONFIG) {
+  const out = {};
+  for (const [pid, f] of Object.entries(fills || {})) out[pid] = roundSips(Object.values(f || {}), cfg);
+  return out;
+}
+
+/** Gesamtschlücke aus der Rundenhistorie: { r1: { pid: n }, r2: … } → { pid: total } */
+export function totalsFromHistory(history) {
+  const out = {};
+  for (const round of Object.values(history || {})) {
+    for (const [pid, n] of Object.entries(round || {})) out[pid] = (out[pid] || 0) + (Number(n) || 0);
+  }
+  return out;
+}
