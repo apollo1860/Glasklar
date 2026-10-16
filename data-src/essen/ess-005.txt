@@ -1,0 +1,116 @@
+@id ess-005
+@text Nenne ein Getränk, das man warm trinkt
+# Heißgetränke inkl. Kaffee- und Teesorten, Heißgetränke mit Alkohol und regionale Spezialitäten.
+
+1 Kaffee
+1 Tee
+1 Kakao = Heiße Schokolade; Trinkschokolade
+1 Glühwein
+2 Cappuccino
+2 Latte Macchiato
+2 Espresso
+2 Milchkaffee = Café au Lait
+2 Pfefferminztee = Minztee
+2 Früchtetee
+2 Kamillentee
+2 Grüner Tee
+2 Schwarzer Tee
+2 Heiße Milch = Milch
+3 Chai = Chai Latte
+3 Matcha = Matcha Latte
+3 Ingwertee = Ingwerwasser
+3 Kräutertee
+3 Fencheltee
+3 Rooibostee = Rotbusch
+3 Hagebuttentee
+3 Salbeitee
+3 Brennnesseltee
+3 Eisenkrauttee = Verveine
+3 Earl Grey
+3 Jasmintee
+3 Yerba Mate = Mate
+3 Lungo
+3 Americano
+3 Flat White
+3 Mocca = Mokka
+3 Türkischer Kaffee
+3 Filterkaffee
+3 Irish Coffee
+3 Punsch = Kinderpunsch
+3 Feuerzangenbowle
+3 Grog
+3 Eierpunsch
+3 Jagertee = Jägertee
+3 Glühgin
+3 Heißer Apfelsaft = Heißer Apfelpunsch
+3 Heiße Zitrone
+3 Brühe = Gemüsebrühe; Hühnerbrühe; Bouillon
+3 Suppe
+3 Wasser = Heißes Wasser
+4 Macchiato = Espresso macchiato
+4 Ristretto
+4 Doppio
+4 Cortado
+4 Café Crème = Kaffee Creme
+4 Pharisäer
+4 Rüdesheimer Kaffee
+4 Wiener Melange = Melange
+4 Einspänner
+4 Kaffee Verkehrt
+4 Pumpkin Spice Latte
+4 Golden Milk = Kurkuma-Latte; Goldene Milch
+4 Lapsang Souchong
+4 Darjeeling
+4 Assam
+4 Ceylon
+4 Oolong
+4 Pu-Erh
+4 Weißer Tee
+4 Sencha
+4 Genmaicha
+4 Lindenblütentee
+4 Melissentee
+4 Lavendeltee
+4 Thymiantee
+4 Anistee
+4 Lakritztee
+4 Zitronengrastee
+4 Hibiskustee
+4 Holunderblütentee
+4 Erkältungstee
+4 Schlaftee
+4 Babytee
+4 Ovomaltine
+4 Caro-Kaffee = Getreidekaffee; Muckefuck
+4 Löwenzahnkaffee
+4 Lupinenkaffee
+4 Heißer Met = Met
+4 Glühbier
+4 Glühmost
+4 Feuerwein
+4 Hot Toddy
+4 Glühwein weiß = Weißer Glühwein
+4 Lumumba
+4 Heiße Oma
+4 Toter Tante = Tote Tante
+4 Rumtee = Tee mit Rum
+4 Sake = Heißer Sake
+4 Glögg
+4 Wassail
+4 Sahlep = Salep
+4 Atole
+4 Champurrado
+4 Café de olla
+4 Miso = Misosuppe
+4 Dashi
+5 Butterkaffee = Bulletproof Coffee
+5 Yuanyang
+5 Teh Tarik
+5 Buttertee
+5 Mate de Coca
+5 Kava
+5 Bombardino
+5 Bicerin
+5 Café Bombón
+5 Carajillo
+5 Cafe Brûlot

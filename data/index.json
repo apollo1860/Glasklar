@@ -64,10 +64,15 @@
       "id": "essen",
       "name": "Essen & Trinken",
       "icon": "🍕",
-      "count": 2,
+      "count": 7,
       "questions": [
         "ess-002",
-        "ess-003"
+        "ess-003",
+        "ess-004",
+        "ess-005",
+        "ess-006",
+        "ess-007",
+        "ess-008"
       ]
     },
     {

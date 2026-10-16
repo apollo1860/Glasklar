@@ -1,0 +1,153 @@
+@id ess-004
+@text Nenne etwas, das man auf einer Pizza finden kann
+# Beläge, Käsesorten, Saucen und Gewürze auf Pizzen (klassisch italienisch bis Lieferdienst).
+
+1 Käse = Mozzarella
+1 Salami
+1 Tomatensauce = Tomate; Tomaten
+1 Schinken = Kochschinken
+2 Pilze = Champignons
+2 Ananas
+2 Thunfisch
+2 Paprika
+2 Zwiebeln = Zwiebel
+2 Oliven
+2 Peperoni = Peperoncini
+2 Basilikum
+2 Mais
+3 Spinat
+3 Rucola
+3 Knoblauch
+3 Oregano
+3 Hackfleisch
+3 Hähnchen = Hühnchen
+3 Speck = Bacon
+3 Parmaschinken = Prosciutto
+3 Sardellen = Anchovis
+3 Artischocken
+3 Gorgonzola
+3 Parmesan
+3 Ei
+3 Brokkoli
+3 Zucchini
+3 Aubergine
+3 Kapern
+3 Jalapeños
+3 Chorizo
+3 Pepperoni-Salami = Pepperoni
+3 Meeresfrüchte
+3 Garnelen = Shrimps
+3 Muscheln
+3 Döner = Dönerfleisch
+3 Kebab
+3 Kartoffeln
+3 Sucuk
+3 Feta = Schafskäse
+3 Ziegenkäse
+3 Getrocknete Tomaten
+3 Kirschtomaten = Cherrytomaten
+3 Olivenöl
+3 Chili
+3 BBQ-Sauce
+3 Sauce Hollandaise
+3 Crème fraîche = Schmand
+3 Pesto
+4 Burrata
+4 Büffelmozzarella
+4 Provolone
+4 Pecorino
+4 Ricotta
+4 Mascarpone
+4 Emmentaler
+4 Gouda
+4 Cheddar
+4 Raclettekäse
+4 Camembert
+4 Brie
+4 Taleggio
+4 Fontina
+4 Scamorza
+4 Stracciatella
+4 Salsiccia
+4 Nduja
+4 Mortadella
+4 Coppa
+4 Bresaola
+4 Serranoschinken
+4 Pulled Pork
+4 Gyros
+4 Hot Dog = Würstchen
+4 Lachs
+4 Krabben
+4 Calamari = Tintenfisch
+4 Rote Zwiebeln
+4 Frühlingszwiebeln
+4 Lauch
+4 Fenchel
+4 Spargel
+4 Erbsen
+4 Bohnen = Kidneybohnen
+4 Kürbis
+4 Süßkartoffel
+4 Rote Bete
+4 Feigen
+4 Birne
+4 Apfel
+4 Banane
+4 Walnüsse
+4 Pinienkerne
+4 Honig
+4 Trüffel
+4 Steinpilze
+4 Pfifferlinge
+4 Rosmarin
+4 Thymian
+4 Petersilie
+4 Pfeffer
+4 Salz
+4 Chiliflocken = Chiliöl
+4 Knoblauchöl
+4 Balsamico = Balsamicocreme
+4 Aioli = Knoblauchsauce
+4 Currysauce = Curry
+4 Ketchup
+4 Mayonnaise
+4 Sauerrahm
+4 Avocado
+4 Tofu
+4 Veganer Käse
+4 Kichererbsen
+4 Falafel
+4 Hummus
+4 Nutella = Schokolade
+4 Marshmallows
+4 Erdbeeren
+5 Pizzateig = Teig; Boden
+5 Rand = Käserand
+5 Hefe
+5 Mehl
+5 Hartweizengrieß
+5 Kaviar
+5 Gold = Blattgold
+5 Hummer
+5 Jakobsmuscheln
+5 Entenbrust
+5 Lamm
+5 Rindfleisch = Steak
+5 Leberkäse
+5 Bratwurst
+5 Currywurst
+5 Pommes
+5 Chips
+5 Grünkohl
+5 Sauerkraut
+5 Kimchi
+5 Ingwer
+5 Koriander
+5 Minze
+5 Rosenkohl
+5 Blumenkohl
+5 Mangold
+5 Radicchio
+5 Endivie
+5 Kräuterbutter

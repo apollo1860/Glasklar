@@ -1,0 +1,137 @@
+@id ess-007
+@text Nenne eine Suppe
+# Suppen und Eintöpfe der deutschen und internationalen Küche.
+
+1 Tomatensuppe
+1 Hühnersuppe = Hühnerbrühe; Hühnernudelsuppe
+1 Kartoffelsuppe
+2 Gulaschsuppe = Gulasch
+2 Erbsensuppe = Erbseneintopf
+2 Kürbissuppe
+2 Linsensuppe = Linseneintopf
+2 Nudelsuppe
+2 Gemüsesuppe = Gemüsebrühe
+2 Zwiebelsuppe = Französische Zwiebelsuppe
+3 Minestrone
+3 Gazpacho
+3 Borschtsch
+3 Ramen
+3 Pho
+3 Miso-Suppe
+3 Brokkolisuppe = Brokkolicremesuppe
+3 Spargelcremesuppe = Spargelsuppe
+3 Champignoncremesuppe = Pilzsuppe; Champignonsuppe
+3 Karottensuppe = Möhrensuppe
+3 Bohnensuppe = Bohneneintopf
+3 Rindfleischsuppe = Rinderbrühe; Rindersuppe
+3 Fischsuppe
+3 Hochzeitssuppe
+3 Frittatensuppe = Pfannkuchensuppe; Flädlesuppe
+3 Leberknödelsuppe
+3 Grießnockerlsuppe
+3 Maultaschensuppe
+3 Käsesuppe = Käse-Lauch-Suppe
+3 Soljanka
+3 Tom Yam = Tom Yum
+3 Tom Kha Gai
+3 Wan-Tan-Suppe
+3 Sauer-Scharf-Suppe
+3 Chili con Carne
+3 Bouillabaisse
+3 Ochsenschwanzsuppe
+3 Kraftbrühe = Consommé
+3 Buchstabensuppe
+3 Grießsuppe
+3 Brotsuppe
+3 Kalte Gurkensuppe = Gurkensuppe
+3 Mulligatawny
+3 Kokossuppe = Kokos-Curry-Suppe
+3 Süßkartoffelsuppe
+3 Rote-Linsen-Suppe = Mercimek
+3 Selleriesuppe
+3 Lauchsuppe
+3 Spinatsuppe
+3 Blumenkohlsuppe
+4 Graupensuppe = Graupeneintopf
+4 Steckrübeneintopf
+4 Grünkohlsuppe
+4 Wirsingeintopf
+4 Kohlsuppe
+4 Sauerkrautsuppe
+4 Brennnesselsuppe
+4 Bärlauchsuppe
+4 Kerbelsuppe
+4 Biersuppe
+4 Weinsuppe
+4 Schwarzwurzelsuppe
+4 Pastinakensuppe
+4 Rote-Bete-Suppe
+4 Fenchelsuppe
+4 Paprikasuppe
+4 Zucchinisuppe
+4 Aalsuppe
+4 Krabbensuppe
+4 Hummersuppe = Hummerbisque; Bisque
+4 Muschelsuppe = Clam Chowder; Chowder
+4 Kartoffel-Lauch-Suppe
+4 Tafelspitzbrühe
+4 Pichelsteiner = Pichelsteiner Eintopf
+4 Schnüsch
+4 Schwarzsauer
+4 Sauerampfersuppe
+4 Schtschi
+4 Okroschka
+4 Ucha
+4 Kharcho
+4 Harira
+4 Chorba
+4 Ezogelin
+4 Tarhana
+4 Avgolemono
+4 Fasolada
+4 Ribollita
+4 Pappa al Pomodoro
+4 Stracciatella
+4 Zuppa Toscana
+4 Salmorejo
+4 Ajo blanco
+4 Caldo verde
+4 Sopa de ajo = Knoblauchsuppe
+4 Cock-a-leekie
+4 Scotch Broth
+4 Vichyssoise
+4 Potage
+4 Velouté
+4 Gumbo
+4 Tortilla Soup = Tortillasuppe
+4 Pozole
+4 Sopa de lima
+4 Laksa
+4 Udon-Suppe = Udon
+4 Tonkotsu
+4 Kimchi-Jjigae = Kimchi-Suppe
+4 Samgyetang
+4 Dal = Linsencurry
+4 Rasam
+4 Sambar
+4 Sinigang
+4 Bun Bo Hue
+4 Egusi
+4 Pepper Soup
+4 Erdnusssuppe
+4 Avocadosuppe
+4 Melonen-Kaltschale = Kaltschale
+4 Erdbeerkaltschale
+4 Fruchtsuppe = Obstsuppe
+4 Milchsuppe
+4 Holundersuppe = Fliederbeersuppe
+4 Hagebuttensuppe
+4 Gemüseeintopf = Eintopf
+4 Kartoffeleintopf
+4 Hühnereintopf
+5 Schildkrötensuppe
+5 Haifischflossensuppe
+5 Schwalbennestsuppe
+5 Kuttelsuppe = Kuttelflecksuppe
+5 Flecksuppe
+5 Knochensuppe = Bone Broth

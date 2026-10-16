@@ -1,0 +1,150 @@
+@id ess-008
+@text Nenne einen Kuchen
+# Kuchen und Torten (Blech-, Rühr-, Hefe-, Käse- und Obstkuchen, Torten, internationale Kuchen).
+
+1 Käsekuchen = Cheesecake
+1 Schwarzwälder Kirschtorte
+1 Apfelkuchen
+2 Marmorkuchen
+2 Schokokuchen = Schokoladenkuchen
+2 Bienenstich
+2 Erdbeerkuchen = Erdbeertorte
+2 Zwetschgenkuchen = Pflaumenkuchen; Zwetschgendatschi
+2 Streuselkuchen
+2 Frankfurter Kranz
+2 Rhabarberkuchen
+2 Donauwelle
+3 Sachertorte
+3 Linzer Torte
+3 Butterkuchen
+3 Zitronenkuchen
+3 Karottenkuchen = Rüblikuchen; Möhrenkuchen
+3 Gugelhupf = Napfkuchen
+3 Nusskuchen
+3 Russischer Zupfkuchen = Zupfkuchen
+3 Kirschkuchen
+3 Mohnkuchen
+3 Brownie = Brownies
+3 Muffin = Muffins
+3 Cupcake = Cupcakes
+3 Tiramisu
+3 Baumkuchen
+3 Stollen = Christstollen
+3 Rotweinkuchen
+3 Eierlikörkuchen
+3 Prinzregententorte
+3 Herrentorte
+3 Sahnetorte
+3 Obstkuchen = Obsttorte
+3 Mandarinenkuchen = Mandarinen-Schmand-Kuchen
+3 Quarkkuchen
+3 Kalter Hund
+3 Zuckerkuchen
+3 Rührkuchen
+3 Biskuitrolle = Biskuit
+3 Hefezopf
+3 Bananenbrot = Bananenkuchen
+3 Red Velvet Cake = Red Velvet
+3 Kokoskuchen
+3 Mandelkuchen
+3 Heidelbeerkuchen = Blaubeerkuchen
+3 Johannisbeerkuchen = Träubleskuchen
+3 Stachelbeerkuchen
+3 Pfirsichkuchen
+3 Aprikosenkuchen = Marillenkuchen
+3 Birnenkuchen
+3 Tarte Tatin
+3 Apfelstrudel = Strudel
+3 Gedeckter Apfelkuchen
+3 Versunkener Apfelkuchen
+3 Lava Cake = Schokoladensoufflé
+4 Friesentorte
+4 Holländer Kirschtorte = Holländer Kirschschnitten
+4 Malakofftorte
+4 Esterházy-Torte
+4 Dobostorte
+4 Punschtorte
+4 Agnes-Bernauer-Torte
+4 Charlotte
+4 Fürst-Pückler-Torte
+4 Philadelphia-Torte
+4 Maulwurfkuchen
+4 Fantakuchen
+4 Snickers-Torte
+4 Oreo-Torte
+4 Nutella-Kuchen
+4 Kirsch-Schmand-Kuchen
+4 Schmandkuchen
+4 Eierschecke
+4 Mohnstriezel
+4 Mohnstollen
+4 Quarkstollen
+4 Panettone
+4 Pandoro
+4 Torta della Nonna
+4 Crostata
+4 Pastéis de Nata = Pastel de Nata
+4 Tarta de Santiago
+4 Basque Cheesecake = Baskischer Käsekuchen
+4 Clafoutis
+4 Galette des Rois
+4 Opéra
+4 Millefeuille
+4 Victoria Sponge
+4 Lemon Tart = Zitronentarte
+4 Key Lime Pie
+4 Pecan Pie
+4 Pumpkin Pie = Kürbiskuchen
+4 Apple Pie
+4 Blueberry Pie
+4 Kladdkaka
+4 Prinsesstårta
+4 Pavlova
+4 Lamington
+4 Castella
+4 Revani
+4 Basbousa
+4 Medovik = Honigtorte
+4 Napoleon
+4 Ptichye Moloko
+4 Šakotis
+4 Kürtőskalács = Baumstriezel
+4 Gâteau Basque
+4 Bundt Cake
+4 Angel Food Cake
+4 Kaffeekuchen
+4 Gewürzkuchen
+4 Honigkuchen
+4 Früchtebrot
+4 Bratapfelkuchen
+4 Nussecken
+4 Zwiebelkuchen
+4 Quiche
+4 Hochzeitstorte
+4 Geburtstagstorte = Geburtstagskuchen
+4 Motivtorte
+4 Fondanttorte
+4 Naked Cake
+4 Drip Cake
+4 Cake Pops
+4 Becherkuchen
+4 Tassenkuchen = Mug Cake
+4 Blechkuchen
+4 Topfenkuchen
+4 Grießkuchen
+4 Reiskuchen = Reisflan
+4 Buttermilchkuchen
+4 Joghurtkuchen
+4 Schneewittchenkuchen
+4 Bananenschnitte
+4 Kirschmichel
+4 Ofenschlupfer
+5 Bananen-Split-Torte
+5 Mozarttorte
+5 Kardinalschnitte
+5 Cremeschnitte
+5 Rehrücken = Rehrückenkuchen
+5 Sandkuchen
+5 Königskuchen
+5 Englischer Kuchen
+5 Pound Cake

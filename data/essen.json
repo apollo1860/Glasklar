@@ -1207,5 +1207,4420 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "ess-004",
+  "text": "Nenne etwas, das man auf einer Pizza finden kann",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-004-a0001",
+    "text": "Käse",
+    "aliases": [
+     "Mozzarella"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-004-a0002",
+    "text": "Salami",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-004-a0003",
+    "text": "Tomatensauce",
+    "aliases": [
+     "Tomate",
+     "Tomaten"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-004-a0004",
+    "text": "Schinken",
+    "aliases": [
+     "Kochschinken"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-004-a0005",
+    "text": "Pilze",
+    "aliases": [
+     "Champignons"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0006",
+    "text": "Ananas",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0007",
+    "text": "Thunfisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0008",
+    "text": "Paprika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0009",
+    "text": "Zwiebeln",
+    "aliases": [
+     "Zwiebel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0010",
+    "text": "Oliven",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0011",
+    "text": "Peperoni",
+    "aliases": [
+     "Peperoncini"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0012",
+    "text": "Basilikum",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0013",
+    "text": "Mais",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-004-a0014",
+    "text": "Spinat",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0015",
+    "text": "Rucola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0016",
+    "text": "Knoblauch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0017",
+    "text": "Oregano",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0018",
+    "text": "Hackfleisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0019",
+    "text": "Hähnchen",
+    "aliases": [
+     "Hühnchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0020",
+    "text": "Speck",
+    "aliases": [
+     "Bacon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0021",
+    "text": "Parmaschinken",
+    "aliases": [
+     "Prosciutto"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0022",
+    "text": "Sardellen",
+    "aliases": [
+     "Anchovis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0023",
+    "text": "Artischocken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0024",
+    "text": "Gorgonzola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0025",
+    "text": "Parmesan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0026",
+    "text": "Ei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0027",
+    "text": "Brokkoli",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0028",
+    "text": "Zucchini",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0029",
+    "text": "Aubergine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0030",
+    "text": "Kapern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0031",
+    "text": "Jalapeños",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0032",
+    "text": "Chorizo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0033",
+    "text": "Pepperoni-Salami",
+    "aliases": [
+     "Pepperoni"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0034",
+    "text": "Meeresfrüchte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0035",
+    "text": "Garnelen",
+    "aliases": [
+     "Shrimps"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0036",
+    "text": "Muscheln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0037",
+    "text": "Döner",
+    "aliases": [
+     "Dönerfleisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0038",
+    "text": "Kebab",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0039",
+    "text": "Kartoffeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0040",
+    "text": "Sucuk",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0041",
+    "text": "Feta",
+    "aliases": [
+     "Schafskäse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0042",
+    "text": "Ziegenkäse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0043",
+    "text": "Getrocknete Tomaten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0044",
+    "text": "Kirschtomaten",
+    "aliases": [
+     "Cherrytomaten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0045",
+    "text": "Olivenöl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0046",
+    "text": "Chili",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0047",
+    "text": "BBQ-Sauce",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0048",
+    "text": "Sauce Hollandaise",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0049",
+    "text": "Crème fraîche",
+    "aliases": [
+     "Schmand"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0050",
+    "text": "Pesto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-004-a0051",
+    "text": "Burrata",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0052",
+    "text": "Büffelmozzarella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0053",
+    "text": "Provolone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0054",
+    "text": "Pecorino",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0055",
+    "text": "Ricotta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0056",
+    "text": "Mascarpone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0057",
+    "text": "Emmentaler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0058",
+    "text": "Gouda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0059",
+    "text": "Cheddar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0060",
+    "text": "Raclettekäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0061",
+    "text": "Camembert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0062",
+    "text": "Brie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0063",
+    "text": "Taleggio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0064",
+    "text": "Fontina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0065",
+    "text": "Scamorza",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0066",
+    "text": "Stracciatella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0067",
+    "text": "Salsiccia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0068",
+    "text": "Nduja",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0069",
+    "text": "Mortadella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0070",
+    "text": "Coppa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0071",
+    "text": "Bresaola",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0072",
+    "text": "Serranoschinken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0073",
+    "text": "Pulled Pork",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0074",
+    "text": "Gyros",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0075",
+    "text": "Hot Dog",
+    "aliases": [
+     "Würstchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0076",
+    "text": "Lachs",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0077",
+    "text": "Krabben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0078",
+    "text": "Calamari",
+    "aliases": [
+     "Tintenfisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0079",
+    "text": "Rote Zwiebeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0080",
+    "text": "Frühlingszwiebeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0081",
+    "text": "Lauch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0082",
+    "text": "Fenchel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0083",
+    "text": "Spargel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0084",
+    "text": "Erbsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0085",
+    "text": "Bohnen",
+    "aliases": [
+     "Kidneybohnen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0086",
+    "text": "Kürbis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0087",
+    "text": "Süßkartoffel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0088",
+    "text": "Rote Bete",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0089",
+    "text": "Feigen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0090",
+    "text": "Birne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0091",
+    "text": "Apfel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0092",
+    "text": "Banane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0093",
+    "text": "Walnüsse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0094",
+    "text": "Pinienkerne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0095",
+    "text": "Honig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0096",
+    "text": "Trüffel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0097",
+    "text": "Steinpilze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0098",
+    "text": "Pfifferlinge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0099",
+    "text": "Rosmarin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0100",
+    "text": "Thymian",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0101",
+    "text": "Petersilie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0102",
+    "text": "Pfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0103",
+    "text": "Salz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0104",
+    "text": "Chiliflocken",
+    "aliases": [
+     "Chiliöl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0105",
+    "text": "Knoblauchöl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0106",
+    "text": "Balsamico",
+    "aliases": [
+     "Balsamicocreme"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0107",
+    "text": "Aioli",
+    "aliases": [
+     "Knoblauchsauce"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0108",
+    "text": "Currysauce",
+    "aliases": [
+     "Curry"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0109",
+    "text": "Ketchup",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0110",
+    "text": "Mayonnaise",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0111",
+    "text": "Sauerrahm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0112",
+    "text": "Avocado",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0113",
+    "text": "Tofu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0114",
+    "text": "Veganer Käse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0115",
+    "text": "Kichererbsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0116",
+    "text": "Falafel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0117",
+    "text": "Hummus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0118",
+    "text": "Nutella",
+    "aliases": [
+     "Schokolade"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0119",
+    "text": "Marshmallows",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0120",
+    "text": "Erdbeeren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-004-a0121",
+    "text": "Pizzateig",
+    "aliases": [
+     "Teig",
+     "Boden"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0122",
+    "text": "Rand",
+    "aliases": [
+     "Käserand"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0123",
+    "text": "Hefe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0124",
+    "text": "Mehl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0125",
+    "text": "Hartweizengrieß",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0126",
+    "text": "Kaviar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0127",
+    "text": "Gold",
+    "aliases": [
+     "Blattgold"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0128",
+    "text": "Hummer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0129",
+    "text": "Jakobsmuscheln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0130",
+    "text": "Entenbrust",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0131",
+    "text": "Lamm",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0132",
+    "text": "Rindfleisch",
+    "aliases": [
+     "Steak"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0133",
+    "text": "Leberkäse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0134",
+    "text": "Bratwurst",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0135",
+    "text": "Currywurst",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0136",
+    "text": "Pommes",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0137",
+    "text": "Chips",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0138",
+    "text": "Grünkohl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0139",
+    "text": "Sauerkraut",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0140",
+    "text": "Kimchi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0141",
+    "text": "Ingwer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0142",
+    "text": "Koriander",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0143",
+    "text": "Minze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0144",
+    "text": "Rosenkohl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0145",
+    "text": "Blumenkohl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0146",
+    "text": "Mangold",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0147",
+    "text": "Radicchio",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0148",
+    "text": "Endivie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-004-a0149",
+    "text": "Kräuterbutter",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "ess-005",
+  "text": "Nenne ein Getränk, das man warm trinkt",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-005-a0001",
+    "text": "Kaffee",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-005-a0002",
+    "text": "Tee",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-005-a0003",
+    "text": "Kakao",
+    "aliases": [
+     "Heiße Schokolade",
+     "Trinkschokolade"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-005-a0004",
+    "text": "Glühwein",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-005-a0005",
+    "text": "Cappuccino",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0006",
+    "text": "Latte Macchiato",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0007",
+    "text": "Espresso",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0008",
+    "text": "Milchkaffee",
+    "aliases": [
+     "Café au Lait"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0009",
+    "text": "Pfefferminztee",
+    "aliases": [
+     "Minztee"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0010",
+    "text": "Früchtetee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0011",
+    "text": "Kamillentee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0012",
+    "text": "Grüner Tee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0013",
+    "text": "Schwarzer Tee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0014",
+    "text": "Heiße Milch",
+    "aliases": [
+     "Milch"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-005-a0015",
+    "text": "Chai",
+    "aliases": [
+     "Chai Latte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0016",
+    "text": "Matcha",
+    "aliases": [
+     "Matcha Latte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0017",
+    "text": "Ingwertee",
+    "aliases": [
+     "Ingwerwasser"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0018",
+    "text": "Kräutertee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0019",
+    "text": "Fencheltee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0020",
+    "text": "Rooibostee",
+    "aliases": [
+     "Rotbusch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0021",
+    "text": "Hagebuttentee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0022",
+    "text": "Salbeitee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0023",
+    "text": "Brennnesseltee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0024",
+    "text": "Eisenkrauttee",
+    "aliases": [
+     "Verveine"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0025",
+    "text": "Earl Grey",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0026",
+    "text": "Jasmintee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0027",
+    "text": "Yerba Mate",
+    "aliases": [
+     "Mate"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0028",
+    "text": "Lungo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0029",
+    "text": "Americano",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0030",
+    "text": "Flat White",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0031",
+    "text": "Mocca",
+    "aliases": [
+     "Mokka"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0032",
+    "text": "Türkischer Kaffee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0033",
+    "text": "Filterkaffee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0034",
+    "text": "Irish Coffee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0035",
+    "text": "Punsch",
+    "aliases": [
+     "Kinderpunsch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0036",
+    "text": "Feuerzangenbowle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0037",
+    "text": "Grog",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0038",
+    "text": "Eierpunsch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0039",
+    "text": "Jagertee",
+    "aliases": [
+     "Jägertee"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0040",
+    "text": "Glühgin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0041",
+    "text": "Heißer Apfelsaft",
+    "aliases": [
+     "Heißer Apfelpunsch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0042",
+    "text": "Heiße Zitrone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0043",
+    "text": "Brühe",
+    "aliases": [
+     "Gemüsebrühe",
+     "Hühnerbrühe",
+     "Bouillon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0044",
+    "text": "Suppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0045",
+    "text": "Wasser",
+    "aliases": [
+     "Heißes Wasser"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-005-a0046",
+    "text": "Macchiato",
+    "aliases": [
+     "Espresso macchiato"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0047",
+    "text": "Ristretto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0048",
+    "text": "Doppio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0049",
+    "text": "Cortado",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0050",
+    "text": "Café Crème",
+    "aliases": [
+     "Kaffee Creme"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0051",
+    "text": "Pharisäer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0052",
+    "text": "Rüdesheimer Kaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0053",
+    "text": "Wiener Melange",
+    "aliases": [
+     "Melange"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0054",
+    "text": "Einspänner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0055",
+    "text": "Kaffee Verkehrt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0056",
+    "text": "Pumpkin Spice Latte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0057",
+    "text": "Golden Milk",
+    "aliases": [
+     "Kurkuma-Latte",
+     "Goldene Milch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0058",
+    "text": "Lapsang Souchong",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0059",
+    "text": "Darjeeling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0060",
+    "text": "Assam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0061",
+    "text": "Ceylon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0062",
+    "text": "Oolong",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0063",
+    "text": "Pu-Erh",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0064",
+    "text": "Weißer Tee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0065",
+    "text": "Sencha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0066",
+    "text": "Genmaicha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0067",
+    "text": "Lindenblütentee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0068",
+    "text": "Melissentee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0069",
+    "text": "Lavendeltee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0070",
+    "text": "Thymiantee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0071",
+    "text": "Anistee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0072",
+    "text": "Lakritztee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0073",
+    "text": "Zitronengrastee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0074",
+    "text": "Hibiskustee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0075",
+    "text": "Holunderblütentee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0076",
+    "text": "Erkältungstee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0077",
+    "text": "Schlaftee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0078",
+    "text": "Babytee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0079",
+    "text": "Ovomaltine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0080",
+    "text": "Caro-Kaffee",
+    "aliases": [
+     "Getreidekaffee",
+     "Muckefuck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0081",
+    "text": "Löwenzahnkaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0082",
+    "text": "Lupinenkaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0083",
+    "text": "Heißer Met",
+    "aliases": [
+     "Met"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0084",
+    "text": "Glühbier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0085",
+    "text": "Glühmost",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0086",
+    "text": "Feuerwein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0087",
+    "text": "Hot Toddy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0088",
+    "text": "Glühwein weiß",
+    "aliases": [
+     "Weißer Glühwein"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0089",
+    "text": "Lumumba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0090",
+    "text": "Heiße Oma",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0091",
+    "text": "Toter Tante",
+    "aliases": [
+     "Tote Tante"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0092",
+    "text": "Rumtee",
+    "aliases": [
+     "Tee mit Rum"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0093",
+    "text": "Sake",
+    "aliases": [
+     "Heißer Sake"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0094",
+    "text": "Glögg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0095",
+    "text": "Wassail",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0096",
+    "text": "Sahlep",
+    "aliases": [
+     "Salep"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0097",
+    "text": "Atole",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0098",
+    "text": "Champurrado",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0099",
+    "text": "Café de olla",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0100",
+    "text": "Miso",
+    "aliases": [
+     "Misosuppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0101",
+    "text": "Dashi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-005-a0102",
+    "text": "Butterkaffee",
+    "aliases": [
+     "Bulletproof Coffee"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0103",
+    "text": "Yuanyang",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0104",
+    "text": "Teh Tarik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0105",
+    "text": "Buttertee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0106",
+    "text": "Mate de Coca",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0107",
+    "text": "Kava",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0108",
+    "text": "Bombardino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0109",
+    "text": "Bicerin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0110",
+    "text": "Café Bombón",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0111",
+    "text": "Carajillo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-005-a0112",
+    "text": "Cafe Brûlot",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "ess-006",
+  "text": "Nenne ein Gewürz",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-006-a0001",
+    "text": "Salz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-006-a0002",
+    "text": "Pfeffer",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-006-a0003",
+    "text": "Paprika",
+    "aliases": [
+     "Paprikapulver"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-006-a0004",
+    "text": "Zimt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0005",
+    "text": "Curry",
+    "aliases": [
+     "Currypulver"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0006",
+    "text": "Oregano",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0007",
+    "text": "Basilikum",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0008",
+    "text": "Muskat",
+    "aliases": [
+     "Muskatnuss"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0009",
+    "text": "Knoblauch",
+    "aliases": [
+     "Knoblauchpulver"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0010",
+    "text": "Chili",
+    "aliases": [
+     "Chilipulver"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-006-a0011",
+    "text": "Kurkuma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0012",
+    "text": "Kreuzkümmel",
+    "aliases": [
+     "Cumin"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0013",
+    "text": "Kümmel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0014",
+    "text": "Ingwer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0015",
+    "text": "Nelken",
+    "aliases": [
+     "Gewürznelken"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0016",
+    "text": "Vanille",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0017",
+    "text": "Thymian",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0018",
+    "text": "Rosmarin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0019",
+    "text": "Petersilie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0020",
+    "text": "Schnittlauch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0021",
+    "text": "Dill",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0022",
+    "text": "Lorbeer",
+    "aliases": [
+     "Lorbeerblatt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0023",
+    "text": "Majoran",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0024",
+    "text": "Koriander",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0025",
+    "text": "Kardamom",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0026",
+    "text": "Sternanis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0027",
+    "text": "Anis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0028",
+    "text": "Fenchel",
+    "aliases": [
+     "Fenchelsamen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0029",
+    "text": "Senf",
+    "aliases": [
+     "Senfsaat",
+     "Senfkörner"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0030",
+    "text": "Cayennepfeffer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0031",
+    "text": "Piment",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0032",
+    "text": "Safran",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0033",
+    "text": "Wacholder",
+    "aliases": [
+     "Wacholderbeeren"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0034",
+    "text": "Salbei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0035",
+    "text": "Minze",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0036",
+    "text": "Estragon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0037",
+    "text": "Bohnenkraut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0038",
+    "text": "Zwiebelpulver",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0039",
+    "text": "Chiliflocken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0040",
+    "text": "Garam Masala",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0041",
+    "text": "Lebkuchengewürz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-006-a0042",
+    "text": "Kerbel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0043",
+    "text": "Liebstöckel",
+    "aliases": [
+     "Maggikraut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0044",
+    "text": "Borretsch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0045",
+    "text": "Zitronenmelisse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0046",
+    "text": "Lavendel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0047",
+    "text": "Bockshornklee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0048",
+    "text": "Schwarzkümmel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0049",
+    "text": "Sumach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0050",
+    "text": "Za’atar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0051",
+    "text": "Ras el-Hanout",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0052",
+    "text": "Baharat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0053",
+    "text": "Harissa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0054",
+    "text": "Berbere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0055",
+    "text": "Chinesisches Fünf-Gewürz",
+    "aliases": [
+     "Fünf-Gewürze-Pulver"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0056",
+    "text": "Szechuanpfeffer",
+    "aliases": [
+     "Sichuanpfeffer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0057",
+    "text": "Rosa Pfeffer",
+    "aliases": [
+     "Rosa Beeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0058",
+    "text": "Langer Pfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0059",
+    "text": "Kubebenpfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0060",
+    "text": "Grüner Pfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0061",
+    "text": "Weißer Pfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0062",
+    "text": "Schwarzer Pfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0063",
+    "text": "Zitronenpfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0064",
+    "text": "Kräuter der Provence",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0065",
+    "text": "Italienische Kräuter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0066",
+    "text": "Pizzagewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0067",
+    "text": "Grillgewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0068",
+    "text": "Hähnchengewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0069",
+    "text": "Gyrosgewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0070",
+    "text": "Steakpfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0071",
+    "text": "Fleur de Sel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0072",
+    "text": "Meersalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0073",
+    "text": "Himalayasalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0074",
+    "text": "Rauchsalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0075",
+    "text": "Kräutersalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0076",
+    "text": "Selleriesalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0077",
+    "text": "Glutamat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0078",
+    "text": "Brühpulver",
+    "aliases": [
+     "Gemüsebrühe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0079",
+    "text": "Maggi",
+    "aliases": [
+     "Würze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0080",
+    "text": "Sojasauce",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0081",
+    "text": "Worcestersauce",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0082",
+    "text": "Tabasco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0083",
+    "text": "Sriracha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0084",
+    "text": "Wasabi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0085",
+    "text": "Meerrettich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0086",
+    "text": "Asafoetida",
+    "aliases": [
+     "Asant"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0087",
+    "text": "Galgant",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0088",
+    "text": "Zitronengras",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0089",
+    "text": "Kaffir-Limettenblätter",
+    "aliases": [
+     "Limettenblätter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0090",
+    "text": "Tamarinde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0091",
+    "text": "Amchur",
+    "aliases": [
+     "Mangopulver"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0092",
+    "text": "Curryblätter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0093",
+    "text": "Mohn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0094",
+    "text": "Sesam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0095",
+    "text": "Tonkabohne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0096",
+    "text": "Muskatblüte",
+    "aliases": [
+     "Macis"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0097",
+    "text": "Ceylon-Zimt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0098",
+    "text": "Kassia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0099",
+    "text": "Süßholz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0100",
+    "text": "Rauchpaprika",
+    "aliases": [
+     "Pimentón"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0101",
+    "text": "Edelsüß",
+    "aliases": [
+     "Paprika edelsüß"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0102",
+    "text": "Rosenpaprika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0103",
+    "text": "Piment d’Espelette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0104",
+    "text": "Ancho",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0105",
+    "text": "Chipotle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0106",
+    "text": "Habanero",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0107",
+    "text": "Jalapeño",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0108",
+    "text": "Spekulatiusgewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0109",
+    "text": "Glühweingewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0110",
+    "text": "Pumpkin Spice",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0111",
+    "text": "Chai-Gewürz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0112",
+    "text": "Dukkah",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0113",
+    "text": "Furikake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0114",
+    "text": "Shichimi Togarashi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0115",
+    "text": "Gomasio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0116",
+    "text": "Bärlauch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0117",
+    "text": "Ysop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0118",
+    "text": "Pimpinelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0119",
+    "text": "Kresse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0120",
+    "text": "Sauerampfer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0121",
+    "text": "Raute",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0122",
+    "text": "Beifuß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0123",
+    "text": "Thai-Basilikum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0124",
+    "text": "Shiso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0125",
+    "text": "Koriandersamen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0126",
+    "text": "Dillsamen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0127",
+    "text": "Selleriesamen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0128",
+    "text": "Annatto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-006-a0129",
+    "text": "Kampfer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0130",
+    "text": "Kalmus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0131",
+    "text": "Mahlab",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0132",
+    "text": "Melegueta-Pfeffer",
+    "aliases": [
+     "Paradieskörner"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0133",
+    "text": "Ajowan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0134",
+    "text": "Schwarze Limette",
+    "aliases": [
+     "Loomi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0135",
+    "text": "Berberitze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0136",
+    "text": "Granatapfelpulver",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0137",
+    "text": "Rosenblätter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-006-a0138",
+    "text": "Hibiskus",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "ess-007",
+  "text": "Nenne eine Suppe",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-007-a0001",
+    "text": "Tomatensuppe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-007-a0002",
+    "text": "Hühnersuppe",
+    "aliases": [
+     "Hühnerbrühe",
+     "Hühnernudelsuppe"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-007-a0003",
+    "text": "Kartoffelsuppe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-007-a0004",
+    "text": "Gulaschsuppe",
+    "aliases": [
+     "Gulasch"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0005",
+    "text": "Erbsensuppe",
+    "aliases": [
+     "Erbseneintopf"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0006",
+    "text": "Kürbissuppe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0007",
+    "text": "Linsensuppe",
+    "aliases": [
+     "Linseneintopf"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0008",
+    "text": "Nudelsuppe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0009",
+    "text": "Gemüsesuppe",
+    "aliases": [
+     "Gemüsebrühe"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0010",
+    "text": "Zwiebelsuppe",
+    "aliases": [
+     "Französische Zwiebelsuppe"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-007-a0011",
+    "text": "Minestrone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0012",
+    "text": "Gazpacho",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0013",
+    "text": "Borschtsch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0014",
+    "text": "Ramen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0015",
+    "text": "Pho",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0016",
+    "text": "Miso-Suppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0017",
+    "text": "Brokkolisuppe",
+    "aliases": [
+     "Brokkolicremesuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0018",
+    "text": "Spargelcremesuppe",
+    "aliases": [
+     "Spargelsuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0019",
+    "text": "Champignoncremesuppe",
+    "aliases": [
+     "Pilzsuppe",
+     "Champignonsuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0020",
+    "text": "Karottensuppe",
+    "aliases": [
+     "Möhrensuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0021",
+    "text": "Bohnensuppe",
+    "aliases": [
+     "Bohneneintopf"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0022",
+    "text": "Rindfleischsuppe",
+    "aliases": [
+     "Rinderbrühe",
+     "Rindersuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0023",
+    "text": "Fischsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0024",
+    "text": "Hochzeitssuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0025",
+    "text": "Frittatensuppe",
+    "aliases": [
+     "Pfannkuchensuppe",
+     "Flädlesuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0026",
+    "text": "Leberknödelsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0027",
+    "text": "Grießnockerlsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0028",
+    "text": "Maultaschensuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0029",
+    "text": "Käsesuppe",
+    "aliases": [
+     "Käse-Lauch-Suppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0030",
+    "text": "Soljanka",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0031",
+    "text": "Tom Yam",
+    "aliases": [
+     "Tom Yum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0032",
+    "text": "Tom Kha Gai",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0033",
+    "text": "Wan-Tan-Suppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0034",
+    "text": "Sauer-Scharf-Suppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0035",
+    "text": "Chili con Carne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0036",
+    "text": "Bouillabaisse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0037",
+    "text": "Ochsenschwanzsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0038",
+    "text": "Kraftbrühe",
+    "aliases": [
+     "Consommé"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0039",
+    "text": "Buchstabensuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0040",
+    "text": "Grießsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0041",
+    "text": "Brotsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0042",
+    "text": "Kalte Gurkensuppe",
+    "aliases": [
+     "Gurkensuppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0043",
+    "text": "Mulligatawny",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0044",
+    "text": "Kokossuppe",
+    "aliases": [
+     "Kokos-Curry-Suppe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0045",
+    "text": "Süßkartoffelsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0046",
+    "text": "Rote-Linsen-Suppe",
+    "aliases": [
+     "Mercimek"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0047",
+    "text": "Selleriesuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0048",
+    "text": "Lauchsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0049",
+    "text": "Spinatsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0050",
+    "text": "Blumenkohlsuppe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-007-a0051",
+    "text": "Graupensuppe",
+    "aliases": [
+     "Graupeneintopf"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0052",
+    "text": "Steckrübeneintopf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0053",
+    "text": "Grünkohlsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0054",
+    "text": "Wirsingeintopf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0055",
+    "text": "Kohlsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0056",
+    "text": "Sauerkrautsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0057",
+    "text": "Brennnesselsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0058",
+    "text": "Bärlauchsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0059",
+    "text": "Kerbelsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0060",
+    "text": "Biersuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0061",
+    "text": "Weinsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0062",
+    "text": "Schwarzwurzelsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0063",
+    "text": "Pastinakensuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0064",
+    "text": "Rote-Bete-Suppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0065",
+    "text": "Fenchelsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0066",
+    "text": "Paprikasuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0067",
+    "text": "Zucchinisuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0068",
+    "text": "Aalsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0069",
+    "text": "Krabbensuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0070",
+    "text": "Hummersuppe",
+    "aliases": [
+     "Hummerbisque",
+     "Bisque"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0071",
+    "text": "Muschelsuppe",
+    "aliases": [
+     "Clam Chowder",
+     "Chowder"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0072",
+    "text": "Kartoffel-Lauch-Suppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0073",
+    "text": "Tafelspitzbrühe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0074",
+    "text": "Pichelsteiner",
+    "aliases": [
+     "Pichelsteiner Eintopf"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0075",
+    "text": "Schnüsch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0076",
+    "text": "Schwarzsauer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0077",
+    "text": "Sauerampfersuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0078",
+    "text": "Schtschi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0079",
+    "text": "Okroschka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0080",
+    "text": "Ucha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0081",
+    "text": "Kharcho",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0082",
+    "text": "Harira",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0083",
+    "text": "Chorba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0084",
+    "text": "Ezogelin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0085",
+    "text": "Tarhana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0086",
+    "text": "Avgolemono",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0087",
+    "text": "Fasolada",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0088",
+    "text": "Ribollita",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0089",
+    "text": "Pappa al Pomodoro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0090",
+    "text": "Stracciatella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0091",
+    "text": "Zuppa Toscana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0092",
+    "text": "Salmorejo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0093",
+    "text": "Ajo blanco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0094",
+    "text": "Caldo verde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0095",
+    "text": "Sopa de ajo",
+    "aliases": [
+     "Knoblauchsuppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0096",
+    "text": "Cock-a-leekie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0097",
+    "text": "Scotch Broth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0098",
+    "text": "Vichyssoise",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0099",
+    "text": "Potage",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0100",
+    "text": "Velouté",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0101",
+    "text": "Gumbo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0102",
+    "text": "Tortilla Soup",
+    "aliases": [
+     "Tortillasuppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0103",
+    "text": "Pozole",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0104",
+    "text": "Sopa de lima",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0105",
+    "text": "Laksa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0106",
+    "text": "Udon-Suppe",
+    "aliases": [
+     "Udon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0107",
+    "text": "Tonkotsu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0108",
+    "text": "Kimchi-Jjigae",
+    "aliases": [
+     "Kimchi-Suppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0109",
+    "text": "Samgyetang",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0110",
+    "text": "Dal",
+    "aliases": [
+     "Linsencurry"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0111",
+    "text": "Rasam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0112",
+    "text": "Sambar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0113",
+    "text": "Sinigang",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0114",
+    "text": "Bun Bo Hue",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0115",
+    "text": "Egusi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0116",
+    "text": "Pepper Soup",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0117",
+    "text": "Erdnusssuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0118",
+    "text": "Avocadosuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0119",
+    "text": "Melonen-Kaltschale",
+    "aliases": [
+     "Kaltschale"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0120",
+    "text": "Erdbeerkaltschale",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0121",
+    "text": "Fruchtsuppe",
+    "aliases": [
+     "Obstsuppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0122",
+    "text": "Milchsuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0123",
+    "text": "Holundersuppe",
+    "aliases": [
+     "Fliederbeersuppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0124",
+    "text": "Hagebuttensuppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0125",
+    "text": "Gemüseeintopf",
+    "aliases": [
+     "Eintopf"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0126",
+    "text": "Kartoffeleintopf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0127",
+    "text": "Hühnereintopf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-007-a0128",
+    "text": "Schildkrötensuppe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-007-a0129",
+    "text": "Haifischflossensuppe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-007-a0130",
+    "text": "Schwalbennestsuppe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-007-a0131",
+    "text": "Kuttelsuppe",
+    "aliases": [
+     "Kuttelflecksuppe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-007-a0132",
+    "text": "Flecksuppe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-007-a0133",
+    "text": "Knochensuppe",
+    "aliases": [
+     "Bone Broth"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "ess-008",
+  "text": "Nenne einen Kuchen",
+  "kategorie": "essen",
+  "answers": [
+   {
+    "id": "ess-008-a0001",
+    "text": "Käsekuchen",
+    "aliases": [
+     "Cheesecake"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-008-a0002",
+    "text": "Schwarzwälder Kirschtorte",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-008-a0003",
+    "text": "Apfelkuchen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-008-a0004",
+    "text": "Marmorkuchen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0005",
+    "text": "Schokokuchen",
+    "aliases": [
+     "Schokoladenkuchen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0006",
+    "text": "Bienenstich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0007",
+    "text": "Erdbeerkuchen",
+    "aliases": [
+     "Erdbeertorte"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0008",
+    "text": "Zwetschgenkuchen",
+    "aliases": [
+     "Pflaumenkuchen",
+     "Zwetschgendatschi"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0009",
+    "text": "Streuselkuchen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0010",
+    "text": "Frankfurter Kranz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0011",
+    "text": "Rhabarberkuchen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0012",
+    "text": "Donauwelle",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-008-a0013",
+    "text": "Sachertorte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0014",
+    "text": "Linzer Torte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0015",
+    "text": "Butterkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0016",
+    "text": "Zitronenkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0017",
+    "text": "Karottenkuchen",
+    "aliases": [
+     "Rüblikuchen",
+     "Möhrenkuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0018",
+    "text": "Gugelhupf",
+    "aliases": [
+     "Napfkuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0019",
+    "text": "Nusskuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0020",
+    "text": "Russischer Zupfkuchen",
+    "aliases": [
+     "Zupfkuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0021",
+    "text": "Kirschkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0022",
+    "text": "Mohnkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0023",
+    "text": "Brownie",
+    "aliases": [
+     "Brownies"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0024",
+    "text": "Muffin",
+    "aliases": [
+     "Muffins"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0025",
+    "text": "Cupcake",
+    "aliases": [
+     "Cupcakes"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0026",
+    "text": "Tiramisu",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0027",
+    "text": "Baumkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0028",
+    "text": "Stollen",
+    "aliases": [
+     "Christstollen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0029",
+    "text": "Rotweinkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0030",
+    "text": "Eierlikörkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0031",
+    "text": "Prinzregententorte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0032",
+    "text": "Herrentorte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0033",
+    "text": "Sahnetorte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0034",
+    "text": "Obstkuchen",
+    "aliases": [
+     "Obsttorte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0035",
+    "text": "Mandarinenkuchen",
+    "aliases": [
+     "Mandarinen-Schmand-Kuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0036",
+    "text": "Quarkkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0037",
+    "text": "Kalter Hund",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0038",
+    "text": "Zuckerkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0039",
+    "text": "Rührkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0040",
+    "text": "Biskuitrolle",
+    "aliases": [
+     "Biskuit"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0041",
+    "text": "Hefezopf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0042",
+    "text": "Bananenbrot",
+    "aliases": [
+     "Bananenkuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0043",
+    "text": "Red Velvet Cake",
+    "aliases": [
+     "Red Velvet"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0044",
+    "text": "Kokoskuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0045",
+    "text": "Mandelkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0046",
+    "text": "Heidelbeerkuchen",
+    "aliases": [
+     "Blaubeerkuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0047",
+    "text": "Johannisbeerkuchen",
+    "aliases": [
+     "Träubleskuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0048",
+    "text": "Stachelbeerkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0049",
+    "text": "Pfirsichkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0050",
+    "text": "Aprikosenkuchen",
+    "aliases": [
+     "Marillenkuchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0051",
+    "text": "Birnenkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0052",
+    "text": "Tarte Tatin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0053",
+    "text": "Apfelstrudel",
+    "aliases": [
+     "Strudel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0054",
+    "text": "Gedeckter Apfelkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0055",
+    "text": "Versunkener Apfelkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0056",
+    "text": "Lava Cake",
+    "aliases": [
+     "Schokoladensoufflé"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-008-a0057",
+    "text": "Friesentorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0058",
+    "text": "Holländer Kirschtorte",
+    "aliases": [
+     "Holländer Kirschschnitten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0059",
+    "text": "Malakofftorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0060",
+    "text": "Esterházy-Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0061",
+    "text": "Dobostorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0062",
+    "text": "Punschtorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0063",
+    "text": "Agnes-Bernauer-Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0064",
+    "text": "Charlotte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0065",
+    "text": "Fürst-Pückler-Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0066",
+    "text": "Philadelphia-Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0067",
+    "text": "Maulwurfkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0068",
+    "text": "Fantakuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0069",
+    "text": "Snickers-Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0070",
+    "text": "Oreo-Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0071",
+    "text": "Nutella-Kuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0072",
+    "text": "Kirsch-Schmand-Kuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0073",
+    "text": "Schmandkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0074",
+    "text": "Eierschecke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0075",
+    "text": "Mohnstriezel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0076",
+    "text": "Mohnstollen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0077",
+    "text": "Quarkstollen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0078",
+    "text": "Panettone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0079",
+    "text": "Pandoro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0080",
+    "text": "Torta della Nonna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0081",
+    "text": "Crostata",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0082",
+    "text": "Pastéis de Nata",
+    "aliases": [
+     "Pastel de Nata"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0083",
+    "text": "Tarta de Santiago",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0084",
+    "text": "Basque Cheesecake",
+    "aliases": [
+     "Baskischer Käsekuchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0085",
+    "text": "Clafoutis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0086",
+    "text": "Galette des Rois",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0087",
+    "text": "Opéra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0088",
+    "text": "Millefeuille",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0089",
+    "text": "Victoria Sponge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0090",
+    "text": "Lemon Tart",
+    "aliases": [
+     "Zitronentarte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0091",
+    "text": "Key Lime Pie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0092",
+    "text": "Pecan Pie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0093",
+    "text": "Pumpkin Pie",
+    "aliases": [
+     "Kürbiskuchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0094",
+    "text": "Apple Pie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0095",
+    "text": "Blueberry Pie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0096",
+    "text": "Kladdkaka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0097",
+    "text": "Prinsesstårta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0098",
+    "text": "Pavlova",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0099",
+    "text": "Lamington",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0100",
+    "text": "Castella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0101",
+    "text": "Revani",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0102",
+    "text": "Basbousa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0103",
+    "text": "Medovik",
+    "aliases": [
+     "Honigtorte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0104",
+    "text": "Napoleon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0105",
+    "text": "Ptichye Moloko",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0106",
+    "text": "Šakotis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0107",
+    "text": "Kürtőskalács",
+    "aliases": [
+     "Baumstriezel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0108",
+    "text": "Gâteau Basque",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0109",
+    "text": "Bundt Cake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0110",
+    "text": "Angel Food Cake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0111",
+    "text": "Kaffeekuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0112",
+    "text": "Gewürzkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0113",
+    "text": "Honigkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0114",
+    "text": "Früchtebrot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0115",
+    "text": "Bratapfelkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0116",
+    "text": "Nussecken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0117",
+    "text": "Zwiebelkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0118",
+    "text": "Quiche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0119",
+    "text": "Hochzeitstorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0120",
+    "text": "Geburtstagstorte",
+    "aliases": [
+     "Geburtstagskuchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0121",
+    "text": "Motivtorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0122",
+    "text": "Fondanttorte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0123",
+    "text": "Naked Cake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0124",
+    "text": "Drip Cake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0125",
+    "text": "Cake Pops",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0126",
+    "text": "Becherkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0127",
+    "text": "Tassenkuchen",
+    "aliases": [
+     "Mug Cake"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0128",
+    "text": "Blechkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0129",
+    "text": "Topfenkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0130",
+    "text": "Grießkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0131",
+    "text": "Reiskuchen",
+    "aliases": [
+     "Reisflan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0132",
+    "text": "Buttermilchkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0133",
+    "text": "Joghurtkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0134",
+    "text": "Schneewittchenkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0135",
+    "text": "Bananenschnitte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0136",
+    "text": "Kirschmichel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0137",
+    "text": "Ofenschlupfer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-008-a0138",
+    "text": "Bananen-Split-Torte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0139",
+    "text": "Mozarttorte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0140",
+    "text": "Kardinalschnitte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0141",
+    "text": "Cremeschnitte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0142",
+    "text": "Rehrücken",
+    "aliases": [
+     "Rehrückenkuchen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0143",
+    "text": "Sandkuchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0144",
+    "text": "Königskuchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0145",
+    "text": "Englischer Kuchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-008-a0146",
+    "text": "Pound Cake",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

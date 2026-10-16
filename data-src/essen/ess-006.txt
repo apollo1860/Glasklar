@@ -1,0 +1,142 @@
+@id ess-006
+@text Nenne ein Gewürz
+# Gewürze, Würzmischungen, getrocknete Kräuter und Würzmittel der deutschen und internationalen Küche.
+
+1 Salz
+1 Pfeffer
+1 Paprika = Paprikapulver
+2 Zimt
+2 Curry = Currypulver
+2 Oregano
+2 Basilikum
+2 Muskat = Muskatnuss
+2 Knoblauch = Knoblauchpulver
+2 Chili = Chilipulver
+3 Kurkuma
+3 Kreuzkümmel = Cumin
+3 Kümmel
+3 Ingwer
+3 Nelken = Gewürznelken
+3 Vanille
+3 Thymian
+3 Rosmarin
+3 Petersilie
+3 Schnittlauch
+3 Dill
+3 Lorbeer = Lorbeerblatt
+3 Majoran
+3 Koriander
+3 Kardamom
+3 Sternanis
+3 Anis
+3 Fenchel = Fenchelsamen
+3 Senf = Senfsaat; Senfkörner
+3 Cayennepfeffer
+3 Piment
+3 Safran
+3 Wacholder = Wacholderbeeren
+3 Salbei
+3 Minze
+3 Estragon
+3 Bohnenkraut
+3 Zwiebelpulver
+3 Chiliflocken
+3 Garam Masala
+3 Lebkuchengewürz
+4 Kerbel
+4 Liebstöckel = Maggikraut
+4 Borretsch
+4 Zitronenmelisse
+4 Lavendel
+4 Bockshornklee
+4 Schwarzkümmel
+4 Sumach
+4 Za’atar
+4 Ras el-Hanout
+4 Baharat
+4 Harissa
+4 Berbere
+4 Chinesisches Fünf-Gewürz = Fünf-Gewürze-Pulver
+4 Szechuanpfeffer = Sichuanpfeffer
+4 Rosa Pfeffer = Rosa Beeren
+4 Langer Pfeffer
+4 Kubebenpfeffer
+4 Grüner Pfeffer
+4 Weißer Pfeffer
+4 Schwarzer Pfeffer
+4 Zitronenpfeffer
+4 Kräuter der Provence
+4 Italienische Kräuter
+4 Pizzagewürz
+4 Grillgewürz
+4 Hähnchengewürz
+4 Gyrosgewürz
+4 Steakpfeffer
+4 Fleur de Sel
+4 Meersalz
+4 Himalayasalz
+4 Rauchsalz
+4 Kräutersalz
+4 Selleriesalz
+4 Glutamat
+4 Brühpulver = Gemüsebrühe
+4 Maggi = Würze
+4 Sojasauce
+4 Worcestersauce
+4 Tabasco
+4 Sriracha
+4 Wasabi
+4 Meerrettich
+4 Asafoetida = Asant
+4 Galgant
+4 Zitronengras
+4 Kaffir-Limettenblätter = Limettenblätter
+4 Tamarinde
+4 Amchur = Mangopulver
+4 Curryblätter
+4 Mohn
+4 Sesam
+4 Tonkabohne
+4 Muskatblüte = Macis
+4 Ceylon-Zimt
+4 Kassia
+4 Süßholz
+4 Rauchpaprika = Pimentón
+4 Edelsüß = Paprika edelsüß
+4 Rosenpaprika
+4 Piment d’Espelette
+4 Ancho
+4 Chipotle
+4 Habanero
+4 Jalapeño
+4 Spekulatiusgewürz
+4 Glühweingewürz
+4 Pumpkin Spice
+4 Chai-Gewürz
+4 Dukkah
+4 Furikake
+4 Shichimi Togarashi
+4 Gomasio
+4 Bärlauch
+4 Ysop
+4 Pimpinelle
+4 Kresse
+4 Sauerampfer
+4 Raute
+4 Beifuß
+4 Thai-Basilikum
+4 Shiso
+4 Koriandersamen
+4 Dillsamen
+4 Selleriesamen
+4 Annatto
+5 Kampfer
+5 Kalmus
+5 Mahlab
+5 Melegueta-Pfeffer = Paradieskörner
+5 Ajowan
+5 Schwarze Limette = Loomi
+5 Berberitze
+5 Granatapfelpulver
+5 Rosenblätter
+5 Hibiskus
