@@ -1,0 +1,70 @@
+@id mus-012
+@text Nenne ein Instrument, das im Orchester gespielt wird
+# Instrumente des Sinfonie- und Opernorchesters inkl. Schlagwerk, Sonder- und historischer Instrumente (Barockorchester).
+
+1 Geige = Violine
+1 Cello = Violoncello
+2 Kontrabass
+2 Bratsche = Viola
+2 Harfe
+2 Querflöte = Flöte
+2 Klarinette
+2 Oboe
+2 Trompete
+2 Posaune
+2 Pauke = Kesselpauke; Timpani
+3 Fagott
+3 Horn = Waldhorn
+3 Tuba = Basstuba
+3 Becken
+3 Triangel
+3 Große Trommel = Bassdrum
+3 Klavier = Flügel; Piano
+4 Kleine Trommel = Snare
+4 Xylophon = Xylofon
+4 Glockenspiel
+4 Marimba = Marimbaphon
+4 Vibraphon = Vibrafon
+4 Röhrenglocken
+4 Celesta
+4 Cembalo
+4 Orgel
+4 Piccoloflöte = Piccolo
+4 Englischhorn
+4 Bassklarinette
+4 Kontrafagott
+4 Saxophon = Saxofon
+4 Tamburin
+4 Kastagnetten
+4 Gong = Tamtam
+5 Peitsche
+5 Ratsche
+5 Windmaschine
+5 Wagnertuba
+5 Euphonium
+5 Kornett
+5 Altflöte
+5 Es-Klarinette
+5 Bassposaune
+5 Oboe d’amore
+5 Heckelphon
+5 Mandoline
+5 Gitarre
+5 Akkordeon
+5 Viola da Gamba = Gambe
+5 Blockflöte
+5 Laute
+5 Theorbe
+5 Naturtrompete
+5 Ophikleide
+5 Serpent
+5 Crotales
+5 Holzblock
+5 Tempelblock
+5 Amboss
+5 Kuhglocke
+5 Donnerblech
+5 Rute
+5 Ondes Martenot
+5 Basstrompete
+5 Tenorposaune

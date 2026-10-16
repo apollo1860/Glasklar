@@ -876,5 +876,5654 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mus-004",
+  "text": "Nenne einen Song von Queen",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-004-a0001",
+    "text": "Bohemian Rhapsody",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-004-a0002",
+    "text": "We Will Rock You",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-004-a0003",
+    "text": "We Are the Champions",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-004-a0004",
+    "text": "Don’t Stop Me Now",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-004-a0005",
+    "text": "Another One Bites the Dust",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-004-a0006",
+    "text": "Under Pressure",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-004-a0007",
+    "text": "I Want to Break Free",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-004-a0008",
+    "text": "Radio Ga Ga",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-004-a0009",
+    "text": "The Show Must Go On",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-004-a0010",
+    "text": "Somebody to Love",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0011",
+    "text": "Killer Queen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0012",
+    "text": "Who Wants to Live Forever",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0013",
+    "text": "A Kind of Magic",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0014",
+    "text": "Bicycle Race",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0015",
+    "text": "Crazy Little Thing Called Love",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0016",
+    "text": "Innuendo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0017",
+    "text": "I Want It All",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0018",
+    "text": "Love of My Life",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0019",
+    "text": "Fat Bottomed Girls",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0020",
+    "text": "Flash",
+    "aliases": [
+     "Flash’s Theme"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-004-a0021",
+    "text": "Seven Seas of Rhye",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0022",
+    "text": "You’re My Best Friend",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0023",
+    "text": "Tie Your Mother Down",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0024",
+    "text": "Hammer to Fall",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0025",
+    "text": "Friends Will Be Friends",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0026",
+    "text": "One Vision",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0027",
+    "text": "Princes of the Universe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0028",
+    "text": "Spread Your Wings",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0029",
+    "text": "Now I’m Here",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0030",
+    "text": "It’s a Hard Life",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0031",
+    "text": "Breakthru",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0032",
+    "text": "The Miracle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0033",
+    "text": "These Are the Days of Our Lives",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0034",
+    "text": "Too Much Love Will Kill You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0035",
+    "text": "Heaven for Everyone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0036",
+    "text": "Headlong",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0037",
+    "text": "Save Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0038",
+    "text": "Play the Game",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0039",
+    "text": "Keep Yourself Alive",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0040",
+    "text": "I’m Going Slightly Mad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0041",
+    "text": "Las Palabras de Amor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0042",
+    "text": "Body Language",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0043",
+    "text": "Good Old-Fashioned Lover Boy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0044",
+    "text": "Stone Cold Crazy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0045",
+    "text": "Brighton Rock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0046",
+    "text": "’39",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0047",
+    "text": "Mustapha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0048",
+    "text": "Thank God It’s Christmas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0049",
+    "text": "A Winter’s Tale",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0050",
+    "text": "Let Me Live",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0051",
+    "text": "You Don’t Fool Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0052",
+    "text": "I’m in Love with My Car",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0053",
+    "text": "Scandal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0054",
+    "text": "The Invisible Man",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-004-a0055",
+    "text": "Liar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0056",
+    "text": "Sheer Heart Attack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0057",
+    "text": "Back Chat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0058",
+    "text": "Calling All Girls",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0059",
+    "text": "Staying Power",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0060",
+    "text": "Machines",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0061",
+    "text": "Is This the World We Created…?",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0062",
+    "text": "Bijou",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0063",
+    "text": "Was It All Worth It",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0064",
+    "text": "Gimme the Prize",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0065",
+    "text": "Mother Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0066",
+    "text": "No-One but You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0067",
+    "text": "Who Needs You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0068",
+    "text": "Jealousy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0069",
+    "text": "Dead on Time",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0070",
+    "text": "Dragon Attack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0071",
+    "text": "Need Your Loving Tonight",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0072",
+    "text": "Sail Away Sweet Sister",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0073",
+    "text": "Ogre Battle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0074",
+    "text": "The Prophet’s Song",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0075",
+    "text": "Death on Two Legs",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0076",
+    "text": "Lazing on a Sunday Afternoon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0077",
+    "text": "Sweet Lady",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0078",
+    "text": "Seaside Rendezvous",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0079",
+    "text": "The March of the Black Queen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0080",
+    "text": "White Queen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0081",
+    "text": "Father to Son",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0082",
+    "text": "Tenement Funster",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0083",
+    "text": "Lily of the Valley",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0084",
+    "text": "In the Lap of the Gods",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0085",
+    "text": "Teo Torriatte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0086",
+    "text": "Long Away",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0087",
+    "text": "Drowse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0088",
+    "text": "Get Down, Make Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0089",
+    "text": "Sleeping on the Sidewalk",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0090",
+    "text": "My Melancholy Blues",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0091",
+    "text": "All Dead, All Dead",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0092",
+    "text": "Dreamer’s Ball",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0093",
+    "text": "Fun It",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0094",
+    "text": "Don’t Lose Your Head",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0095",
+    "text": "Pain Is So Close to Pleasure",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0096",
+    "text": "Rain Must Fall",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0097",
+    "text": "One Year of Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0098",
+    "text": "Khashoggi’s Ship",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0099",
+    "text": "Ride the Wild Wind",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0100",
+    "text": "All God’s People",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0101",
+    "text": "Tear It Up",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0102",
+    "text": "Man on the Prowl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0103",
+    "text": "Keep Passing the Open Windows",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0104",
+    "text": "Great King Rat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0105",
+    "text": "My Fairy King",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0106",
+    "text": "Doing All Right",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0107",
+    "text": "Modern Times Rock ’n’ Roll",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0108",
+    "text": "The Fairy Feller’s Master-Stroke",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0109",
+    "text": "Nevermore",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0110",
+    "text": "Funny How Love Is",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0111",
+    "text": "Flick of the Wrist",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0112",
+    "text": "Misfire",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0113",
+    "text": "Dear Friends",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0114",
+    "text": "She Makes Me (Stormtrooper in Stilettos)",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0115",
+    "text": "Coming Soon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0116",
+    "text": "Don’t Try So Hard",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0117",
+    "text": "Delilah",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0118",
+    "text": "The Hitman",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0119",
+    "text": "Bring Back That Leroy Brown",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-004-a0120",
+    "text": "Rock It (Prime Jive)",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mus-005",
+  "text": "Nenne einen Song der Beatles",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-005-a0001",
+    "text": "Yesterday",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-005-a0002",
+    "text": "Hey Jude",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-005-a0003",
+    "text": "Let It Be",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-005-a0004",
+    "text": "Yellow Submarine",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-005-a0005",
+    "text": "Help!",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0006",
+    "text": "All You Need Is Love",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0007",
+    "text": "Come Together",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0008",
+    "text": "Here Comes the Sun",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0009",
+    "text": "She Loves You",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0010",
+    "text": "I Want to Hold Your Hand",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0011",
+    "text": "Twist and Shout",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-005-a0012",
+    "text": "A Hard Day’s Night",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0013",
+    "text": "Love Me Do",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0014",
+    "text": "Can’t Buy Me Love",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0015",
+    "text": "Eleanor Rigby",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0016",
+    "text": "Penny Lane",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0017",
+    "text": "Strawberry Fields Forever",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0018",
+    "text": "Lucy in the Sky with Diamonds",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0019",
+    "text": "Ob-La-Di, Ob-La-Da",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0020",
+    "text": "Something",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0021",
+    "text": "Michelle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0022",
+    "text": "Norwegian Wood",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0023",
+    "text": "In My Life",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0024",
+    "text": "Blackbird",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0025",
+    "text": "While My Guitar Gently Weeps",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0026",
+    "text": "Get Back",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0027",
+    "text": "Day Tripper",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0028",
+    "text": "Ticket to Ride",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0029",
+    "text": "Paperback Writer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0030",
+    "text": "All My Loving",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0031",
+    "text": "I Saw Her Standing There",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0032",
+    "text": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "aliases": [
+     "Sgt. Pepper"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0033",
+    "text": "With a Little Help from My Friends",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0034",
+    "text": "A Day in the Life",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0035",
+    "text": "Revolution",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0036",
+    "text": "Back in the U.S.S.R.",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0037",
+    "text": "Helter Skelter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-005-a0038",
+    "text": "Octopus’s Garden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0039",
+    "text": "Drive My Car",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0040",
+    "text": "Nowhere Man",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0041",
+    "text": "Taxman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0042",
+    "text": "Eight Days a Week",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0043",
+    "text": "I Feel Fine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0044",
+    "text": "We Can Work It Out",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0045",
+    "text": "The Long and Winding Road",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0046",
+    "text": "Across the Universe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0047",
+    "text": "Golden Slumbers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0048",
+    "text": "Carry That Weight",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0049",
+    "text": "The End",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0050",
+    "text": "Here, There and Everywhere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0051",
+    "text": "Good Day Sunshine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0052",
+    "text": "Got to Get You into My Life",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0053",
+    "text": "I Am the Walrus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0054",
+    "text": "Magical Mystery Tour",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0055",
+    "text": "The Fool on the Hill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0056",
+    "text": "Hello, Goodbye",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0057",
+    "text": "Lady Madonna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0058",
+    "text": "Dear Prudence",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0059",
+    "text": "Glass Onion",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0060",
+    "text": "Rocky Raccoon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0061",
+    "text": "Julia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0062",
+    "text": "Birthday",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0063",
+    "text": "Happiness Is a Warm Gun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0064",
+    "text": "The Ballad of John and Yoko",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0065",
+    "text": "Don’t Let Me Down",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0066",
+    "text": "Maxwell’s Silver Hammer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0067",
+    "text": "Oh! Darling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0068",
+    "text": "I Want You (She’s So Heavy)",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0069",
+    "text": "Because",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0070",
+    "text": "You Never Give Me Your Money",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0071",
+    "text": "I’ve Got a Feeling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0072",
+    "text": "Free as a Bird",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0073",
+    "text": "Now and Then",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0074",
+    "text": "All Together Now",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0075",
+    "text": "When I’m Sixty-Four",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0076",
+    "text": "She’s Leaving Home",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0077",
+    "text": "Tomorrow Never Knows",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0078",
+    "text": "Girl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0079",
+    "text": "You’ve Got to Hide Your Love Away",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0080",
+    "text": "And I Love Her",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0081",
+    "text": "Please Please Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0082",
+    "text": "From Me to You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0083",
+    "text": "Komm, gib mir deine Hand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0084",
+    "text": "Sie liebt dich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0085",
+    "text": "I Will",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-005-a0086",
+    "text": "Why Don’t We Do It in the Road?",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0087",
+    "text": "Martha My Dear",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0088",
+    "text": "Mother Nature’s Son",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0089",
+    "text": "Sexy Sadie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0090",
+    "text": "Revolution 9",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0091",
+    "text": "Good Night",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0092",
+    "text": "Honey Pie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0093",
+    "text": "Savoy Truffle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0094",
+    "text": "Cry Baby Cry",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0095",
+    "text": "Long, Long, Long",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0096",
+    "text": "Piggies",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0097",
+    "text": "Wild Honey Pie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0098",
+    "text": "Don’t Pass Me By",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0099",
+    "text": "Yer Blues",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0100",
+    "text": "Everybody’s Got Something to Hide Except Me and My Monkey",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0101",
+    "text": "The Continuing Story of Bungalow Bill",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0102",
+    "text": "I’m So Tired",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0103",
+    "text": "Old Brown Shoe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0104",
+    "text": "Sun King",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0105",
+    "text": "Mean Mr. Mustard",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0106",
+    "text": "Polythene Pam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0107",
+    "text": "She Came In Through the Bathroom Window",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0108",
+    "text": "Her Majesty",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0109",
+    "text": "Two of Us",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0110",
+    "text": "Dig a Pony",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0111",
+    "text": "I Me Mine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0112",
+    "text": "Dig It",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0113",
+    "text": "One After 909",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0114",
+    "text": "For You Blue",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0115",
+    "text": "Maggie Mae",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0116",
+    "text": "Real Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0117",
+    "text": "Hey Bulldog",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0118",
+    "text": "It’s All Too Much",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0119",
+    "text": "Only a Northern Song",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0120",
+    "text": "Baby, You’re a Rich Man",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0121",
+    "text": "Your Mother Should Know",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0122",
+    "text": "Blue Jay Way",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0123",
+    "text": "Flying",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0124",
+    "text": "Within You Without You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0125",
+    "text": "Lovely Rita",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0126",
+    "text": "Good Morning Good Morning",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0127",
+    "text": "Being for the Benefit of Mr. Kite!",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0128",
+    "text": "Fixing a Hole",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0129",
+    "text": "Getting Better",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0130",
+    "text": "I’m Only Sleeping",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0131",
+    "text": "Love You To",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0132",
+    "text": "For No One",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0133",
+    "text": "Doctor Robert",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0134",
+    "text": "I Want to Tell You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0135",
+    "text": "And Your Bird Can Sing",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0136",
+    "text": "She Said She Said",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0137",
+    "text": "Rain",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0138",
+    "text": "Think for Yourself",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0139",
+    "text": "The Word",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0140",
+    "text": "What Goes On",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0141",
+    "text": "Wait",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0142",
+    "text": "If I Needed Someone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0143",
+    "text": "Run for Your Life",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0144",
+    "text": "I’m Looking Through You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0145",
+    "text": "You Won’t See Me",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0146",
+    "text": "Act Naturally",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0147",
+    "text": "I’ve Just Seen a Face",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0148",
+    "text": "Dizzy Miss Lizzy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0149",
+    "text": "It’s Only Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0150",
+    "text": "Another Girl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0151",
+    "text": "The Night Before",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0152",
+    "text": "I Need You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0153",
+    "text": "Tell Me What You See",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0154",
+    "text": "You Like Me Too Much",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0155",
+    "text": "Rock and Roll Music",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0156",
+    "text": "I’m a Loser",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0157",
+    "text": "Baby’s in Black",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0158",
+    "text": "No Reply",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0159",
+    "text": "Mr. Moonlight",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0160",
+    "text": "Kansas City",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0161",
+    "text": "Words of Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0162",
+    "text": "Honey Don’t",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0163",
+    "text": "Every Little Thing",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0164",
+    "text": "I Don’t Want to Spoil the Party",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0165",
+    "text": "What You’re Doing",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0166",
+    "text": "Everybody’s Trying to Be My Baby",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0167",
+    "text": "I’ll Follow the Sun",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0168",
+    "text": "If I Fell",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0169",
+    "text": "I Should Have Known Better",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0170",
+    "text": "Tell Me Why",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0171",
+    "text": "Any Time at All",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0172",
+    "text": "I’ll Cry Instead",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0173",
+    "text": "Things We Said Today",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0174",
+    "text": "When I Get Home",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0175",
+    "text": "You Can’t Do That",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0176",
+    "text": "I’ll Be Back",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0177",
+    "text": "I’m Happy Just to Dance with You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0178",
+    "text": "Roll Over Beethoven",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0179",
+    "text": "Till There Was You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0180",
+    "text": "Please Mister Postman",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0181",
+    "text": "Money (That’s What I Want)",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0182",
+    "text": "It Won’t Be Long",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0183",
+    "text": "All I’ve Got to Do",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0184",
+    "text": "Don’t Bother Me",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0185",
+    "text": "Little Child",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0186",
+    "text": "Hold Me Tight",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0187",
+    "text": "You Really Got a Hold on Me",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0188",
+    "text": "I Wanna Be Your Man",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0189",
+    "text": "Devil in Her Heart",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0190",
+    "text": "Not a Second Time",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0191",
+    "text": "P.S. I Love You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0192",
+    "text": "Misery",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0193",
+    "text": "Anna (Go to Him)",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0194",
+    "text": "Chains",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0195",
+    "text": "Boys",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0196",
+    "text": "Ask Me Why",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0197",
+    "text": "Baby It’s You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0198",
+    "text": "Do You Want to Know a Secret",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0199",
+    "text": "A Taste of Honey",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0200",
+    "text": "There’s a Place",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0201",
+    "text": "This Boy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0202",
+    "text": "I’ll Get You",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0203",
+    "text": "Thank You Girl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0204",
+    "text": "Yes It Is",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0205",
+    "text": "I’m Down",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-005-a0206",
+    "text": "The Inner Light",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mus-006",
+  "text": "Nenne einen Song von Katy Perry",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-006-a0001",
+    "text": "Roar",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-006-a0002",
+    "text": "I Kissed a Girl",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-006-a0003",
+    "text": "Firework",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-006-a0004",
+    "text": "California Gurls",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-006-a0005",
+    "text": "Hot n Cold",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-006-a0006",
+    "text": "Dark Horse",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-006-a0007",
+    "text": "Teenage Dream",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-006-a0008",
+    "text": "Last Friday Night (T.G.I.F.)",
+    "aliases": [
+     "Last Friday Night"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-006-a0009",
+    "text": "Part of Me",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-006-a0010",
+    "text": "E.T.",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0011",
+    "text": "Wide Awake",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0012",
+    "text": "Chained to the Rhythm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0013",
+    "text": "Swish Swish",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0014",
+    "text": "Bon Appétit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0015",
+    "text": "Unconditionally",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0016",
+    "text": "Birthday",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0017",
+    "text": "This Is How We Do",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0018",
+    "text": "Never Really Over",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0019",
+    "text": "The One That Got Away",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0020",
+    "text": "Rise",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0021",
+    "text": "Daisies",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0022",
+    "text": "Waking Up in Vegas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0023",
+    "text": "Thinking of You",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-006-a0024",
+    "text": "Hey Hey Hey",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0025",
+    "text": "Legendary Lovers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0026",
+    "text": "Walking on Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0027",
+    "text": "Harleys in Hawaii",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0028",
+    "text": "Small Talk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0029",
+    "text": "Smile",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0030",
+    "text": "Not the End of the World",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0031",
+    "text": "Woman’s World",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0032",
+    "text": "Lifetimes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0033",
+    "text": "Ur So Gay",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0034",
+    "text": "Hummingbird Heartbeat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0035",
+    "text": "Peacock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0036",
+    "text": "Circle the Drain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0037",
+    "text": "Pearl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0038",
+    "text": "Who Am I Living For?",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0039",
+    "text": "Electric",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0040",
+    "text": "Cozy Little Christmas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0041",
+    "text": "Witness",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0042",
+    "text": "Feels",
+    "aliases": [
+     "Feels (Calvin Harris)"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0043",
+    "text": "365",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0044",
+    "text": "Con Calma (Remix)",
+    "aliases": [
+     "Con Calma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0045",
+    "text": "Bigger Than Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0046",
+    "text": "Tucked",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0047",
+    "text": "Champagne Problems",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0048",
+    "text": "Lost",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0049",
+    "text": "Mannequin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0050",
+    "text": "One of the Boys",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0051",
+    "text": "Self Inflicted",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0052",
+    "text": "I’m Still Breathing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0053",
+    "text": "Fingerprints",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0054",
+    "text": "If You Can Afford Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0055",
+    "text": "Hang On",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0056",
+    "text": "Pendulum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0057",
+    "text": "Power",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0058",
+    "text": "Déjà Vu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0059",
+    "text": "Mind Maze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0060",
+    "text": "Miss You More",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0061",
+    "text": "Tsunami",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-006-a0062",
+    "text": "Choose Your Battles",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0063",
+    "text": "Spiritual",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0064",
+    "text": "It Takes Two",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0065",
+    "text": "This Moment",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0066",
+    "text": "Love Me",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0067",
+    "text": "International Smile",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0068",
+    "text": "Double Rainbow",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0069",
+    "text": "Ghost",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0070",
+    "text": "Roulette",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0071",
+    "text": "Save as Draft",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0072",
+    "text": "Into Me You See",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0073",
+    "text": "Act My Age",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0074",
+    "text": "Never Worn White",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0075",
+    "text": "Teary Eyes",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0076",
+    "text": "Only Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0077",
+    "text": "What Makes a Woman",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0078",
+    "text": "Resilient",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0079",
+    "text": "Crying for No Reason",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0080",
+    "text": "Gimme Gimme",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0081",
+    "text": "Artificial",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0082",
+    "text": "I’m His, He’s Mine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0083",
+    "text": "Crush",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0084",
+    "text": "All the Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0085",
+    "text": "Truth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0086",
+    "text": "Wonder",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-006-a0087",
+    "text": "Nirvana",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mus-007",
+  "text": "Nenne einen Song von Taylor Swift",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-007-a0001",
+    "text": "Shake It Off",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-007-a0002",
+    "text": "Love Story",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-007-a0003",
+    "text": "Blank Space",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-007-a0004",
+    "text": "Anti-Hero",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0005",
+    "text": "Cruel Summer",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0006",
+    "text": "You Belong with Me",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0007",
+    "text": "We Are Never Ever Getting Back Together",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0008",
+    "text": "Bad Blood",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0009",
+    "text": "Look What You Made Me Do",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0010",
+    "text": "Style",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0011",
+    "text": "Wildest Dreams",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0012",
+    "text": "I Knew You Were Trouble",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-007-a0013",
+    "text": "Cardigan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0014",
+    "text": "All Too Well",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0015",
+    "text": "Lover",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0016",
+    "text": "Delicate",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0017",
+    "text": "22",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0018",
+    "text": "Fortnight",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0019",
+    "text": "Willow",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0020",
+    "text": "Karma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0021",
+    "text": "Enchanted",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0022",
+    "text": "Mine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0023",
+    "text": "Teardrops on My Guitar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0024",
+    "text": "Our Song",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0025",
+    "text": "Fifteen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0026",
+    "text": "Me!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0027",
+    "text": "You Need to Calm Down",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0028",
+    "text": "Exile",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0029",
+    "text": "Lavender Haze",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0030",
+    "text": "Bejeweled",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0031",
+    "text": "Is It Over Now?",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0032",
+    "text": "The Fate of Ophelia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0033",
+    "text": "Champagne Problems",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0034",
+    "text": "August",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0035",
+    "text": "Red",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0036",
+    "text": "Begin Again",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0037",
+    "text": "Back to December",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0038",
+    "text": "Mean",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0039",
+    "text": "Sparks Fly",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0040",
+    "text": "Out of the Woods",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0041",
+    "text": "New Romantics",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0042",
+    "text": "Gorgeous",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0043",
+    "text": "Ready for It?",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0044",
+    "text": "End Game",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0045",
+    "text": "The Man",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0046",
+    "text": "Getaway Car",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0047",
+    "text": "Down Bad",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0048",
+    "text": "So Long, London",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0049",
+    "text": "Florida!!!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0050",
+    "text": "I Can Do It with a Broken Heart",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0051",
+    "text": "But Daddy I Love Him",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0052",
+    "text": "Snow on the Beach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0053",
+    "text": "Midnight Rain",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0054",
+    "text": "Wood",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0055",
+    "text": "Opalite",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-007-a0056",
+    "text": "Tim McGraw",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0057",
+    "text": "Picture to Burn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0058",
+    "text": "Should’ve Said No",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0059",
+    "text": "White Horse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0060",
+    "text": "Fearless",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0061",
+    "text": "The Best Day",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0062",
+    "text": "Breathe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0063",
+    "text": "Change",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0064",
+    "text": "Jump Then Fall",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0065",
+    "text": "Today Was a Fairytale",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0066",
+    "text": "Speak Now",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0067",
+    "text": "Dear John",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0068",
+    "text": "Never Grow Up",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0069",
+    "text": "The Story of Us",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0070",
+    "text": "Long Live",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0071",
+    "text": "Ours",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0072",
+    "text": "State of Grace",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0073",
+    "text": "Treacherous",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0074",
+    "text": "Holy Ground",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0075",
+    "text": "Everything Has Changed",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0076",
+    "text": "The Last Time",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0077",
+    "text": "Safe & Sound",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0078",
+    "text": "Eyes Open",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0079",
+    "text": "Welcome to New York",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0080",
+    "text": "How You Get the Girl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0081",
+    "text": "Clean",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0082",
+    "text": "This Love",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0083",
+    "text": "I Wish You Would",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0084",
+    "text": "Wonderland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0085",
+    "text": "You Are in Love",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0086",
+    "text": "I Don’t Wanna Live Forever",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0087",
+    "text": "Call It What You Want",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0088",
+    "text": "Don’t Blame Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0089",
+    "text": "King of My Heart",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0090",
+    "text": "Dress",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0091",
+    "text": "Dancing with Our Hands Tied",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0092",
+    "text": "This Is Why We Can’t Have Nice Things",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0093",
+    "text": "New Year’s Day",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0094",
+    "text": "I Did Something Bad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0095",
+    "text": "So It Goes…",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0096",
+    "text": "The Archer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0097",
+    "text": "Paper Rings",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0098",
+    "text": "Miss Americana & the Heartbreak Prince",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0099",
+    "text": "Cornelia Street",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0100",
+    "text": "Death by a Thousand Cuts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0101",
+    "text": "London Boy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0102",
+    "text": "False God",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0103",
+    "text": "Afterglow",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0104",
+    "text": "It’s Nice to Have a Friend",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0105",
+    "text": "Daylight",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0106",
+    "text": "The 1",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0107",
+    "text": "The Last Great American Dynasty",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0108",
+    "text": "My Tears Ricochet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0109",
+    "text": "Mirrorball",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0110",
+    "text": "Seven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0111",
+    "text": "This Is Me Trying",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0112",
+    "text": "Illicit Affairs",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0113",
+    "text": "Invisible String",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0114",
+    "text": "Mad Woman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0115",
+    "text": "Epiphany",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0116",
+    "text": "Betty",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0117",
+    "text": "Peace",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0118",
+    "text": "Hoax",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0119",
+    "text": "The Lakes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0120",
+    "text": "Gold Rush",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0121",
+    "text": "’Tis the Damn Season",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0122",
+    "text": "Tolerate It",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0123",
+    "text": "No Body, No Crime",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0124",
+    "text": "Happiness",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0125",
+    "text": "Dorothea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0126",
+    "text": "Coney Island",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0127",
+    "text": "Ivy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0128",
+    "text": "Cowboy Like Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0129",
+    "text": "Long Story Short",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0130",
+    "text": "Marjorie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0131",
+    "text": "Closure",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0132",
+    "text": "Evermore",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0133",
+    "text": "Right Where You Left Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0134",
+    "text": "It’s Time to Go",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0135",
+    "text": "Maroon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0136",
+    "text": "You’re on Your Own, Kid",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0137",
+    "text": "Vigilante Shit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0138",
+    "text": "Question…?",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0139",
+    "text": "Labyrinth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0140",
+    "text": "Sweet Nothing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0141",
+    "text": "Mastermind",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0142",
+    "text": "The Great War",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0143",
+    "text": "Bigger Than the Whole Sky",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0144",
+    "text": "Would’ve, Could’ve, Should’ve",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0145",
+    "text": "Dear Reader",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0146",
+    "text": "Hits Different",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0147",
+    "text": "You’re Losing Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0148",
+    "text": "Mr. Perfectly Fine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0149",
+    "text": "Message in a Bottle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0150",
+    "text": "I Bet You Think About Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0151",
+    "text": "Nothing New",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0152",
+    "text": "Better Man",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0153",
+    "text": "Babe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0154",
+    "text": "Forever Winter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0155",
+    "text": "Run",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0156",
+    "text": "The Very First Night",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0157",
+    "text": "Electric Touch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0158",
+    "text": "When Emma Falls in Love",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0159",
+    "text": "I Can See You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0160",
+    "text": "Castles Crumbling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0161",
+    "text": "Foolish One",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0162",
+    "text": "Timeless",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0163",
+    "text": "Now That We Don’t Talk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0164",
+    "text": "Suburban Legends",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0165",
+    "text": "Say Don’t Go",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0166",
+    "text": "Slut!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0167",
+    "text": "The Tortured Poets Department",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0168",
+    "text": "My Boy Only Breaks His Favorite Toys",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0169",
+    "text": "Fresh Out the Slammer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0170",
+    "text": "Guilty as Sin?",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0171",
+    "text": "Who’s Afraid of Little Old Me?",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0172",
+    "text": "Loml",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0173",
+    "text": "The Smallest Man Who Ever Lived",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0174",
+    "text": "The Alchemy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0175",
+    "text": "Clara Bow",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0176",
+    "text": "The Black Dog",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0177",
+    "text": "Thank You Aimee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0178",
+    "text": "The Prophecy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0179",
+    "text": "Cassandra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0180",
+    "text": "Peter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0181",
+    "text": "The Bolter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0182",
+    "text": "Robin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0183",
+    "text": "The Manuscript",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0184",
+    "text": "Father Figure",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0185",
+    "text": "Eldest Daughter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0186",
+    "text": "Ruin the Friendship",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0187",
+    "text": "Actually Romantic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0188",
+    "text": "Wi$h Li$t",
+    "aliases": [
+     "Wish List"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0189",
+    "text": "Cancelled!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0190",
+    "text": "Honey",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0191",
+    "text": "Elizabeth Taylor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0192",
+    "text": "The Life of a Showgirl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0193",
+    "text": "Highway Don’t Care",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0194",
+    "text": "Two Is Better Than One",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0195",
+    "text": "Renegade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0196",
+    "text": "The Joker and the Queen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0197",
+    "text": "Both of Us",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0198",
+    "text": "Only the Young",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0199",
+    "text": "Christmas Tree Farm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0200",
+    "text": "Beautiful Ghosts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0201",
+    "text": "Carolina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0202",
+    "text": "Sweeter than Fiction",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0203",
+    "text": "Ronan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0204",
+    "text": "Crazier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0205",
+    "text": "Superstar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0206",
+    "text": "Tied Together with a Smile",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0207",
+    "text": "Stay Beautiful",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0208",
+    "text": "Mary’s Song (Oh My My My)",
+    "aliases": [
+     "Mary’s Song"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0209",
+    "text": "Cold as You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0210",
+    "text": "A Place in This World",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0211",
+    "text": "The Outside",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0212",
+    "text": "A Perfectly Good Heart",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0213",
+    "text": "Invisible",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0214",
+    "text": "I’m Only Me When I’m with You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0215",
+    "text": "Hey Stephen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0216",
+    "text": "Tell Me Why",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0217",
+    "text": "You’re Not Sorry",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0218",
+    "text": "The Way I Loved You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0219",
+    "text": "Forever & Always",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0220",
+    "text": "Come In with the Rain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0221",
+    "text": "Superman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0222",
+    "text": "Innocent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0223",
+    "text": "Haunted",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0224",
+    "text": "Last Kiss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0225",
+    "text": "Better than Revenge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0226",
+    "text": "Starlight",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0227",
+    "text": "Girl at Home",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0228",
+    "text": "I Almost Do",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0229",
+    "text": "Stay Stay Stay",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0230",
+    "text": "Sad Beautiful Tragic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0231",
+    "text": "The Lucky One",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0232",
+    "text": "The Moment I Knew",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0233",
+    "text": "Come Back… Be Here",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0234",
+    "text": "You All Over Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0235",
+    "text": "That’s When",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0236",
+    "text": "Don’t You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0237",
+    "text": "Bye Bye Baby",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0238",
+    "text": "We Were Happy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0239",
+    "text": "Glitch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0240",
+    "text": "Paris",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0241",
+    "text": "High Infidelity",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0242",
+    "text": "The Albatross",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0243",
+    "text": "Chloe or Sam or Sophia or Marcus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0244",
+    "text": "How Did It End?",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0245",
+    "text": "So High School",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0246",
+    "text": "I Hate It Here",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-007-a0247",
+    "text": "Imgonnagetyouback",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "mus-008",
+  "text": "Nenne einen Song von Michael Jackson",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-008-a0001",
+    "text": "Thriller",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-008-a0002",
+    "text": "Billie Jean",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-008-a0003",
+    "text": "Beat It",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-008-a0004",
+    "text": "Smooth Criminal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0005",
+    "text": "Black or White",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0006",
+    "text": "Bad",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0007",
+    "text": "Heal the World",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0008",
+    "text": "Man in the Mirror",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0009",
+    "text": "Earth Song",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0010",
+    "text": "They Don’t Care About Us",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-008-a0011",
+    "text": "Don’t Stop ’Til You Get Enough",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0012",
+    "text": "Rock with You",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0013",
+    "text": "Remember the Time",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0014",
+    "text": "You Are Not Alone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0015",
+    "text": "Dirty Diana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0016",
+    "text": "The Way You Make Me Feel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0017",
+    "text": "Wanna Be Startin’ Somethin’",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0018",
+    "text": "Human Nature",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0019",
+    "text": "P.Y.T. (Pretty Young Thing)",
+    "aliases": [
+     "P.Y.T.",
+     "Pretty Young Thing"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0020",
+    "text": "Leave Me Alone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0021",
+    "text": "Liberian Girl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0022",
+    "text": "Jam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0023",
+    "text": "In the Closet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0024",
+    "text": "Give In to Me",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0025",
+    "text": "Will You Be There",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0026",
+    "text": "Scream",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0027",
+    "text": "Stranger in Moscow",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0028",
+    "text": "Blood on the Dance Floor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0029",
+    "text": "You Rock My World",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0030",
+    "text": "We Are the World",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0031",
+    "text": "ABC",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0032",
+    "text": "I Want You Back",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0033",
+    "text": "Ben",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0034",
+    "text": "Speed Demon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0035",
+    "text": "Off the Wall",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0036",
+    "text": "Who Is It",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-008-a0037",
+    "text": "Another Part of Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0038",
+    "text": "I Just Can’t Stop Loving You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0039",
+    "text": "Childhood",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0040",
+    "text": "HIStory",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0041",
+    "text": "Ghosts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0042",
+    "text": "Butterflies",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0043",
+    "text": "Cry",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0044",
+    "text": "Unbreakable",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0045",
+    "text": "Invincible",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0046",
+    "text": "Heartbreaker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0047",
+    "text": "Whatever Happens",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0048",
+    "text": "Speechless",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0049",
+    "text": "Threatened",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0050",
+    "text": "Hold My Hand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0051",
+    "text": "Love Never Felt So Good",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0052",
+    "text": "Slave to the Rhythm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0053",
+    "text": "Behind the Mask",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0054",
+    "text": "This Is It",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0055",
+    "text": "Xscape",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0056",
+    "text": "She’s Out of My Life",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0057",
+    "text": "Workin’ Day and Night",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0058",
+    "text": "Get on the Floor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0059",
+    "text": "Girlfriend",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0060",
+    "text": "The Girl Is Mine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0061",
+    "text": "Say Say Say",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0062",
+    "text": "Baby Be Mine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0063",
+    "text": "Lady in My Life",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0064",
+    "text": "Can You Feel It",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0065",
+    "text": "Shake Your Body (Down to the Ground)",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0066",
+    "text": "Blame It on the Boogie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0067",
+    "text": "I’ll Be There",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0068",
+    "text": "The Love You Save",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0069",
+    "text": "Got to Be There",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0070",
+    "text": "Rockin’ Robin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0071",
+    "text": "One Day in Your Life",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0072",
+    "text": "Farewell My Summer Love",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0073",
+    "text": "Music and Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0074",
+    "text": "Gone Too Soon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0075",
+    "text": "Keep the Faith",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0076",
+    "text": "Why You Wanna Trip on Me",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0077",
+    "text": "Can’t Let Her Get Away",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0078",
+    "text": "She Drives Me Wild",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0079",
+    "text": "D.S.",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0080",
+    "text": "Tabloid Junkie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0081",
+    "text": "Money",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0082",
+    "text": "This Time Around",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0083",
+    "text": "2 Bad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0084",
+    "text": "Little Susie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0085",
+    "text": "Morphine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0086",
+    "text": "Is It Scary",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0087",
+    "text": "Superfly Sister",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0088",
+    "text": "Smile",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0089",
+    "text": "Come Together",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0090",
+    "text": "Break of Dawn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0091",
+    "text": "Heaven Can Wait",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0092",
+    "text": "2000 Watts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0093",
+    "text": "Privacy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0094",
+    "text": "Don’t Walk Away",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0095",
+    "text": "Lost Children",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0096",
+    "text": "Just Good Friends",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0097",
+    "text": "Fly Away",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0098",
+    "text": "Streetwalker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0099",
+    "text": "Hollywood Tonight",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0100",
+    "text": "Breaking News",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0101",
+    "text": "Monster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0102",
+    "text": "(I Like) The Way You Love Me",
+    "aliases": [
+     "The Way You Love Me"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0103",
+    "text": "Best of Joy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0104",
+    "text": "Much Too Soon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0105",
+    "text": "Chicago",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0106",
+    "text": "Loving You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0107",
+    "text": "A Place with No Name",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0108",
+    "text": "Do You Know Where Your Children Are",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0109",
+    "text": "Blue Gangsta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-008-a0110",
+    "text": "Don’t Matter to Me",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "mus-009",
+  "text": "Nenne einen Song von Julian Sommer",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "quelle": "Wikipedia, austriancharts.at, Universal Music (Stand 2026)",
+  "answers": [
+   {
+    "id": "mus-009-a0001",
+    "text": "Dicht im Flieger",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-009-a0002",
+    "text": "Peter Pan",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-009-a0003",
+    "text": "Morgen kickt der Kater",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-009-a0004",
+    "text": "Handwerker",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-009-a0005",
+    "text": "Nüchtern ist verboten",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-009-a0006",
+    "text": "Mallorca Fanatiker",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0007",
+    "text": "Bunga bunga",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0008",
+    "text": "Spreng dein Limit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0009",
+    "text": "Senorita",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0010",
+    "text": "Die Grössten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0011",
+    "text": "O du fröhliche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0012",
+    "text": "Heisser Sand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0013",
+    "text": "Arielle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0014",
+    "text": "Neverland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0015",
+    "text": "Oben ohne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0016",
+    "text": "Ruf den Doc (Inselfieber)",
+    "aliases": [
+     "Ruf den Doc",
+     "Inselfieber"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0017",
+    "text": "Ein Leben lang",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0018",
+    "text": "Normale Kartoffeln auf die #1",
+    "aliases": [
+     "Normale Kartoffeln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0019",
+    "text": "Rockstar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0020",
+    "text": "Gib mir alles was du hast",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0021",
+    "text": "SOS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0022",
+    "text": "Eine Nacht in Arenal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0023",
+    "text": "Pommesbude auf Hawaii",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0024",
+    "text": "Ich will auf die Hütte geh’n",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0025",
+    "text": "Und ab dafür!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-009-a0026",
+    "text": "Endlich normale Leute",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-009-a0027",
+    "text": "Dachdecker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-009-a0028",
+    "text": "Wenn ich nüchtern wär",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-009-a0029",
+    "text": "Wir sind die Deutschen",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "mus-010",
+  "text": "Nenne einen Song von Mickie Krause",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "quelle": "Wikipedia-Diskografie, austriancharts.at, Deezer, songtexte.com",
+  "answers": [
+   {
+    "id": "mus-010-a0001",
+    "text": "Schatzi schenk mir ein Foto",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-010-a0002",
+    "text": "Zehn nackte Friseusen",
+    "aliases": [
+     "10 nackte Friseusen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-010-a0003",
+    "text": "Geh mal Bier hol’n",
+    "aliases": [
+     "Geh mal Bier hol’n (GmBh)",
+     "GmBh"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-010-a0004",
+    "text": "Jan Pillemann Otze",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-010-a0005",
+    "text": "Eine Woche wach",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-010-a0006",
+    "text": "Biste braun, kriegste Fraun",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-010-a0007",
+    "text": "Reiß die Hütte ab",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0008",
+    "text": "Orange trägt nur die Müllabfuhr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0009",
+    "text": "Nur noch Schuhe an",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0010",
+    "text": "Laudato si",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0011",
+    "text": "Finger im Po – Mexiko!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0012",
+    "text": "10 Liter Bier (und dann geht das)",
+    "aliases": [
+     "10 Liter Bier"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0013",
+    "text": "Handwerker",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0014",
+    "text": "Nie mehr Alkohol – freie Getränke",
+    "aliases": [
+     "Nie mehr Alkohol"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0015",
+    "text": "Dann leg ich Schlager auf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0016",
+    "text": "Wo ist meine Mama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-010-a0017",
+    "text": "Anita",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-010-a0018",
+    "text": "Cerveza ist besser",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-010-a0019",
+    "text": "Die schönste Frau der Welt",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "mus-011",
+  "text": "Nenne einen Song von Isi Glück",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "quelle": "Wikipedia, Deezer, Apple Music, Album \"Alles Isi\" (2025)",
+  "answers": [
+   {
+    "id": "mus-011-a0001",
+    "text": "Delfin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-011-a0002",
+    "text": "Oberteil",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-011-a0003",
+    "text": "Das Leben ist ne Party",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-011-a0004",
+    "text": "Ich will zurück zu Dir (Hände hoch Malle)",
+    "aliases": [
+     "Ich will zurück zu Dir",
+     "Hände hoch Malle"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-011-a0005",
+    "text": "Knicklicht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-011-a0006",
+    "text": "Mallearen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-011-a0007",
+    "text": "Halt ma’ mein Bier",
+    "aliases": [
+     "Halt mal mein Bier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-011-a0008",
+    "text": "Nimm mich mit ins Paradies",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-011-a0009",
+    "text": "Ich schieß mich weg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0010",
+    "text": "Der kleine Haifisch",
+    "aliases": [
+     "Kleiner Haifisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0011",
+    "text": "Die Kinder von Malle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0012",
+    "text": "Wir sind alle da",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0013",
+    "text": "Malle ist bei mir das ganze Jahr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0014",
+    "text": "Alles Isi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0015",
+    "text": "Mallekind",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0016",
+    "text": "Cinderella",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0017",
+    "text": "Dorf DNA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0018",
+    "text": "Frosch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0019",
+    "text": "Atlas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0020",
+    "text": "Chill ma Wilma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0021",
+    "text": "Heimlich am Strand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0022",
+    "text": "Luftballon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0023",
+    "text": "13 Tage",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0024",
+    "text": "Ein kleines bisschen küssen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0025",
+    "text": "Homegirls",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0026",
+    "text": "Tok Tok Tok",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0027",
+    "text": "Chica Style",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0028",
+    "text": "Geile Zeit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-011-a0029",
+    "text": "Iker Casillas (Deine Augen)",
+    "aliases": [
+     "Iker Casillas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-011-a0030",
+    "text": "Sonne, Mond & Playa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-011-a0031",
+    "text": "Scheißegal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-011-a0032",
+    "text": "Krabbe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-011-a0033",
+    "text": "Halt die Fresse",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "mus-012",
+  "text": "Nenne ein Instrument, das im Orchester gespielt wird",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-012-a0001",
+    "text": "Geige",
+    "aliases": [
+     "Violine"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-012-a0002",
+    "text": "Cello",
+    "aliases": [
+     "Violoncello"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-012-a0003",
+    "text": "Kontrabass",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0004",
+    "text": "Bratsche",
+    "aliases": [
+     "Viola"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0005",
+    "text": "Harfe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0006",
+    "text": "Querflöte",
+    "aliases": [
+     "Flöte"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0007",
+    "text": "Klarinette",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0008",
+    "text": "Oboe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0009",
+    "text": "Trompete",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0010",
+    "text": "Posaune",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0011",
+    "text": "Pauke",
+    "aliases": [
+     "Kesselpauke",
+     "Timpani"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-012-a0012",
+    "text": "Fagott",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0013",
+    "text": "Horn",
+    "aliases": [
+     "Waldhorn"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0014",
+    "text": "Tuba",
+    "aliases": [
+     "Basstuba"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0015",
+    "text": "Becken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0016",
+    "text": "Triangel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0017",
+    "text": "Große Trommel",
+    "aliases": [
+     "Bassdrum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0018",
+    "text": "Klavier",
+    "aliases": [
+     "Flügel",
+     "Piano"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-012-a0019",
+    "text": "Kleine Trommel",
+    "aliases": [
+     "Snare"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0020",
+    "text": "Xylophon",
+    "aliases": [
+     "Xylofon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0021",
+    "text": "Glockenspiel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0022",
+    "text": "Marimba",
+    "aliases": [
+     "Marimbaphon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0023",
+    "text": "Vibraphon",
+    "aliases": [
+     "Vibrafon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0024",
+    "text": "Röhrenglocken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0025",
+    "text": "Celesta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0026",
+    "text": "Cembalo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0027",
+    "text": "Orgel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0028",
+    "text": "Piccoloflöte",
+    "aliases": [
+     "Piccolo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0029",
+    "text": "Englischhorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0030",
+    "text": "Bassklarinette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0031",
+    "text": "Kontrafagott",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0032",
+    "text": "Saxophon",
+    "aliases": [
+     "Saxofon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0033",
+    "text": "Tamburin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0034",
+    "text": "Kastagnetten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0035",
+    "text": "Gong",
+    "aliases": [
+     "Tamtam"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-012-a0036",
+    "text": "Peitsche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0037",
+    "text": "Ratsche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0038",
+    "text": "Windmaschine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0039",
+    "text": "Wagnertuba",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0040",
+    "text": "Euphonium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0041",
+    "text": "Kornett",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0042",
+    "text": "Altflöte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0043",
+    "text": "Es-Klarinette",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0044",
+    "text": "Bassposaune",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0045",
+    "text": "Oboe d’amore",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0046",
+    "text": "Heckelphon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0047",
+    "text": "Mandoline",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0048",
+    "text": "Gitarre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0049",
+    "text": "Akkordeon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0050",
+    "text": "Viola da Gamba",
+    "aliases": [
+     "Gambe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0051",
+    "text": "Blockflöte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0052",
+    "text": "Laute",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0053",
+    "text": "Theorbe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0054",
+    "text": "Naturtrompete",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0055",
+    "text": "Ophikleide",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0056",
+    "text": "Serpent",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0057",
+    "text": "Crotales",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0058",
+    "text": "Holzblock",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0059",
+    "text": "Tempelblock",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0060",
+    "text": "Amboss",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0061",
+    "text": "Kuhglocke",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0062",
+    "text": "Donnerblech",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0063",
+    "text": "Rute",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0064",
+    "text": "Ondes Martenot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0065",
+    "text": "Basstrompete",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-012-a0066",
+    "text": "Tenorposaune",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

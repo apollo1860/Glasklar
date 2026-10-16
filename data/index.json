@@ -100,9 +100,18 @@
       "id": "musik",
       "name": "Musik",
       "icon": "🎸",
-      "count": 1,
+      "count": 10,
       "questions": [
-        "mus-003"
+        "mus-003",
+        "mus-004",
+        "mus-005",
+        "mus-006",
+        "mus-007",
+        "mus-008",
+        "mus-009",
+        "mus-010",
+        "mus-011",
+        "mus-012"
       ]
     },
     {

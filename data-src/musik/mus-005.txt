@@ -1,0 +1,210 @@
+@id mus-005
+@text Nenne einen Song der Beatles
+# Songs der Studioalben, Singles und späteren Veröffentlichungen (inkl. deutscher Versionen und "Now and Then").
+
+1 Yesterday
+1 Hey Jude
+1 Let It Be
+1 Yellow Submarine
+2 Help!
+2 All You Need Is Love
+2 Come Together
+2 Here Comes the Sun
+2 She Loves You
+2 I Want to Hold Your Hand
+2 Twist and Shout
+3 A Hard Day’s Night
+3 Love Me Do
+3 Can’t Buy Me Love
+3 Eleanor Rigby
+3 Penny Lane
+3 Strawberry Fields Forever
+3 Lucy in the Sky with Diamonds
+3 Ob-La-Di, Ob-La-Da
+3 Something
+3 Michelle
+3 Norwegian Wood
+3 In My Life
+3 Blackbird
+3 While My Guitar Gently Weeps
+3 Get Back
+3 Day Tripper
+3 Ticket to Ride
+3 Paperback Writer
+3 All My Loving
+3 I Saw Her Standing There
+3 Sgt. Pepper’s Lonely Hearts Club Band = Sgt. Pepper
+3 With a Little Help from My Friends
+3 A Day in the Life
+3 Revolution
+3 Back in the U.S.S.R.
+3 Helter Skelter
+4 Octopus’s Garden
+4 Drive My Car
+4 Nowhere Man
+4 Taxman
+4 Eight Days a Week
+4 I Feel Fine
+4 We Can Work It Out
+4 The Long and Winding Road
+4 Across the Universe
+4 Golden Slumbers
+4 Carry That Weight
+4 The End
+4 Here, There and Everywhere
+4 Good Day Sunshine
+4 Got to Get You into My Life
+4 I Am the Walrus
+4 Magical Mystery Tour
+4 The Fool on the Hill
+4 Hello, Goodbye
+4 Lady Madonna
+4 Dear Prudence
+4 Glass Onion
+4 Rocky Raccoon
+4 Julia
+4 Birthday
+4 Happiness Is a Warm Gun
+4 The Ballad of John and Yoko
+4 Don’t Let Me Down
+4 Maxwell’s Silver Hammer
+4 Oh! Darling
+4 I Want You (She’s So Heavy)
+4 Because
+4 You Never Give Me Your Money
+4 I’ve Got a Feeling
+4 Free as a Bird
+4 Now and Then
+4 All Together Now
+4 When I’m Sixty-Four
+4 She’s Leaving Home
+4 Tomorrow Never Knows
+4 Girl
+4 You’ve Got to Hide Your Love Away
+4 And I Love Her
+4 Please Please Me
+4 From Me to You
+4 Komm, gib mir deine Hand
+4 Sie liebt dich
+4 I Will
+5 Why Don’t We Do It in the Road?
+5 Martha My Dear
+5 Mother Nature’s Son
+5 Sexy Sadie
+5 Revolution 9
+5 Good Night
+5 Honey Pie
+5 Savoy Truffle
+5 Cry Baby Cry
+5 Long, Long, Long
+5 Piggies
+5 Wild Honey Pie
+5 Don’t Pass Me By
+5 Yer Blues
+5 Everybody’s Got Something to Hide Except Me and My Monkey
+5 The Continuing Story of Bungalow Bill
+5 I’m So Tired
+5 Old Brown Shoe
+5 Sun King
+5 Mean Mr. Mustard
+5 Polythene Pam
+5 She Came In Through the Bathroom Window
+5 Her Majesty
+5 Two of Us
+5 Dig a Pony
+5 I Me Mine
+5 Dig It
+5 One After 909
+5 For You Blue
+5 Maggie Mae
+5 Real Love
+5 Hey Bulldog
+5 It’s All Too Much
+5 Only a Northern Song
+5 Baby, You’re a Rich Man
+5 Your Mother Should Know
+5 Blue Jay Way
+5 Flying
+5 Within You Without You
+5 Lovely Rita
+5 Good Morning Good Morning
+5 Being for the Benefit of Mr. Kite!
+5 Fixing a Hole
+5 Getting Better
+5 I’m Only Sleeping
+5 Love You To
+5 For No One
+5 Doctor Robert
+5 I Want to Tell You
+5 And Your Bird Can Sing
+5 She Said She Said
+5 Rain
+5 Think for Yourself
+5 The Word
+5 What Goes On
+5 Wait
+5 If I Needed Someone
+5 Run for Your Life
+5 I’m Looking Through You
+5 You Won’t See Me
+5 Act Naturally
+5 I’ve Just Seen a Face
+5 Dizzy Miss Lizzy
+5 It’s Only Love
+5 Another Girl
+5 The Night Before
+5 I Need You
+5 Tell Me What You See
+5 You Like Me Too Much
+5 Rock and Roll Music
+5 I’m a Loser
+5 Baby’s in Black
+5 No Reply
+5 Mr. Moonlight
+5 Kansas City
+5 Words of Love
+5 Honey Don’t
+5 Every Little Thing
+5 I Don’t Want to Spoil the Party
+5 What You’re Doing
+5 Everybody’s Trying to Be My Baby
+5 I’ll Follow the Sun
+5 If I Fell
+5 I Should Have Known Better
+5 Tell Me Why
+5 Any Time at All
+5 I’ll Cry Instead
+5 Things We Said Today
+5 When I Get Home
+5 You Can’t Do That
+5 I’ll Be Back
+5 I’m Happy Just to Dance with You
+5 Roll Over Beethoven
+5 Till There Was You
+5 Please Mister Postman
+5 Money (That’s What I Want)
+5 It Won’t Be Long
+5 All I’ve Got to Do
+5 Don’t Bother Me
+5 Little Child
+5 Hold Me Tight
+5 You Really Got a Hold on Me
+5 I Wanna Be Your Man
+5 Devil in Her Heart
+5 Not a Second Time
+5 P.S. I Love You
+5 Misery
+5 Anna (Go to Him)
+5 Chains
+5 Boys
+5 Ask Me Why
+5 Baby It’s You
+5 Do You Want to Know a Secret
+5 A Taste of Honey
+5 There’s a Place
+5 This Boy
+5 I’ll Get You
+5 Thank You Girl
+5 Yes It Is
+5 I’m Down
+5 The Inner Light
