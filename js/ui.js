@@ -341,7 +341,6 @@ export class AnswerInput {
 export function renderCategoryChips(container, categories, enabled, onChange) {
   container.innerHTML = categories.map((c) => `
     <button type="button" class="chip-toggle ${enabled.includes(c.id) ? 'on' : ''}" data-id="${esc(c.id)}" aria-pressed="${enabled.includes(c.id)}">
-      <span class="chip-icon">${c.icon || '•'}</span>
       <span class="chip-name">${esc(c.name)}</span>
       <span class="chip-count">${c.count}</span>
     </button>`).join('');

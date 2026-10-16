@@ -23,8 +23,8 @@ function wavePath(amp, len, y = 0) {
 function foamPath() {
   // Schaumkrone: bauschige Oberkante, unten gerade
   let d = 'M-200 4';
-  for (let x = -200; x < 400; x += 18) d += ` a9 ${5 + ((x / 18) % 3)} 0 0 1 18 0`;
-  return `${d} V14 H-200 Z`;
+  for (let x = -200, i = 0; x < 400; x += 11, i++) d += ` a5.5 ${2 + (i % 3) * 0.8} 0 0 1 11 0`;
+  return `${d} V13 H-200 Z`;
 }
 
 export function createGlass(container, { compact = false } = {}) {
@@ -38,18 +38,18 @@ export function createGlass(container, { compact = false } = {}) {
         <path d="M27 22 L45 262 Q46 270 56 270 L144 270 Q154 270 155 262 L173 22 Z"/>
       </clipPath>
       <linearGradient id="${id}-beer" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#ffe066"/>
-        <stop offset=".35" stop-color="#ffc21a"/>
-        <stop offset="1" stop-color="#f08c00"/>
+        <stop offset="0" stop-color="#f6d27a"/>
+        <stop offset=".35" stop-color="#e8aa35"/>
+        <stop offset="1" stop-color="#c47812"/>
       </linearGradient>
       <linearGradient id="${id}-beer-back" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#ffd43b" stop-opacity=".9"/>
-        <stop offset="1" stop-color="#e8590c" stop-opacity=".9"/>
+        <stop offset="0" stop-color="#e2ae4a" stop-opacity=".9"/>
+        <stop offset="1" stop-color="#a9640f" stop-opacity=".9"/>
       </linearGradient>
       <linearGradient id="${id}-glass" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0" stop-color="#ffffff" stop-opacity=".75"/>
-        <stop offset=".25" stop-color="#e7f5ff" stop-opacity=".35"/>
-        <stop offset=".8" stop-color="#e7f5ff" stop-opacity=".25"/>
+        <stop offset=".25" stop-color="#f3efe6" stop-opacity=".35"/>
+        <stop offset=".8" stop-color="#f3efe6" stop-opacity=".25"/>
         <stop offset="1" stop-color="#ffffff" stop-opacity=".7"/>
       </linearGradient>
     </defs>
@@ -62,7 +62,7 @@ export function createGlass(container, { compact = false } = {}) {
         <g class="wave wave--back"><path d="${wavePath(4, 70, 2)}" fill="url(#${id}-beer-back)"/></g>
         <g class="wave wave--front"><path d="${wavePath(3, 90, 5)}" fill="url(#${id}-beer)"/></g>
         <g class="bubbles"></g>
-        <g class="foam"><g class="foam-inner"><path d="${foamPath()}" fill="#fffaf0"/></g></g>
+        <g class="foam"><g class="foam-inner"><path d="${foamPath()}" fill="#fbf6ea"/></g></g>
       </g>
     </g>
 
@@ -77,9 +77,9 @@ export function createGlass(container, { compact = false } = {}) {
 
     <!-- Überlauf -->
     <g class="overflow-foam">
-      <path class="spill spill--l" d="M18 22 q-6 0 -6 10 v20 q0 8 5 8 q5 0 5 -8 v-24 Z" fill="#fffaf0"/>
-      <path class="spill spill--r" d="M182 22 q6 0 6 10 v34 q0 8 -5 8 q-5 0 -5 -8 v-38 Z" fill="#fffaf0"/>
-      <path class="spill-cap" d="M14 24 q10 -22 30 -14 q14 -16 34 -6 q16 -14 36 -2 q18 -12 34 2 q20 -6 22 20 Z" fill="#fffaf0"/>
+      <path class="spill spill--l" d="M18 22 q-6 0 -6 10 v20 q0 8 5 8 q5 0 5 -8 v-24 Z" fill="#fbf6ea"/>
+      <path class="spill spill--r" d="M182 22 q6 0 6 10 v34 q0 8 -5 8 q-5 0 -5 -8 v-38 Z" fill="#fbf6ea"/>
+      <path class="spill-cap" d="M14 24 q10 -22 30 -14 q14 -16 34 -6 q16 -14 36 -2 q18 -12 34 2 q20 -6 22 20 Z" fill="#fbf6ea"/>
     </g>
 
     <!-- Glanz und Kontur -->

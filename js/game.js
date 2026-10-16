@@ -212,7 +212,7 @@ async function showNewQuestion() {
     if (!pick) throw new Error('Keine Kategorie ausgewählt');
     if (pick.reset) {
       played.resetCategories(catalog, S.enabled);
-      toast('Alle Fragen gespielt – Stapel neu gemischt 🔀');
+      toast('Alle Fragen gespielt – Stapel neu gemischt');
     }
     played.add(pick.id); // gilt ab Anzeige als gespielt (auch bei Skip)
     S.roundQIds.add(pick.id);
@@ -234,7 +234,7 @@ async function showNewQuestion() {
 
 function renderQuestion(q) {
   const cat = catName(q.kategorie);
-  $('#q-cat').textContent = `${cat?.icon ?? ''} ${cat?.name ?? q.kategorie}`;
+  $('#q-cat').textContent = cat?.name ?? q.kategorie;
   $('#q-text').textContent = q.text;
   $('#q-progress').innerHTML = Array.from({ length: CONFIG.questionsPerRound }, (_, i) =>
     `<span class="dot ${i < S.qNum - 1 ? 'done' : i === S.qNum - 1 ? 'now' : ''}"></span>`).join('');
@@ -279,12 +279,12 @@ function submitAnswer(sub) {
 /* ------------------------------------------------------------------ */
 
 const MESSAGES = {
-  rare: ['Selten! ✨', 'Glasklar! ✨', 'Selten! Stark! ✨'],
-  low: ['Gar nicht schlecht!', 'Fast originell!', 'Knapp daneben!'],
-  mid: ['Ziemlich naheliegend …', 'Das sagen einige.', 'Solide, aber bekannt.'],
-  top: ['Das sagt doch jeder! 🍺', 'Mainstream-Alarm! 🍺', 'Wie erwartet! 🍺'],
-  nothing: ['Passen kostet!', 'Nichts gepasst …'],
-  timeout: ['Zeit abgelaufen! ⏰', 'Zu langsam! ⏰'],
+  rare: ['Selten!'],
+  low: ['Nicht schlecht', 'Fast originell', 'Knapp daneben'],
+  mid: ['Naheliegend', 'Das sagen einige', 'Solide, aber bekannt'],
+  top: ['Das sagt jeder', 'Die Standardantwort', 'Wie erwartet'],
+  nothing: ['Passen kostet', 'Nichts gepasst'],
+  timeout: ['Zeit abgelaufen', 'Zu langsam'],
 };
 const pickMsg = (k) => MESSAGES[k][Math.floor(Math.random() * MESSAGES[k].length)];
 
@@ -327,7 +327,7 @@ async function reveal(sub) {
 
   const last = S.qNum >= CONFIG.questionsPerRound;
   const next = $('#btn-next');
-  next.textContent = last ? 'Zur Abrechnung 🍻' : 'Nächste Frage →';
+  next.textContent = last ? 'Zur Abrechnung' : 'Nächste Frage';
   next.hidden = false;
   next.focus({ preventScroll: true });
 }
@@ -399,12 +399,12 @@ async function showResult() {
   const note = $('#result-note');
   if (sips >= CONFIG.maxSipsPerRound) {
     resultGlass.overflow(true);
-    note.textContent = 'Randvoll! Das Glas läuft über 🍺';
+    note.textContent = 'Randvoll – das Glas läuft über.';
   } else if (sips === 0) {
-    note.textContent = 'Glasklar! Kein einziger Schluck.';
+    note.textContent = 'Glasklar. Kein einziger Schluck.';
   }
   if (best.isBest && best.hadBest) {
-    note.textContent = `Neuer Bestwert! Vorher: ${sipsLabel(best.prevBest)} 🏆`;
+    note.textContent = `Neuer Bestwert – vorher ${sipsLabel(best.prevBest)}`;
     confetti();
     sfx.clink();
   } else if (sips === 0) {
@@ -463,9 +463,12 @@ function updateMissingCount() {
   $('#missing-count').textContent = `${n} ${n === 1 ? 'Eintrag' : 'Einträge'}`;
 }
 
+const ICON_SOUND = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/><path d="M19 6a8.5 8.5 0 0 1 0 12"/></svg>';
+const ICON_MUTED = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9z"/><path d="M17 9l5 6M22 9l-5 6"/></svg>';
+
 function updateMuteButtons() {
   for (const b of $$('[data-act="mute"]')) {
-    b.textContent = isMuted() ? '🔇' : '🔊';
+    b.innerHTML = isMuted() ? ICON_MUTED : ICON_SOUND;
     b.setAttribute('aria-label', isMuted() ? 'Ton an' : 'Ton aus');
   }
 }
@@ -477,7 +480,7 @@ function updateMuteButtons() {
 async function ageGate() {
   if (store.get('ageOk', false)) return;
   await modal({
-    title: 'Kurz vorab 🍻',
+    title: 'Bevor es losgeht',
     html: `<p><b>Glasklar ist ein Trinkspiel für Erwachsene ab 18.</b></p>
       <p>Trink verantwortungsvoll. Wasser, Saft oder alkoholfreies Bier funktionieren genauso gut – ein Schluck ist ein Schluck.</p>
       <p>Niemand muss trinken. Und nie trinken und fahren.</p>`,
@@ -504,7 +507,7 @@ function howTo() {
 function renderStartStats() {
   const st = stats.get();
   $('#start-stats').innerHTML = st.rounds
-    ? `<span>🏆 Bestwert: <b>${sipsLabel(st.best)}</b></span><span>🍺 ${st.rounds} ${st.rounds === 1 ? 'Runde' : 'Runden'}</span>`
+    ? `<span>Bestwert <b>${sipsLabel(st.best)}</b></span><span><b>${st.rounds}</b> ${st.rounds === 1 ? 'Runde' : 'Runden'} gespielt</span>`
     : '';
 }
 
@@ -515,7 +518,7 @@ function bind() {
     const act = el.dataset.act;
     switch (act) {
       case 'single': openSetup(); break;
-      case 'multi': toast('Multiplayer kommt in Phase 2 🛠️'); break;
+      case 'multi': toast('Multiplayer kommt in Phase 2'); break;
       case 'settings': openSettings(); break;
       case 'howto': howTo(); break;
       case 'home': renderStartStats(); setPhase('lobby'); showScreen('start'); break;

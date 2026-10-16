@@ -23,7 +23,7 @@ function layer() {
 export function sparkle(x, y, radius = 120) {
   const host = layer();
   const n = reducedMotion() ? 6 : 22;
-  const colors = ['#20c997', '#ffc93c', '#51cf66', '#ffd43b', '#12b886'];
+  const colors = ['#2f8f5f', '#e3b341', '#3fa36f', '#f2c94c', '#c9a227'];
   for (let i = 0; i < n; i++) {
     const s = document.createElement('span');
     s.className = 'sparkle';
@@ -102,8 +102,8 @@ export function confetti({ duration = 3200, x = 0.5, y = 0.35 } = {}) {
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
   };
   resize();
-  const colors = ['#ffb000', '#ff6b6b', '#ff5fa2', '#20c997', '#4dabf7', '#845ef7', '#ffd43b'];
-  const parts = Array.from({ length: 160 }, () => {
+  const colors = ['#e3a01b', '#f2c14e', '#2f6b4f', '#c8372d', '#1d1b18', '#efe4cf'];
+  const parts = Array.from({ length: 120 }, () => {
     const a = -Math.PI / 2 + (Math.random() - 0.5) * Math.PI * 0.9;
     const v = 7 + Math.random() * 9;
     return {
