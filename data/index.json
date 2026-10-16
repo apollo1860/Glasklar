@@ -159,7 +159,7 @@
       "id": "alltag",
       "name": "Alltag, Party & Technik",
       "icon": "🎲",
-      "count": 13,
+      "count": 18,
       "questions": [
         "all-001",
         "all-002",
@@ -173,7 +173,12 @@
         "all-010",
         "all-011",
         "all-012",
-        "all-013"
+        "all-013",
+        "all-014",
+        "all-015",
+        "all-016",
+        "all-017",
+        "all-018"
       ]
     }
   ]

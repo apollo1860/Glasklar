@@ -9454,5 +9454,4025 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "all-014",
+  "text": "Nenne etwas, das man in einer Handtasche findet",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-014-a0001",
+    "text": "Geldbeutel",
+    "aliases": [
+     "Portemonnaie",
+     "Geldbörse",
+     "Brieftasche"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-014-a0002",
+    "text": "Handy",
+    "aliases": [
+     "Smartphone"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-014-a0003",
+    "text": "Schlüssel",
+    "aliases": [
+     "Schlüsselbund"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-014-a0004",
+    "text": "Lippenstift",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-014-a0005",
+    "text": "Taschentücher",
+    "aliases": [
+     "Taschentuch",
+     "Tempo"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0006",
+    "text": "Spiegel",
+    "aliases": [
+     "Taschenspiegel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0007",
+    "text": "Make-up",
+    "aliases": [
+     "Schminke"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0008",
+    "text": "Kaugummi",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0009",
+    "text": "Sonnenbrille",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0010",
+    "text": "Kamm",
+    "aliases": [
+     "Bürste",
+     "Haarbürste"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0011",
+    "text": "Labello",
+    "aliases": [
+     "Lippenpflege",
+     "Lippenbalsam"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-014-a0012",
+    "text": "Lipgloss",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0013",
+    "text": "Wimperntusche",
+    "aliases": [
+     "Mascara"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0014",
+    "text": "Puder",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0015",
+    "text": "Parfüm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0016",
+    "text": "Deo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0017",
+    "text": "Handcreme",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0018",
+    "text": "Desinfektionsmittel",
+    "aliases": [
+     "Handdesinfektion"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0019",
+    "text": "Feuchttücher",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0020",
+    "text": "Tampon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0021",
+    "text": "Binde",
+    "aliases": [
+     "Slipeinlage"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0022",
+    "text": "Kopfschmerztabletten",
+    "aliases": [
+     "Tabletten",
+     "Medikamente"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0023",
+    "text": "Pflaster",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0024",
+    "text": "Haargummi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0025",
+    "text": "Haarspange",
+    "aliases": [
+     "Haarklammer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0026",
+    "text": "Kopfhörer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0027",
+    "text": "Ladekabel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0028",
+    "text": "Powerbank",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0029",
+    "text": "Brille",
+    "aliases": [
+     "Lesebrille"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0030",
+    "text": "Brillenetui",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0031",
+    "text": "Kugelschreiber",
+    "aliases": [
+     "Kuli",
+     "Stift"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0032",
+    "text": "Notizbuch",
+    "aliases": [
+     "Kalender"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0033",
+    "text": "Ausweis",
+    "aliases": [
+     "Personalausweis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0034",
+    "text": "Führerschein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0035",
+    "text": "Kreditkarte",
+    "aliases": [
+     "EC-Karte",
+     "Bankkarte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0036",
+    "text": "Kassenzettel",
+    "aliases": [
+     "Quittung"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0037",
+    "text": "Bonbons",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0038",
+    "text": "Snack",
+    "aliases": [
+     "Müsliriegel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0039",
+    "text": "Wasserflasche",
+    "aliases": [
+     "Wasser"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0040",
+    "text": "Zigaretten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0041",
+    "text": "Feuerzeug",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0042",
+    "text": "Kondom",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0043",
+    "text": "Pfefferspray",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0044",
+    "text": "Regenschirm",
+    "aliases": [
+     "Knirps"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0045",
+    "text": "Einkaufsbeutel",
+    "aliases": [
+     "Stoffbeutel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0046",
+    "text": "Krümel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-014-a0047",
+    "text": "Kosmetiktasche",
+    "aliases": [
+     "Schminktasche"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0048",
+    "text": "Nagelfeile",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0049",
+    "text": "Nagellack",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0050",
+    "text": "Concealer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0051",
+    "text": "Rouge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0052",
+    "text": "Kajal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0053",
+    "text": "Lidschatten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0054",
+    "text": "Ohrringe",
+    "aliases": [
+     "Schmuck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0055",
+    "text": "Uhr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0056",
+    "text": "Sonnencreme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0057",
+    "text": "Augentropfen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0058",
+    "text": "Nasenspray",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0059",
+    "text": "Asthmaspray",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0060",
+    "text": "Pillen",
+    "aliases": [
+     "Antibabypille"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0061",
+    "text": "Schnuller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0062",
+    "text": "Windel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0063",
+    "text": "Spielzeug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0064",
+    "text": "Trinkflasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0065",
+    "text": "Kaffeebecher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0066",
+    "text": "Thermobecher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0067",
+    "text": "Brotdose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0068",
+    "text": "Obst",
+    "aliases": [
+     "Apfel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0069",
+    "text": "Schokolade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0070",
+    "text": "Hustenbonbons",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0071",
+    "text": "Pfefferminz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0072",
+    "text": "Taschenmesser",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0073",
+    "text": "Taschenlampe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0074",
+    "text": "Schere",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0075",
+    "text": "Sicherheitsnadel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0076",
+    "text": "Nähset",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0077",
+    "text": "Ersatzstrumpfhose",
+    "aliases": [
+     "Strumpfhose"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0078",
+    "text": "Mütze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0079",
+    "text": "Schal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0080",
+    "text": "Handschuhe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0081",
+    "text": "Ballerinas",
+    "aliases": [
+     "Ersatzschuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0082",
+    "text": "Buch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0083",
+    "text": "E-Reader",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0084",
+    "text": "Zeitschrift",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0085",
+    "text": "Tablet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0086",
+    "text": "Laptop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0087",
+    "text": "USB-Stick",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0088",
+    "text": "Visitenkarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0089",
+    "text": "Fahrkarte",
+    "aliases": [
+     "Ticket"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0090",
+    "text": "Gutschein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0091",
+    "text": "Kundenkarte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0092",
+    "text": "Krankenkassenkarte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0093",
+    "text": "Impfpass",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0094",
+    "text": "Fotos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0095",
+    "text": "Briefe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0096",
+    "text": "Rechnung",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0097",
+    "text": "Kleingeld",
+    "aliases": [
+     "Münzen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0098",
+    "text": "Bargeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0099",
+    "text": "Einkaufswagenchip",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0100",
+    "text": "Haarspray",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0101",
+    "text": "Trockenshampoo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0102",
+    "text": "Zahnbürste",
+    "aliases": [
+     "Reisezahnbürste"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0103",
+    "text": "Zahnseide",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0104",
+    "text": "Ohrstöpsel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0105",
+    "text": "Masken",
+    "aliases": [
+     "Mundschutz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0106",
+    "text": "Schlafmaske",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0107",
+    "text": "Schlüsselanhänger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0108",
+    "text": "AirTag",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0109",
+    "text": "Sand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0110",
+    "text": "Haare",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0111",
+    "text": "Hundekotbeutel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0112",
+    "text": "Leckerli",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-014-a0113",
+    "text": "Lottoschein",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0114",
+    "text": "Rubbellos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0115",
+    "text": "Streichhölzer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0116",
+    "text": "Talisman",
+    "aliases": [
+     "Glücksbringer"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0117",
+    "text": "Rosenkranz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0118",
+    "text": "Tarotkarten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0119",
+    "text": "Pfeife",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0120",
+    "text": "Fächer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0121",
+    "text": "Schwangerschaftstest",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0122",
+    "text": "Taschenrechner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0123",
+    "text": "Spielkarten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0124",
+    "text": "Kaugummipapier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0125",
+    "text": "Kronkorken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-014-a0126",
+    "text": "Bierdeckel",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "all-015",
+  "text": "Nenne etwas, das einen Reißverschluss hat",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-015-a0001",
+    "text": "Jacke",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-015-a0002",
+    "text": "Hose",
+    "aliases": [
+     "Jeans"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-015-a0003",
+    "text": "Tasche",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-015-a0004",
+    "text": "Rucksack",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0005",
+    "text": "Koffer",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0006",
+    "text": "Pullover",
+    "aliases": [
+     "Hoodie",
+     "Kapuzenpullover"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0007",
+    "text": "Schlafsack",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0008",
+    "text": "Zelt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0009",
+    "text": "Federmäppchen",
+    "aliases": [
+     "Mäppchen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0010",
+    "text": "Geldbeutel",
+    "aliases": [
+     "Portemonnaie"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0011",
+    "text": "Kleid",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0012",
+    "text": "Stiefel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-015-a0013",
+    "text": "Rock",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0014",
+    "text": "Kulturbeutel",
+    "aliases": [
+     "Kosmetiktasche"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0015",
+    "text": "Handtasche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0016",
+    "text": "Sporttasche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0017",
+    "text": "Laptoptasche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0018",
+    "text": "Kissenbezug",
+    "aliases": [
+     "Kissen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0019",
+    "text": "Bettbezug",
+    "aliases": [
+     "Bettdecke"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0020",
+    "text": "Sofakissen",
+    "aliases": [
+     "Sofa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0021",
+    "text": "Matratzenbezug",
+    "aliases": [
+     "Matratze"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0022",
+    "text": "Weste",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0023",
+    "text": "Mantel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0024",
+    "text": "Regenjacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0025",
+    "text": "Skijacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0026",
+    "text": "Skihose",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0027",
+    "text": "Fleecejacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0028",
+    "text": "Trainingsjacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0029",
+    "text": "Strickjacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0030",
+    "text": "Lederjacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0031",
+    "text": "Daunenjacke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0032",
+    "text": "Schuhe",
+    "aliases": [
+     "Turnschuhe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0033",
+    "text": "Overall",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0034",
+    "text": "Strampler",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0035",
+    "text": "Neoprenanzug",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0036",
+    "text": "Motorradkombi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0037",
+    "text": "Kleidersack",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0038",
+    "text": "Brustbeutel",
+    "aliases": [
+     "Bauchtasche"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0039",
+    "text": "Handyhülle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0040",
+    "text": "Brillenetui",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0041",
+    "text": "Gitarrentasche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-015-a0042",
+    "text": "Shorts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0043",
+    "text": "Jogginghose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0044",
+    "text": "Arbeitshose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0045",
+    "text": "Wanderhose",
+    "aliases": [
+     "Zip-Hose"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0046",
+    "text": "Latzhose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0047",
+    "text": "Bluse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0048",
+    "text": "Hemd",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0049",
+    "text": "Body",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0050",
+    "text": "Bikini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0051",
+    "text": "Badeanzug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0052",
+    "text": "Abendkleid",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0053",
+    "text": "Brautkleid",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0054",
+    "text": "Korsett",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0055",
+    "text": "BH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0056",
+    "text": "Gürteltasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0057",
+    "text": "Clutch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0058",
+    "text": "Kühltasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0059",
+    "text": "Einkaufstasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0060",
+    "text": "Reisetasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0061",
+    "text": "Trolley",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0062",
+    "text": "Schultasche",
+    "aliases": [
+     "Schulranzen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0063",
+    "text": "Aktentasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0064",
+    "text": "Kameratasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0065",
+    "text": "Tablethülle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0066",
+    "text": "Kosmetikkoffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0067",
+    "text": "Werkzeugtasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0068",
+    "text": "Fahrradtasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0069",
+    "text": "Satteltasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0070",
+    "text": "Hundebett",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0071",
+    "text": "Tierbox",
+    "aliases": [
+     "Transporttasche"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0072",
+    "text": "Polsterbezug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0073",
+    "text": "Autositzbezug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0074",
+    "text": "Kinderwagen",
+    "aliases": [
+     "Fußsack"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0075",
+    "text": "Wickeltasche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0076",
+    "text": "Schlafsack für Babys",
+    "aliases": [
+     "Babyschlafsack"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0077",
+    "text": "Gefrierbeutel",
+    "aliases": [
+     "Zip-Beutel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0078",
+    "text": "Vorratsbeutel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0079",
+    "text": "Cabrio-Verdeck",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0080",
+    "text": "Bootsverdeck",
+    "aliases": [
+     "Persenning"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0081",
+    "text": "Grillabdeckung",
+    "aliases": [
+     "Abdeckhaube"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0082",
+    "text": "Wäschesack",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0083",
+    "text": "Leichensack",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0084",
+    "text": "Schutzanzug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0085",
+    "text": "Feuerwehrjacke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0086",
+    "text": "Raumanzug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0087",
+    "text": "Kostüm",
+    "aliases": [
+     "Faschingskostüm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0088",
+    "text": "Maskottchen-Kostüm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0089",
+    "text": "Puppe",
+    "aliases": [
+     "Puppenkleid"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0090",
+    "text": "Plüschtier",
+    "aliases": [
+     "Kuscheltier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0091",
+    "text": "Schlüsseletui",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0092",
+    "text": "Kartenetui",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0093",
+    "text": "Ausweishülle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0094",
+    "text": "Handschuhe",
+    "aliases": [
+     "Skihandschuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0095",
+    "text": "Gamaschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0096",
+    "text": "Tauchanzug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0097",
+    "text": "Rettungsweste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-015-a0098",
+    "text": "Ordner",
+    "aliases": [
+     "Zip-Ordner"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0099",
+    "text": "Bibelhülle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0100",
+    "text": "Notenmappe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0101",
+    "text": "Golftasche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0102",
+    "text": "Tennistasche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0103",
+    "text": "Schlägertasche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0104",
+    "text": "Skitasche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0105",
+    "text": "Snowboardtasche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0106",
+    "text": "Hängematte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0107",
+    "text": "Biwaksack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0108",
+    "text": "Moskitonetz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0109",
+    "text": "Bootsplane",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-015-a0110",
+    "text": "Sitzsack",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "all-016",
+  "text": "Nenne ein Fortbewegungsmittel",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-016-a0001",
+    "text": "Auto",
+    "aliases": [
+     "PKW",
+     "Wagen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-016-a0002",
+    "text": "Fahrrad",
+    "aliases": [
+     "Rad",
+     "Velo"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-016-a0003",
+    "text": "Zug",
+    "aliases": [
+     "Bahn",
+     "Eisenbahn"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-016-a0004",
+    "text": "Flugzeug",
+    "aliases": [
+     "Flieger"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-016-a0005",
+    "text": "Bus",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0006",
+    "text": "Motorrad",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0007",
+    "text": "Schiff",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0008",
+    "text": "Boot",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0009",
+    "text": "Roller",
+    "aliases": [
+     "Tretroller",
+     "Scooter"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0010",
+    "text": "E-Scooter",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0011",
+    "text": "Straßenbahn",
+    "aliases": [
+     "Tram",
+     "Bim"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0012",
+    "text": "U-Bahn",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-016-a0013",
+    "text": "S-Bahn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0014",
+    "text": "Taxi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0015",
+    "text": "Hubschrauber",
+    "aliases": [
+     "Helikopter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0016",
+    "text": "Skateboard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0017",
+    "text": "Inlineskates",
+    "aliases": [
+     "Inliner",
+     "Rollerblades"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0018",
+    "text": "Rollschuhe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0019",
+    "text": "Pferd",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0020",
+    "text": "Kutsche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0021",
+    "text": "LKW",
+    "aliases": [
+     "Lastwagen",
+     "Laster"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0022",
+    "text": "Traktor",
+    "aliases": [
+     "Trecker"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0023",
+    "text": "Moped",
+    "aliases": [
+     "Mofa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0024",
+    "text": "Vespa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0025",
+    "text": "E-Bike",
+    "aliases": [
+     "Pedelec"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0026",
+    "text": "Segway",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0027",
+    "text": "Hoverboard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0028",
+    "text": "Rakete",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0029",
+    "text": "Raumschiff",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0030",
+    "text": "Heißluftballon",
+    "aliases": [
+     "Ballon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0031",
+    "text": "Zeppelin",
+    "aliases": [
+     "Luftschiff"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0032",
+    "text": "Segelflugzeug",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0033",
+    "text": "Gleitschirm",
+    "aliases": [
+     "Paragleiter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0034",
+    "text": "Fallschirm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0035",
+    "text": "Seilbahn",
+    "aliases": [
+     "Gondel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0036",
+    "text": "Sessellift",
+    "aliases": [
+     "Lift"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0037",
+    "text": "Kanu",
+    "aliases": [
+     "Kajak"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0038",
+    "text": "Ruderboot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0039",
+    "text": "Segelboot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0040",
+    "text": "Fähre",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0041",
+    "text": "Yacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0042",
+    "text": "Kreuzfahrtschiff",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0043",
+    "text": "U-Boot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0044",
+    "text": "Jetski",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0045",
+    "text": "Schlitten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0046",
+    "text": "Ski",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0047",
+    "text": "Snowboard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0048",
+    "text": "Wohnmobil",
+    "aliases": [
+     "Camper"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0049",
+    "text": "Laufen",
+    "aliases": [
+     "Zu Fuß"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-016-a0050",
+    "text": "Quad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0051",
+    "text": "Gokart",
+    "aliases": [
+     "Kart"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0052",
+    "text": "Golfcart",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0053",
+    "text": "Rikscha",
+    "aliases": [
+     "Fahrradrikscha"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0054",
+    "text": "Tuk-Tuk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0055",
+    "text": "Kamel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0056",
+    "text": "Esel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0057",
+    "text": "Elefant",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0058",
+    "text": "Hundeschlitten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0059",
+    "text": "Rentierschlitten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0060",
+    "text": "Motorboot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0061",
+    "text": "Schlauchboot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0062",
+    "text": "Tretboot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0063",
+    "text": "Floß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0064",
+    "text": "Luftkissenboot",
+    "aliases": [
+     "Hovercraft"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0065",
+    "text": "Tragflügelboot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0066",
+    "text": "Containerschiff",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0067",
+    "text": "Frachter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0068",
+    "text": "Tanker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0069",
+    "text": "Flugzeugträger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0070",
+    "text": "Kampfjet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0071",
+    "text": "Drohne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0072",
+    "text": "Flugtaxi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0073",
+    "text": "Space Shuttle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0074",
+    "text": "Ufo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0075",
+    "text": "Magnetschwebebahn",
+    "aliases": [
+     "Transrapid"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0076",
+    "text": "Monorail",
+    "aliases": [
+     "Einschienenbahn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0077",
+    "text": "Zahnradbahn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0078",
+    "text": "Standseilbahn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0079",
+    "text": "Schwebebahn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0080",
+    "text": "Hyperloop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0081",
+    "text": "Einrad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0082",
+    "text": "Tandem",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0083",
+    "text": "Liegerad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0084",
+    "text": "Lastenrad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0085",
+    "text": "Dreirad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0086",
+    "text": "Laufrad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0087",
+    "text": "Kinderwagen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0088",
+    "text": "Rollstuhl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0089",
+    "text": "Rollator",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0090",
+    "text": "Krücken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0091",
+    "text": "Stelzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0092",
+    "text": "Pogo-Stick",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0093",
+    "text": "Rolltreppe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0094",
+    "text": "Laufband",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0095",
+    "text": "Aufzug",
+    "aliases": [
+     "Fahrstuhl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0096",
+    "text": "Wasserski",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0097",
+    "text": "Surfbrett",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0098",
+    "text": "Stand-up-Paddle",
+    "aliases": [
+     "SUP"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0099",
+    "text": "Bobschlitten",
+    "aliases": [
+     "Bob"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0100",
+    "text": "Schneemobil",
+    "aliases": [
+     "Motorschlitten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0101",
+    "text": "Pistenbully",
+    "aliases": [
+     "Pistenraupe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0102",
+    "text": "Panzer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0103",
+    "text": "Feuerwehrauto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0104",
+    "text": "Krankenwagen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0105",
+    "text": "Polizeiauto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0106",
+    "text": "Wohnwagen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0107",
+    "text": "Cabrio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0108",
+    "text": "Limousine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0109",
+    "text": "Smart",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0110",
+    "text": "Oldtimer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0111",
+    "text": "Bagger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0112",
+    "text": "Fernbus",
+    "aliases": [
+     "Flixbus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0113",
+    "text": "Reisebus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0114",
+    "text": "Doppeldeckerbus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0115",
+    "text": "Nachtbus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0116",
+    "text": "ICE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0117",
+    "text": "Regionalzug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0118",
+    "text": "Dampflok",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0119",
+    "text": "Draisine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0120",
+    "text": "Seifenkiste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0121",
+    "text": "Bollerwagen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-016-a0122",
+    "text": "Rennrad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0123",
+    "text": "Mountainbike",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0124",
+    "text": "Fixie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0125",
+    "text": "Klapprad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0126",
+    "text": "Schubkarre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0127",
+    "text": "Sackkarre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0128",
+    "text": "Einkaufswagen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0129",
+    "text": "Teppich",
+    "aliases": [
+     "Fliegender Teppich"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0130",
+    "text": "Besen",
+    "aliases": [
+     "Hexenbesen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0131",
+    "text": "Beamen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0132",
+    "text": "Zeitmaschine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0133",
+    "text": "Teleporter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0134",
+    "text": "Strauß",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0135",
+    "text": "Lama",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0136",
+    "text": "Yak",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0137",
+    "text": "Ochsenkarren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0138",
+    "text": "Wasserflugzeug",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0139",
+    "text": "Doppeldecker",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0140",
+    "text": "Ultraleichtflugzeug",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0141",
+    "text": "Tragschrauber",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0142",
+    "text": "Jetpack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0143",
+    "text": "Wingsuit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0144",
+    "text": "Hängegleiter",
+    "aliases": [
+     "Drachen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0145",
+    "text": "Mondfahrzeug",
+    "aliases": [
+     "Mondauto"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-016-a0146",
+    "text": "Marsrover",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "all-017",
+  "text": "Nenne ein Brettspiel",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-017-a0001",
+    "text": "Monopoly",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-017-a0002",
+    "text": "Schach",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-017-a0003",
+    "text": "Mensch ärgere dich nicht",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-017-a0004",
+    "text": "Siedler von Catan",
+    "aliases": [
+     "Catan"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0005",
+    "text": "Risiko",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0006",
+    "text": "Scrabble",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0007",
+    "text": "Dame",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0008",
+    "text": "Cluedo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0009",
+    "text": "Mühle",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0010",
+    "text": "Backgammon",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-017-a0011",
+    "text": "Halma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0012",
+    "text": "Spiel des Lebens",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0013",
+    "text": "Trivial Pursuit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0014",
+    "text": "Carcassonne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0015",
+    "text": "Go",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0016",
+    "text": "Stratego",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0017",
+    "text": "Malefiz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0018",
+    "text": "Activity",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0019",
+    "text": "Tabu",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0020",
+    "text": "Labyrinth",
+    "aliases": [
+     "Das verrückte Labyrinth"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0021",
+    "text": "Kniffel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0022",
+    "text": "Twister",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0023",
+    "text": "Jenga",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0024",
+    "text": "Vier gewinnt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0025",
+    "text": "Memory",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0026",
+    "text": "Mikado",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0027",
+    "text": "Schiffe versenken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0028",
+    "text": "Ticket to Ride",
+    "aliases": [
+     "Zug um Zug"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0029",
+    "text": "Pandemie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0030",
+    "text": "Scotland Yard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0031",
+    "text": "Tic-Tac-Toe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0032",
+    "text": "Domino",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0033",
+    "text": "Ludo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0034",
+    "text": "Wer ist es?",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0035",
+    "text": "Mastermind",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0036",
+    "text": "Hotel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-017-a0037",
+    "text": "Azul",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0038",
+    "text": "Dominion",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0039",
+    "text": "Agricola",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0040",
+    "text": "Puerto Rico",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0041",
+    "text": "Terraforming Mars",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0042",
+    "text": "Wingspan",
+    "aliases": [
+     "Flügelschlag"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0043",
+    "text": "Codenames",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0044",
+    "text": "Dixit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0045",
+    "text": "Kingdomino",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0046",
+    "text": "Splendor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0047",
+    "text": "7 Wonders",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0048",
+    "text": "Village",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0049",
+    "text": "Die Legenden von Andor",
+    "aliases": [
+     "Andor"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0050",
+    "text": "Exit",
+    "aliases": [
+     "Exit-Spiel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0051",
+    "text": "Escape Room",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0052",
+    "text": "Gloomhaven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0053",
+    "text": "Scythe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0054",
+    "text": "Brass",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0055",
+    "text": "Root",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0056",
+    "text": "Cascadia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0057",
+    "text": "Everdell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0058",
+    "text": "Kaleidos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0059",
+    "text": "Heimlich & Co.",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0060",
+    "text": "Hase und Igel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0061",
+    "text": "Sagaland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0062",
+    "text": "Das magische Labyrinth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0063",
+    "text": "Zicke Zacke Hühnerkacke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0064",
+    "text": "Tempo, kleine Schnecke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0065",
+    "text": "Obstgarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0066",
+    "text": "Leiterspiel",
+    "aliases": [
+     "Leiterlispiel",
+     "Schlangen und Leitern"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0067",
+    "text": "Fang den Hut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0068",
+    "text": "Sorry!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0069",
+    "text": "Monopoly Junior",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0070",
+    "text": "Cranium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0071",
+    "text": "Pictionary",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0072",
+    "text": "Tick Tack Bumm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0073",
+    "text": "Shogi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0074",
+    "text": "Xiangqi",
+    "aliases": [
+     "Chinesisches Schach"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0075",
+    "text": "Mahjong",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0076",
+    "text": "Reversi",
+    "aliases": [
+     "Othello"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0077",
+    "text": "Abalone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0078",
+    "text": "Blokus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0079",
+    "text": "Quarto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0080",
+    "text": "Qwirkle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0081",
+    "text": "Rummikub",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0082",
+    "text": "Sagrada",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0083",
+    "text": "Patchwork",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0084",
+    "text": "Galaxy Trucker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0085",
+    "text": "El Grande",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0086",
+    "text": "Tikal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0087",
+    "text": "Thurn und Taxis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0088",
+    "text": "Funkenschlag",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0089",
+    "text": "Die Säulen der Erde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0090",
+    "text": "Stone Age",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0091",
+    "text": "Concordia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0092",
+    "text": "Viticulture",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0093",
+    "text": "Caylus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0094",
+    "text": "Le Havre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0095",
+    "text": "Twilight Struggle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0096",
+    "text": "Axis & Allies",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0097",
+    "text": "Diplomacy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0098",
+    "text": "HeroQuest",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0099",
+    "text": "Talisman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0100",
+    "text": "Arkham Horror",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0101",
+    "text": "Descent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0102",
+    "text": "Mysterium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0103",
+    "text": "Barbarossa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0104",
+    "text": "Ohne Furcht und Adel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-017-a0105",
+    "text": "Mancala",
+    "aliases": [
+     "Kalaha"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0106",
+    "text": "Senet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0107",
+    "text": "Fuchs und Gänse",
+    "aliases": [
+     "Fuchs und Henne"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0108",
+    "text": "Solitär",
+    "aliases": [
+     "Steckhalma"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0109",
+    "text": "Hex",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0110",
+    "text": "Gomoku",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0111",
+    "text": "Pachisi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0112",
+    "text": "Parcheesi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0113",
+    "text": "Fia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0114",
+    "text": "Ur",
+    "aliases": [
+     "Königliches Spiel von Ur"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0115",
+    "text": "Hnefatafl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0116",
+    "text": "Tablut",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0117",
+    "text": "Tsuro",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0118",
+    "text": "Santorini",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0119",
+    "text": "Hive",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0120",
+    "text": "Onitama",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0121",
+    "text": "Tzolk’in",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0122",
+    "text": "Lords of Waterdeep",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-017-a0123",
+    "text": "Spirit Island",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "all-018",
+  "text": "Nenne ein Kartenspiel",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-018-a0001",
+    "text": "Uno",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-018-a0002",
+    "text": "Poker",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-018-a0003",
+    "text": "Skat",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-018-a0004",
+    "text": "Mau-Mau",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0005",
+    "text": "Rommé",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0006",
+    "text": "Doppelkopf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0007",
+    "text": "Blackjack",
+    "aliases": [
+     "Siebzehn und vier",
+     "17 und 4"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0008",
+    "text": "Solitär",
+    "aliases": [
+     "Solitaire",
+     "Patience"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0009",
+    "text": "Schwarzer Peter",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0010",
+    "text": "Arschloch",
+    "aliases": [
+     "Präsident",
+     "Bettler"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-018-a0011",
+    "text": "Schafkopf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0012",
+    "text": "Watten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0013",
+    "text": "Canasta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0014",
+    "text": "Bridge",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0015",
+    "text": "Phase 10",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0016",
+    "text": "Skip-Bo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0017",
+    "text": "Wizard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0018",
+    "text": "Elfer raus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0019",
+    "text": "Quartett",
+    "aliases": [
+     "Autoquartett",
+     "Supertrumpf"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0020",
+    "text": "Memory",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0021",
+    "text": "Durak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0022",
+    "text": "Busfahrer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0023",
+    "text": "Bullshit",
+    "aliases": [
+     "Lügen",
+     "Mogeln",
+     "Schummeln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0024",
+    "text": "Hearts",
+    "aliases": [
+     "Herzen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0025",
+    "text": "Pokémon",
+    "aliases": [
+     "Pokémon-Sammelkartenspiel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0026",
+    "text": "Magic",
+    "aliases": [
+     "Magic: The Gathering"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0027",
+    "text": "Yu-Gi-Oh!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0028",
+    "text": "Exploding Kittens",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0029",
+    "text": "Ligretto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0030",
+    "text": "Halli Galli",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0031",
+    "text": "Cards Against Humanity",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0032",
+    "text": "Black Stories",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0033",
+    "text": "Speed",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0034",
+    "text": "Tschau Sepp",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0035",
+    "text": "Hanabi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0036",
+    "text": "Dobble",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0037",
+    "text": "Jassen",
+    "aliases": [
+     "Jass"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0038",
+    "text": "Binokel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0039",
+    "text": "Tarock",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0040",
+    "text": "Baccara",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0041",
+    "text": "Texas Hold’em",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0042",
+    "text": "Krieg",
+    "aliases": [
+     "Kartenkrieg"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0043",
+    "text": "Uno Flip",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0044",
+    "text": "6 nimmt!",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0045",
+    "text": "The Mind",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0046",
+    "text": "Die Crew",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0047",
+    "text": "Bohnanza",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0048",
+    "text": "Love Letter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0049",
+    "text": "Werwölfe",
+    "aliases": [
+     "Die Werwölfe von Düsterwald"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-018-a0050",
+    "text": "Schnapsen",
+    "aliases": [
+     "66",
+     "Sechsundsechzig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0051",
+    "text": "Gin Rommé",
+    "aliases": [
+     "Gin Rummy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0052",
+    "text": "Rummy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0053",
+    "text": "Spades",
+    "aliases": [
+     "Pik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0054",
+    "text": "Euchre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0055",
+    "text": "Cribbage",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0056",
+    "text": "Piquet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0057",
+    "text": "Belote",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0058",
+    "text": "Briscola",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0059",
+    "text": "Scopa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0060",
+    "text": "Tressette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0061",
+    "text": "Mus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0062",
+    "text": "Truco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0063",
+    "text": "Tute",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0064",
+    "text": "Zwicker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0065",
+    "text": "Bauernschnapsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0066",
+    "text": "Königrufen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0067",
+    "text": "Sheng Ji",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0068",
+    "text": "Big Two",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0069",
+    "text": "Go Fish",
+    "aliases": [
+     "Angeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0070",
+    "text": "Hand und Fuß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0071",
+    "text": "Kakerlakenpoker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0072",
+    "text": "Saboteur",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0073",
+    "text": "Coup",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0074",
+    "text": "Dixit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0075",
+    "text": "Splendor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0076",
+    "text": "Dominion",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0077",
+    "text": "Sushi Go",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0078",
+    "text": "Munchkin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0079",
+    "text": "Fluxx",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0080",
+    "text": "Uno Extreme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0081",
+    "text": "Ring of Fire",
+    "aliases": [
+     "King’s Cup"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0082",
+    "text": "Pyramide",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0083",
+    "text": "Higher or Lower",
+    "aliases": [
+     "Höher oder tiefer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0084",
+    "text": "Gurkenspiel",
+    "aliases": [
+     "Gurke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0085",
+    "text": "Omaha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0086",
+    "text": "Seven Card Stud",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0087",
+    "text": "Strip-Poker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0088",
+    "text": "Black Lady",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0089",
+    "text": "Ombre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0090",
+    "text": "Whist",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0091",
+    "text": "Napoleon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0092",
+    "text": "Faro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0093",
+    "text": "Mogelmotte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0094",
+    "text": "Schwimmen",
+    "aliases": [
+     "Einunddreißig",
+     "31"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0095",
+    "text": "Kemps",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0096",
+    "text": "Spit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-018-a0097",
+    "text": "Hearthstone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0098",
+    "text": "Gwent",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0099",
+    "text": "Flesh and Blood",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0100",
+    "text": "Lorcana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0101",
+    "text": "One Piece Card Game",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0102",
+    "text": "Digimon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0103",
+    "text": "Star Wars Unlimited",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0104",
+    "text": "Keyforge",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0105",
+    "text": "Netrunner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0106",
+    "text": "Legend of the Five Rings",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0107",
+    "text": "Shadowverse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0108",
+    "text": "Marvel Snap",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0109",
+    "text": "Pokémon Pocket",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0110",
+    "text": "Golf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0111",
+    "text": "Spider Solitär",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0112",
+    "text": "FreeCell",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-018-a0113",
+    "text": "Tarot",
+    "aliases": [
+     "Tarotkarten"
+    ],
+    "tier": 5
+   }
+  ]
  }
 ]

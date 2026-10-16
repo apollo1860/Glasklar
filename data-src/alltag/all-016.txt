@@ -1,0 +1,150 @@
+@id all-016
+@text Nenne ein Fortbewegungsmittel
+# Fahrzeuge und Hilfsmittel zur Fortbewegung an Land, auf dem Wasser, in der Luft und im All; auch Tiere als Reittiere.
+
+1 Auto = PKW; Wagen
+1 Fahrrad = Rad; Velo
+1 Zug = Bahn; Eisenbahn
+1 Flugzeug = Flieger
+2 Bus
+2 Motorrad
+2 Schiff
+2 Boot
+2 Roller = Tretroller; Scooter
+2 E-Scooter
+2 Straßenbahn = Tram; Bim
+2 U-Bahn
+3 S-Bahn
+3 Taxi
+3 Hubschrauber = Helikopter
+3 Skateboard
+3 Inlineskates = Inliner; Rollerblades
+3 Rollschuhe
+3 Pferd
+3 Kutsche
+3 LKW = Lastwagen; Laster
+3 Traktor = Trecker
+3 Moped = Mofa
+3 Vespa
+3 E-Bike = Pedelec
+3 Segway
+3 Hoverboard
+3 Rakete
+3 Raumschiff
+3 Heißluftballon = Ballon
+3 Zeppelin = Luftschiff
+3 Segelflugzeug
+3 Gleitschirm = Paragleiter
+3 Fallschirm
+3 Seilbahn = Gondel
+3 Sessellift = Lift
+3 Kanu = Kajak
+3 Ruderboot
+3 Segelboot
+3 Fähre
+3 Yacht
+3 Kreuzfahrtschiff
+3 U-Boot
+3 Jetski
+3 Schlitten
+3 Ski
+3 Snowboard
+3 Wohnmobil = Camper
+3 Laufen = Zu Fuß
+4 Quad
+4 Gokart = Kart
+4 Golfcart
+4 Rikscha = Fahrradrikscha
+4 Tuk-Tuk
+4 Kamel
+4 Esel
+4 Elefant
+4 Hundeschlitten
+4 Rentierschlitten
+4 Motorboot
+4 Schlauchboot
+4 Tretboot
+4 Floß
+4 Luftkissenboot = Hovercraft
+4 Tragflügelboot
+4 Containerschiff
+4 Frachter
+4 Tanker
+4 Flugzeugträger
+4 Kampfjet
+4 Drohne
+4 Flugtaxi
+4 Space Shuttle
+4 Ufo
+4 Magnetschwebebahn = Transrapid
+4 Monorail = Einschienenbahn
+4 Zahnradbahn
+4 Standseilbahn
+4 Schwebebahn
+4 Hyperloop
+4 Einrad
+4 Tandem
+4 Liegerad
+4 Lastenrad
+4 Dreirad
+4 Laufrad
+4 Kinderwagen
+4 Rollstuhl
+4 Rollator
+4 Krücken
+4 Stelzen
+4 Pogo-Stick
+4 Rolltreppe
+4 Laufband
+4 Aufzug = Fahrstuhl
+4 Wasserski
+4 Surfbrett
+4 Stand-up-Paddle = SUP
+4 Bobschlitten = Bob
+4 Schneemobil = Motorschlitten
+4 Pistenbully = Pistenraupe
+4 Panzer
+4 Feuerwehrauto
+4 Krankenwagen
+4 Polizeiauto
+4 Wohnwagen
+4 Cabrio
+4 Limousine
+4 Smart
+4 Oldtimer
+4 Bagger
+4 Fernbus = Flixbus
+4 Reisebus
+4 Doppeldeckerbus
+4 Nachtbus
+4 ICE
+4 Regionalzug
+4 Dampflok
+4 Draisine
+4 Seifenkiste
+4 Bollerwagen
+5 Rennrad
+5 Mountainbike
+5 Fixie
+5 Klapprad
+5 Schubkarre
+5 Sackkarre
+5 Einkaufswagen
+5 Teppich = Fliegender Teppich
+5 Besen = Hexenbesen
+5 Beamen
+5 Zeitmaschine
+5 Teleporter
+5 Strauß
+5 Lama
+5 Yak
+5 Ochsenkarren
+5 Wasserflugzeug
+5 Doppeldecker
+5 Ultraleichtflugzeug
+5 Tragschrauber
+5 Jetpack
+5 Wingsuit
+5 Hängegleiter = Drachen
+5 Mondfahrzeug = Mondauto
+5 Marsrover

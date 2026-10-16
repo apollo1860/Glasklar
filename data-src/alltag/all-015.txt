@@ -1,0 +1,114 @@
+@id all-015
+@text Nenne etwas, das einen Reißverschluss hat
+# Kleidung, Taschen, Gepäck, Outdoor-Ausrüstung und Wohntextilien mit Reißverschluss.
+
+1 Jacke
+1 Hose = Jeans
+1 Tasche
+2 Rucksack
+2 Koffer
+2 Pullover = Hoodie; Kapuzenpullover
+2 Schlafsack
+2 Zelt
+2 Federmäppchen = Mäppchen
+2 Geldbeutel = Portemonnaie
+2 Kleid
+2 Stiefel
+3 Rock
+3 Kulturbeutel = Kosmetiktasche
+3 Handtasche
+3 Sporttasche
+3 Laptoptasche
+3 Kissenbezug = Kissen
+3 Bettbezug = Bettdecke
+3 Sofakissen = Sofa
+3 Matratzenbezug = Matratze
+3 Weste
+3 Mantel
+3 Regenjacke
+3 Skijacke
+3 Skihose
+3 Fleecejacke
+3 Trainingsjacke
+3 Strickjacke
+3 Lederjacke
+3 Daunenjacke
+3 Schuhe = Turnschuhe
+3 Overall
+3 Strampler
+3 Neoprenanzug
+3 Motorradkombi
+3 Kleidersack
+3 Brustbeutel = Bauchtasche
+3 Handyhülle
+3 Brillenetui
+3 Gitarrentasche
+4 Shorts
+4 Jogginghose
+4 Arbeitshose
+4 Wanderhose = Zip-Hose
+4 Latzhose
+4 Bluse
+4 Hemd
+4 Body
+4 Bikini
+4 Badeanzug
+4 Abendkleid
+4 Brautkleid
+4 Korsett
+4 BH
+4 Gürteltasche
+4 Clutch
+4 Kühltasche
+4 Einkaufstasche
+4 Reisetasche
+4 Trolley
+4 Schultasche = Schulranzen
+4 Aktentasche
+4 Kameratasche
+4 Tablethülle
+4 Kosmetikkoffer
+4 Werkzeugtasche
+4 Fahrradtasche
+4 Satteltasche
+4 Hundebett
+4 Tierbox = Transporttasche
+4 Polsterbezug
+4 Autositzbezug
+4 Kinderwagen = Fußsack
+4 Wickeltasche
+4 Schlafsack für Babys = Babyschlafsack
+4 Gefrierbeutel = Zip-Beutel
+4 Vorratsbeutel
+4 Cabrio-Verdeck
+4 Bootsverdeck = Persenning
+4 Grillabdeckung = Abdeckhaube
+4 Wäschesack
+4 Leichensack
+4 Schutzanzug
+4 Feuerwehrjacke
+4 Raumanzug
+4 Kostüm = Faschingskostüm
+4 Maskottchen-Kostüm
+4 Puppe = Puppenkleid
+4 Plüschtier = Kuscheltier
+4 Schlüsseletui
+4 Kartenetui
+4 Ausweishülle
+4 Handschuhe = Skihandschuhe
+4 Gamaschen
+4 Tauchanzug
+4 Rettungsweste
+5 Ordner = Zip-Ordner
+5 Bibelhülle
+5 Notenmappe
+5 Golftasche
+5 Tennistasche
+5 Schlägertasche
+5 Skitasche
+5 Snowboardtasche
+5 Hängematte
+5 Biwaksack
+5 Moskitonetz
+5 Bootsplane
+5 Sitzsack

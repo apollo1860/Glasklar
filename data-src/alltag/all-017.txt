@@ -1,0 +1,127 @@
+@id all-017
+@text Nenne ein Brettspiel
+# Klassiker, Familien-, Strategie-, Kinder- und Partyspiele mit Spielbrett oder Spielplan.
+
+1 Monopoly
+1 Schach
+1 Mensch ärgere dich nicht
+2 Siedler von Catan = Catan
+2 Risiko
+2 Scrabble
+2 Dame
+2 Cluedo
+2 Mühle
+2 Backgammon
+3 Halma
+3 Spiel des Lebens
+3 Trivial Pursuit
+3 Carcassonne
+3 Go
+3 Stratego
+3 Malefiz
+3 Activity
+3 Tabu
+3 Labyrinth = Das verrückte Labyrinth
+3 Kniffel
+3 Twister
+3 Jenga
+3 Vier gewinnt
+3 Memory
+3 Mikado
+3 Schiffe versenken
+3 Ticket to Ride = Zug um Zug
+3 Pandemie
+3 Scotland Yard
+3 Tic-Tac-Toe
+3 Domino
+3 Ludo
+3 Wer ist es?
+3 Mastermind
+3 Hotel
+4 Azul
+4 Dominion
+4 Agricola
+4 Puerto Rico
+4 Terraforming Mars
+4 Wingspan = Flügelschlag
+4 Codenames
+4 Dixit
+4 Kingdomino
+4 Splendor
+4 7 Wonders
+4 Village
+4 Die Legenden von Andor = Andor
+4 Exit = Exit-Spiel
+4 Escape Room
+4 Gloomhaven
+4 Scythe
+4 Brass
+4 Root
+4 Cascadia
+4 Everdell
+4 Kaleidos
+4 Heimlich & Co.
+4 Hase und Igel
+4 Sagaland
+4 Das magische Labyrinth
+4 Zicke Zacke Hühnerkacke
+4 Tempo, kleine Schnecke
+4 Obstgarten
+4 Leiterspiel = Leiterlispiel; Schlangen und Leitern
+4 Fang den Hut
+4 Sorry!
+4 Monopoly Junior
+4 Cranium
+4 Pictionary
+4 Tick Tack Bumm
+4 Shogi
+4 Xiangqi = Chinesisches Schach
+4 Mahjong
+4 Reversi = Othello
+4 Abalone
+4 Blokus
+4 Quarto
+4 Qwirkle
+4 Rummikub
+4 Sagrada
+4 Patchwork
+4 Galaxy Trucker
+4 El Grande
+4 Tikal
+4 Thurn und Taxis
+4 Funkenschlag
+4 Die Säulen der Erde
+4 Stone Age
+4 Concordia
+4 Viticulture
+4 Caylus
+4 Le Havre
+4 Twilight Struggle
+4 Axis & Allies
+4 Diplomacy
+4 HeroQuest
+4 Talisman
+4 Arkham Horror
+4 Descent
+4 Mysterium
+4 Barbarossa
+4 Ohne Furcht und Adel
+5 Mancala = Kalaha
+5 Senet
+5 Fuchs und Gänse = Fuchs und Henne
+5 Solitär = Steckhalma
+5 Hex
+5 Gomoku
+5 Pachisi
+5 Parcheesi
+5 Fia
+5 Ur = Königliches Spiel von Ur
+5 Hnefatafl
+5 Tablut
+5 Tsuro
+5 Santorini
+5 Hive
+5 Onitama
+5 Tzolk’in
+5 Lords of Waterdeep
+5 Spirit Island

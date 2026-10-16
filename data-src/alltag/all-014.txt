@@ -1,0 +1,130 @@
+@id all-014
+@text Nenne etwas, das man in einer Handtasche findet
+# Typischer Inhalt von Hand- und Umhängetaschen.
+
+1 Geldbeutel = Portemonnaie; Geldbörse; Brieftasche
+1 Handy = Smartphone
+1 Schlüssel = Schlüsselbund
+1 Lippenstift
+2 Taschentücher = Taschentuch; Tempo
+2 Spiegel = Taschenspiegel
+2 Make-up = Schminke
+2 Kaugummi
+2 Sonnenbrille
+2 Kamm = Bürste; Haarbürste
+2 Labello = Lippenpflege; Lippenbalsam
+3 Lipgloss
+3 Wimperntusche = Mascara
+3 Puder
+3 Parfüm
+3 Deo
+3 Handcreme
+3 Desinfektionsmittel = Handdesinfektion
+3 Feuchttücher
+3 Tampon
+3 Binde = Slipeinlage
+3 Kopfschmerztabletten = Tabletten; Medikamente
+3 Pflaster
+3 Haargummi
+3 Haarspange = Haarklammer
+3 Kopfhörer
+3 Ladekabel
+3 Powerbank
+3 Brille = Lesebrille
+3 Brillenetui
+3 Kugelschreiber = Kuli; Stift
+3 Notizbuch = Kalender
+3 Ausweis = Personalausweis
+3 Führerschein
+3 Kreditkarte = EC-Karte; Bankkarte
+3 Kassenzettel = Quittung
+3 Bonbons
+3 Snack = Müsliriegel
+3 Wasserflasche = Wasser
+3 Zigaretten
+3 Feuerzeug
+3 Kondom
+3 Pfefferspray
+3 Regenschirm = Knirps
+3 Einkaufsbeutel = Stoffbeutel
+3 Krümel
+4 Kosmetiktasche = Schminktasche
+4 Nagelfeile
+4 Nagellack
+4 Concealer
+4 Rouge
+4 Kajal
+4 Lidschatten
+4 Ohrringe = Schmuck
+4 Uhr
+4 Sonnencreme
+4 Augentropfen
+4 Nasenspray
+4 Asthmaspray
+4 Pillen = Antibabypille
+4 Schnuller
+4 Windel
+4 Spielzeug
+4 Trinkflasche
+4 Kaffeebecher
+4 Thermobecher
+4 Brotdose
+4 Obst = Apfel
+4 Schokolade
+4 Hustenbonbons
+4 Pfefferminz
+4 Taschenmesser
+4 Taschenlampe
+4 Schere
+4 Sicherheitsnadel
+4 Nähset
+4 Ersatzstrumpfhose = Strumpfhose
+4 Mütze
+4 Schal
+4 Handschuhe
+4 Ballerinas = Ersatzschuhe
+4 Buch
+4 E-Reader
+4 Zeitschrift
+4 Tablet
+4 Laptop
+4 USB-Stick
+4 Visitenkarten
+4 Fahrkarte = Ticket
+4 Gutschein
+4 Kundenkarte
+4 Krankenkassenkarte
+4 Impfpass
+4 Fotos
+4 Briefe
+4 Rechnung
+4 Kleingeld = Münzen
+4 Bargeld
+4 Einkaufswagenchip
+4 Haarspray
+4 Trockenshampoo
+4 Zahnbürste = Reisezahnbürste
+4 Zahnseide
+4 Ohrstöpsel
+4 Masken = Mundschutz
+4 Schlafmaske
+4 Schlüsselanhänger
+4 AirTag
+4 Sand
+4 Haare
+4 Hundekotbeutel
+4 Leckerli
+5 Lottoschein
+5 Rubbellos
+5 Streichhölzer
+5 Talisman = Glücksbringer
+5 Rosenkranz
+5 Tarotkarten
+5 Pfeife
+5 Fächer
+5 Schwangerschaftstest
+5 Taschenrechner
+5 Spielkarten
+5 Kaugummipapier
+5 Kronkorken
+5 Bierdeckel

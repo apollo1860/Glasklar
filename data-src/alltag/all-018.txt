@@ -1,0 +1,117 @@
+@id all-018
+@text Nenne ein Kartenspiel
+# Spiele mit französischem, deutschem oder eigenem Kartenblatt inkl. Trinkkartenspiele und Sammelkartenspiele.
+
+1 Uno
+1 Poker
+1 Skat
+2 Mau-Mau
+2 Rommé
+2 Doppelkopf
+2 Blackjack = Siebzehn und vier; 17 und 4
+2 Solitär = Solitaire; Patience
+2 Schwarzer Peter
+2 Arschloch = Präsident; Bettler
+3 Schafkopf
+3 Watten
+3 Canasta
+3 Bridge
+3 Phase 10
+3 Skip-Bo
+3 Wizard
+3 Elfer raus
+3 Quartett = Autoquartett; Supertrumpf
+3 Memory
+3 Durak
+3 Busfahrer
+3 Bullshit = Lügen; Mogeln; Schummeln
+3 Hearts = Herzen
+3 Pokémon = Pokémon-Sammelkartenspiel
+3 Magic = Magic: The Gathering
+3 Yu-Gi-Oh!
+3 Exploding Kittens
+3 Ligretto
+3 Halli Galli
+3 Cards Against Humanity
+3 Black Stories
+3 Speed
+3 Tschau Sepp
+3 Hanabi
+3 Dobble
+3 Jassen = Jass
+3 Binokel
+3 Tarock
+3 Baccara
+3 Texas Hold’em
+3 Krieg = Kartenkrieg
+3 Uno Flip
+3 6 nimmt!
+3 The Mind
+3 Die Crew
+3 Bohnanza
+3 Love Letter
+3 Werwölfe = Die Werwölfe von Düsterwald
+4 Schnapsen = 66; Sechsundsechzig
+4 Gin Rommé = Gin Rummy
+4 Rummy
+4 Spades = Pik
+4 Euchre
+4 Cribbage
+4 Piquet
+4 Belote
+4 Briscola
+4 Scopa
+4 Tressette
+4 Mus
+4 Truco
+4 Tute
+4 Zwicker
+4 Bauernschnapsen
+4 Königrufen
+4 Sheng Ji
+4 Big Two
+4 Go Fish = Angeln
+4 Hand und Fuß
+4 Kakerlakenpoker
+4 Saboteur
+4 Coup
+4 Dixit
+4 Splendor
+4 Dominion
+4 Sushi Go
+4 Munchkin
+4 Fluxx
+4 Uno Extreme
+4 Ring of Fire = King’s Cup
+4 Pyramide
+4 Higher or Lower = Höher oder tiefer
+4 Gurkenspiel = Gurke
+4 Omaha
+4 Seven Card Stud
+4 Strip-Poker
+4 Black Lady
+4 Ombre
+4 Whist
+4 Napoleon
+4 Faro
+4 Mogelmotte
+4 Schwimmen = Einunddreißig; 31
+4 Kemps
+4 Spit
+5 Hearthstone
+5 Gwent
+5 Flesh and Blood
+5 Lorcana
+5 One Piece Card Game
+5 Digimon
+5 Star Wars Unlimited
+5 Keyforge
+5 Netrunner
+5 Legend of the Five Rings
+5 Shadowverse
+5 Marvel Snap
+5 Pokémon Pocket
+5 Golf
+5 Spider Solitär
+5 FreeCell
+5 Tarot = Tarotkarten
