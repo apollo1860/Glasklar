@@ -1,0 +1,55 @@
+@id ess-012
+@text Nenne ein Gemüse, das man vor dem Essen kochen muss
+@typ geschlossen
+# Gemüse (inkl. Hülsenfrüchte, Knollen, Pilze), das roh unverträglich, giftig oder praktisch ungenießbar ist.
+
+1 Kartoffel = Kartoffeln
+1 Grüne Bohnen = Bohnen; Brechbohnen; Stangenbohnen; Buschbohnen
+2 Kidneybohnen
+2 Spargel
+2 Rosenkohl
+2 Artischocke
+2 Aubergine
+2 Süßkartoffel
+3 Kürbis
+3 Maniok = Cassava; Yuca
+3 Kichererbsen
+3 Linsen
+3 Grünkohl
+3 Schwarzwurzel
+3 Weiße Bohnen
+3 Sojabohnen = Edamame
+3 Saubohnen = Dicke Bohnen; Ackerbohnen; Puffbohnen
+3 Bambussprossen
+3 Kochbanane
+3 Rhabarber
+4 Erbsen
+4 Wirsing
+4 Rote Bete
+4 Topinambur
+4 Pastinake
+4 Steckrübe
+4 Okra
+4 Taro
+4 Yamswurzel
+4 Mangold
+4 Brennnessel
+4 Farnspitzen
+4 Esskastanie = Maronen
+4 Morcheln
+4 Pilze
+4 Limabohnen
+4 Schwarze Bohnen
+4 Wachsbohnen = Gelbe Bohnen
+4 Feuerbohnen
+4 Lupinen
+4 Kohl = Weißkohl
+4 Rotkohl = Blaukraut
+4 Sauerkraut
+5 Spinat
+5 Brokkoli
+5 Blumenkohl
+5 Petersilienwurzel
+5 Knollensellerie = Sellerie
+5 Kohlrabi
+5 Mais = Maiskolben

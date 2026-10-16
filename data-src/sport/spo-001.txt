@@ -1,0 +1,158 @@
+@id spo-001
+@text Nenne eine Sportart ohne Ball
+# Sportarten, in denen kein Ball verwendet wird (Puck, Federball, Stein, Scheibe zählen nicht als Ball).
+# Nicht: Kugelstoßen, Bowling, Kegeln, Boule, Golf, Billard, Paintball.
+
+1 Schwimmen
+1 Laufen = Joggen
+1 Radfahren = Radsport; Fahrradfahren
+1 Boxen
+1 Skifahren = Ski alpin; Ski
+2 Tanzen
+2 Leichtathletik
+2 Turnen
+2 Reiten
+2 Klettern = Bouldern; Sportklettern
+2 Judo
+2 Karate
+2 Yoga
+2 Fechten
+2 Ringen
+2 Gewichtheben
+2 Eishockey
+2 Eiskunstlauf = Eislaufen; Schlittschuhlaufen
+2 Snowboarden = Snowboard
+2 Surfen
+2 Badminton = Federball
+3 Tauchen
+3 Rudern
+3 Kanu = Kanufahren; Kajak
+3 Segeln
+3 Bogenschießen
+3 Sportschießen = Schießen
+3 Darts
+3 Schach
+3 Triathlon
+3 Marathon
+3 Wandern
+3 Langlauf = Skilanglauf
+3 Biathlon
+3 Skispringen
+3 Bob = Bobfahren
+3 Rodeln
+3 Curling
+3 Eisschnelllauf
+3 Taekwondo
+3 Kickboxen
+3 MMA = Mixed Martial Arts
+3 Kung Fu
+3 Sumo
+3 Wrestling
+3 Bodybuilding
+3 Crossfit
+3 Pilates
+3 Aerobic
+3 Zumba
+3 Trampolin = Trampolinspringen
+3 Parkour
+3 Skateboarden = Skaten
+3 Inlineskaten = Inliner
+3 BMX
+3 Mountainbiken = Mountainbike
+3 Motorsport = Formel 1
+3 Fallschirmspringen
+3 Paragliding = Gleitschirmfliegen
+3 Windsurfen
+3 Stand-Up-Paddling = SUP
+3 Wasserspringen = Turmspringen
+3 Bergsteigen
+3 Frisbee = Ultimate Frisbee
+3 Kampfsport
+4 Skeleton
+4 Calisthenics
+4 Spinning
+4 Kartfahren
+4 Motocross
+4 Rallye
+4 Bungee-Jumping
+4 Wakeboarden
+4 Wasserski
+4 Kitesurfen
+4 Synchronschwimmen
+4 Freiwasserschwimmen
+4 Orientierungslauf
+4 Nordic Walking
+4 Gehen
+4 Hürdenlauf
+4 Weitsprung
+4 Hochsprung
+4 Stabhochsprung
+4 Speerwurf
+4 Diskuswurf
+4 Hammerwurf
+4 Zehnkampf
+4 Siebenkampf
+4 Moderner Fünfkampf
+4 Dressurreiten = Dressur
+4 Springreiten
+4 Pferderennen = Galopprennen
+4 Akrobatik
+4 Cheerleading
+4 Breakdance = Breaking
+4 Discgolf
+4 Eisstockschießen
+4 Armdrücken
+4 Tauziehen
+4 Seilspringen = Rope Skipping
+4 Jiu-Jitsu = BJJ
+4 Aikido
+4 Kendo
+4 Capoeira
+4 Muay Thai = Thaiboxen
+4 Krav Maga
+4 Angeln = Sportfischen
+4 E-Sport = eSports
+4 Segelfliegen
+4 Speedminton
+4 Eisklettern
+4 Speedskating
+4 Kanuslalom
+4 Drachenboot
+4 Kraftsport = Powerlifting
+4 Hindernislauf
+4 Ultramarathon
+4 Bahnradfahren
+4 Enduro
+4 Downhill
+4 Snowkiten
+4 Freeskiing
+4 Skibergsteigen = Skitouren
+4 Rennrodeln
+4 Eistanz
+5 Vielseitigkeit
+5 Trabrennen
+5 Hundeschlittenrennen
+5 Rodeo
+5 Rollkunstlauf
+5 Schwingen
+5 Sackhüpfen
+5 Wing Tsun
+5 Schwertkampf
+5 Laser Tag
+5 Jagd
+5 Drohnenrennen
+5 Modellflug
+5 Kunstflug
+5 Ballonfahren
+5 Indiaca
+5 Ringtennis
+5 Sportstacking
+5 Slackline
+5 Hula-Hoop
+5 Poledance
+5 Unterwasserhockey
+5 Apnoetauchen = Freediving
+5 Canyoning
+5 Rafting
+5 Klippenspringen
+5 Wildwasserkajak

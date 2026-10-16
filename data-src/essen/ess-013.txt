@@ -1,0 +1,136 @@
+@id ess-013
+@text Nenne eine alkoholische Getränkeart (wie Bier oder Wein)
+# Kategorien alkoholischer Getränke: Bier- und Weinarten, Spirituosen, Liköre, Mischgetränke und traditionelle Getränke.
+
+1 Bier
+1 Wein
+1 Schnaps
+1 Wodka = Vodka
+2 Sekt
+2 Champagner
+2 Whisky = Whiskey
+2 Rum
+2 Gin
+2 Tequila
+2 Likör
+2 Cocktail
+2 Rotwein
+2 Weißwein
+2 Prosecco
+3 Cider = Apfelwein; Cidre; Ebbelwoi; Äppler
+3 Korn
+3 Met = Honigwein
+3 Sake
+3 Glühwein
+3 Rosé = Roséwein
+3 Portwein = Port
+3 Sherry
+3 Weinbrand = Brandy
+3 Cognac
+3 Grappa
+3 Ouzo
+3 Raki
+3 Absinth
+3 Kräuterlikör = Jägermeister
+3 Obstler = Obstbrand
+3 Eierlikör
+3 Amaretto
+3 Sahnelikör = Baileys
+3 Limoncello
+3 Sambuca
+3 Radler = Alster
+3 Bowle
+3 Punsch
+3 Weinschorle = Schorle
+3 Spritz = Aperol Spritz
+3 Federweißer
+3 Wermut = Vermouth
+3 Bourbon
+3 Scotch
+3 Pils = Pilsener
+3 Weizen = Weißbier; Hefeweizen
+3 Helles
+3 Kölsch
+3 Altbier = Alt
+3 Lager
+3 Longdrink
+3 Shot = Kurzer
+3 Sangria
+3 Martini
+4 Cava
+4 Armagnac
+4 Kirschwasser
+4 Williams = Birnenbrand
+4 Himbeergeist = Geist
+4 Pfeffi = Pfefferminzlikör
+4 Mezcal
+4 Pisco
+4 Cachaça
+4 Soju
+4 Hugo
+4 Sturm
+4 Bitter = Kräuterbitter; Magenbitter
+4 Pastis
+4 Calvados
+4 Sliwowitz = Slivovitz
+4 Pálinka
+4 Metaxa
+4 Single Malt = Malt Whisky
+4 Craft Beer
+4 Dunkles
+4 Bockbier = Bock
+4 Export
+4 IPA
+4 Stout
+4 Porter
+4 Ale
+4 Berliner Weisse
+4 Märzen
+4 Starkbier
+4 Hard Seltzer
+4 Alkopop
+4 Branntwein
+4 Spirituose
+4 Feuerzangenbowle
+4 Grog
+4 Irish Coffee
+4 Mimosa
+4 Glühgin
+4 Jagertee
+4 Fruchtwein = Obstwein
+4 Dessertwein = Süßwein
+4 Eiswein
+4 Schaumwein
+4 Perlwein
+4 Crémant
+4 Marsala
+4 Madeira
+4 Aquavit
+4 Arrak
+4 Kirschlikör
+4 Kaffeelikör
+4 Nusslikör
+4 Triple Sec = Orangenlikör
+5 Baijiu
+5 Shochu
+5 Chicha
+5 Pulque
+5 Kumys
+5 Kwass
+5 Tsipouro
+5 Roggenwhiskey = Rye
+5 Lambic
+5 Gose
+5 Rauchbier
+5 Doppelbock
+5 Trester
+5 Rumtopf
+5 Glögg
+5 Tinto de Verano
+5 Kir
+5 Bellini
+5 Palmwein
+5 Reiswein
+5 Hirsebier
+5 Poitín
+5 Moonshine = Schwarzgebrannter

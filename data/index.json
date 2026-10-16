@@ -64,7 +64,7 @@
       "id": "essen",
       "name": "Essen & Trinken",
       "icon": "🍕",
-      "count": 7,
+      "count": 12,
       "questions": [
         "ess-002",
         "ess-003",
@@ -72,7 +72,12 @@
         "ess-005",
         "ess-006",
         "ess-007",
-        "ess-008"
+        "ess-008",
+        "ess-009",
+        "ess-010",
+        "ess-011",
+        "ess-012",
+        "ess-013"
       ]
     },
     {
@@ -89,6 +94,15 @@
         "tie-008",
         "tie-009",
         "tie-010"
+      ]
+    },
+    {
+      "id": "sport",
+      "name": "Sport",
+      "icon": "⚽",
+      "count": 1,
+      "questions": [
+        "spo-001"
       ]
     },
     {
@@ -164,7 +178,7 @@
       "id": "alltag",
       "name": "Alltag, Party & Technik",
       "icon": "🎲",
-      "count": 18,
+      "count": 19,
       "questions": [
         "all-001",
         "all-002",
@@ -183,7 +197,8 @@
         "all-015",
         "all-016",
         "all-017",
-        "all-018"
+        "all-018",
+        "all-019"
       ]
     }
   ]

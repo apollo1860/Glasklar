@@ -1,0 +1,61 @@
+@id ess-011
+@text Nenne ein Obst mit Kern
+@typ geschlossen
+# Stein- und Kernobst sowie Früchte, deren Samen umgangssprachlich "Kern(e)" heißen (Zitrusfrüchte, Melonen, Trauben, Avocado, Mango).
+# Nicht: Beeren mit winzigen Samen (Erdbeere, Himbeere), Banane, Ananas, Kiwi, Feige.
+
+1 Kirsche = Süßkirsche
+1 Pfirsich
+1 Pflaume
+2 Apfel
+2 Mango
+2 Aprikose = Marille
+2 Zwetschge = Zwetschke; Zwetsche
+2 Nektarine
+2 Avocado
+2 Dattel
+2 Olive
+3 Birne
+3 Litschi = Lychee
+3 Mirabelle
+3 Sauerkirsche = Weichsel
+3 Weintraube = Traube; Weintrauben; Trauben
+3 Melone
+3 Wassermelone
+3 Zitrone
+3 Orange = Apfelsine
+3 Mandarine
+3 Granatapfel
+3 Quitte
+3 Reneklode = Reneclaude; Ringlotte
+4 Papaya
+4 Kaki = Sharonfrucht; Persimone
+4 Grapefruit = Pampelmuse
+4 Clementine = Klementine
+4 Limette
+4 Honigmelone
+4 Cantaloupe-Melone = Cantaloupe; Netzmelone
+4 Galiamelone
+4 Blutorange
+4 Pomelo
+4 Kumquat
+4 Schlehe
+5 Mispel
+4 Rambutan
+5 Longan
+5 Mangostane = Mangostan
+5 Cherimoya
+5 Tamarinde
+5 Loquat = Japanische Wollmispel
+5 Kornelkirsche
+5 Sapote
+5 Jackfrucht
+5 Durian = Stinkfrucht
+4 Nashi-Birne = Nashi; Asiatische Birne
+5 Yuzu
+5 Bergamotte
+5 Satsuma
+5 Kaktusfeige
+5 Salak = Schlangenfrucht
+4 Kokosnuss = Kokos
+5 Hagebutte

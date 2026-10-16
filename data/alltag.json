@@ -13474,5 +13474,826 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "all-019",
+  "text": "Nenne etwas, das man auf einem Weihnachtsmarkt kaufen kann",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-019-a0001",
+    "text": "Glühwein",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-019-a0002",
+    "text": "Bratwurst",
+    "aliases": [
+     "Rostbratwurst",
+     "Thüringer"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-019-a0003",
+    "text": "Lebkuchen",
+    "aliases": [
+     "Lebkuchenherz",
+     "Elisenlebkuchen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-019-a0004",
+    "text": "Gebrannte Mandeln",
+    "aliases": [
+     "Mandeln"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "all-019-a0005",
+    "text": "Crêpes",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0006",
+    "text": "Kinderpunsch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0007",
+    "text": "Waffeln",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0008",
+    "text": "Kartoffelpuffer",
+    "aliases": [
+     "Reibekuchen",
+     "Reiberdatschi",
+     "Puffer"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0009",
+    "text": "Langos",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0010",
+    "text": "Maronen",
+    "aliases": [
+     "Heiße Maronen",
+     "Esskastanien"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0011",
+    "text": "Schokofrüchte",
+    "aliases": [
+     "Schokobananen",
+     "Schokoerdbeeren"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0012",
+    "text": "Zuckerwatte",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0013",
+    "text": "Paradiesäpfel",
+    "aliases": [
+     "Liebesäpfel",
+     "Kandierte Äpfel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0014",
+    "text": "Christbaumschmuck",
+    "aliases": [
+     "Weihnachtskugeln",
+     "Christbaumkugeln"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-019-a0015",
+    "text": "Feuerzangenbowle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0016",
+    "text": "Eierpunsch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0017",
+    "text": "Glühgin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0018",
+    "text": "Heiße Schokolade",
+    "aliases": [
+     "Kakao"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0019",
+    "text": "Flammkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0020",
+    "text": "Raclette",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0021",
+    "text": "Champignons",
+    "aliases": [
+     "Champignonpfanne",
+     "Pilzpfanne"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0022",
+    "text": "Schupfnudeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0023",
+    "text": "Grünkohl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0024",
+    "text": "Fischbrötchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0025",
+    "text": "Spanferkel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0026",
+    "text": "Currywurst",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0027",
+    "text": "Pommes",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0028",
+    "text": "Bratapfel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0029",
+    "text": "Stollen",
+    "aliases": [
+     "Christstollen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0030",
+    "text": "Baumstriezel",
+    "aliases": [
+     "Kürtőskalács"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0031",
+    "text": "Poffertjes",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0032",
+    "text": "Dampfnudeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0033",
+    "text": "Germknödel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0034",
+    "text": "Kaiserschmarrn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0035",
+    "text": "Magenbrot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0036",
+    "text": "Printen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0037",
+    "text": "Schmalzkuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0038",
+    "text": "Quarkbällchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0039",
+    "text": "Nüsse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0040",
+    "text": "Honig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0041",
+    "text": "Met",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0042",
+    "text": "Kerzen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0043",
+    "text": "Räuchermännchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0044",
+    "text": "Nussknacker",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0045",
+    "text": "Schwibbogen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0046",
+    "text": "Weihnachtspyramide",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0047",
+    "text": "Krippenfiguren",
+    "aliases": [
+     "Krippe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0048",
+    "text": "Holzspielzeug",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0049",
+    "text": "Mütze",
+    "aliases": [
+     "Strickmütze"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0050",
+    "text": "Handschuhe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0051",
+    "text": "Schal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0052",
+    "text": "Socken",
+    "aliases": [
+     "Wollsocken"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0053",
+    "text": "Schmuck",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0054",
+    "text": "Seife",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0055",
+    "text": "Weihnachtsbaum",
+    "aliases": [
+     "Christbaum",
+     "Tannenbaum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0056",
+    "text": "Adventskranz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0057",
+    "text": "Marzipan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0058",
+    "text": "Nougat",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0059",
+    "text": "Flammlachs",
+    "aliases": [
+     "Lachs"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0060",
+    "text": "Kunsthandwerk",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0061",
+    "text": "Glühweintasse",
+    "aliases": [
+     "Tasse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-019-a0062",
+    "text": "Spekulatius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0063",
+    "text": "Mutzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0064",
+    "text": "Duftkerzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0065",
+    "text": "Mistelzweig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0066",
+    "text": "Strohsterne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0067",
+    "text": "Herrnhuter Stern",
+    "aliases": [
+     "Stern"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0068",
+    "text": "Lichterkette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0069",
+    "text": "Weihnachtsengel",
+    "aliases": [
+     "Engel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0070",
+    "text": "Schokoladen-Weihnachtsmann",
+    "aliases": [
+     "Schokoweihnachtsmann"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0071",
+    "text": "Pralinen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0072",
+    "text": "Fudge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0073",
+    "text": "Lakritz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0074",
+    "text": "Pfeffernüsse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0075",
+    "text": "Zimtsterne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0076",
+    "text": "Vanillekipferl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0077",
+    "text": "Dominosteine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0078",
+    "text": "Bethmännchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0079",
+    "text": "Krakauer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0080",
+    "text": "Leberkäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0081",
+    "text": "Schwenkbraten",
+    "aliases": [
+     "Steak"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0082",
+    "text": "Burger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0083",
+    "text": "Käsespätzle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0084",
+    "text": "Ofenkartoffel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0085",
+    "text": "Bratkartoffeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0086",
+    "text": "Gulaschsuppe",
+    "aliases": [
+     "Suppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0087",
+    "text": "Glühbier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0088",
+    "text": "Lumumba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0089",
+    "text": "Jagertee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0090",
+    "text": "Rum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0091",
+    "text": "Likör",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0092",
+    "text": "Schnaps",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0093",
+    "text": "Wein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0094",
+    "text": "Karussellfahrt",
+    "aliases": [
+     "Karussell"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0095",
+    "text": "Riesenradfahrt",
+    "aliases": [
+     "Riesenrad"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0096",
+    "text": "Postkarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0097",
+    "text": "Keramik",
+    "aliases": [
+     "Töpferwaren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0098",
+    "text": "Holzschnitzereien",
+    "aliases": [
+     "Schnitzerei"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0099",
+    "text": "Lammfell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0100",
+    "text": "Filzpantoffeln",
+    "aliases": [
+     "Hausschuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0101",
+    "text": "Gewürze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0102",
+    "text": "Tee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0103",
+    "text": "Kaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0104",
+    "text": "Kinderspielzeug",
+    "aliases": [
+     "Spielzeug"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0105",
+    "text": "Weihnachtsdeko",
+    "aliases": [
+     "Deko"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0106",
+    "text": "Weihnachtsmann-Mütze",
+    "aliases": [
+     "Nikolausmütze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0107",
+    "text": "Glaskugeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0108",
+    "text": "Lebkuchenhaus",
+    "aliases": [
+     "Hexenhaus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-019-a0109",
+    "text": "Döner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0110",
+    "text": "Pizza",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0111",
+    "text": "Austern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0112",
+    "text": "Erbsensuppe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0113",
+    "text": "Feuerwein",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0114",
+    "text": "Heißer Hugo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0115",
+    "text": "Ingwershot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0116",
+    "text": "Kerzenständer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0117",
+    "text": "Teelichter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0118",
+    "text": "Bienenwachskerzen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0119",
+    "text": "Taschenwärmer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0120",
+    "text": "Duftöle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0121",
+    "text": "Räucherkerzen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0122",
+    "text": "Lose",
+    "aliases": [
+     "Tombola"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-019-a0123",
+    "text": "Fotos mit dem Weihnachtsmann",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

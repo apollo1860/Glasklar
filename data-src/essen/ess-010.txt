@@ -1,0 +1,135 @@
+@id ess-010
+@text Nenne etwas, das man in einer Bäckerei kaufen kann
+# Brot, Brötchen, Feingebäck, Kuchen, Snacks und Getränke im Bäckerei-Sortiment.
+
+1 Brot
+1 Brötchen = Semmel; Schrippe; Weckle; Weck; Wecken
+1 Brezel = Breze; Brezn; Laugenbrezel
+1 Croissant
+1 Kuchen
+2 Laugenstange = Brezelstange
+2 Laugenbrötchen = Laugensemmel; Laugenweckle
+2 Berliner = Krapfen; Pfannkuchen; Kreppel
+2 Donut
+2 Plunder = Plundergebäck
+2 Zimtschnecke = Schnecke; Nussschnecke; Puddingschnecke
+2 Mohnbrötchen
+2 Körnerbrötchen = Mehrkornbrötchen
+2 Vollkornbrot
+2 Sauerteigbrot
+2 Baguette
+2 Ciabatta
+2 Toastbrot = Toast
+2 Torte
+2 Kaffee
+2 Belegtes Brötchen = Sandwich
+3 Käsekuchen
+3 Bienenstich
+3 Streuselkuchen
+3 Apfeltasche
+3 Quarktasche
+3 Rosinenbrötchen
+3 Milchbrötchen
+3 Hefezopf
+3 Laugencroissant
+3 Schokocroissant = Pain au Chocolat
+3 Muffin
+3 Kekse = Cookie; Plätzchen
+3 Amerikaner
+3 Mandelhörnchen
+3 Nussecke
+3 Florentiner
+3 Franzbrötchen
+3 Stollen
+3 Bauernbrot
+3 Roggenbrot
+3 Mischbrot
+3 Dinkelbrot
+3 Weißbrot
+3 Schwarzbrot
+3 Fladenbrot
+3 Kürbiskernbrötchen
+3 Sesambrötchen
+3 Kaiserbrötchen = Kaisersemmel
+3 Leberkäsbrötchen = Leberkässemmel; Fleischkäsebrötchen
+3 Käsebrötchen
+3 Hörnchen
+3 Käsestange
+3 Windbeutel
+3 Cremeschnitte
+3 Schwarzwälder Kirschtorte
+3 Obstkuchen
+3 Obsttörtchen
+3 Mohnkuchen
+3 Marmorkuchen
+3 Makronen = Kokosmakronen
+3 Kakao
+3 Cappuccino
+4 Kopenhagener
+4 Spritzgebäck
+4 Lebkuchen
+4 Weckmann = Stutenkerl; Grittibänz
+4 Osterbrot
+4 Pumpernickel
+4 Knäckebrot
+4 Zwiebelbrot
+4 Kartoffelbrot
+4 Walnussbrot
+4 Olivenbrot
+4 Krustenbrot
+4 Focaccia
+4 Bagel
+4 Brioche
+4 Panini
+4 Pizzaschnecke = Pizzabrötchen
+4 Frikadellenbrötchen
+4 Laugenknoten
+4 Schinkencroissant
+4 Flammkuchen
+4 Zwiebelkuchen
+4 Quiche
+4 Eclair
+4 Sahneschnitte
+4 Tarte
+4 Rührkuchen
+4 Spekulatius
+4 Zimtsterne
+4 Vanillekipferl
+4 Baiser = Meringue
+4 Waffeln
+4 Hochzeitstorte
+4 Tortenboden
+4 Tee
+4 Orangensaft
+4 Milch
+4 Latte Macchiato
+4 Espresso
+4 Kaffee zum Mitnehmen = Coffee to go
+4 Joghurt = Müslibecher
+4 Rumkugel
+4 Granatsplitter
+4 Schweineohr
+4 Prasselkuchen
+4 Hanseaten
+4 Liebesknochen
+4 Mohnschnecke
+4 Butterkuchen
+4 Donauwelle
+4 Frankfurter Kranz
+5 Eier
+5 Butter
+5 Marmelade
+5 Honig
+5 Müsli
+5 Wasser
+5 Brotaufstrich
+5 Mehl
+5 Hefe
+5 Sauerteig
+5 Brotbeutel
+5 Gutschein
+5 Blätterteig
+5 Pizzateig
+5 Zeitung
+5 Brotchips
+5 Paniermehl = Semmelbrösel

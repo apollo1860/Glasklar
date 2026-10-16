@@ -1,0 +1,996 @@
+[
+ {
+  "id": "spo-001",
+  "text": "Nenne eine Sportart ohne Ball",
+  "kategorie": "sport",
+  "answers": [
+   {
+    "id": "spo-001-a0001",
+    "text": "Schwimmen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "spo-001-a0002",
+    "text": "Laufen",
+    "aliases": [
+     "Joggen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-001-a0003",
+    "text": "Radfahren",
+    "aliases": [
+     "Radsport",
+     "Fahrradfahren"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-001-a0004",
+    "text": "Boxen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "spo-001-a0005",
+    "text": "Skifahren",
+    "aliases": [
+     "Ski alpin",
+     "Ski"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-001-a0006",
+    "text": "Tanzen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0007",
+    "text": "Leichtathletik",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0008",
+    "text": "Turnen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0009",
+    "text": "Reiten",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0010",
+    "text": "Klettern",
+    "aliases": [
+     "Bouldern",
+     "Sportklettern"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0011",
+    "text": "Judo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0012",
+    "text": "Karate",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0013",
+    "text": "Yoga",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0014",
+    "text": "Fechten",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0015",
+    "text": "Ringen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0016",
+    "text": "Gewichtheben",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0017",
+    "text": "Eishockey",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0018",
+    "text": "Eiskunstlauf",
+    "aliases": [
+     "Eislaufen",
+     "Schlittschuhlaufen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0019",
+    "text": "Snowboarden",
+    "aliases": [
+     "Snowboard"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0020",
+    "text": "Surfen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0021",
+    "text": "Badminton",
+    "aliases": [
+     "Federball"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-001-a0022",
+    "text": "Tauchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0023",
+    "text": "Rudern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0024",
+    "text": "Kanu",
+    "aliases": [
+     "Kanufahren",
+     "Kajak"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0025",
+    "text": "Segeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0026",
+    "text": "Bogenschießen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0027",
+    "text": "Sportschießen",
+    "aliases": [
+     "Schießen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0028",
+    "text": "Darts",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0029",
+    "text": "Schach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0030",
+    "text": "Triathlon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0031",
+    "text": "Marathon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0032",
+    "text": "Wandern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0033",
+    "text": "Langlauf",
+    "aliases": [
+     "Skilanglauf"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0034",
+    "text": "Biathlon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0035",
+    "text": "Skispringen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0036",
+    "text": "Bob",
+    "aliases": [
+     "Bobfahren"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0037",
+    "text": "Rodeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0038",
+    "text": "Curling",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0039",
+    "text": "Eisschnelllauf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0040",
+    "text": "Taekwondo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0041",
+    "text": "Kickboxen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0042",
+    "text": "MMA",
+    "aliases": [
+     "Mixed Martial Arts"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0043",
+    "text": "Kung Fu",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0044",
+    "text": "Sumo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0045",
+    "text": "Wrestling",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0046",
+    "text": "Bodybuilding",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0047",
+    "text": "Crossfit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0048",
+    "text": "Pilates",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0049",
+    "text": "Aerobic",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0050",
+    "text": "Zumba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0051",
+    "text": "Trampolin",
+    "aliases": [
+     "Trampolinspringen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0052",
+    "text": "Parkour",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0053",
+    "text": "Skateboarden",
+    "aliases": [
+     "Skaten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0054",
+    "text": "Inlineskaten",
+    "aliases": [
+     "Inliner"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0055",
+    "text": "BMX",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0056",
+    "text": "Mountainbiken",
+    "aliases": [
+     "Mountainbike"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0057",
+    "text": "Motorsport",
+    "aliases": [
+     "Formel 1"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0058",
+    "text": "Fallschirmspringen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0059",
+    "text": "Paragliding",
+    "aliases": [
+     "Gleitschirmfliegen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0060",
+    "text": "Windsurfen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0061",
+    "text": "Stand-Up-Paddling",
+    "aliases": [
+     "SUP"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0062",
+    "text": "Wasserspringen",
+    "aliases": [
+     "Turmspringen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0063",
+    "text": "Bergsteigen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0064",
+    "text": "Frisbee",
+    "aliases": [
+     "Ultimate Frisbee"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0065",
+    "text": "Kampfsport",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-001-a0066",
+    "text": "Skeleton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0067",
+    "text": "Calisthenics",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0068",
+    "text": "Spinning",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0069",
+    "text": "Kartfahren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0070",
+    "text": "Motocross",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0071",
+    "text": "Rallye",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0072",
+    "text": "Bungee-Jumping",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0073",
+    "text": "Wakeboarden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0074",
+    "text": "Wasserski",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0075",
+    "text": "Kitesurfen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0076",
+    "text": "Synchronschwimmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0077",
+    "text": "Freiwasserschwimmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0078",
+    "text": "Orientierungslauf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0079",
+    "text": "Nordic Walking",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0080",
+    "text": "Gehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0081",
+    "text": "Hürdenlauf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0082",
+    "text": "Weitsprung",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0083",
+    "text": "Hochsprung",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0084",
+    "text": "Stabhochsprung",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0085",
+    "text": "Speerwurf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0086",
+    "text": "Diskuswurf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0087",
+    "text": "Hammerwurf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0088",
+    "text": "Zehnkampf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0089",
+    "text": "Siebenkampf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0090",
+    "text": "Moderner Fünfkampf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0091",
+    "text": "Dressurreiten",
+    "aliases": [
+     "Dressur"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0092",
+    "text": "Springreiten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0093",
+    "text": "Pferderennen",
+    "aliases": [
+     "Galopprennen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0094",
+    "text": "Akrobatik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0095",
+    "text": "Cheerleading",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0096",
+    "text": "Breakdance",
+    "aliases": [
+     "Breaking"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0097",
+    "text": "Discgolf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0098",
+    "text": "Eisstockschießen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0099",
+    "text": "Armdrücken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0100",
+    "text": "Tauziehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0101",
+    "text": "Seilspringen",
+    "aliases": [
+     "Rope Skipping"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0102",
+    "text": "Jiu-Jitsu",
+    "aliases": [
+     "BJJ"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0103",
+    "text": "Aikido",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0104",
+    "text": "Kendo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0105",
+    "text": "Capoeira",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0106",
+    "text": "Muay Thai",
+    "aliases": [
+     "Thaiboxen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0107",
+    "text": "Krav Maga",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0108",
+    "text": "Angeln",
+    "aliases": [
+     "Sportfischen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0109",
+    "text": "E-Sport",
+    "aliases": [
+     "eSports"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0110",
+    "text": "Segelfliegen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0111",
+    "text": "Speedminton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0112",
+    "text": "Eisklettern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0113",
+    "text": "Speedskating",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0114",
+    "text": "Kanuslalom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0115",
+    "text": "Drachenboot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0116",
+    "text": "Kraftsport",
+    "aliases": [
+     "Powerlifting"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0117",
+    "text": "Hindernislauf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0118",
+    "text": "Ultramarathon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0119",
+    "text": "Bahnradfahren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0120",
+    "text": "Enduro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0121",
+    "text": "Downhill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0122",
+    "text": "Snowkiten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0123",
+    "text": "Freeskiing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0124",
+    "text": "Skibergsteigen",
+    "aliases": [
+     "Skitouren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0125",
+    "text": "Rennrodeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0126",
+    "text": "Eistanz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-001-a0127",
+    "text": "Vielseitigkeit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0128",
+    "text": "Trabrennen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0129",
+    "text": "Hundeschlittenrennen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0130",
+    "text": "Rodeo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0131",
+    "text": "Rollkunstlauf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0132",
+    "text": "Schwingen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0133",
+    "text": "Sackhüpfen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0134",
+    "text": "Wing Tsun",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0135",
+    "text": "Schwertkampf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0136",
+    "text": "Laser Tag",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0137",
+    "text": "Jagd",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0138",
+    "text": "Drohnenrennen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0139",
+    "text": "Modellflug",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0140",
+    "text": "Kunstflug",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0141",
+    "text": "Ballonfahren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0142",
+    "text": "Indiaca",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0143",
+    "text": "Ringtennis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0144",
+    "text": "Sportstacking",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0145",
+    "text": "Slackline",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0146",
+    "text": "Hula-Hoop",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0147",
+    "text": "Poledance",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0148",
+    "text": "Unterwasserhockey",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0149",
+    "text": "Apnoetauchen",
+    "aliases": [
+     "Freediving"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0150",
+    "text": "Canyoning",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0151",
+    "text": "Rafting",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0152",
+    "text": "Klippenspringen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-001-a0153",
+    "text": "Wildwasserkajak",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

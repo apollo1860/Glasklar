@@ -1,0 +1,113 @@
+@id ess-009
+@text Nenne etwas, das man frittieren kann
+# Lebensmittel und Gerichte, die (typischerweise) in heißem Fett ausgebacken werden.
+
+1 Pommes = Pommes frites; Fritten
+1 Chicken Nuggets = Nuggets
+2 Schnitzel
+2 Hähnchen = Fried Chicken; Chicken
+2 Fisch = Backfisch; Fish and Chips
+2 Donut
+2 Churros
+2 Berliner = Krapfen; Pfannkuchen; Kreppel
+2 Kroketten
+2 Zwiebelringe
+2 Chips = Kartoffelchips
+2 Frühlingsrollen
+2 Falafel
+2 Calamari = Tintenfischringe
+3 Garnelen = Shrimps
+3 Tempura
+3 Camembert = Backcamembert
+3 Mozzarella Sticks
+3 Champignons = Backchampignons; Pilze
+3 Gemüse
+3 Blumenkohl
+3 Zucchini
+3 Aubergine
+3 Wedges = Kartoffelecken
+3 Süßkartoffelpommes = Süßkartoffel
+3 Kartoffeln
+3 Hash Browns
+3 Apfelringe = Apfelküchle; Apfelkrapfen
+3 Quarkbällchen
+3 Schmalzkuchen
+3 Samosa
+3 Pakora
+3 Arancini
+3 Empanadas
+3 Tortilla-Chips = Nachos
+3 Wan Tan = Wontons
+3 Corn Dog
+3 Cordon bleu
+3 Chicken Wings = Wings
+3 Tofu
+3 Fischstäbchen
+3 Backhendl
+3 Krupuk = Krabbenchips
+3 Karaage
+3 Tonkatsu = Katsu
+3 Käse
+3 Röstzwiebeln = Zwiebeln
+4 Eis = Frittiertes Eis
+4 Mars = Frittierter Mars-Riegel
+4 Banane = Frittierte Banane; Gebackene Banane
+4 Mutzen
+4 Spritzkuchen
+4 Onion Bhaji
+4 Gyoza
+4 Hushpuppies
+4 Popcorn Chicken
+4 Sardellen
+4 Sardinen
+4 Fritto misto
+4 Kibbeh
+4 Bratwurst = Currywurst
+4 Croutons
+4 Tortilla
+4 Funnel Cake
+4 Beignets
+4 Zeppole
+4 Loukoumades
+4 Oreos = Frittierte Oreos
+4 Eier = Scotch Egg
+4 Halloumi
+4 Jalapeño Poppers
+4 Brot = Arme Ritter
+4 Erdnüsse
+4 Truthahn = Frittierter Truthahn
+4 Froschschenkel
+4 Speck
+4 Kartoffelpuffer = Reibekuchen
+4 Schupfnudeln
+4 Gnocchi
+4 Kichererbsen
+4 Linsenbällchen
+4 Okra
+4 Paprika
+4 Brokkoli
+4 Spargel
+4 Salbei
+4 Fleischbällchen
+4 Chili-Cheese-Nuggets
+4 Kartoffeltaschen
+4 Teigtaschen
+4 Pierogi
+4 Chimichanga
+4 Taquitos
+5 Butter = Frittierte Butter
+5 Insekten
+5 Heuschrecken
+5 Skorpione
+5 Petersilie
+5 Kräuter
+5 Cashews
+5 Ente
+5 Sopaipillas
+5 Mandazi
+5 Coxinha
+5 Bitterballen
+5 Frikandel
+5 Kroket
+5 Bamischeibe
+5 Nasischeibe

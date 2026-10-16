@@ -1,0 +1,127 @@
+@id all-019
+@text Nenne etwas, das man auf einem Weihnachtsmarkt kaufen kann
+# Speisen, Getränke, Süßwaren, Kunsthandwerk und Deko auf deutschen Weihnachtsmärkten.
+
+1 Glühwein
+1 Bratwurst = Rostbratwurst; Thüringer
+1 Lebkuchen = Lebkuchenherz; Elisenlebkuchen
+1 Gebrannte Mandeln = Mandeln
+2 Crêpes
+2 Kinderpunsch
+2 Waffeln
+2 Kartoffelpuffer = Reibekuchen; Reiberdatschi; Puffer
+2 Langos
+2 Maronen = Heiße Maronen; Esskastanien
+2 Schokofrüchte = Schokobananen; Schokoerdbeeren
+2 Zuckerwatte
+2 Paradiesäpfel = Liebesäpfel; Kandierte Äpfel
+2 Christbaumschmuck = Weihnachtskugeln; Christbaumkugeln
+3 Feuerzangenbowle
+3 Eierpunsch
+3 Glühgin
+3 Heiße Schokolade = Kakao
+3 Flammkuchen
+3 Raclette
+3 Champignons = Champignonpfanne; Pilzpfanne
+3 Schupfnudeln
+3 Grünkohl
+3 Fischbrötchen
+3 Spanferkel
+3 Currywurst
+3 Pommes
+3 Bratapfel
+3 Stollen = Christstollen
+3 Baumstriezel = Kürtőskalács
+3 Poffertjes
+3 Dampfnudeln
+3 Germknödel
+3 Kaiserschmarrn
+3 Magenbrot
+3 Printen
+3 Schmalzkuchen
+3 Quarkbällchen
+3 Nüsse
+3 Honig
+3 Met
+3 Kerzen
+3 Räuchermännchen
+3 Nussknacker
+3 Schwibbogen
+3 Weihnachtspyramide
+3 Krippenfiguren = Krippe
+3 Holzspielzeug
+3 Mütze = Strickmütze
+3 Handschuhe
+3 Schal
+3 Socken = Wollsocken
+3 Schmuck
+3 Seife
+3 Weihnachtsbaum = Christbaum; Tannenbaum
+3 Adventskranz
+3 Marzipan
+3 Nougat
+3 Flammlachs = Lachs
+3 Kunsthandwerk
+3 Glühweintasse = Tasse
+4 Spekulatius
+4 Mutzen
+4 Duftkerzen
+4 Mistelzweig
+4 Strohsterne
+4 Herrnhuter Stern = Stern
+4 Lichterkette
+4 Weihnachtsengel = Engel
+4 Schokoladen-Weihnachtsmann = Schokoweihnachtsmann
+4 Pralinen
+4 Fudge
+4 Lakritz
+4 Pfeffernüsse
+4 Zimtsterne
+4 Vanillekipferl
+4 Dominosteine
+4 Bethmännchen
+4 Krakauer
+4 Leberkäse
+4 Schwenkbraten = Steak
+4 Burger
+4 Käsespätzle
+4 Ofenkartoffel
+4 Bratkartoffeln
+4 Gulaschsuppe = Suppe
+4 Glühbier
+4 Lumumba
+4 Jagertee
+4 Rum
+4 Likör
+4 Schnaps
+4 Wein
+4 Karussellfahrt = Karussell
+4 Riesenradfahrt = Riesenrad
+4 Postkarten
+4 Keramik = Töpferwaren
+4 Holzschnitzereien = Schnitzerei
+4 Lammfell
+4 Filzpantoffeln = Hausschuhe
+4 Gewürze
+4 Tee
+4 Kaffee
+4 Kinderspielzeug = Spielzeug
+4 Weihnachtsdeko = Deko
+4 Weihnachtsmann-Mütze = Nikolausmütze
+4 Glaskugeln
+4 Lebkuchenhaus = Hexenhaus
+5 Döner
+5 Pizza
+5 Austern
+5 Erbsensuppe
+5 Feuerwein
+5 Heißer Hugo
+5 Ingwershot
+5 Kerzenständer
+5 Teelichter
+5 Bienenwachskerzen
+5 Taschenwärmer
+5 Duftöle
+5 Räucherkerzen
+5 Lose = Tombola
+5 Fotos mit dem Weihnachtsmann

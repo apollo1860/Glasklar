@@ -104,6 +104,17 @@ Fragen werden in `data-src/{kategorie}/{frage-id}.txt` gepflegt und mit `npm run
 
 Pro Zeile: `tier Antwort = Alias; Alias`. Bereits vergebene Antwort-IDs bleiben beim Neubauen erhalten (Abgleich über den normalisierten Text), neue Antworten bekommen die nächste freie Nummer. Danach `npm run validate`.
 
+Optionale Kopfzeilen:
+
+| Kopfzeile | Bedeutung |
+|---|---|
+| `@typ geschlossen` | Kleine, vollständig aufzählbare Menge (z. B. Länder in Ostasien). Mindestens 5 Antworten statt 60. |
+| `@typ rangliste` | Wissensfrage nach Rang (z. B. Bundesland mit der höchsten Arbeitslosenquote). tier ergibt sich aus dem Rang, kein Gleiche-Antwort-Aufschlag, Lösung wird nach dem Reveal angezeigt. |
+| `@loesung …` | Lösungstext für den Reveal (Pflicht bei `rangliste`). |
+| `@quelle …` | Datenquelle (Dokumentation). |
+
+Ranglisten-Füllung: US-Staaten Platz 1–3 = 0, 4–8 = 1, 9–10 = 2, Rest = 3; Bundesländer Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
 **tier** (aus Sicht deutschsprachiger Spieler, geschätzt pro 100 Mitspieler):
 tier1 > 15 · tier2 5–15 · tier3 1–5 · tier4 0,2–1 · tier5 < 0,2 (aber real und bekannt).
 

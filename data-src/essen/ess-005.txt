@@ -40,7 +40,7 @@
 3 Feuerzangenbowle
 3 Grog
 3 Eierpunsch
-3 Jagertee = Jägertee
+3 Jagertee
 3 Glühgin
 3 Heißer Apfelsaft = Heißer Apfelpunsch
 3 Heiße Zitrone
