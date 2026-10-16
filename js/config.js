@@ -17,10 +17,11 @@ export const CONFIG = {
   // Antwortzeit in Sekunden
   timer: { default: 30, min: 20, max: 60, step: 5 },
 
+  // Suche: Vorschläge erst bei ganzem Wort (exakt oder mit Tippfehler), nie per Anfangsbuchstabe
   search: {
     maxResults: 6,
     fuzzyMinLength: 5, // Tippfehler-Toleranz erst ab so vielen Buchstaben
-    fuzzyMaxDistance: 1,
+    fuzzyMaxDistance: 1, // erlaubte Tippfehler (vertauschte Buchstaben zählen als 1)
   },
 
   // Multiplayer (Phase 2)

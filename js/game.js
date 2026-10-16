@@ -261,6 +261,7 @@ function skipQuestion() {
 function onTimeout() {
   if (S.phase !== 'frage') return;
   sfx.buzz();
+  answerInput.flushNoHit();
   const sel = answerInput.currentSelection();
   answerInput.lock();
   submitAnswer(sel || { type: 'timeout' });
@@ -491,7 +492,7 @@ function howTo() {
     title: 'So geht\'s',
     html: `<ol class="howto">
       <li>Alle bekommen dieselbe Frage: <i>„Nenne ein …"</i></li>
-      <li>Tippe und wähle eine Antwort aus der Liste – nur Listeneinträge zählen.</li>
+      <li>Tippe deine Antwort als <b>ganzes Wort</b>. Erst dann erscheint sie zum Antippen – nur Einträge aus der Liste zählen, kleine Tippfehler werden erkannt.</li>
       <li><b>Je offensichtlicher</b> die Antwort, desto <b>voller</b> das Glas. Seltene Antworten halten es leer.</li>
       <li>„Nichts passt" oder keine Antwort füllt das Glas auch.</li>
       <li>Nach 3 Fragen trinkst du so viele Schlücke, wie dein Glas voll ist (max. ${CONFIG.maxSipsPerRound}).</li>

@@ -37,35 +37,29 @@ export function keyForms(str) {
 }
 
 /* ------------------------------------------------------------------ */
-/* Levenshtein                                                         */
+/* Tippfehler-Abstand                                                  */
 /* ------------------------------------------------------------------ */
 
+/**
+ * Levenshtein-Abstand mit vertauschten Nachbarbuchstaben als 1 Fehler
+ * (Optimal String Alignment): "Deutshcland" ↔ "Deutschland" = 1.
+ */
 export function levenshtein(a, b) {
   if (a === b) return 0;
   if (!a.length) return b.length;
   if (!b.length) return a.length;
-  let prev = new Array(b.length + 1);
-  let cur = new Array(b.length + 1);
-  for (let j = 0; j <= b.length; j++) prev[j] = j;
+  const d = Array.from({ length: a.length + 1 }, (_, i) => [i]);
+  for (let j = 0; j <= b.length; j++) d[0][j] = j;
   for (let i = 1; i <= a.length; i++) {
-    cur[0] = i;
     for (let j = 1; j <= b.length; j++) {
       const cost = a[i - 1] === b[j - 1] ? 0 : 1;
-      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost);
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + cost);
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) {
+        d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + 1);
+      }
     }
-    [prev, cur] = [cur, prev];
   }
-  return prev[b.length];
-}
-
-/** Tippfehler-Treffer: ganzes Wort oder Wortanfang mit Abstand <= maxDist. */
-function fuzzyMatch(q, key, maxDist) {
-  if (Math.abs(key.length - q.length) <= maxDist && levenshtein(q, key) <= maxDist) return true;
-  for (let len = q.length - maxDist; len <= q.length + maxDist; len++) {
-    if (len < 1 || len >= key.length) continue;
-    if (levenshtein(q, key.slice(0, len)) <= maxDist) return true;
-  }
-  return false;
+  return d[a.length][b.length];
 }
 
 /* ------------------------------------------------------------------ */
@@ -83,19 +77,15 @@ export function buildSearchIndex(question) {
   }));
 }
 
-const RANK_EXACT = 0;
-const RANK_PREFIX = 1;
-const RANK_SUBSTRING = 2;
-const RANK_FUZZY = 3;
-
 const collator = typeof Intl !== 'undefined' ? new Intl.Collator('de', { sensitivity: 'base' }) : null;
 export const compareDe = (a, b) => (collator ? collator.compare(a, b) : a < b ? -1 : a > b ? 1 : 0);
 
 /**
- * Sucht in Antworttext und Aliasen.
- * Ergebnis: max. N Treffer, alphabetisch nach Haupttext:
- *   { id, text, alias: string|null, fuzzy: boolean }
- * Ausgewählt wird nach Güte (exakt > Präfix > Teilstring > Tippfehler), angezeigt alphabetisch.
+ * Sucht nur GANZE Wörter – kein Durchblättern per Anfangsbuchstabe.
+ * 1. Exakt: normalisierte Eingabe = Antworttext oder Alias (ä/ae/a, ß/ss, Akzente, Artikel egal).
+ * 2. Nur wenn es keinen exakten Treffer gibt: ganzes Wort mit Tippfehler
+ *    (Abstand <= fuzzyMaxDistance, erst ab fuzzyMinLength Buchstaben) – als Vorschlag markiert.
+ * Ergebnis alphabetisch nach Haupttext: { id, text, alias: string|null, fuzzy: boolean }
  * tier wird weder zum Sortieren benutzt noch zurückgegeben.
  */
 export function searchAnswers(index, query, opts = {}) {
@@ -105,37 +95,42 @@ export function searchAnswers(index, query, opts = {}) {
   const qForms = keyForms(query).filter(Boolean);
   if (!qForms.length) return [];
 
-  const hits = [];
+  const toResult = (entry, key, fuzzy) => ({
+    id: entry.answer.id,
+    text: entry.answer.text,
+    alias: key.isAlias ? key.label : null,
+    fuzzy,
+  });
+  const sortAlpha = (list) => list.sort((a, b) => compareDe(a.text, b.text)).slice(0, max);
+
+  // 1. Exakte Treffer (Haupttext vor Alias)
+  const exact = [];
   for (const entry of index) {
-    let best = null; // { rank, key }
+    const key = entry.keys.find((k) => k.forms.some((f) => qForms.includes(f)));
+    if (key) exact.push(toResult(entry, key, false));
+  }
+  if (exact.length) return sortAlpha(exact);
+
+  // 2. Ganzes Wort mit Tippfehler
+  if (Math.max(...qForms.map((q) => q.length)) < fuzzyMin) return [];
+  const fuzzy = [];
+  for (const entry of index) {
+    let best = null;
     for (const key of entry.keys) {
-      let rank = Infinity;
-      for (const q of qForms) {
-        for (const f of key.forms) {
-          let r = Infinity;
-          if (f === q) r = RANK_EXACT;
-          else if (f.startsWith(q)) r = RANK_PREFIX;
-          else if (f.includes(q)) r = RANK_SUBSTRING;
-          else if (q.length >= fuzzyMin && fuzzyMatch(q, f, fuzzyDist)) r = RANK_FUZZY;
-          if (r < rank) rank = r;
+      for (const f of key.forms) {
+        for (const q of qForms) {
+          if (q.length < fuzzyMin || Math.abs(f.length - q.length) > fuzzyDist) continue;
+          const dist = levenshtein(q, f);
+          if (dist <= fuzzyDist && (!best || dist < best.dist || (dist === best.dist && best.key.isAlias && !key.isAlias))) {
+            best = { dist, key };
+          }
         }
       }
-      // Bei gleicher Güte gewinnt der Haupttext gegenüber einem Alias
-      if (rank !== Infinity && (!best || rank < best.rank)) best = { rank, key };
     }
-    if (best) hits.push({ entry, ...best });
+    if (best) fuzzy.push({ ...toResult(entry, best.key, true), dist: best.dist });
   }
-
-  hits.sort((a, b) => a.rank - b.rank || compareDe(a.entry.answer.text, b.entry.answer.text));
-  return hits
-    .slice(0, max)
-    .map((h) => ({
-      id: h.entry.answer.id,
-      text: h.entry.answer.text,
-      alias: h.key.isAlias ? h.key.label : null,
-      fuzzy: h.rank === RANK_FUZZY,
-    }))
-    .sort((a, b) => compareDe(a.text, b.text));
+  fuzzy.sort((a, b) => a.dist - b.dist || compareDe(a.text, b.text));
+  return sortAlpha(fuzzy.slice(0, max).map(({ dist, ...r }) => r));
 }
 
 /* ------------------------------------------------------------------ */

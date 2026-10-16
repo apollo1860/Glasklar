@@ -142,7 +142,7 @@ export class AnswerInput {
     this.noHitTimer = null;
 
     this.input.addEventListener('input', () => this.onInput());
-    this.input.addEventListener('focus', () => { if (this.input.value && !this.selected) this.onInput(); });
+    this.input.addEventListener('focus', () => { if (this.input.value && !this.selected && this.results.length) this.render(); });
     this.input.addEventListener('blur', () => {
       setTimeout(() => this.close(), 120);
       this.flushNoHit();
@@ -229,12 +229,25 @@ export class AnswerInput {
     const q = this.input.value;
     clearTimeout(this.noHitTimer);
     if (!q.trim()) { this.close(); return; }
+    // Vorschläge nur für ganze Wörter (exakt oder Tippfehler) – nie per Anfangsbuchstabe
     this.results = searchAnswers(this.index, q);
     this.active = -1;
-    this.render();
-    if (!this.results.length) this.noHitTimer = setTimeout(() => this.flushNoHit(), 1400);
+    if (this.results.length) {
+      this.render();
+    } else {
+      // Während des Tippens nichts anzeigen; "Keine Treffer" erst nach einer Pause
+      this.close();
+      this.noHitTimer = setTimeout(() => this.showNoHit(), 1100);
+    }
   }
 
+  showNoHit() {
+    clearTimeout(this.noHitTimer);
+    if (this.locked || this.selected || !this.input.value.trim() || this.results.length) return;
+    this.render();
+  }
+
+  /** Text ohne Treffer ins Fehlend-Log (bei Enter, Verlassen des Felds, Timer-Ende). */
   flushNoHit() {
     clearTimeout(this.noHitTimer);
     const q = this.input.value;
@@ -244,13 +257,13 @@ export class AnswerInput {
 
   render() {
     if (!this.results.length) {
-      this.list.innerHTML = '<li class="no-hit" aria-disabled="true">Keine Treffer – anderes Wort probieren</li>';
+      this.list.innerHTML = '<li class="no-hit" aria-disabled="true">Keine Treffer – anderes Wort probieren<small>Tipp: ganzes Wort eintippen</small></li>';
     } else {
       this.list.innerHTML = this.results.map((r, i) => `
         <li role="option" data-id="${esc(r.id)}" id="sugg-${i}" class="${i === this.active ? 'active' : ''}" style="--i:${i}">
+          ${r.fuzzy ? '<span class="s-fuzzy">Meintest du?</span>' : '<span class="s-hint">Tippen zum Auswählen</span>'}
           <span class="s-text">${esc(r.text)}</span>
           ${r.alias ? `<span class="s-alias">auch: ${esc(r.alias)}</span>` : ''}
-          ${r.fuzzy ? '<span class="s-fuzzy">Meintest du?</span>' : ''}
         </li>`).join('');
     }
     this.list.hidden = false;
@@ -267,7 +280,8 @@ export class AnswerInput {
     const below = bottom - rect.bottom - 8;
     const above = rect.top - top - 8;
     const want = Math.min(this.list.scrollHeight || 300, 320);
-    const up = below < want && above > below;
+    // Bevorzugt nach oben: unter dem Feld liegen die Buttons bzw. die Tastatur
+    const up = above >= Math.min(want, 160) || above > below;
     this.list.classList.toggle('up', up);
     this.list.style.maxHeight = `${Math.max(120, Math.min(320, up ? above : below))}px`;
   }
@@ -281,6 +295,12 @@ export class AnswerInput {
   }
 
   onKey(e) {
+    if (e.key === 'Enter' && !this.results.length && this.input.value.trim()) {
+      e.preventDefault();
+      this.showNoHit();
+      this.flushNoHit();
+      return;
+    }
     if (!this.isOpen() || !this.results.length) return;
     if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
       e.preventDefault();

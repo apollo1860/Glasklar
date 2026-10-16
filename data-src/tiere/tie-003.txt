@@ -6,7 +6,7 @@
 
 1 Lachs
 2 Forelle
-2 Thunfisch = Thun
+2 Thunfisch = Thun; Tunfisch
 2 Hai
 2 Goldfisch
 2 Karpfen

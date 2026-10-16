@@ -371,8 +371,11 @@ body[data-phase="reveal"] .timer { display: none; }
 .suggestions li:hover, .suggestions li.active { background: linear-gradient(135deg, #fff3d6, #ffe6f0); }
 .suggestions li:active { transform: scale(.98); }
 .s-alias { font-size: .82rem; font-weight: 700; color: var(--ink-soft); }
-.s-fuzzy { font-size: .72rem; font-weight: 900; color: var(--violet); background: #f1eaff; padding: 2px 8px; border-radius: 99px; margin-left: auto; }
-.suggestions li.no-hit { cursor: default; color: var(--ink-soft); font-weight: 700; justify-content: center; text-align: center; }
+.s-fuzzy, .s-hint { order: 3; font-size: .72rem; font-weight: 900; padding: 2px 8px; border-radius: 99px; margin-left: auto; }
+.s-fuzzy { color: var(--violet); background: #f1eaff; }
+.s-hint { color: var(--mint); background: #e3fbf1; }
+.suggestions li.no-hit { cursor: default; color: var(--ink-soft); font-weight: 700; flex-direction: column; align-items: center; text-align: center; }
+.suggestions li.no-hit small { font-size: .8rem; color: var(--ink-faint); }
 .suggestions li.no-hit:hover { background: none; }
 .answer-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 .answer-buttons .btn { white-space: nowrap; padding-inline: 10px; font-size: 1rem; }

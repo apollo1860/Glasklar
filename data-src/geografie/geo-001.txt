@@ -26,7 +26,7 @@
 3 Türkei = Türkiye
 3 Russland = Russische Föderation
 3 Ukraine
-3 Tschechien = Tschechische Republik
+3 Tschechien = Tschechische Republik; Tschechei
 3 Ungarn
 3 Kroatien
 3 Island
@@ -89,9 +89,9 @@
 5 Barbados
 5 Trinidad und Tobago
 5 Grenada
-5 St. Lucia = Saint Lucia
-5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen
-5 St. Kitts und Nevis = Saint Kitts und Nevis
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
 5 Antigua und Barbuda
 5 Dominica
 

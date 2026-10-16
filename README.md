@@ -61,6 +61,10 @@ Pro Zeile: `tier Antwort = Alias; Alias`. Bereits vergebene Antwort-IDs bleiben 
 **tier** (aus Sicht deutschsprachiger Spieler, geschätzt pro 100 Mitspieler):
 tier1 > 15 · tier2 5–15 · tier3 1–5 · tier4 0,2–1 · tier5 < 0,2 (aber real und bekannt).
 
+## Eingabe
+
+Vorschläge erscheinen erst, wenn das **ganze Wort** getippt ist – exakt (Groß-/Kleinschreibung, ä/ae/a, ß/ss, Akzente, Satzzeichen und Artikel egal) oder ab 5 Buchstaben mit einem Tippfehler („Meintest du?"). Anfangsbuchstaben oder Wortteile zeigen nichts an, damit man sich die Antworten nicht aus der Liste aussuchen kann. Alternative Schreibweisen gehören deshalb als Alias in die Daten.
+
 ## Fehlende Antworten ergänzen
 
 Im Spiel werden getippte Texte ohne Treffer und jedes „Nichts passt" lokal gespeichert. Export unter **Einstellungen → Fehlende Antworten → Als JSON exportieren**.

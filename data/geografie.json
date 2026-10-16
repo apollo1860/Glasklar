@@ -147,7 +147,8 @@
     "id": "geo-001-a0022",
     "text": "Tschechien",
     "aliases": [
-     "Tschechische Republik"
+     "Tschechische Republik",
+     "Tschechei"
     ],
     "tier": 3
    },
@@ -532,7 +533,8 @@
     "id": "geo-001-a0083",
     "text": "St. Lucia",
     "aliases": [
-     "Saint Lucia"
+     "Saint Lucia",
+     "Sankt Lucia"
     ],
     "tier": 5
    },
@@ -540,7 +542,8 @@
     "id": "geo-001-a0084",
     "text": "St. Vincent und die Grenadinen",
     "aliases": [
-     "Saint Vincent und die Grenadinen"
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
     ],
     "tier": 5
    },
@@ -548,7 +551,8 @@
     "id": "geo-001-a0085",
     "text": "St. Kitts und Nevis",
     "aliases": [
-     "Saint Kitts und Nevis"
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
     ],
     "tier": 5
    },

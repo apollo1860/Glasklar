@@ -38,27 +38,38 @@ test('Normalisierung: Umlaute, ß, Akzente, Satzzeichen, Artikel', () => {
   assert.equal(searchKey('St. Lucia'), 'stlucia');
 });
 
-test('Levenshtein', () => {
+test('Levenshtein inkl. vertauschter Buchstaben', () => {
   assert.equal(levenshtein('kitten', 'sitting'), 3);
   assert.equal(levenshtein('abc', 'abc'), 0);
   assert.equal(levenshtein('', 'ab'), 2);
+  assert.equal(levenshtein('deutshcland', 'deutschland'), 1);
 });
 
-test('Suche: Präfix, ab 1 Zeichen, max 6, alphabetisch', () => {
-  const r = searchAnswers(IDX, 'd');
-  assert.ok(r.length <= 6);
-  const texts = r.map((x) => x.text);
-  assert.deepEqual(texts, [...texts].sort((a, b) => a.localeCompare(b, 'de')));
-  // Präfix-Treffer haben Vorrang vor Teilstring (z. B. "Vereinigtes Königreich" enthält kein d-Präfix)
-  for (const t of texts) assert.ok(normalize(t).startsWith('d') || normalize(t, 'a').startsWith('d'));
+test('Suche: keine Vorschläge für Anfangsbuchstaben oder Wortteile', () => {
+  assert.deepEqual(searchAnswers(IDX, 'd'), []);
+  assert.deepEqual(searchAnswers(IDX, 'De'), []);
+  assert.deepEqual(searchAnswers(IDX, 'Deutsch'), []); // Wortanfang reicht nicht
+  assert.deepEqual(searchAnswers(IDX, 'Deutschl'), []);
+  assert.deepEqual(searchAnswers(IDX, 'reich'), []); // Teilstring reicht nicht
+  assert.deepEqual(searchAnswers(IDX, 'kongo'), []);
+});
+
+test('Suche: ganzes Wort wird gefunden', () => {
+  const r = searchAnswers(IDX, 'Deutschland');
+  assert.deepEqual(ids(r), ['a1']);
+  assert.equal(r[0].fuzzy, false);
+  assert.equal(r[0].alias, null);
+  assert.deepEqual(ids(searchAnswers(IDX, 'dominikanische republik')), ['a6']);
+  assert.deepEqual(ids(searchAnswers(IDX, 'Dominikanische-Republik')), ['a6']);
 });
 
 test('Suche: Umlaute in beiden Schreibweisen', () => {
-  assert.deepEqual(ids(searchAnswers(IDX, 'oester')), ['a3']);
-  assert.deepEqual(ids(searchAnswers(IDX, 'oster')), ['a3']);
-  assert.deepEqual(ids(searchAnswers(IDX, 'Öster')), ['a3']);
-  assert.ok(ids(searchAnswers(IDX, 'daene')).includes('a2'));
-  assert.ok(ids(searchAnswers(IDX, 'dane')).includes('a2'));
+  assert.deepEqual(ids(searchAnswers(IDX, 'Österreich')), ['a3']);
+  assert.deepEqual(ids(searchAnswers(IDX, 'Oesterreich')), ['a3']);
+  assert.deepEqual(ids(searchAnswers(IDX, 'osterreich')), ['a3']);
+  assert.deepEqual(ids(searchAnswers(IDX, 'daenemark')), ['a2']);
+  assert.deepEqual(ids(searchAnswers(IDX, 'Danemark')), ['a2']);
+  assert.equal(searchAnswers(IDX, 'Danemark')[0].fuzzy, false);
 });
 
 test('Suche: Alias-Treffer zeigt Haupttext + Alias, gleiche ID', () => {
@@ -67,30 +78,29 @@ test('Suche: Alias-Treffer zeigt Haupttext + Alias, gleiche ID', () => {
   assert.equal(r[0].id, 'a1');
   assert.equal(r[0].text, 'Deutschland');
   assert.equal(r[0].alias, 'BRD');
-  const r2 = searchAnswers(IDX, 'gross');
-  assert.equal(r2[0].id, 'a4');
+  const r2 = searchAnswers(IDX, 'grossbritannien');
+  assert.deepEqual(ids(r2), ['a4']);
   assert.equal(r2[0].alias, 'Großbritannien');
-  // Treffer im Haupttext → kein Alias-Hinweis, keine Doppelnennung
-  const r3 = searchAnswers(IDX, 'deutsch');
-  assert.deepEqual(ids(r3), ['a1']);
-  assert.equal(r3[0].alias, null);
+  assert.deepEqual(ids(searchAnswers(IDX, "cote d'ivoire")), ['a5']);
 });
 
-test('Suche: Teilstring nach Präfix', () => {
-  const r = searchAnswers(IDX, 'kongo');
-  assert.deepEqual(ids(r), ['a8']);
-  const r2 = searchAnswers(IDX, 'reich'); // Österreich, Vereinigtes Königreich
-  assert.deepEqual(ids(r2).sort(), ['a3', 'a4']);
-});
-
-test('Suche: Tippfehler-Toleranz nur ab 5 Buchstaben, als Vorschlag markiert', () => {
+test('Suche: Tippfehler nur bei ganzem Wort ab 5 Buchstaben, als Vorschlag markiert', () => {
   const r = searchAnswers(IDX, 'Deutchland');
   assert.deepEqual(ids(r), ['a1']);
   assert.equal(r[0].fuzzy, true);
-  assert.deepEqual(ids(searchAnswers(IDX, 'Dxutxchland')), []); // Abstand 2
-  assert.deepEqual(ids(searchAnswers(IDX, 'Dxu')), []); // zu kurz für Fuzzy
-  const r2 = searchAnswers(IDX, 'Dschbuti');
-  assert.ok(ids(r2).includes('a10'));
+  assert.deepEqual(ids(searchAnswers(IDX, 'Deutshcland')), ['a1']); // vertauscht
+  assert.deepEqual(ids(searchAnswers(IDX, 'Deutschlandd')), ['a1']);
+  assert.deepEqual(searchAnswers(IDX, 'Dxutxchland'), []); // Abstand 2
+  assert.deepEqual(searchAnswers(IDX, 'Deutc'), []); // kein Wortanfang-Fuzzy
+  assert.deepEqual(searchAnswers(IDX, 'UX'), []); // zu kurz für Tippfehler
+  assert.deepEqual(ids(searchAnswers(IDX, 'Dschbuti')), ['a10']);
+});
+
+test('Suche: exakter Treffer verdrängt Tippfehler-Vorschläge', () => {
+  // "Dschibuti" ist exakt; "Djibouti" wäre nicht ähnlich genug, aber Prinzip: nur exakte zeigen
+  const r = searchAnswers(IDX, 'Dschibuti');
+  assert.deepEqual(ids(r), ['a10']);
+  assert.equal(r[0].fuzzy, false);
 });
 
 test('Suche: leere Eingabe und Artikel', () => {
