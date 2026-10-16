@@ -1,0 +1,19 @@
+@id geo-013
+@text Nenne ein Land in Ozeanien
+@typ geschlossen
+# Die 14 unabhängigen Staaten Ozeaniens (ohne abhängige Gebiete wie Hawaii, Neukaledonien, Französisch-Polynesien).
+
+1 Australien
+1 Neuseeland
+2 Fidschi
+2 Papua-Neuguinea
+3 Samoa
+3 Tonga
+4 Vanuatu
+4 Salomonen
+4 Kiribati
+4 Tuvalu
+4 Nauru
+4 Palau
+4 Marshallinseln
+4 Mikronesien = Föderierte Staaten von Mikronesien

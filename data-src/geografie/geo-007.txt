@@ -1,0 +1,59 @@
+@id geo-007
+@text Nenne ein Land in Afrika
+@typ geschlossen
+# Alle 54 von der UN anerkannten Staaten Afrikas (ohne Westsahara).
+
+1 Ägypten
+1 Südafrika
+2 Marokko
+2 Kenia
+2 Nigeria
+2 Tunesien
+3 Ghana
+3 Äthiopien
+3 Tansania
+3 Madagaskar
+3 Kamerun
+3 Namibia
+3 Algerien
+3 Libyen
+3 Somalia
+3 Sudan
+3 Simbabwe
+3 Uganda
+3 Senegal
+3 Ruanda
+3 Mali
+3 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+3 Elfenbeinküste = Côte d'Ivoire
+3 Angola
+4 Republik Kongo = Kongo-Brazzaville
+4 Mauritius
+4 Seychellen
+4 Südsudan
+4 Eritrea
+4 Botswana
+4 Sambia
+4 Malawi
+4 Mosambik
+4 Niger
+4 Tschad
+4 Burkina Faso
+4 Mauretanien
+4 Gambia
+4 Guinea
+4 Sierra Leone
+4 Liberia
+4 Togo
+4 Benin
+4 Gabun
+4 Zentralafrikanische Republik
+4 Kap Verde = Cabo Verde
+5 Lesotho
+5 Eswatini = Swasiland
+5 Guinea-Bissau
+5 Äquatorialguinea
+5 Burundi
+5 Komoren
+5 São Tomé und Príncipe
+5 Dschibuti = Djibouti

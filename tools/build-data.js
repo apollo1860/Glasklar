@@ -9,6 +9,12 @@
 //   3 Dänemark
 // Zeile: tier, Leerzeichen, Antworttext, optional " = " und Aliase getrennt mit ";".
 //
+// Optionale Kopfzeilen:
+//   @typ geschlossen   kleine, vollständig aufzählbare Menge (z. B. Länder in Ostasien)
+//   @typ rangliste     tier ergibt sich aus dem Rang statt aus der Bekanntheit
+//   @loesung …         wird nach dem Reveal angezeigt (Pflicht bei rangliste)
+//   @quelle …          Datenquelle (nur Dokumentation)
+//
 // Antwort-IDs bleiben stabil: Bestehende IDs aus data/*.json werden über den
 // normalisierten Antworttext wiederverwendet, neue Antworten bekommen die nächste freie Nummer.
 import fs from 'node:fs';
@@ -71,7 +77,12 @@ for (const cat of categories) {
       const id = prev.get(searchKey(a.text)) || `${q.id}-a${String(next++).padStart(4, '0')}`;
       return { id, text: a.text, aliases: a.aliases, tier: a.tier };
     });
-    return { id: q.id, text: q.text, kategorie: q.kategorie, answers: q.answers };
+    const out = { id: q.id, text: q.text, kategorie: q.kategorie };
+    if (q.typ && q.typ !== 'normal') out.typ = q.typ;
+    if (q.loesung) out.loesung = q.loesung;
+    if (q.quelle) out.quelle = q.quelle;
+    out.answers = q.answers;
+    return out;
   });
   fs.writeFileSync(path.join(OUT, `${cat.id}.json`), JSON.stringify(questions, null, 1) + '\n');
   index.categories.push({

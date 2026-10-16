@@ -1,0 +1,21 @@
+@id geo-021
+@text Nenne eine Hauptstadt in Westafrika
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Westafrika". Abidjan und Lagos sind keine Hauptstädte mehr.
+
+1 Abuja
+1 Accra
+2 Dakar
+2 Bamako
+2 Monrovia
+3 Yamoussoukro
+3 Freetown
+3 Conakry = Konakry
+3 Ouagadougou
+3 Niamey
+3 Lomé
+3 Banjul
+4 Porto-Novo
+4 Nouakchott
+4 Bissau
+4 Praia

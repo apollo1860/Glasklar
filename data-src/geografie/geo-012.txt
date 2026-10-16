@@ -1,0 +1,29 @@
+@id geo-012
+@text Nenne ein Land in Mittel- oder Nordamerika
+@typ geschlossen
+# Nordamerika, Mittelamerika und die unabhängigen Karibikstaaten; Grönland geografisch zu Nordamerika.
+
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+1 Kanada
+1 Mexiko
+2 Kuba
+2 Jamaika
+2 Costa Rica
+3 Panama
+3 Dominikanische Republik
+3 Haiti
+3 Bahamas
+3 Guatemala
+4 Honduras
+4 El Salvador
+4 Nicaragua
+4 Belize
+4 Barbados
+4 Trinidad und Tobago
+4 Grönland
+5 Grenada
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica

@@ -1,0 +1,24 @@
+@id geo-003
+@text Nenne ein Land in Westeuropa
+@typ geschlossen
+# Großzügig nach deutschem Sprachgebrauch: UN-Westeuropa (Benelux, Frankreich, Deutschland, Österreich,
+# Schweiz, Liechtenstein, Monaco) plus Britische Inseln und Iberische Halbinsel. Nicht: Italien, Skandinavien.
+
+1 Frankreich
+2 Niederlande = Holland
+2 Belgien
+2 Spanien
+2 Deutschland = BRD; Bundesrepublik Deutschland
+2 Portugal
+2 England
+3 Luxemburg
+3 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+3 Irland
+3 Schweiz
+4 Österreich
+4 Liechtenstein
+4 Monaco
+4 Schottland
+4 Wales
+5 Nordirland
+5 Andorra

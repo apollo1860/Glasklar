@@ -1,0 +1,17 @@
+@id geo-011
+@text Nenne ein Land in Südamerika
+@typ geschlossen
+# Die 12 unabhängigen Staaten Südamerikas (Französisch-Guayana und die Falklandinseln sind keine Staaten).
+
+1 Brasilien
+1 Argentinien
+2 Chile
+2 Peru
+2 Kolumbien
+2 Venezuela
+3 Ecuador
+3 Bolivien
+3 Paraguay
+3 Uruguay
+4 Guyana
+4 Suriname

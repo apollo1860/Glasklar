@@ -1,0 +1,11 @@
+@id geo-018
+@text Nenne eine Hauptstadt in Ostasien
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Ostasien".
+
+1 Peking = Beijing
+1 Tokio = Tokyo
+2 Seoul
+2 Pjöngjang = Pyongyang
+3 Taipeh = Taipei
+3 Ulaanbaatar = Ulan Bator

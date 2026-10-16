@@ -1,0 +1,58 @@
+@id geo-017
+@text Nenne eine Hauptstadt in Asien
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Asien". Bei geteilten Funktionen zählen beide (Sri Lanka, Malaysia).
+# Israel: Jerusalem; Palästina: Ramallah (Regierungssitz). Tel Aviv und Istanbul sind keine Hauptstädte.
+
+1 Peking = Beijing
+1 Tokio = Tokyo
+2 Seoul
+2 Bangkok
+2 Neu-Delhi = New Delhi; Delhi
+3 Hanoi
+3 Pjöngjang = Pyongyang
+3 Jakarta = Djakarta
+3 Manila
+3 Kuala Lumpur
+3 Singapur = Singapore
+3 Kathmandu = Katmandu
+3 Kabul
+3 Teheran = Tehran
+3 Bagdad = Baghdad
+3 Jerusalem
+3 Riad = Riyadh
+3 Abu Dhabi
+3 Taipeh = Taipei
+3 Moskau = Moskwa
+3 Ankara
+3 Doha
+3 Beirut
+3 Damaskus
+4 Phnom Penh
+4 Ulaanbaatar = Ulan Bator
+4 Islamabad
+4 Colombo
+4 Dhaka = Dakka
+4 Vientiane
+4 Kuwait-Stadt = Kuwait City
+4 Amman
+4 Astana = Nur-Sultan
+4 Malé
+4 Sanaa
+4 Maskat = Muscat
+4 Taschkent = Tashkent
+4 Manama
+4 Tiflis = Tbilissi; Tbilisi
+4 Jerewan = Eriwan; Yerevan
+4 Baku
+5 Naypyidaw = Naypyitaw
+5 Thimphu
+5 Ramallah
+5 Aşgabat = Aschgabat; Ashgabat
+5 Bischkek = Bishkek
+5 Duschanbe = Dushanbe
+5 Bandar Seri Begawan
+5 Dili
+5 Nikosia = Lefkosia
+5 Sri Jayawardenepura Kotte = Kotte
+5 Putrajaya

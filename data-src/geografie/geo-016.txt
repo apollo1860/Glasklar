@@ -1,0 +1,29 @@
+@id geo-016
+@text Nenne eine Hauptstadt in Osteuropa
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Osteuropa".
+
+1 Warschau = Warszawa
+1 Moskau = Moskwa
+2 Prag = Praha
+2 Budapest
+2 Kiew = Kyjiw; Kyiv
+2 Bukarest = București
+3 Sofia
+3 Minsk
+3 Bratislava = Pressburg
+3 Riga
+3 Belgrad = Beograd
+4 Vilnius = Wilna
+4 Tallinn = Reval
+4 Chișinău = Kischinau
+4 Zagreb = Agram
+4 Sarajevo
+4 Tirana
+4 Skopje
+4 Ljubljana = Laibach
+5 Podgorica
+5 Pristina = Prishtina
+5 Tiflis = Tbilissi; Tbilisi
+5 Jerewan = Eriwan; Yerevan
+5 Baku

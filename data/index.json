@@ -6,9 +6,29 @@
       "id": "geografie",
       "name": "Geografie",
       "icon": "🌍",
-      "count": 1,
+      "count": 21,
       "questions": [
-        "geo-001"
+        "geo-001",
+        "geo-002",
+        "geo-003",
+        "geo-004",
+        "geo-005",
+        "geo-006",
+        "geo-007",
+        "geo-008",
+        "geo-009",
+        "geo-010",
+        "geo-011",
+        "geo-012",
+        "geo-013",
+        "geo-014",
+        "geo-015",
+        "geo-016",
+        "geo-017",
+        "geo-018",
+        "geo-019",
+        "geo-020",
+        "geo-021"
       ]
     },
     {
@@ -40,7 +60,7 @@
     },
     {
       "id": "woerter",
-      "name": "Wörter & Namen",
+      "name": "Wörter & Sprache",
       "icon": "🔤",
       "count": 1,
       "questions": [

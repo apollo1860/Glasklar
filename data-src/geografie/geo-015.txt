@@ -1,0 +1,22 @@
+@id geo-015
+@text Nenne eine Hauptstadt in Westeuropa
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Westeuropa".
+
+1 Paris
+1 London
+1 Amsterdam
+2 Brüssel = Bruxelles; Brussel
+2 Berlin
+2 Madrid
+2 Lissabon = Lisboa
+3 Luxemburg = Luxemburg-Stadt; Luxembourg
+3 Dublin
+3 Bern
+3 Wien = Vienna
+4 Vaduz
+4 Monaco
+4 Edinburgh
+4 Cardiff
+5 Belfast
+5 Andorra la Vella

@@ -1,0 +1,17 @@
+@id geo-010
+@text Nenne ein Land im Süden Afrikas
+@typ geschlossen
+# UN-Region Südliches Afrika plus die Staaten, die im Deutschen meist dazugezählt werden
+# (Simbabwe, Mosambik, Sambia, Angola, Malawi, Madagaskar).
+
+1 Südafrika
+1 Namibia
+2 Botswana
+2 Simbabwe
+2 Mosambik
+3 Lesotho
+3 Eswatini = Swasiland
+3 Sambia
+3 Angola
+4 Malawi
+4 Madagaskar

@@ -1291,5 +1291,3765 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "geo-002",
+  "text": "Nenne ein Land in Europa",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-002-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-002-a0002",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-002-a0003",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-002-a0004",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-002-a0005",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-002-a0006",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-002-a0007",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-002-a0008",
+    "text": "Polen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-002-a0009",
+    "text": "England",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0010",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0011",
+    "text": "Griechenland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0012",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0013",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0014",
+    "text": "Dänemark",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0015",
+    "text": "Schweden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0016",
+    "text": "Norwegen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0017",
+    "text": "Finnland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0018",
+    "text": "Irland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0019",
+    "text": "Tschechien",
+    "aliases": [
+     "Tschechische Republik",
+     "Tschechei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0020",
+    "text": "Ungarn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0021",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0022",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0023",
+    "text": "Ukraine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0024",
+    "text": "Island",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-002-a0025",
+    "text": "Türkei",
+    "aliases": [
+     "Türkiye"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0026",
+    "text": "Luxemburg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0027",
+    "text": "Rumänien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0028",
+    "text": "Bulgarien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0029",
+    "text": "Serbien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0030",
+    "text": "Slowakei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0031",
+    "text": "Slowenien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0032",
+    "text": "Albanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0033",
+    "text": "Bosnien und Herzegowina",
+    "aliases": [
+     "Bosnien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0034",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0035",
+    "text": "Nordmazedonien",
+    "aliases": [
+     "Mazedonien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0036",
+    "text": "Kosovo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0037",
+    "text": "Litauen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0038",
+    "text": "Lettland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0039",
+    "text": "Estland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0040",
+    "text": "Belarus",
+    "aliases": [
+     "Weißrussland"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0041",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0042",
+    "text": "Liechtenstein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0043",
+    "text": "Monaco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0044",
+    "text": "Malta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0045",
+    "text": "Zypern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0046",
+    "text": "Schottland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0047",
+    "text": "Wales",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0048",
+    "text": "Vatikanstadt",
+    "aliases": [
+     "Vatikan",
+     "Heiliger Stuhl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-002-a0049",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-002-a0050",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-002-a0051",
+    "text": "Nordirland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-002-a0052",
+    "text": "Georgien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-002-a0053",
+    "text": "Armenien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-002-a0054",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-002-a0055",
+    "text": "Kasachstan",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-003",
+  "text": "Nenne ein Land in Westeuropa",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-003-a0001",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-003-a0002",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-003-a0003",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-003-a0004",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-003-a0005",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-003-a0006",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-003-a0007",
+    "text": "England",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-003-a0008",
+    "text": "Luxemburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-003-a0009",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-003-a0010",
+    "text": "Irland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-003-a0011",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-003-a0012",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-003-a0013",
+    "text": "Liechtenstein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-003-a0014",
+    "text": "Monaco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-003-a0015",
+    "text": "Schottland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-003-a0016",
+    "text": "Wales",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-003-a0017",
+    "text": "Nordirland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-003-a0018",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-004",
+  "text": "Nenne ein Land in Osteuropa",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-004-a0001",
+    "text": "Polen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-004-a0002",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-004-a0003",
+    "text": "Ukraine",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-004-a0004",
+    "text": "Rumänien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-004-a0005",
+    "text": "Tschechien",
+    "aliases": [
+     "Tschechische Republik",
+     "Tschechei"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-004-a0006",
+    "text": "Ungarn",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-004-a0007",
+    "text": "Bulgarien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-004-a0008",
+    "text": "Belarus",
+    "aliases": [
+     "Weißrussland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0009",
+    "text": "Slowakei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0010",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0011",
+    "text": "Litauen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0012",
+    "text": "Lettland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0013",
+    "text": "Estland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0014",
+    "text": "Serbien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-004-a0015",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0016",
+    "text": "Bosnien und Herzegowina",
+    "aliases": [
+     "Bosnien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0017",
+    "text": "Albanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0018",
+    "text": "Nordmazedonien",
+    "aliases": [
+     "Mazedonien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0019",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0020",
+    "text": "Kosovo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0021",
+    "text": "Slowenien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-004-a0022",
+    "text": "Georgien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-004-a0023",
+    "text": "Armenien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-004-a0024",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-005",
+  "text": "Nenne ein Land in Asien",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-005-a0001",
+    "text": "China",
+    "aliases": [
+     "Volksrepublik China"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-005-a0002",
+    "text": "Japan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-005-a0003",
+    "text": "Indien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-005-a0004",
+    "text": "Thailand",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-005-a0005",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-005-a0006",
+    "text": "Vietnam",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-005-a0007",
+    "text": "Nordkorea",
+    "aliases": [
+     "Demokratische Volksrepublik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0008",
+    "text": "Indonesien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0009",
+    "text": "Philippinen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0010",
+    "text": "Malaysia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0011",
+    "text": "Singapur",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0012",
+    "text": "Kambodscha",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0013",
+    "text": "Mongolei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0014",
+    "text": "Nepal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0015",
+    "text": "Pakistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0016",
+    "text": "Afghanistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0017",
+    "text": "Iran",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0018",
+    "text": "Irak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0019",
+    "text": "Israel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0020",
+    "text": "Saudi-Arabien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0021",
+    "text": "Vereinigte Arabische Emirate",
+    "aliases": [
+     "VAE",
+     "Emirate"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0022",
+    "text": "Taiwan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0023",
+    "text": "Sri Lanka",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0024",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0025",
+    "text": "Türkei",
+    "aliases": [
+     "Türkiye"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-005-a0026",
+    "text": "Bangladesch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0027",
+    "text": "Laos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0028",
+    "text": "Myanmar",
+    "aliases": [
+     "Birma",
+     "Burma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0029",
+    "text": "Katar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0030",
+    "text": "Kuwait",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0031",
+    "text": "Jordanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0032",
+    "text": "Libanon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0033",
+    "text": "Syrien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0034",
+    "text": "Kasachstan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0035",
+    "text": "Malediven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0036",
+    "text": "Bhutan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0037",
+    "text": "Jemen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0038",
+    "text": "Oman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0039",
+    "text": "Usbekistan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0040",
+    "text": "Palästina",
+    "aliases": [
+     "Staat Palästina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-005-a0041",
+    "text": "Bahrain",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0042",
+    "text": "Georgien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0043",
+    "text": "Armenien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0044",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0045",
+    "text": "Turkmenistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0046",
+    "text": "Kirgisistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0047",
+    "text": "Tadschikistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0048",
+    "text": "Brunei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0049",
+    "text": "Osttimor",
+    "aliases": [
+     "Timor-Leste"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-005-a0050",
+    "text": "Zypern",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-006",
+  "text": "Nenne ein Land in Ostasien",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-006-a0001",
+    "text": "China",
+    "aliases": [
+     "Volksrepublik China"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-006-a0002",
+    "text": "Japan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-006-a0003",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-006-a0004",
+    "text": "Nordkorea",
+    "aliases": [
+     "Demokratische Volksrepublik Korea"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-006-a0005",
+    "text": "Mongolei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-006-a0006",
+    "text": "Taiwan",
+    "aliases": [],
+    "tier": 3
+   }
+  ]
+ },
+ {
+  "id": "geo-007",
+  "text": "Nenne ein Land in Afrika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-007-a0001",
+    "text": "Ägypten",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-007-a0002",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-007-a0003",
+    "text": "Marokko",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-007-a0004",
+    "text": "Kenia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-007-a0005",
+    "text": "Nigeria",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-007-a0006",
+    "text": "Tunesien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-007-a0007",
+    "text": "Ghana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0008",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0009",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0010",
+    "text": "Madagaskar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0011",
+    "text": "Kamerun",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0012",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0013",
+    "text": "Algerien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0014",
+    "text": "Libyen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0015",
+    "text": "Somalia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0016",
+    "text": "Sudan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0017",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0018",
+    "text": "Uganda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0019",
+    "text": "Senegal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0020",
+    "text": "Ruanda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0021",
+    "text": "Mali",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0022",
+    "text": "Demokratische Republik Kongo",
+    "aliases": [
+     "DR Kongo",
+     "Kongo-Kinshasa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0023",
+    "text": "Elfenbeinküste",
+    "aliases": [
+     "Côte d'Ivoire"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0024",
+    "text": "Angola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-007-a0025",
+    "text": "Republik Kongo",
+    "aliases": [
+     "Kongo-Brazzaville"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0026",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0027",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0028",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0029",
+    "text": "Eritrea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0030",
+    "text": "Botswana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0031",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0032",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0033",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0034",
+    "text": "Niger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0035",
+    "text": "Tschad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0036",
+    "text": "Burkina Faso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0037",
+    "text": "Mauretanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0038",
+    "text": "Gambia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0039",
+    "text": "Guinea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0040",
+    "text": "Sierra Leone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0041",
+    "text": "Liberia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0042",
+    "text": "Togo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0043",
+    "text": "Benin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0044",
+    "text": "Gabun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0045",
+    "text": "Zentralafrikanische Republik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0046",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-007-a0047",
+    "text": "Lesotho",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0048",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0049",
+    "text": "Guinea-Bissau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0050",
+    "text": "Äquatorialguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0051",
+    "text": "Burundi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0052",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0053",
+    "text": "São Tomé und Príncipe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-007-a0054",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-008",
+  "text": "Nenne ein Land in Ostafrika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-008-a0001",
+    "text": "Kenia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-008-a0002",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-008-a0003",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-008-a0004",
+    "text": "Uganda",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-008-a0005",
+    "text": "Somalia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-008-a0006",
+    "text": "Ruanda",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-008-a0007",
+    "text": "Burundi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-008-a0008",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-008-a0009",
+    "text": "Eritrea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-008-a0010",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-008-a0011",
+    "text": "Madagaskar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-008-a0012",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-008-a0013",
+    "text": "Sudan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-008-a0014",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-008-a0015",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-008-a0016",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-008-a0017",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-008-a0018",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-008-a0019",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-009",
+  "text": "Nenne ein Land in Westafrika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-009-a0001",
+    "text": "Nigeria",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-009-a0002",
+    "text": "Ghana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-009-a0003",
+    "text": "Senegal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-009-a0004",
+    "text": "Elfenbeinküste",
+    "aliases": [
+     "Côte d'Ivoire"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-009-a0005",
+    "text": "Mali",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-009-a0006",
+    "text": "Liberia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0007",
+    "text": "Sierra Leone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0008",
+    "text": "Guinea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0009",
+    "text": "Burkina Faso",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0010",
+    "text": "Niger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0011",
+    "text": "Togo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0012",
+    "text": "Benin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0013",
+    "text": "Gambia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-009-a0014",
+    "text": "Mauretanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-009-a0015",
+    "text": "Guinea-Bissau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-009-a0016",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "geo-010",
+  "text": "Nenne ein Land im Süden Afrikas",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-010-a0001",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-010-a0002",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-010-a0003",
+    "text": "Botswana",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-010-a0004",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-010-a0005",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-010-a0006",
+    "text": "Lesotho",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-010-a0007",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-010-a0008",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-010-a0009",
+    "text": "Angola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-010-a0010",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-010-a0011",
+    "text": "Madagaskar",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "geo-011",
+  "text": "Nenne ein Land in Südamerika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-011-a0001",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-011-a0002",
+    "text": "Argentinien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-011-a0003",
+    "text": "Chile",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-011-a0004",
+    "text": "Peru",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-011-a0005",
+    "text": "Kolumbien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-011-a0006",
+    "text": "Venezuela",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-011-a0007",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-011-a0008",
+    "text": "Bolivien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-011-a0009",
+    "text": "Paraguay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-011-a0010",
+    "text": "Uruguay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-011-a0011",
+    "text": "Guyana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-011-a0012",
+    "text": "Suriname",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "geo-012",
+  "text": "Nenne ein Land in Mittel- oder Nordamerika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-012-a0001",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-012-a0002",
+    "text": "Kanada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-012-a0003",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-012-a0004",
+    "text": "Kuba",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-012-a0005",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-012-a0006",
+    "text": "Costa Rica",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-012-a0007",
+    "text": "Panama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-012-a0008",
+    "text": "Dominikanische Republik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-012-a0009",
+    "text": "Haiti",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-012-a0010",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-012-a0011",
+    "text": "Guatemala",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-012-a0012",
+    "text": "Honduras",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0013",
+    "text": "El Salvador",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0014",
+    "text": "Nicaragua",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0015",
+    "text": "Belize",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0016",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0017",
+    "text": "Trinidad und Tobago",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0018",
+    "text": "Grönland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-012-a0019",
+    "text": "Grenada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-012-a0020",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-012-a0021",
+    "text": "St. Vincent und die Grenadinen",
+    "aliases": [
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-012-a0022",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-012-a0023",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-012-a0024",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-013",
+  "text": "Nenne ein Land in Ozeanien",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-013-a0001",
+    "text": "Australien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-013-a0002",
+    "text": "Neuseeland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-013-a0003",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-013-a0004",
+    "text": "Papua-Neuguinea",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-013-a0005",
+    "text": "Samoa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-013-a0006",
+    "text": "Tonga",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-013-a0007",
+    "text": "Vanuatu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0008",
+    "text": "Salomonen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0009",
+    "text": "Kiribati",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0010",
+    "text": "Tuvalu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0011",
+    "text": "Nauru",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0012",
+    "text": "Palau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0013",
+    "text": "Marshallinseln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-013-a0014",
+    "text": "Mikronesien",
+    "aliases": [
+     "Föderierte Staaten von Mikronesien"
+    ],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "geo-014",
+  "text": "Nenne eine Hauptstadt in Europa",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-014-a0001",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-014-a0002",
+    "text": "Paris",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-014-a0003",
+    "text": "London",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-014-a0004",
+    "text": "Rom",
+    "aliases": [
+     "Roma"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-014-a0005",
+    "text": "Madrid",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-014-a0006",
+    "text": "Wien",
+    "aliases": [
+     "Vienna"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-014-a0007",
+    "text": "Amsterdam",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-014-a0008",
+    "text": "Prag",
+    "aliases": [
+     "Praha"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0009",
+    "text": "Warschau",
+    "aliases": [
+     "Warszawa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0010",
+    "text": "Brüssel",
+    "aliases": [
+     "Bruxelles",
+     "Brussel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0011",
+    "text": "Lissabon",
+    "aliases": [
+     "Lisboa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0012",
+    "text": "Athen",
+    "aliases": [
+     "Athína"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0013",
+    "text": "Kopenhagen",
+    "aliases": [
+     "København"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0014",
+    "text": "Stockholm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0015",
+    "text": "Oslo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0016",
+    "text": "Helsinki",
+    "aliases": [
+     "Helsingfors"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0017",
+    "text": "Dublin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0018",
+    "text": "Budapest",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0019",
+    "text": "Moskau",
+    "aliases": [
+     "Moskwa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0020",
+    "text": "Bern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0021",
+    "text": "Kiew",
+    "aliases": [
+     "Kyjiw",
+     "Kyiv"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-014-a0022",
+    "text": "Bukarest",
+    "aliases": [
+     "București"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0023",
+    "text": "Sofia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0024",
+    "text": "Bratislava",
+    "aliases": [
+     "Pressburg"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0025",
+    "text": "Zagreb",
+    "aliases": [
+     "Agram"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0026",
+    "text": "Belgrad",
+    "aliases": [
+     "Beograd"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0027",
+    "text": "Ljubljana",
+    "aliases": [
+     "Laibach"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0028",
+    "text": "Reykjavík",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0029",
+    "text": "Tallinn",
+    "aliases": [
+     "Reval"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0030",
+    "text": "Riga",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0031",
+    "text": "Vilnius",
+    "aliases": [
+     "Wilna"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0032",
+    "text": "Minsk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0033",
+    "text": "Luxemburg",
+    "aliases": [
+     "Luxemburg-Stadt",
+     "Luxembourg"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0034",
+    "text": "Edinburgh",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0035",
+    "text": "Sarajevo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0036",
+    "text": "Tirana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0037",
+    "text": "Vaduz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0038",
+    "text": "Vatikanstadt",
+    "aliases": [
+     "Vatikan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0039",
+    "text": "Ankara",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-014-a0040",
+    "text": "Cardiff",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0041",
+    "text": "Belfast",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0042",
+    "text": "Skopje",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0043",
+    "text": "Podgorica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0044",
+    "text": "Pristina",
+    "aliases": [
+     "Prishtina"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0045",
+    "text": "Chișinău",
+    "aliases": [
+     "Kischinau"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0046",
+    "text": "Valletta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0047",
+    "text": "Nikosia",
+    "aliases": [
+     "Lefkosia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0048",
+    "text": "Monaco",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0049",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0050",
+    "text": "Andorra la Vella",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0051",
+    "text": "Tiflis",
+    "aliases": [
+     "Tbilissi",
+     "Tbilisi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0052",
+    "text": "Jerewan",
+    "aliases": [
+     "Eriwan",
+     "Yerevan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0053",
+    "text": "Baku",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-014-a0054",
+    "text": "Astana",
+    "aliases": [
+     "Nur-Sultan"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-015",
+  "text": "Nenne eine Hauptstadt in Westeuropa",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-015-a0001",
+    "text": "Paris",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-015-a0002",
+    "text": "London",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-015-a0003",
+    "text": "Amsterdam",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-015-a0004",
+    "text": "Brüssel",
+    "aliases": [
+     "Bruxelles",
+     "Brussel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-015-a0005",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-015-a0006",
+    "text": "Madrid",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-015-a0007",
+    "text": "Lissabon",
+    "aliases": [
+     "Lisboa"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-015-a0008",
+    "text": "Luxemburg",
+    "aliases": [
+     "Luxemburg-Stadt",
+     "Luxembourg"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-015-a0009",
+    "text": "Dublin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-015-a0010",
+    "text": "Bern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-015-a0011",
+    "text": "Wien",
+    "aliases": [
+     "Vienna"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-015-a0012",
+    "text": "Vaduz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-015-a0013",
+    "text": "Monaco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-015-a0014",
+    "text": "Edinburgh",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-015-a0015",
+    "text": "Cardiff",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-015-a0016",
+    "text": "Belfast",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-015-a0017",
+    "text": "Andorra la Vella",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-016",
+  "text": "Nenne eine Hauptstadt in Osteuropa",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-016-a0001",
+    "text": "Warschau",
+    "aliases": [
+     "Warszawa"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-016-a0002",
+    "text": "Moskau",
+    "aliases": [
+     "Moskwa"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-016-a0003",
+    "text": "Prag",
+    "aliases": [
+     "Praha"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-016-a0004",
+    "text": "Budapest",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-016-a0005",
+    "text": "Kiew",
+    "aliases": [
+     "Kyjiw",
+     "Kyiv"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-016-a0006",
+    "text": "Bukarest",
+    "aliases": [
+     "București"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-016-a0007",
+    "text": "Sofia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-016-a0008",
+    "text": "Minsk",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-016-a0009",
+    "text": "Bratislava",
+    "aliases": [
+     "Pressburg"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-016-a0010",
+    "text": "Riga",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-016-a0011",
+    "text": "Belgrad",
+    "aliases": [
+     "Beograd"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-016-a0012",
+    "text": "Vilnius",
+    "aliases": [
+     "Wilna"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0013",
+    "text": "Tallinn",
+    "aliases": [
+     "Reval"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0014",
+    "text": "Chișinău",
+    "aliases": [
+     "Kischinau"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0015",
+    "text": "Zagreb",
+    "aliases": [
+     "Agram"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0016",
+    "text": "Sarajevo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0017",
+    "text": "Tirana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0018",
+    "text": "Skopje",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0019",
+    "text": "Ljubljana",
+    "aliases": [
+     "Laibach"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-016-a0020",
+    "text": "Podgorica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-016-a0021",
+    "text": "Pristina",
+    "aliases": [
+     "Prishtina"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-016-a0022",
+    "text": "Tiflis",
+    "aliases": [
+     "Tbilissi",
+     "Tbilisi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-016-a0023",
+    "text": "Jerewan",
+    "aliases": [
+     "Eriwan",
+     "Yerevan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-016-a0024",
+    "text": "Baku",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-017",
+  "text": "Nenne eine Hauptstadt in Asien",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-017-a0001",
+    "text": "Peking",
+    "aliases": [
+     "Beijing"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-017-a0002",
+    "text": "Tokio",
+    "aliases": [
+     "Tokyo"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-017-a0003",
+    "text": "Seoul",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-017-a0004",
+    "text": "Bangkok",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-017-a0005",
+    "text": "Neu-Delhi",
+    "aliases": [
+     "New Delhi",
+     "Delhi"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-017-a0006",
+    "text": "Hanoi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0007",
+    "text": "Pjöngjang",
+    "aliases": [
+     "Pyongyang"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0008",
+    "text": "Jakarta",
+    "aliases": [
+     "Djakarta"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0009",
+    "text": "Manila",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0010",
+    "text": "Kuala Lumpur",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0011",
+    "text": "Singapur",
+    "aliases": [
+     "Singapore"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0012",
+    "text": "Kathmandu",
+    "aliases": [
+     "Katmandu"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0013",
+    "text": "Kabul",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0014",
+    "text": "Teheran",
+    "aliases": [
+     "Tehran"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0015",
+    "text": "Bagdad",
+    "aliases": [
+     "Baghdad"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0016",
+    "text": "Jerusalem",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0017",
+    "text": "Riad",
+    "aliases": [
+     "Riyadh"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0018",
+    "text": "Abu Dhabi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0019",
+    "text": "Taipeh",
+    "aliases": [
+     "Taipei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0020",
+    "text": "Moskau",
+    "aliases": [
+     "Moskwa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0021",
+    "text": "Ankara",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0022",
+    "text": "Doha",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0023",
+    "text": "Beirut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0024",
+    "text": "Damaskus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-017-a0025",
+    "text": "Phnom Penh",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0026",
+    "text": "Ulaanbaatar",
+    "aliases": [
+     "Ulan Bator"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0027",
+    "text": "Islamabad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0028",
+    "text": "Colombo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0029",
+    "text": "Dhaka",
+    "aliases": [
+     "Dakka"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0030",
+    "text": "Vientiane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0031",
+    "text": "Kuwait-Stadt",
+    "aliases": [
+     "Kuwait City"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0032",
+    "text": "Amman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0033",
+    "text": "Astana",
+    "aliases": [
+     "Nur-Sultan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0034",
+    "text": "Malé",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0035",
+    "text": "Sanaa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0036",
+    "text": "Maskat",
+    "aliases": [
+     "Muscat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0037",
+    "text": "Taschkent",
+    "aliases": [
+     "Tashkent"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0038",
+    "text": "Manama",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0039",
+    "text": "Tiflis",
+    "aliases": [
+     "Tbilissi",
+     "Tbilisi"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0040",
+    "text": "Jerewan",
+    "aliases": [
+     "Eriwan",
+     "Yerevan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0041",
+    "text": "Baku",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-017-a0042",
+    "text": "Naypyidaw",
+    "aliases": [
+     "Naypyitaw"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0043",
+    "text": "Thimphu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0044",
+    "text": "Ramallah",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0045",
+    "text": "Aşgabat",
+    "aliases": [
+     "Aschgabat",
+     "Ashgabat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0046",
+    "text": "Bischkek",
+    "aliases": [
+     "Bishkek"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0047",
+    "text": "Duschanbe",
+    "aliases": [
+     "Dushanbe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0048",
+    "text": "Bandar Seri Begawan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0049",
+    "text": "Dili",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0050",
+    "text": "Nikosia",
+    "aliases": [
+     "Lefkosia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0051",
+    "text": "Sri Jayawardenepura Kotte",
+    "aliases": [
+     "Kotte"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-017-a0052",
+    "text": "Putrajaya",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-018",
+  "text": "Nenne eine Hauptstadt in Ostasien",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-018-a0001",
+    "text": "Peking",
+    "aliases": [
+     "Beijing"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-018-a0002",
+    "text": "Tokio",
+    "aliases": [
+     "Tokyo"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-018-a0003",
+    "text": "Seoul",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-018-a0004",
+    "text": "Pjöngjang",
+    "aliases": [
+     "Pyongyang"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-018-a0005",
+    "text": "Taipeh",
+    "aliases": [
+     "Taipei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-018-a0006",
+    "text": "Ulaanbaatar",
+    "aliases": [
+     "Ulan Bator"
+    ],
+    "tier": 3
+   }
+  ]
+ },
+ {
+  "id": "geo-019",
+  "text": "Nenne eine Hauptstadt in Afrika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-019-a0001",
+    "text": "Kairo",
+    "aliases": [
+     "Cairo"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-019-a0002",
+    "text": "Pretoria",
+    "aliases": [
+     "Tshwane"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-019-a0003",
+    "text": "Kapstadt",
+    "aliases": [
+     "Cape Town"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-019-a0004",
+    "text": "Nairobi",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-019-a0005",
+    "text": "Rabat",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-019-a0006",
+    "text": "Tunis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0007",
+    "text": "Abuja",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0008",
+    "text": "Addis Abeba",
+    "aliases": [
+     "Addis Ababa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0009",
+    "text": "Algier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0010",
+    "text": "Tripolis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0011",
+    "text": "Accra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0012",
+    "text": "Dakar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0013",
+    "text": "Khartum",
+    "aliases": [
+     "Khartoum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0014",
+    "text": "Mogadischu",
+    "aliases": [
+     "Mogadishu"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0015",
+    "text": "Kinshasa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0016",
+    "text": "Windhuk",
+    "aliases": [
+     "Windhoek"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-019-a0017",
+    "text": "Luanda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0018",
+    "text": "Harare",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0019",
+    "text": "Kampala",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0020",
+    "text": "Kigali",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0021",
+    "text": "Dodoma",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0022",
+    "text": "Antananarivo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0023",
+    "text": "Jaunde",
+    "aliases": [
+     "Yaoundé"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0024",
+    "text": "Bamako",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0025",
+    "text": "Lusaka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0026",
+    "text": "Maputo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0027",
+    "text": "Gaborone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0028",
+    "text": "Asmara",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0029",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0030",
+    "text": "Port Louis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0031",
+    "text": "Brazzaville",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0032",
+    "text": "Ouagadougou",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0033",
+    "text": "Monrovia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0034",
+    "text": "Freetown",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-019-a0035",
+    "text": "Lilongwe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0036",
+    "text": "Juba",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0037",
+    "text": "Gitega",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0038",
+    "text": "Victoria",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0039",
+    "text": "Moroni",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0040",
+    "text": "Bloemfontein",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0041",
+    "text": "Maseru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0042",
+    "text": "Mbabane",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0043",
+    "text": "Lobamba",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0044",
+    "text": "Libreville",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0045",
+    "text": "Malabo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0046",
+    "text": "Bangui",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0047",
+    "text": "N’Djamena",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0048",
+    "text": "Niamey",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0049",
+    "text": "Porto-Novo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0050",
+    "text": "Lomé",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0051",
+    "text": "Yamoussoukro",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0052",
+    "text": "Conakry",
+    "aliases": [
+     "Konakry"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0053",
+    "text": "Bissau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0054",
+    "text": "Banjul",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0055",
+    "text": "Nouakchott",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0056",
+    "text": "Praia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-019-a0057",
+    "text": "São Tomé",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-020",
+  "text": "Nenne eine Hauptstadt in Ostafrika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-020-a0001",
+    "text": "Nairobi",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-020-a0002",
+    "text": "Addis Abeba",
+    "aliases": [
+     "Addis Ababa"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-020-a0003",
+    "text": "Mogadischu",
+    "aliases": [
+     "Mogadishu"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-020-a0004",
+    "text": "Kampala",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-020-a0005",
+    "text": "Kigali",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-020-a0006",
+    "text": "Dodoma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0007",
+    "text": "Asmara",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0008",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0009",
+    "text": "Juba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0010",
+    "text": "Antananarivo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0011",
+    "text": "Maputo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0012",
+    "text": "Khartum",
+    "aliases": [
+     "Khartoum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-020-a0013",
+    "text": "Gitega",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-020-a0014",
+    "text": "Lilongwe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-020-a0015",
+    "text": "Lusaka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-020-a0016",
+    "text": "Harare",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-020-a0017",
+    "text": "Port Louis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-020-a0018",
+    "text": "Victoria",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-020-a0019",
+    "text": "Moroni",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-021",
+  "text": "Nenne eine Hauptstadt in Westafrika",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-021-a0001",
+    "text": "Abuja",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-021-a0002",
+    "text": "Accra",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-021-a0003",
+    "text": "Dakar",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-021-a0004",
+    "text": "Bamako",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-021-a0005",
+    "text": "Monrovia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-021-a0006",
+    "text": "Yamoussoukro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0007",
+    "text": "Freetown",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0008",
+    "text": "Conakry",
+    "aliases": [
+     "Konakry"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0009",
+    "text": "Ouagadougou",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0010",
+    "text": "Niamey",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0011",
+    "text": "Lomé",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0012",
+    "text": "Banjul",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-021-a0013",
+    "text": "Porto-Novo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-021-a0014",
+    "text": "Nouakchott",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-021-a0015",
+    "text": "Bissau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-021-a0016",
+    "text": "Praia",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
  }
 ]

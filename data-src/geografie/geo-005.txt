@@ -1,0 +1,56 @@
+@id geo-005
+@text Nenne ein Land in Asien
+@typ geschlossen
+# Alle asiatischen Staaten inkl. Naher Osten, Zentralasien, Kaukasus, Taiwan, Palästina
+# und der transkontinentalen Staaten Russland, Türkei und Zypern.
+
+1 China = Volksrepublik China
+1 Japan
+2 Indien
+2 Thailand
+2 Südkorea = Korea; Republik Korea
+2 Vietnam
+3 Nordkorea = Demokratische Volksrepublik Korea
+3 Indonesien
+3 Philippinen
+3 Malaysia
+3 Singapur
+3 Kambodscha
+3 Mongolei
+3 Nepal
+3 Pakistan
+3 Afghanistan
+3 Iran
+3 Irak
+3 Israel
+3 Saudi-Arabien
+3 Vereinigte Arabische Emirate = VAE; Emirate
+3 Taiwan
+3 Sri Lanka
+3 Russland = Russische Föderation
+3 Türkei = Türkiye
+4 Bangladesch
+4 Laos
+4 Myanmar = Birma; Burma
+4 Katar
+4 Kuwait
+4 Jordanien
+4 Libanon
+4 Syrien
+4 Kasachstan
+4 Malediven
+4 Bhutan
+4 Jemen
+4 Oman
+4 Usbekistan
+4 Palästina = Staat Palästina
+5 Bahrain
+5 Georgien
+5 Armenien
+5 Aserbaidschan
+5 Turkmenistan
+5 Kirgisistan
+5 Tadschikistan
+5 Brunei
+5 Osttimor = Timor-Leste
+5 Zypern

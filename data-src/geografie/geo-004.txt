@@ -1,0 +1,29 @@
+@id geo-004
+@text Nenne ein Land in Osteuropa
+@typ geschlossen
+# Großzügig: UN-Osteuropa, Baltikum, ehemaliges Jugoslawien, Albanien und der Südkaukasus.
+
+1 Polen
+1 Russland = Russische Föderation
+2 Ukraine
+2 Rumänien
+2 Tschechien = Tschechische Republik; Tschechei
+2 Ungarn
+2 Bulgarien
+3 Belarus = Weißrussland
+3 Slowakei
+3 Moldau = Moldawien; Republik Moldau
+3 Litauen
+3 Lettland
+3 Estland
+3 Serbien
+4 Kroatien
+4 Bosnien und Herzegowina = Bosnien
+4 Albanien
+4 Nordmazedonien = Mazedonien
+4 Montenegro
+4 Kosovo
+4 Slowenien
+5 Georgien
+5 Armenien
+5 Aserbaidschan

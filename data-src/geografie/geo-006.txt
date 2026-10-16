@@ -1,0 +1,11 @@
+@id geo-006
+@text Nenne ein Land in Ostasien
+@typ geschlossen
+# UN-Ostasien: China, Japan, beide Korea, Mongolei, Taiwan. Hongkong/Macau sind keine Länder.
+
+1 China = Volksrepublik China
+1 Japan
+2 Südkorea = Korea; Republik Korea
+2 Nordkorea = Demokratische Volksrepublik Korea
+3 Mongolei
+3 Taiwan

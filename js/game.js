@@ -13,7 +13,7 @@ import {
 } from './ui.js';
 import {
   settings, played, requestWake, releaseWake, Countdown, bindTimerSlider,
-  revealKind, showRevealMsg, fillGlass, renderQuestionCard,
+  revealKind, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
 } from './common.js';
 import { createMultiplayer } from './mp.js';
 
@@ -193,12 +193,13 @@ async function reveal(sub) {
   const total = S.fills.reduce((a, b) => a + b, 0);
 
   const answer = sub.type === 'answer' ? q.answers.find((a) => a.id === sub.answerId) : null;
-  const kind = revealKind(sub, me.base);
+  const kind = revealKind(sub, me.base, q.typ);
 
   // Antwort-Chips (Häufigkeit), keine Schluck-Anzahl
   const groups = answerFrequencies({ me: sub }, q);
   renderAnswerChips($('#reveal-chips'), groups, { highlightKey: groups[0]?.key });
   $('#reveal-question').textContent = q.text;
+  showSolution(q);
   $('#reveal-panel').hidden = false;
   $('#btn-next').hidden = true;
 

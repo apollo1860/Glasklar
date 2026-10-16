@@ -1,0 +1,24 @@
+@id geo-020
+@text Nenne eine Hauptstadt in Ostafrika
+@typ geschlossen
+# Hauptstädte der Länder aus "Land in Ostafrika".
+
+1 Nairobi
+2 Addis Abeba = Addis Ababa
+2 Mogadischu = Mogadishu
+2 Kampala
+2 Kigali
+3 Dodoma
+3 Asmara
+3 Dschibuti = Djibouti
+3 Juba
+3 Antananarivo
+3 Maputo
+3 Khartum = Khartoum
+4 Gitega
+4 Lilongwe
+4 Lusaka
+4 Harare
+4 Port Louis
+5 Victoria
+5 Moroni

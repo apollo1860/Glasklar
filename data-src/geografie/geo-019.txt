@@ -1,0 +1,63 @@
+@id geo-019
+@text Nenne eine Hauptstadt in Afrika
+@typ geschlossen
+# Hauptstädte aller 54 Staaten Afrikas. Südafrika: Pretoria, Kapstadt, Bloemfontein; Eswatini: Mbabane, Lobamba.
+# Ehemalige Hauptstädte (Daressalam, Abidjan, Lagos, Bujumbura) zählen nicht.
+
+1 Kairo = Cairo
+2 Pretoria = Tshwane
+2 Kapstadt = Cape Town
+2 Nairobi
+2 Rabat
+3 Tunis
+3 Abuja
+3 Addis Abeba = Addis Ababa
+3 Algier
+3 Tripolis
+3 Accra
+3 Dakar
+3 Khartum = Khartoum
+3 Mogadischu = Mogadishu
+3 Kinshasa
+3 Windhuk = Windhoek
+4 Luanda
+4 Harare
+4 Kampala
+4 Kigali
+4 Dodoma
+4 Antananarivo
+4 Jaunde = Yaoundé
+4 Bamako
+4 Lusaka
+4 Maputo
+4 Gaborone
+4 Asmara
+4 Dschibuti = Djibouti
+4 Port Louis
+4 Brazzaville
+4 Ouagadougou
+4 Monrovia
+4 Freetown
+5 Lilongwe
+5 Juba
+5 Gitega
+5 Victoria
+5 Moroni
+5 Bloemfontein
+5 Maseru
+5 Mbabane
+5 Lobamba
+5 Libreville
+5 Malabo
+5 Bangui
+5 N’Djamena
+5 Niamey
+5 Porto-Novo
+5 Lomé
+5 Yamoussoukro
+5 Conakry = Konakry
+5 Bissau
+5 Banjul
+5 Nouakchott
+5 Praia
+5 São Tomé

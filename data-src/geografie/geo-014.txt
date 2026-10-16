@@ -1,0 +1,59 @@
+@id geo-014
+@text Nenne eine Hauptstadt in Europa
+@typ geschlossen
+# Hauptstädte aller Länder aus "Land in Europa" inkl. der UK-Landesteile und der transkontinentalen Staaten.
+
+1 Berlin
+1 Paris
+1 London
+2 Rom = Roma
+2 Madrid
+2 Wien = Vienna
+2 Amsterdam
+3 Prag = Praha
+3 Warschau = Warszawa
+3 Brüssel = Bruxelles; Brussel
+3 Lissabon = Lisboa
+3 Athen = Athína
+3 Kopenhagen = København
+3 Stockholm
+3 Oslo
+3 Helsinki = Helsingfors
+3 Dublin
+3 Budapest
+3 Moskau = Moskwa
+3 Bern
+3 Kiew = Kyjiw; Kyiv
+4 Bukarest = București
+4 Sofia
+4 Bratislava = Pressburg
+4 Zagreb = Agram
+4 Belgrad = Beograd
+4 Ljubljana = Laibach
+4 Reykjavík
+4 Tallinn = Reval
+4 Riga
+4 Vilnius = Wilna
+4 Minsk
+4 Luxemburg = Luxemburg-Stadt; Luxembourg
+4 Edinburgh
+4 Sarajevo
+4 Tirana
+4 Vaduz
+4 Vatikanstadt = Vatikan
+4 Ankara
+5 Cardiff
+5 Belfast
+5 Skopje
+5 Podgorica
+5 Pristina = Prishtina
+5 Chișinău = Kischinau
+5 Valletta
+5 Nikosia = Lefkosia
+5 Monaco
+5 San Marino
+5 Andorra la Vella
+5 Tiflis = Tbilissi; Tbilisi
+5 Jerewan = Eriwan; Yerevan
+5 Baku
+5 Astana = Nur-Sultan

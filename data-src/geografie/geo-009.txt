@@ -1,0 +1,21 @@
+@id geo-009
+@text Nenne ein Land in Westafrika
+@typ geschlossen
+# Die 16 Staaten der UN-Region Westafrika.
+
+1 Nigeria
+1 Ghana
+2 Senegal
+2 Elfenbeinküste = Côte d'Ivoire
+2 Mali
+3 Liberia
+3 Sierra Leone
+3 Guinea
+3 Burkina Faso
+3 Niger
+3 Togo
+3 Benin
+3 Gambia
+4 Mauretanien
+4 Guinea-Bissau
+4 Kap Verde = Cabo Verde

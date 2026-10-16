@@ -1,0 +1,61 @@
+@id geo-002
+@text Nenne ein Land in Europa
+@typ geschlossen
+# Alle souveränen Staaten Europas inkl. Kosovo und Vatikanstadt, die Landesteile des UK
+# sowie die transkontinentalen Staaten (Russland, Türkei, Kasachstan, Kaukasus, Zypern).
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Frankreich
+1 Italien
+2 Spanien
+2 Österreich
+2 Schweiz
+2 Niederlande = Holland
+2 Polen
+3 England
+3 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+3 Griechenland
+3 Portugal
+3 Belgien
+3 Dänemark
+3 Schweden
+3 Norwegen
+3 Finnland
+3 Irland
+3 Tschechien = Tschechische Republik; Tschechei
+3 Ungarn
+3 Kroatien
+3 Russland = Russische Föderation
+3 Ukraine
+3 Island
+4 Türkei = Türkiye
+4 Luxemburg
+4 Rumänien
+4 Bulgarien
+4 Serbien
+4 Slowakei
+4 Slowenien
+4 Albanien
+4 Bosnien und Herzegowina = Bosnien
+4 Montenegro
+4 Nordmazedonien = Mazedonien
+4 Kosovo
+4 Litauen
+4 Lettland
+4 Estland
+4 Belarus = Weißrussland
+4 Moldau = Moldawien; Republik Moldau
+4 Liechtenstein
+4 Monaco
+4 Malta
+4 Zypern
+4 Schottland
+4 Wales
+4 Vatikanstadt = Vatikan; Heiliger Stuhl
+5 San Marino
+5 Andorra
+5 Nordirland
+5 Georgien
+5 Armenien
+5 Aserbaidschan
+5 Kasachstan

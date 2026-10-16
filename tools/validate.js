@@ -9,9 +9,12 @@ import { searchKey } from '../js/logic.js';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = path.join(ROOT, 'data');
 
-const MIN_ANSWERS = 60;
-const MIN_TIER12 = 8;
-const MIN_TIER45 = 3;
+// Mindestwerte je Fragetyp
+const RULES = {
+  normal: { answers: 60, tier12: 8, tier45: 3 },
+  geschlossen: { answers: 5, tier12: 1, tier45: 0 }, // kleine, vollständige Menge
+  rangliste: { answers: 5, tier12: 1, tier45: 1 }, // tier = Rang, Platz 1 hat tier 4/5
+};
 
 const errors = [];
 const warnings = [];
@@ -92,23 +95,28 @@ for (const cat of index.categories || []) {
     const n = q.answers.length;
     const t12 = tiers[1] + tiers[2];
     const t45 = tiers[4] + tiers[5];
-    if (n < MIN_ANSWERS) err(`${where}: nur ${n} Antworten (min. ${MIN_ANSWERS})`);
-    if (t12 < MIN_TIER12) err(`${where}: nur ${t12} Antworten in tier 1–2 (min. ${MIN_TIER12})`);
-    if (t45 < MIN_TIER45) err(`${where}: nur ${t45} Antworten in tier 4–5 (min. ${MIN_TIER45})`);
-    if (tiers[1] === 0) warn(`${where}: keine tier-1-Antwort`);
-    rows.push({ id: q.id, kat: cat.id, n, ...tiers, text: q.text });
+    const typ = q.typ || 'normal';
+    const rule = RULES[typ];
+    if (!rule) { err(`${where}: unbekannter typ "${typ}"`); continue; }
+    if (n < rule.answers) err(`${where}: nur ${n} Antworten (min. ${rule.answers} für ${typ})`);
+    if (t12 < rule.tier12) err(`${where}: nur ${t12} Antworten in tier 1–2 (min. ${rule.tier12})`);
+    if (t45 < rule.tier45) err(`${where}: nur ${t45} Antworten in tier 4–5 (min. ${rule.tier45})`);
+    if (typ === 'rangliste' && !isStr(q.loesung)) err(`${where}: rangliste braucht @loesung`);
+    if (typ === 'normal' && tiers[1] === 0) warn(`${where}: keine tier-1-Antwort`);
+    if (typ === 'geschlossen' && n >= 60) warn(`${where}: ${n} Antworten – braucht es typ geschlossen?`);
+    rows.push({ id: q.id, kat: cat.id, n, ...tiers, text: q.text, typ });
   }
 }
 
 // Tabelle
 const pad = (s, w) => String(s).padEnd(w);
 const padL = (s, w) => String(s).padStart(w);
-console.log(`${pad('Frage', 9)} ${pad('Kategorie', 10)} ${padL('Anz', 4)} ${padL('t1', 4)} ${padL('t2', 4)} ${padL('t3', 4)} ${padL('t4', 4)} ${padL('t5', 4)}  Text`);
-console.log('-'.repeat(90));
+console.log(`${pad('Frage', 9)} ${pad('Kategorie', 10)} ${pad('Typ', 5)} ${padL('Anz', 4)} ${padL('t1', 4)} ${padL('t2', 4)} ${padL('t3', 4)} ${padL('t4', 4)} ${padL('t5', 4)}  Text`);
+console.log('-'.repeat(100));
 for (const r of rows) {
-  console.log(`${pad(r.id, 9)} ${pad(r.kat, 10)} ${padL(r.n, 4)} ${padL(r[1], 4)} ${padL(r[2], 4)} ${padL(r[3], 4)} ${padL(r[4], 4)} ${padL(r[5], 4)}  ${r.text}`);
+  console.log(`${pad(r.id, 9)} ${pad(r.kat, 10)} ${pad(r.typ === 'normal' ? '' : r.typ.slice(0, 5), 5)} ${padL(r.n, 4)} ${padL(r[1], 4)} ${padL(r[2], 4)} ${padL(r[3], 4)} ${padL(r[4], 4)} ${padL(r[5], 4)}  ${r.text}`);
 }
-console.log('-'.repeat(90));
+console.log('-'.repeat(100));
 const sum = rows.reduce((s, r) => s + r.n, 0);
 console.log(`${rows.length} Fragen, ${sum} Antworten\n`);
 

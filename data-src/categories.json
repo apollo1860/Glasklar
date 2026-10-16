@@ -1,10 +1,13 @@
 [
-  { "id": "geografie", "name": "Geografie", "prefix": "geo", "icon": "🌍" },
-  { "id": "essen", "name": "Essen & Trinken", "prefix": "ess", "icon": "🍕" },
-  { "id": "tiere", "name": "Tiere", "prefix": "tie", "icon": "🐟" },
-  { "id": "sport", "name": "Sport", "prefix": "spo", "icon": "⚽" },
-  { "id": "film", "name": "Film & Serien", "prefix": "fil", "icon": "🎬" },
-  { "id": "musik", "name": "Musik", "prefix": "mus", "icon": "🎸" },
-  { "id": "woerter", "name": "Wörter & Namen", "prefix": "wor", "icon": "🔤" },
-  { "id": "alltag", "name": "Alltag, Party & Technik", "prefix": "all", "icon": "🎲" }
+  {"id": "geografie", "name": "Geografie", "prefix": "geo", "icon": "🌍"},
+  {"id": "statistik", "name": "Ranglisten", "prefix": "sta", "icon": "📊"},
+  {"id": "essen", "name": "Essen & Trinken", "prefix": "ess", "icon": "🍕"},
+  {"id": "tiere", "name": "Tiere", "prefix": "tie", "icon": "🐟"},
+  {"id": "sport", "name": "Sport", "prefix": "spo", "icon": "⚽"},
+  {"id": "film", "name": "Film & Serien", "prefix": "fil", "icon": "🎬"},
+  {"id": "musik", "name": "Musik", "prefix": "mus", "icon": "🎸"},
+  {"id": "woerter", "name": "Wörter & Sprache", "prefix": "wor", "icon": "🔤"},
+  {"id": "marken", "name": "Marken & Firmen", "prefix": "mar", "icon": "🏷️"},
+  {"id": "politik", "name": "Politik & Persönlichkeiten", "prefix": "pol", "icon": "🏛️"},
+  {"id": "alltag", "name": "Alltag, Party & Technik", "prefix": "all", "icon": "🎲"}
 ]

@@ -125,14 +125,27 @@ const MESSAGES = {
   top: ['Das sagt jeder', 'Die Standardantwort', 'Wie erwartet'],
   nothing: ['Passen kostet', 'Nichts gepasst'],
   timeout: ['Zeit abgelaufen', 'Zu langsam'],
+  // Ranglisten-Fragen: Füllung nach Rang
+  hit: ['Volltreffer!'],
+  close: ['Knapp dran', 'Fast!'],
+  off: ['Daneben', 'Nicht ganz'],
+  far: ['Weit daneben', 'Leider nein'],
 };
 export const pickMsg = (k) => MESSAGES[k][Math.floor(Math.random() * MESSAGES[k].length)];
 
 /** Art des Ergebnisses nach Grundfüllung (ohne Gleiche-Antwort-Aufschlag). */
-export function revealKind(sub, base) {
+export function revealKind(sub, base, typ = 'normal') {
   if (!sub || sub.type === 'timeout') return 'timeout';
   if (sub.type === 'nothing') return 'nothing';
+  if (typ === 'rangliste') return base === 0 ? 'hit' : base === 1 ? 'close' : base === 2 ? 'off' : 'far';
   return base === 0 ? 'rare' : base === 1 ? 'low' : base === 2 ? 'mid' : 'top';
+}
+
+/** Lösung (bei Ranglisten) unter den Antworten anzeigen. */
+export function showSolution(q) {
+  const el = $('#reveal-solution');
+  el.textContent = q.loesung ? `Lösung: ${q.loesung}` : '';
+  el.hidden = !q.loesung;
 }
 
 export function showRevealMsg(kind) {
