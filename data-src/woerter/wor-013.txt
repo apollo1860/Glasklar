@@ -1,0 +1,83 @@
+@id wor-013
+@text Nenne ein Synonym für „betrunken“
+@typ geschlossen
+# Alkoholisiert in allen Graden (angeheitert bis sternhagelvoll); Umgangssprache, Jugendsprache, regionale (rheinisch, norddeutsch, bairisch/österr., schweiz.) und englische Ausdrücke.
+# Rein drogenbezogene Wörter (bekifft, high) nicht aufgenommen.
+
+1 besoffen = bsoffen
+1 blau = blau wie ein Veilchen
+2 voll
+2 dicht
+2 breit
+2 hacke
+2 angetrunken
+2 beschwipst
+2 angeheitert
+2 zu
+3 hackedicht
+3 hackevoll
+3 knülle = knille
+3 sternhagelvoll
+3 stockbesoffen
+3 sturzbesoffen
+3 stinkbesoffen
+3 sackbesoffen
+3 granatenvoll
+3 rotzvoll = rotzevoll
+3 strack
+3 duhn = dun
+3 zugedröhnt
+3 abgefüllt
+3 benebelt
+3 berauscht
+3 alkoholisiert
+3 bezecht
+3 angesoffen = angsoffen
+3 angeduselt
+3 volltrunken
+3 trunken
+3 fett
+3 dicht wie ein Eimer = voll wie ein Eimer
+3 wasted
+3 drunk
+3 tipsy
+3 stockbetrunken
+4 sturzbetrunken
+4 hackebreit
+4 kanonenvoll
+4 lattenstramm
+4 stramm
+4 beduselt
+4 bedudelt = angedudelt
+4 betütert
+4 betüdelt
+4 illuminiert
+4 weinselig
+4 bierselig
+4 angesäuselt
+4 angeschickert = beschickert
+4 schicker
+4 zugeschüttet
+4 zugekippt
+4 abgeschossen
+4 abgestürzt
+4 zerstört
+4 hinüber
+4 lit
+4 blunzenfett
+4 zua = zue
+4 einen im Tee = einen im Tee haben
+4 einen sitzen haben = einen sitzen
+4 rauschig
+4 veilchenblau
+5 hammered
+5 zugelötet
+5 im Tran
+5 einen in der Krone = einen in der Krone haben
+5 über den Durst = einen über den Durst getrunken
+5 beschwiemelt
+5 bsuffa
+5 geladen
+5 unter Alkoholeinfluss
+5 schief geladen
+5 sternhagelblau

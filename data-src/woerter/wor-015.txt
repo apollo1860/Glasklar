@@ -1,0 +1,93 @@
+@id wor-015
+@text Nenne ein Synonym für „Geld“
+@typ geschlossen
+# Umgangssprachliche, regionale (österr. Gerstl/Marie, schweiz. Stutz/Chlütter, bair. Diridari), jugend-/rapsprachliche und fachliche Bezeichnungen (Kapital, Zahlungsmittel), dazu konkrete Währungen/Münzen/Scheine, weil sie im Spiel realistisch genannt werden.
+
+1 Kohle
+1 Kies
+1 Knete
+2 Moneten
+2 Zaster
+2 Asche
+2 Mäuse
+2 Kröten
+2 Penunzen = Penunze; Pinunse; Pinunzen
+2 Schotter
+2 Moos
+2 Bares = Bargeld
+2 Cash
+2 Money = Moneys
+3 Pinke = Pinkepinke
+3 Flocken
+3 Taler
+3 Piepen
+3 Kleingeld
+3 Scheine = Schein; Geldscheine
+3 Münzen = Münze; Münz; Geldstücke
+3 Euro = Euros
+3 Heu
+3 Tacken
+3 Ocken
+3 Patte
+3 Para
+3 Kapital
+3 Vermögen
+3 Finanzen
+3 Zahlungsmittel
+3 Währung
+3 Mammon
+3 Marie
+3 Gerstl = Gerstel
+3 Euronen
+3 Lappen
+4 Mücken
+4 Möpse
+4 Mark
+4 Dollar
+4 Franken
+4 Groschen
+4 Pfennig
+4 Cent
+4 Riesen
+4 Hunni
+4 Fuffi
+4 Zwanni
+4 Zehner
+4 Bucks
+4 Geldmittel = Mittel
+4 Barschaft
+4 Devisen
+4 Lohn
+4 Gehalt
+4 Einkommen
+4 Ersparnisse
+4 Budget
+4 Rubel
+4 Pulver
+4 Batzen
+4 Stutz
+4 Chlütter
+4 Netsch
+4 Bimbes
+4 Diridari
+4 Flöhe
+4 Klimpergeld
+5 Schilling
+5 Gold
+5 Taschengeld
+5 Kasse
+5 Etat
+5 Finanzmittel
+5 Kreuzer
+5 Heller
+5 Zechinen
+5 Dukaten
+5 Gulden
+5 Dublonen
+5 Peseten
+5 Valuta
+5 Reichtum
+5 Blech
+5 Paper
+5 Racks
+5 Bands

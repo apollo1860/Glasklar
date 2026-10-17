@@ -1,0 +1,73 @@
+@id wor-010
+@text Nenne ein Synonym für „müde“
+@typ geschlossen
+# Schläfrig sowie erschöpft/kraftlos; umgangssprachliche und regionale Formen. „einer Sache müde“ = überdrüssig ebenfalls aufgenommen.
+
+1 erschöpft
+1 schläfrig
+2 kaputt
+2 platt
+2 fertig
+2 ausgelaugt
+2 groggy
+3 k.o.
+3 übermüdet
+3 todmüde = totmüde
+3 hundemüde = hundsmüde
+3 erledigt
+3 schlapp
+3 matt
+3 abgespannt
+3 entkräftet
+3 erschlagen
+3 gerädert
+3 alle
+3 durch
+3 hinüber
+3 bettreif
+3 schlaftrunken
+3 verschlafen
+3 dösig
+3 träge
+3 geschafft
+3 fix und fertig
+3 ausgepowert
+3 ausgebrannt
+4 lahm
+4 tired
+4 zermürbt
+4 abgekämpft
+4 abgeschlagen
+4 ermattet
+4 ermüdet
+4 überanstrengt
+4 urlaubsreif
+4 reif fürs Bett
+4 saumüde
+4 schlaff
+4 kraftlos
+4 energielos
+4 antriebslos
+4 zerschlagen
+4 ausgepumpt
+4 down
+4 im Eimer
+4 tot = halbtot
+4 hin
+4 geschlaucht
+4 erschossen
+4 schlafbedürftig
+4 erholungsbedürftig
+4 überarbeitet
+4 überdrüssig
+4 miad = müd
+5 fix und foxi
+5 sterbensmüde
+5 bleiern
+5 ausgezehrt
+5 marode
+5 dead
+5 benommen
+5 duselig
+5 ruhebedürftig
+5 sleepy

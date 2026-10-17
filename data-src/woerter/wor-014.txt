@@ -1,0 +1,76 @@
+@id wor-014
+@text Nenne ein Synonym für „viel“
+@typ geschlossen
+# Große Menge/Anzahl bzw. hoher Grad, inkl. Mengenausdrücken (eine Menge, haufenweise) und Umgangssprache; „oft/häufig“ für „viel arbeiten“.
+
+1 eine Menge = Mengen; ne Menge
+1 reichlich
+1 massig
+2 jede Menge
+2 zahlreich
+2 haufenweise
+2 unzählig
+2 etliche
+2 ein Haufen
+2 massenhaft
+2 Unmengen = Unmenge
+2 sehr
+2 enorm
+3 zuhauf
+3 Hülle und Fülle = in Hülle und Fülle
+3 en masse
+3 tonnenweise
+3 ohne Ende
+3 beträchtlich
+3 erheblich
+3 üppig
+3 häufig
+3 zig
+3 eine Masse = Massen
+4 scharenweise
+4 mengenweise
+4 Tausende
+4 wie Sand am Meer
+4 ausgiebig
+4 gehörig
+4 ordentlich
+4 ziemlich
+4 reich
+4 reichhaltig
+4 umfangreich
+4 groß
+4 gewaltig
+4 immens
+4 riesig
+4 massiv
+4 übermäßig
+4 ein Arsch voll
+4 vielerlei
+4 vielfach
+4 zigfach
+4 unendlich
+4 ungeheuer
+4 nicht wenig
+4 eine Vielzahl
+4 eine Fülle
+4 eine Unzahl
+4 oft
+4 mächtig
+4 x-fach
+5 literweise
+5 kiloweise
+5 säckeweise
+5 eimerweise
+5 Millionen
+5 en gros
+5 überreichlich
+5 überaus
+5 äußerst
+5 ungezählt
+5 vielzählig
+5 Tonnen
+5 ein Batzen
+5 ein Berg = Berge
+5 ein Sack voll
+5 satt
+5 a lot = lots

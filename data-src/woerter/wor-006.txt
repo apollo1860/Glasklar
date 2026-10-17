@@ -1,0 +1,61 @@
+@id wor-006
+@text Nenne ein Synonym für „lachen“
+@typ geschlossen
+# Lachen in allen Stärken inkl. lächeln/grinsen, umgangssprachliche Wendungen („sich kaputtlachen“) und auslachen/belächeln.
+
+1 kichern
+1 grinsen
+2 lächeln
+2 schmunzeln
+2 gackern
+3 prusten = losprusten
+3 feixen
+3 glucksen
+3 wiehern
+3 sich kaputtlachen = kaputtlachen
+3 sich totlachen = totlachen
+3 sich amüsieren = amüsieren
+3 auflachen
+3 auslachen
+3 gröhlen = grölen
+4 sich schieflachen = schieflachen
+4 sich krummlachen = krummlachen
+4 sich schlapplachen = schlapplachen
+4 sich kringeln = kringeln
+4 sich kugeln = kugeln
+4 sich wegschmeißen = wegschmeißen
+4 sich beömmeln = beömmeln
+4 sich beölen = beölen
+4 sich bepissen = bepissen
+4 sich zerkugeln = zerkugeln
+4 ablachen
+4 losplatzen = herausplatzen; rausplatzen
+4 losbrüllen = brüllen
+4 strahlen
+4 johlen
+4 juchzen
+4 jauchzen
+4 quietschen
+4 kreischen
+4 giggeln
+4 keckern
+4 grienen
+4 belächeln
+4 sich freuen = freuen
+4 abfeiern
+4 lol
+5 sich zerwuzeln = zerwuzeln
+5 sich kranklachen = kranklachen
+5 sich einen Ast lachen = Ast lachen
+5 sich scheckig lachen = scheckig lachen
+5 sich ausschütten vor Lachen = ausschütten
+5 sich biegen vor Lachen = biegen
+5 Tränen lachen
+5 griemeln
+5 kudern
+5 verlachen
+5 spotten
+5 höhnen
+5 smilen
+5 haha = hahaha
+5 xD

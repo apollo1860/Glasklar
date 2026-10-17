@@ -1,0 +1,67 @@
+@id wor-005
+@text Nenne ein Synonym für „gehen“
+@typ geschlossen
+# Fortbewegung zu Fuß (inkl. Gangarten wie schlendern, stapfen) sowie die Bedeutungen „weggehen“ und „funktionieren“ („das geht“).
+# Hinken/humpeln u. ä. bewusst nicht aufgenommen.
+
+1 laufen
+2 spazieren = spazieren gehen
+2 schreiten
+2 marschieren
+3 schlendern
+3 wandern
+3 bummeln
+3 stapfen
+3 latschen
+3 trotten
+3 flanieren
+3 stolzieren
+3 rennen
+3 weggehen
+3 losgehen
+4 tappen
+4 schlurfen
+4 schleichen
+4 tippeln
+4 trippeln
+4 waten
+4 watscheln
+4 stiefeln
+4 staksen
+4 stelzen
+4 hatschen
+4 tigern
+4 traben
+4 promenieren
+4 lustwandeln
+4 pilgern
+4 streifen = umherstreifen
+4 streunen
+4 sich bewegen = bewegen; fortbewegen; sich fortbewegen
+4 sich begeben = begeben
+4 wandeln
+4 fortgehen
+4 aufbrechen
+4 losziehen
+4 abhauen
+4 verschwinden
+4 sich verziehen = verziehen
+4 sich verdrücken = verdrücken
+4 verlassen
+4 funktionieren
+4 klappen
+4 zu Fuß gehen
+5 tapsen
+5 zockeln = zuckeln
+5 walken
+5 abziehen
+5 abdampfen
+5 abzischen
+5 abdüsen
+5 abschwirren
+5 die Kurve kratzen
+5 Leine ziehen
+5 die Biege machen
+5 sich vom Acker machen = vom Acker machen
+5 einherschreiten
+5 sterben

@@ -1,0 +1,81 @@
+@id wor-008
+@text Nenne ein Synonym für „dumm“
+@typ geschlossen
+# Wenig intelligent bzw. unklug/unsinnig (eine dumme Idee); inkl. Beleidigungen, Regionalismen und abwertendem Slang. Nur Adjektive, keine Substantive wie „Idiot“.
+
+1 blöd = blöde
+1 doof
+2 bescheuert
+2 dämlich
+2 idiotisch
+2 behindert = behindi
+2 dusselig = dusslig
+2 hohl
+2 unintelligent
+3 beschränkt
+3 begriffsstutzig
+3 einfältig
+3 töricht
+3 naiv
+3 beknackt
+3 bekloppt
+3 behämmert
+3 hirnlos
+3 strohdumm
+3 saudumm
+3 dumm wie Brot
+3 minderbemittelt
+3 unterbelichtet
+3 stumpf
+3 dösig
+3 deppert = depperd
+3 bled
+3 gaga
+3 dumpf
+3 debil
+3 schwachsinnig
+3 hirnrissig
+3 unklug
+3 stupide = stupid
+3 lost
+3 bedeppert
+3 verblödet
+3 vertrottelt = trottelig
+3 dappig = dappert
+4 tumb
+4 zurückgeblieben = geistig zurückgeblieben
+4 schwer von Begriff
+4 unwissend
+4 ungebildet
+4 ahnungslos
+4 einfach gestrickt
+4 albern
+4 sinnlos
+4 unsinnig
+4 unvernünftig
+4 hirnverbrannt
+4 gehirnamputiert
+4 dumm wie Bohnenstroh
+4 dümmlich
+4 strunzdumm
+4 stockdumm
+4 grenzdebil
+4 retardiert
+4 borniert
+4 hohlköpfig
+4 plemplem
+4 balla balla
+4 meschugge
+4 belämmert
+4 vernagelt
+4 unbedarft
+4 simpel
+4 primitiv
+4 geistlos
+4 bescheppert
+5 bestusst
+5 engstirnig
+5 schwer von Kapee = Kapee
+5 auf den Kopf gefallen
+5 dumb
+5 spastisch

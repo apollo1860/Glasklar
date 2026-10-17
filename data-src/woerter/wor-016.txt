@@ -1,0 +1,84 @@
+@id wor-016
+@text Nenne ein Synonym für „Penis“
+@typ geschlossen
+# Erwachsenen-Partyspiel: medizinische, Kinder-, Umgangs-, regionale (österr. Zumpferl, schweiz. Schnäbi, rhein. Lörres) und vulgäre Bezeichnungen sowie englischer Slang.
+# Wörter für den erigierten Penis (Latte, Ständer) und Sammelbegriffe (Gemächt, Genitalien) zugelassen; Hoden-Wörter (Eier, Sack) nicht.
+
+1 Schwanz
+1 Pimmel
+2 Glied = männliches Glied
+2 Dödel = Dödl
+2 Lümmel
+2 Pillermann = Pullermann; Pillemann
+2 Schniedel = Schniedelwutz
+2 Phallus
+3 Puller = Piller
+3 Johannes
+3 Riemen
+3 Prügel
+3 Rohr
+3 Latte
+3 Ständer
+3 Steifer
+3 Geschlechtsteil = männliches Geschlechtsteil
+3 Genitalien = Genital; Genitale
+3 Gemächt = Gemächte
+3 Zipfel
+3 Zumpferl = Zumpf
+3 Würstchen
+3 Pipimann
+3 Nille
+3 Rute
+3 Gerät
+3 Teil
+3 Kolben
+3 Hammer
+3 bestes Stück
+3 der Kleine = Kleiner; kleiner Freund
+3 Schwengel
+3 Dick
+3 Schnäbi = Schnäbeli
+3 Piephahn
+4 Lörres
+4 Spatz
+4 Wurst
+4 Pinsel
+4 Pfeife
+4 Flöte
+4 Ding
+4 Lanze
+4 Knüppel
+4 Stange
+4 Fleischpeitsche
+4 Freudenspender
+4 Rüssel
+4 Schlange
+4 Gurke
+4 Banane
+4 Spargel
+4 Nudel
+4 Membrum = Membrum virile
+4 Cock
+4 Willy = Willi
+4 Gehänge
+4 Weichteile
+4 Kronjuwelen = Familienjuwelen
+4 Schniepel
+4 Piepmatz
+4 Zauberstab
+4 Bimmel
+4 Harter
+4 Lustknochen
+5 Lingam
+5 Dong
+5 Johnson
+5 Pecker
+5 Aal
+5 Speer
+5 Salami
+5 Zepter
+5 Joystick
+5 Sackratte
+5 Bratwurst
+5 Lustmolch
+5 Geschlecht

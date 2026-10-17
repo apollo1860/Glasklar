@@ -1,0 +1,69 @@
+@id wor-011
+@text Nenne ein Synonym für „schnell“
+@typ geschlossen
+# Hohe Geschwindigkeit sowie „ohne Verzögerung“ (sofort, umgehend); inkl. Umgangs-/Regionalsprache und Ausrufe wie „ruckzuck“.
+
+1 rasch
+1 zügig
+2 flott
+2 fix
+2 flink
+2 eilig
+2 hurtig
+2 geschwind = gschwind
+3 rasant
+3 behände = behende; behänd
+3 schleunig = schleunigst
+3 umgehend
+3 sofort
+3 prompt
+3 pfeilschnell
+3 blitzschnell
+3 rapide
+3 temporeich
+3 eilends
+3 zackig
+3 dalli
+3 ruckzuck
+3 hastig
+3 unverzüglich
+3 zack zack = zack
+3 im Nu
+4 überstürzt
+4 fluchtartig
+4 express
+4 speedy
+4 wieselflink
+4 kurzfristig
+4 bald
+4 gleich
+4 subito
+4 pronto
+4 hopp hopp
+4 husch husch
+4 auf die Schnelle
+4 im Handumdrehen
+4 im Eiltempo
+4 rasend
+4 flugs
+4 wendig
+4 agil
+4 spritzig
+4 sauschnell
+4 blitzartig
+4 sportlich
+5 fast
+5 quick
+5 windschnell
+5 affenartig
+5 mit Vollgas = Vollgas
+5 stürmisch
+5 gewandt
+5 schwungvoll
+5 dynamisch
+5 turbo
+5 vif
+5 jäh
+5 plötzlich
+5 abrupt
+5 baldig

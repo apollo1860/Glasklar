@@ -159,11 +159,23 @@
       "id": "woerter",
       "name": "Wörter & Sprache",
       "icon": "🔤",
-      "count": 2,
-      "v": "a28c063031",
+      "count": 14,
+      "v": "4341601cc5",
       "questions": [
         "wor-003",
-        "wor-004"
+        "wor-004",
+        "wor-005",
+        "wor-006",
+        "wor-007",
+        "wor-008",
+        "wor-009",
+        "wor-010",
+        "wor-011",
+        "wor-012",
+        "wor-013",
+        "wor-014",
+        "wor-015",
+        "wor-016"
       ]
     },
     {

@@ -1,0 +1,66 @@
+@id wor-012
+@text Nenne ein Synonym für „essen“ (Verb)
+@typ geschlossen
+# Nahrung zu sich nehmen in allen Registern inkl. Mahlzeit-Verben (frühstücken, vespern, jausnen) und Tier-/Slang-Verben (fressen, mampfen).
+
+1 speisen
+1 fressen
+2 futtern
+2 mampfen
+2 verspeisen
+2 verzehren
+2 schlemmen
+3 dinieren
+3 schmausen
+3 naschen
+3 knabbern
+3 kauen
+3 verschlingen
+3 schlingen
+3 reinhauen
+3 spachteln
+3 schnabulieren
+3 tafeln
+3 verputzen
+3 verdrücken
+3 vertilgen
+3 snacken
+4 schlucken
+4 runterschlingen = hinunterschlingen; herunterschlingen
+4 schaufeln = reinschaufeln
+4 zu sich nehmen
+4 sich ernähren = ernähren
+4 frühstücken
+4 lunchen
+4 vespern
+4 jausnen = jausen
+4 Brotzeit machen
+4 knuspern
+4 schmatzen
+4 mümmeln
+4 nagen
+4 löffeln
+4 reinziehen
+4 sich vollstopfen = vollstopfen; reinstopfen
+4 sich vollfressen = vollfressen
+4 einverleiben = sich einverleiben
+4 kosten
+4 zulangen
+4 zu Mittag essen = Mittagessen
+4 zu Abend essen = Abendessen
+5 brunchen
+5 nachtmahlen
+5 picken
+5 picknicken
+5 verkosten
+5 probieren
+5 grasen
+5 weiden
+5 äsen
+5 soupieren
+5 acheln
+5 zuschlagen
+5 sich den Bauch vollschlagen = Bauch vollschlagen
+5 es sich schmecken lassen = sich schmecken lassen
+5 verkasematuckeln
+5 eat
