@@ -12,7 +12,7 @@ import {
   renderCategoryChips, renderAnswerChips, sipsLabel,
 } from './ui.js';
 import {
-  settings, played, requestWake, releaseWake, Countdown, bindTimerSlider,
+  settings, played, requestWake, releaseWake, Countdown,
   revealKind, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
 } from './common.js';
 import { createMultiplayer } from './mp.js';
@@ -40,7 +40,6 @@ const S = {
   phase: 'lobby',
   mode: 'single',
   enabled: [],
-  timerSec: CONFIG.timer.default,
   round: 0,
   qNum: 0, // gewertete Frage in der Runde (1..3)
   fills: [],
@@ -93,14 +92,12 @@ function openSetup() {
     $('#setup-hint').hidden = !!list.length;
   });
   $('#btn-start-round').disabled = !S.enabled.length;
-  bindTimerSlider($('#setup-timer'), $('#setup-timer-val'));
   showScreen('setup');
 }
 
 async function startSingle() {
   setMode('single');
   countdown.now = () => Date.now();
-  S.timerSec = settings.get().timer;
   S.round = 0;
   S.history = [];
   S.lastCat = null;
@@ -144,8 +141,7 @@ async function showNewQuestion() {
     renderQuestionCard(question, { cat: catName(question.kategorie), round: S.round, qNum: S.qNum, canSkip: true });
     setPhase('frage');
     answerInput.setQuestion(question, getSearchIndex(question));
-    countdown.seconds = S.timerSec;
-    countdown.start();
+    $('#game-timer').hidden = true; // Singleplayer ohne Zeitlimit
   } catch (e) {
     console.error(e);
     toast(`Fehler beim Laden: ${e.message}`, 4000);
@@ -160,15 +156,6 @@ function skipQuestion() {
   sfx.pop();
   // Vorhandene Eingabe wird verworfen, Frage zählt nicht als eine der 3
   showNewQuestion();
-}
-
-function onTimeout() {
-  if (S.phase !== 'frage') return;
-  sfx.buzz();
-  answerInput.flushNoHit();
-  const sel = answerInput.currentSelection();
-  answerInput.lock();
-  submitAnswer(sel || { type: 'timeout' });
 }
 
 function submitAnswer(sub) {
@@ -328,7 +315,6 @@ async function exitGame() {
 
 function openSettings() {
   const s = settings.get();
-  bindTimerSlider($('#settings-timer'), $('#settings-timer-val'));
   $('#settings-sound').checked = !isMuted();
   $('#settings-vibrate').checked = s.vibrate;
   updateMissingCount();
@@ -447,8 +433,8 @@ async function init() {
     onSubmit: (sub) => (S.mode === 'multi' ? mp.onSubmit(sub) : submitAnswer(sub)),
   });
   countdown = new Countdown({
-    seconds: S.timerSec, bar: $('#timer-bar'), label: $('#timer-num'),
-    onEnd: () => (S.mode === 'multi' ? mp.onTimeout() : onTimeout()),
+    seconds: CONFIG.lastAnswerSeconds, bar: $('#timer-bar'), label: $('#timer-num'),
+    onEnd: () => { if (S.mode === 'multi') mp.onTimeout(); },
   });
   mp = createMultiplayer({
     gameGlass, answerInput, countdown, setPhase, setMode, goHome, catName,

@@ -22,7 +22,10 @@ export async function getCatalog() {
 
 export function loadCategory(id) {
   if (!categoryPromises.has(id)) {
-    const p = fetch(`data/${encodeURIComponent(id)}.json`).then((r) => {
+    const p = loadIndex().then((index) => {
+      const v = index.categories.find((c) => c.id === id)?.v ?? index.generated ?? '';
+      return fetch(`data/${encodeURIComponent(id)}.json?v=${encodeURIComponent(v)}`);
+    }).then((r) => {
       if (!r.ok) throw new Error(`${id}.json: HTTP ${r.status}`);
       return r.json();
     }).then((list) => new Map(list.map((q) => [q.id, q])));

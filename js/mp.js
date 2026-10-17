@@ -14,14 +14,14 @@ import { createGlass } from './glass.js';
 import { confetti, sparkle, splash, vibrate, wait, reducedMotion, flyInto } from './fx.js';
 import { $, esc, showScreen, modal, toast, renderCategoryChips, sipsLabel } from './ui.js';
 import {
-  settings, played, requestWake, releaseWake, bindTimerSlider, revealKind, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
+  settings, played, requestWake, releaseWake, revealKind, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
 } from './common.js';
 import {
   getBackend, backendMode, roomPath, session, createRoom, joinRoom, startPresence, leaveRoom,
 } from './net.js';
 
 const GAME_PHASES = new Set(['frage', 'reveal', 'endabrechnung']);
-const REVEAL_GRACE_MS = 800; // Host wartet nach Timer-Ende kurz auf späte Antworten
+const REVEAL_GRACE_MS = 800; // Host wartet nach Ablauf der letzten 20 s kurz auf späte Antworten
 const FALLBACK_MS = 4000; // danach darf jeder Client auflösen (Host im Hintergrund/weg)
 
 export function createMultiplayer(ctx) {
@@ -112,7 +112,7 @@ export function createMultiplayer(ctx) {
       const s = settings.get();
       const all = allCategories();
       const cats = (s.categories || all).filter((id) => all.includes(id));
-      const code = await createRoom(be, { name, timer: s.timer, categories: cats.length ? cats : all });
+      const code = await createRoom(be, { name, categories: cats.length ? cats : all });
       await enter(be, code);
     });
   }
@@ -296,10 +296,9 @@ export function createMultiplayer(ctx) {
     $('#lobby-count').textContent = `${n} verbunden`;
 
     const cats = M.meta.categories?.length ? M.meta.categories : allCategories();
-    const timer = M.meta.timer || CONFIG.timer.default;
     $('#lobby-host-settings').hidden = !host;
     $('#lobby-guest-settings').hidden = host;
-    const key = `${host}|${cats.join(',')}|${timer}`;
+    const key = `${host}|${cats.join(',')}`;
     if (key !== M.lobbySettingsKey) {
       M.lobbySettingsKey = key;
       if (host) {
@@ -307,16 +306,9 @@ export function createMultiplayer(ctx) {
           M.be.update(R('meta'), { categories: list.length ? list : null }).catch(() => {});
           settings.set({ categories: list });
         });
-        bindTimerSlider($('#lobby-timer'), $('#lobby-timer-val'), {
-          value: timer,
-          onChange: (v) => {
-            M.be.update(R('meta'), { timer: v }).catch(() => {});
-            settings.set({ timer: v });
-          },
-        });
       } else {
         const names = ctx.getIndex().categories.filter((c) => cats.includes(c.id)).map((c) => c.name);
-        $('#lobby-settings-text').innerHTML = `<b>Kategorien:</b> ${esc(names.join(', '))}<br><b>Antwortzeit:</b> ${timer} Sekunden`;
+        $('#lobby-settings-text').innerHTML = `<b>Kategorien:</b> ${esc(names.join(', '))}`;
       }
     }
 
@@ -390,8 +382,7 @@ export function createMultiplayer(ctx) {
         seq: (M.question?.seq || 0) + 1,
         id: pick.id,
         kategorie: pick.kategorie,
-        startAt: TS,
-        duration: meta.timer || CONFIG.timer.default,
+        shownAt: TS,
       },
       answers: null,
       answered: null,
@@ -473,32 +464,54 @@ export function createMultiplayer(ctx) {
     $('#btn-skip').hidden = !isHost();
     renderStrip();
 
-    const deadline = (qs.startAt || 0) + qs.duration * 1000;
+    if (isHost() && !isPaused() && allAnswered(M.players, M.answered)) {
+      triggerReveal(qs.seq);
+      return;
+    }
+
+    // Kein Zeitlimit, bis nur noch einer fehlt – dann startet die "Letzte Chance"
+    if (!qs.lastCallAt) {
+      showTimer(false);
+      M.timerKey = null;
+      clearTimeout(M.fallbackTimer);
+      const missing = active().filter((p) => !M.answered?.[p.id]);
+      if (isHost() && !isPaused() && active().length >= CONFIG.minPlayers && missing.length === 1) {
+        M.be.update(R('question'), { lastCallAt: M.be.TS }).catch(() => {});
+      }
+      return;
+    }
+
+    const secs = CONFIG.lastAnswerSeconds;
+    const deadline = qs.lastCallAt + secs * 1000;
+    showTimer(true);
+    ctx.countdown.seconds = secs;
     if (isPaused()) {
       M.timerKey = null;
       clearTimeout(M.fallbackTimer);
-      ctx.countdown.seconds = qs.duration;
       ctx.countdown.freeze(deadline - (M.meta.pausedAt || M.be.now()));
       if (isHost() && !M.meta.pausedAt) M.be.update(R('meta'), { pausedAt: M.be.TS }).catch(() => {});
       return;
     }
     if (M.meta.pausedAt) {
-      // Pause vorbei: Startzeit um die Pausendauer verschieben
+      // Pause vorbei: Letzte-Chance-Zeit um die Pausendauer verschieben
       if (isHost()) {
         const shift = Math.max(0, M.be.now() - M.meta.pausedAt);
-        M.be.update(R(), { 'question/startAt': (qs.startAt || 0) + shift, 'meta/pausedAt': null }).catch(() => {});
+        M.be.update(R(), { 'question/lastCallAt': qs.lastCallAt + shift, 'meta/pausedAt': null }).catch(() => {});
       }
       return;
     }
-    const key = `${qs.seq}:${qs.startAt}:${qs.duration}`;
+    const key = `${qs.seq}:${qs.lastCallAt}`;
     if (M.timerKey !== key) {
       M.timerKey = key;
-      ctx.countdown.seconds = qs.duration;
-      ctx.countdown.start(qs.startAt);
+      ctx.countdown.start(qs.lastCallAt);
       clearTimeout(M.fallbackTimer);
       M.fallbackTimer = setTimeout(() => triggerReveal(qs.seq), Math.max(0, deadline - M.be.now()) + FALLBACK_MS);
+      if (!M.submitted) toast(`Alle anderen sind fertig – noch ${secs} Sekunden!`, 3000);
     }
-    if (isHost() && allAnswered(M.players, M.answered)) triggerReveal(qs.seq);
+  }
+
+  function showTimer(on) {
+    $('#game-timer').hidden = !on;
   }
 
   async function onSubmit(sub) {
@@ -539,6 +552,7 @@ export function createMultiplayer(ctx) {
       M.revealedSeq = qs.seq;
       clearTimeout(M.fallbackTimer);
       ctx.countdown.stop();
+      showTimer(false);
       ctx.answerInput.lock();
       ctx.setPhase('reveal');
       const answers = (await M.be.get(R('answers')).catch(() => null)) || {};

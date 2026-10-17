@@ -12,8 +12,7 @@
           ".read": "auth != null",
           ".write": "auth != null && data.parent().child('players/' + auth.uid).exists()",
           ".validate": "newData.hasChildren(['code', 'hostId', 'phase'])",
-          "phase": { ".validate": "newData.isString() && newData.val().matches(/^(lobby|frage|reveal|endabrechnung|ende)$/)" },
-          "timer": { ".validate": "newData.isNumber() && newData.val() >= 20 && newData.val() <= 60" }
+          "phase": { ".validate": "newData.isString() && newData.val().matches(/^(lobby|frage|reveal|endabrechnung|ende)$/)" }
         },
 
         "players": {

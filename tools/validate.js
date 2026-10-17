@@ -4,7 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { searchKey } from '../js/logic.js';
+import { searchKey, buildSearchIndex, searchAnswers } from '../js/logic.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = path.join(ROOT, 'data');
@@ -89,6 +89,20 @@ for (const cat of index.categories || []) {
           keysAlt.set(k2, desc);
         }
         keysAlt.set(k, keysAlt.get(k) ?? desc);
+      }
+    }
+
+    // Selbsttest: Jede Antwort und jeder Alias muss beim Eintippen genau sich selbst als exakten Treffer liefern
+    const sIndex = buildSearchIndex(q);
+    for (const a of q.answers) {
+      for (const label of [a.text, ...(a.aliases || [])]) {
+        if (!isStr(label)) continue;
+        const hits = searchAnswers(sIndex, label);
+        if (!hits.some((h) => h.id === a.id && !h.fuzzy)) {
+          err(`${where}: "${label}" findet beim Eintippen nicht "${a.text}" (Treffer: ${hits.map((h) => h.text).join(', ') || 'keine'})`);
+        } else if (hits.length > 1) {
+          warn(`${where}: "${label}" zeigt mehrere Treffer: ${hits.map((h) => h.text).join(', ')}`);
+        }
       }
     }
 

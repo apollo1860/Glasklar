@@ -14,8 +14,9 @@ export const CONFIG = {
   maxSipsPerRound: 10,
   questionsPerRound: 3,
 
-  // Antwortzeit in Sekunden
-  timer: { default: 30, min: 20, max: 60, step: 5 },
+  // Kein Zeitlimit – nur im Multiplayer: Sobald alle bis auf einen geantwortet haben,
+  // bleiben dem letzten Spieler noch so viele Sekunden.
+  lastAnswerSeconds: 20,
 
   // Suche: Vorschläge erst bei ganzem Wort (exakt oder mit Tippfehler), nie per Anfangsbuchstabe
   search: {

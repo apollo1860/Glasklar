@@ -288,6 +288,7 @@ button { font: inherit; color: inherit; }
 @keyframes msgIn { to { opacity: 1; transform: translate(-50%, 0); } }
 
 /* Timer */
+.timer[hidden] { display: none !important; }
 .timer { display: flex; align-items: center; gap: 12px; }
 .timer-track { flex: 1; height: 6px; border-radius: 6px; background: var(--line); overflow: hidden; }
 .timer-bar { height: 100%; width: 100%; transform-origin: left center; border-radius: 6px; background: var(--ink); transition: background .4s; }

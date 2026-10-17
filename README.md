@@ -30,20 +30,20 @@ Mit Konfiguration lässt sich der Testmodus über `?lokal` in der URL erzwingen 
 ### Ablauf
 
 - Raum per 4-stelligem Code (oder Einladungslink `?raum=1234`), Name wählen, Host startet ab 2 verbundenen Spielern.
-- Timer läuft über die Server-Startzeit (`.info/serverTimeOffset`), nicht über die Uhr des Geräts.
+- Kein Zeitlimit – bis auf eine Ausnahme: Haben alle bis auf eine:n geantwortet, bleiben dem letzten Spieler noch 20 Sekunden (`CONFIG.lastAnswerSeconds`). Der Countdown läuft über die Serverzeit (`.info/serverTimeOffset`), nicht über die Uhr des Geräts.
 - Antworten liegen bis zum Reveal verdeckt (die Regeln erlauben das Lesen erst nach der Frage), danach sind Eingaben gesperrt.
-- Reveal, sobald alle geantwortet haben oder der Timer abläuft.
+- Reveal, sobald alle geantwortet haben oder die letzten 20 Sekunden abgelaufen sind.
 - Reconnect: Spieler-ID und Raum werden gespeichert, beim Neuladen kommt „Zurück ins Spiel?".
-- Verlässt der Host den Raum, übernimmt der älteste verbundene Spieler. Bei weniger als 2 verbundenen Spielern pausiert das Spiel (der Timer wird angehalten).
+- Verlässt der Host den Raum, übernimmt der älteste verbundene Spieler. Bei weniger als 2 verbundenen Spielern pausiert das Spiel (ein laufender Countdown wird angehalten).
 - Räume, die länger als 6 Stunden inaktiv sind, werden beim Erstellen eines neuen Raums gelöscht.
 
 ### Datenmodell (`rooms/{code}`)
 
 | Pfad | Inhalt |
 |---|---|
-| `meta` | Phase, Host, Runde, Frage-Nr., Kategorien, Timer, Pause, letzte Aktivität |
+| `meta` | Phase, Host, Runde, Frage-Nr., Kategorien, Pause, letzte Aktivität |
 | `players/{uid}` | Name, Beitrittszeit, verbunden/ausgetreten |
-| `question` | aktuelle Frage-ID, Server-Startzeit, Dauer |
+| `question` | aktuelle Frage-ID, Anzeigezeit, ggf. Start der letzten 20 s (`lastCallAt`) |
 | `answered/{uid}` | nur „hat geantwortet" (für alle sichtbar) |
 | `answers/{uid}` | die Antwort selbst – lesbar erst nach dem Reveal |
 | `fills/{uid}/q1..q3` | Füllung pro Frage der laufenden Runde |
@@ -67,13 +67,13 @@ npm run validate     # prüft data/, zeigt Tabelle mit Tier-Verteilung
 ```
 index.html
 css/style.css          Heller Look, Glas-Effekte, Animationen
-js/config.js           Alle Spielwerte (Füllung je tier, Cap, Aufschlag, Timer …)
+js/config.js           Alle Spielwerte (Füllung je tier, Cap, Aufschlag, letzte 20 s …)
 js/logic.js            Reine Funktionen: Normalisierung, Suche, Bewertung, Ziehen
 js/game.js             App-Start, Zustandsmaschine, Singleplayer
 js/mp.js               Multiplayer-Steuerung (Lobby, Fragen, Reveal, Abrechnung, Host-Wechsel)
 js/net.js              Firebase- bzw. lokales Test-Backend, Räume, Presence
 js/firebase-config.js  Firebase-Konfiguration (Platzhalter)
-js/common.js           Gemeinsame Bausteine (Timer, Glas-Füllung, Einstellungen)
+js/common.js           Gemeinsame Bausteine (Countdown, Glas-Füllung, Einstellungen)
 js/ui.js               Bildschirme, Modals, Antwort-Eingabe mit Dropdown, Fehlend-Log
 js/glass.js            SVG-Glas (Wellen, Schaum, Bläschen, Shake, Overflow)
 js/fx.js               Konfetti, Funkeln, Spritzer, Vibration

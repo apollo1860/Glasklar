@@ -57,10 +57,6 @@
           <div id="setup-categories" class="chips"></div>
           <p id="setup-hint" class="hint" hidden>Wähle mindestens eine Kategorie.</p>
         </div>
-        <div class="card">
-          <h3>Antwortzeit <output id="setup-timer-val" class="pill">30 s</output></h3>
-          <input id="setup-timer" type="range" class="slider" aria-label="Antwortzeit in Sekunden">
-        </div>
         <div class="card rules-mini">
           <p>3 Fragen pro Runde · seltene Antworten halten dein Glas leer · am Ende trinkst du, was drin ist (max. 10 Schlücke).</p>
         </div>
@@ -94,9 +90,9 @@
         <div id="reveal-msg" class="reveal-msg" aria-live="polite"></div>
       </div>
 
-      <div class="timer" data-state="ok">
+      <div id="game-timer" class="timer" data-state="ok" hidden>
         <div class="timer-track"><div id="timer-bar" class="timer-bar"></div></div>
-        <span id="timer-num" class="timer-num">30</span>
+        <span id="timer-num" class="timer-num">20</span>
       </div>
 
       <div id="answer-area" class="answer-area">
@@ -199,8 +195,6 @@
         <div id="lobby-host-settings" class="card">
           <h3>Kategorien</h3>
           <div id="lobby-categories" class="chips"></div>
-          <h3 class="mt">Antwortzeit <output id="lobby-timer-val" class="pill">30 s</output></h3>
-          <input id="lobby-timer" type="range" class="slider" aria-label="Antwortzeit in Sekunden">
         </div>
         <div id="lobby-guest-settings" class="card" hidden>
           <h3>Einstellungen</h3>
@@ -240,10 +234,6 @@
         <span></span>
       </header>
       <div class="scroll">
-        <div class="card">
-          <h3>Antwortzeit <output id="settings-timer-val" class="pill">30 s</output></h3>
-          <input id="settings-timer" type="range" class="slider" aria-label="Antwortzeit in Sekunden">
-        </div>
         <div class="card">
           <label class="switch-row"><span>Sound</span><input id="settings-sound" type="checkbox" class="switch"></label>
           <label class="switch-row"><span>Vibration</span><input id="settings-vibrate" type="checkbox" class="switch"></label>

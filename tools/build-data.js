@@ -18,6 +18,7 @@
 // Antwort-IDs bleiben stabil: Bestehende IDs aus data/*.json werden über den
 // normalisierten Antworttext wiederverwendet, neue Antworten bekommen die nächste freie Nummer.
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { searchKey } from '../js/logic.js';
@@ -84,9 +85,12 @@ for (const cat of categories) {
     out.answers = q.answers;
     return out;
   });
-  fs.writeFileSync(path.join(OUT, `${cat.id}.json`), JSON.stringify(questions, null, 1) + '\n');
+  const json = JSON.stringify(questions, null, 1) + '\n';
+  fs.writeFileSync(path.join(OUT, `${cat.id}.json`), json);
+  // Inhalts-Hash als Version: Browser laden nach jeder Datenänderung frisch statt aus dem Cache
+  const v = crypto.createHash('sha1').update(json).digest('hex').slice(0, 10);
   index.categories.push({
-    id: cat.id, name: cat.name, icon: cat.icon, count: questions.length,
+    id: cat.id, name: cat.name, icon: cat.icon, count: questions.length, v,
     questions: questions.map((q) => q.id),
   });
   total += questions.length;

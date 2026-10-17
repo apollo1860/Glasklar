@@ -1,12 +1,13 @@
 {
   "version": 1,
-  "generated": "2026-10-16",
+  "generated": "2026-10-17",
   "categories": [
     {
       "id": "geografie",
       "name": "Geografie",
       "icon": "🌍",
       "count": 34,
+      "v": "526588978a",
       "questions": [
         "geo-001",
         "geo-002",
@@ -49,6 +50,7 @@
       "name": "Ranglisten",
       "icon": "📊",
       "count": 8,
+      "v": "82eb3508cf",
       "questions": [
         "sta-001",
         "sta-002",
@@ -65,6 +67,7 @@
       "name": "Essen & Trinken",
       "icon": "🍕",
       "count": 12,
+      "v": "e15d97c033",
       "questions": [
         "ess-002",
         "ess-003",
@@ -85,6 +88,7 @@
       "name": "Tiere",
       "icon": "🐟",
       "count": 8,
+      "v": "100c53f9b9",
       "questions": [
         "tie-003",
         "tie-004",
@@ -101,6 +105,7 @@
       "name": "Sport",
       "icon": "⚽",
       "count": 1,
+      "v": "6c905adacd",
       "questions": [
         "spo-001"
       ]
@@ -110,6 +115,7 @@
       "name": "Film & Serien",
       "icon": "🎬",
       "count": 10,
+      "v": "0c3ccacfd7",
       "questions": [
         "fil-001",
         "fil-002",
@@ -128,6 +134,7 @@
       "name": "Musik",
       "icon": "🎸",
       "count": 10,
+      "v": "a049310a70",
       "questions": [
         "mus-003",
         "mus-004",
@@ -146,6 +153,7 @@
       "name": "Wörter & Sprache",
       "icon": "🔤",
       "count": 2,
+      "v": "a28c063031",
       "questions": [
         "wor-003",
         "wor-004"
@@ -156,6 +164,7 @@
       "name": "Marken & Firmen",
       "icon": "🏷️",
       "count": 3,
+      "v": "3bfa493ee7",
       "questions": [
         "mar-001",
         "mar-002",
@@ -167,6 +176,7 @@
       "name": "Politik & Persönlichkeiten",
       "icon": "🏛️",
       "count": 4,
+      "v": "c45726defd",
       "questions": [
         "pol-001",
         "pol-002",
@@ -179,6 +189,7 @@
       "name": "Alltag, Party & Technik",
       "icon": "🎲",
       "count": 19,
+      "v": "f5a2eb3d41",
       "questions": [
         "all-001",
         "all-002",

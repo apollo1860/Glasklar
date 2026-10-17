@@ -9,31 +9,16 @@ import { $ } from './ui.js';
 /* Einstellungen                                                       */
 /* ------------------------------------------------------------------ */
 
-export function clampTimer(v) {
-  const { min, max } = CONFIG.timer;
-  return Math.max(min, Math.min(max, Number(v) || CONFIG.timer.default));
-}
-
 export const settings = {
   get() {
     const s = store.get('settings', {});
     return {
-      timer: clampTimer(s.timer ?? CONFIG.timer.default),
       vibrate: s.vibrate !== false,
       categories: Array.isArray(s.categories) ? s.categories : null,
     };
   },
   set(patch) { store.set('settings', { ...this.get(), ...patch }); },
 };
-
-export function bindTimerSlider(slider, out, { value = settings.get().timer, onChange = (v) => settings.set({ timer: v }) } = {}) {
-  const { min, max, step } = CONFIG.timer;
-  Object.assign(slider, { min, max, step });
-  slider.value = value;
-  out.textContent = `${slider.value} s`;
-  slider.oninput = () => { out.textContent = `${slider.value} s`; };
-  slider.onchange = () => onChange(clampTimer(slider.value));
-}
 
 /* ------------------------------------------------------------------ */
 /* Gespielte Fragen pro Gerät                                          */

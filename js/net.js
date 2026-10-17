@@ -230,7 +230,7 @@ export async function touchRoom(be, code) {
   await be.set(`roomsActivity/${code}`, be.TS).catch(() => {});
 }
 
-export async function createRoom(be, { name, timer, categories }) {
+export async function createRoom(be, { name, categories }) {
   await cleanupStaleRooms(be);
   const cutoff = inactiveCutoff(be);
   for (let i = 0; i < 30; i++) {
@@ -243,7 +243,7 @@ export async function createRoom(be, { name, timer, categories }) {
     await be.set(roomPath(code), {
       meta: {
         code, hostId: be.uid, phase: 'lobby', round: 0, qNum: 0,
-        createdAt: be.TS, lastActive: be.TS, timer, categories,
+        createdAt: be.TS, lastActive: be.TS, categories,
       },
       players: { [be.uid]: { name, joinedAt: be.TS, connected: true } },
     });
