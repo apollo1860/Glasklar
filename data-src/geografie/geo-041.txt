@@ -1,0 +1,60 @@
+@id geo-041
+@text Nenne ein Land, in dessen Flagge Schwarz vorkommt
+@typ geschlossen
+# Regel: jede Farbe, die in der aktuellen offiziellen Nationalflagge sichtbar vorkommt, zählt – auch in Wappen/Emblem.
+# Winzige Details eines Wappens/Emblems (z. B. Spanien Blau/Grün, Vatikan Rot) = tier5. Hellblau = Blau, Weinrot/Kastanienbraun = Rot, Gold = Gelb, Orange zählt NICHT als Gelb.
+# Länder mit zivilen und staatlichen Flaggen (Peru, Costa Rica, Polen, Österreich): die schlichte Nationalflagge ohne Wappen.
+# Afghanistan: Flagge der Republik (UN-anerkannt, Schwarz-Rot-Grün); die Taliban-Flagge ist weiß mit schwarzer Schrift.
+# Nordirland hat keine offizielle Flagge; gewertet Ulster Banner/St.-Patrick-Kreuz (Rot), Krone im Ulster Banner = Gelb (tier5).
+# Grönland, England, Schottland, Wales, Nordirland, Taiwan, Kosovo, Palästina, Vatikanstadt wie in geo-001 aufgenommen.
+# Schwarz nur als Detail: Kambodscha (Konturen von Angkor Wat), Turkmenistan (Teppichmuster), Ecuador (Kondor im Wappen) -> tier5.
+# Nicht Schwarz u. a.: Österreich und Polen (Staatsflaggen mit Adler nicht gewertet), Spanien, Mexiko, Vatikan, Frankreich, USA.
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Belgien
+2 Albanien
+2 Estland
+2 Jamaika
+2 Ägypten
+2 Südafrika
+2 Kenia
+3 Bahamas
+3 Barbados
+3 Trinidad und Tobago
+3 Südkorea = Korea; Republik Korea
+3 Afghanistan
+3 Irak
+3 Palästina = Staat Palästina
+3 Jordanien
+3 Syrien
+3 Vereinigte Arabische Emirate = VAE; Emirate
+3 Kuwait
+3 Jemen
+3 Brunei
+3 Papua-Neuguinea
+3 Libyen
+3 Ghana
+3 Tansania
+3 Sudan
+3 Simbabwe
+3 Uganda
+3 Angola
+3 Südsudan
+3 Botswana
+3 Malawi
+3 Mosambik
+5 Ecuador
+5 Guyana
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica
+5 Kambodscha
+5 Turkmenistan
+5 Osttimor = Timor-Leste
+5 Vanuatu
+5 Sambia
+5 Lesotho
+5 Eswatini = Swasiland
+5 Guinea-Bissau
+5 São Tomé und Príncipe

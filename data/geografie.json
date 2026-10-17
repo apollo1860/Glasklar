@@ -8902,5 +8902,3896 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "geo-039",
+  "text": "Nenne ein Land, in dessen Flagge Blau vorkommt",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-039-a0001",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-039-a0002",
+    "text": "Griechenland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-039-a0003",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-039-a0004",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0005",
+    "text": "Schweden",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0006",
+    "text": "Finnland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0007",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0008",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0009",
+    "text": "Ukraine",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0010",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0011",
+    "text": "Argentinien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0012",
+    "text": "Israel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0013",
+    "text": "Australien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-039-a0014",
+    "text": "Norwegen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0015",
+    "text": "Schottland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0016",
+    "text": "Tschechien",
+    "aliases": [
+     "Tschechische Republik",
+     "Tschechei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0017",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0018",
+    "text": "Island",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0019",
+    "text": "Luxemburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0020",
+    "text": "Rumänien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0021",
+    "text": "Serbien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0022",
+    "text": "Slowakei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0023",
+    "text": "Slowenien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0024",
+    "text": "Bosnien und Herzegowina",
+    "aliases": [
+     "Bosnien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0025",
+    "text": "Kosovo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0026",
+    "text": "Estland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0027",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0028",
+    "text": "Liechtenstein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0029",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0030",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0031",
+    "text": "Chile",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0032",
+    "text": "Kolumbien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0033",
+    "text": "Venezuela",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0034",
+    "text": "Kuba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0035",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0036",
+    "text": "Uruguay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0037",
+    "text": "Costa Rica",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0038",
+    "text": "Panama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0039",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0040",
+    "text": "Indien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0041",
+    "text": "Thailand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0042",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0043",
+    "text": "Nordkorea",
+    "aliases": [
+     "Demokratische Volksrepublik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0044",
+    "text": "Philippinen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0045",
+    "text": "Malaysia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0046",
+    "text": "Mongolei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0047",
+    "text": "Kasachstan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0048",
+    "text": "Taiwan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0049",
+    "text": "Neuseeland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0050",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0051",
+    "text": "Somalia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-039-a0052",
+    "text": "Paraguay",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0053",
+    "text": "Dominikanische Republik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0054",
+    "text": "Haiti",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0055",
+    "text": "Kambodscha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0056",
+    "text": "Laos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0057",
+    "text": "Nepal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0058",
+    "text": "Armenien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0059",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0060",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0061",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0062",
+    "text": "Ruanda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0063",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0064",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-039-a0065",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0066",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0067",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0068",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0069",
+    "text": "Guatemala",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0070",
+    "text": "Honduras",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0071",
+    "text": "El Salvador",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0072",
+    "text": "Nicaragua",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0073",
+    "text": "Belize",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0074",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0075",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0076",
+    "text": "St. Vincent und die Grenadinen",
+    "aliases": [
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0077",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0078",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0079",
+    "text": "Usbekistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0080",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0081",
+    "text": "Samoa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0082",
+    "text": "Salomonen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0083",
+    "text": "Kiribati",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0084",
+    "text": "Tuvalu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0085",
+    "text": "Nauru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0086",
+    "text": "Palau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0087",
+    "text": "Marshallinseln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0088",
+    "text": "Mikronesien",
+    "aliases": [
+     "Föderierte Staaten von Mikronesien"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0089",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0090",
+    "text": "Eritrea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0091",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0092",
+    "text": "Botswana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0093",
+    "text": "Lesotho",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0094",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0095",
+    "text": "Tschad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0096",
+    "text": "Gambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0097",
+    "text": "Äquatorialguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0098",
+    "text": "Sierra Leone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0099",
+    "text": "Liberia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0100",
+    "text": "Gabun",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0101",
+    "text": "Zentralafrikanische Republik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0102",
+    "text": "Demokratische Republik Kongo",
+    "aliases": [
+     "DR Kongo",
+     "Kongo-Kinshasa"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0103",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-039-a0104",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-040",
+  "text": "Nenne ein Land, in dessen Flagge Rot vorkommt",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-040-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-040-a0002",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-040-a0003",
+    "text": "Kanada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-040-a0004",
+    "text": "Japan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-040-a0005",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0006",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0007",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0008",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0009",
+    "text": "Polen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0010",
+    "text": "Dänemark",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0011",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0012",
+    "text": "England",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0013",
+    "text": "Türkei",
+    "aliases": [
+     "Türkiye"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0014",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0015",
+    "text": "China",
+    "aliases": [
+     "Volksrepublik China"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-040-a0016",
+    "text": "Niederlande",
+    "aliases": [
+     "Holland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0017",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0018",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0019",
+    "text": "Norwegen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0020",
+    "text": "Wales",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0021",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0022",
+    "text": "Tschechien",
+    "aliases": [
+     "Tschechische Republik",
+     "Tschechei"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0023",
+    "text": "Ungarn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0024",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0025",
+    "text": "Island",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0026",
+    "text": "Luxemburg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0027",
+    "text": "Rumänien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0028",
+    "text": "Bulgarien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0029",
+    "text": "Serbien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0030",
+    "text": "Slowakei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0031",
+    "text": "Slowenien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0032",
+    "text": "Albanien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0033",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0034",
+    "text": "Nordmazedonien",
+    "aliases": [
+     "Mazedonien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0035",
+    "text": "Litauen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0036",
+    "text": "Lettland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0037",
+    "text": "Belarus",
+    "aliases": [
+     "Weißrussland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0038",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0039",
+    "text": "Liechtenstein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0040",
+    "text": "Monaco",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0041",
+    "text": "Malta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0042",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0043",
+    "text": "Grönland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0044",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0045",
+    "text": "Chile",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0046",
+    "text": "Peru",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0047",
+    "text": "Kolumbien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0048",
+    "text": "Venezuela",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0049",
+    "text": "Kuba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0050",
+    "text": "Bolivien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0051",
+    "text": "Thailand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0052",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0053",
+    "text": "Nordkorea",
+    "aliases": [
+     "Demokratische Volksrepublik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0054",
+    "text": "Vietnam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0055",
+    "text": "Indonesien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0056",
+    "text": "Philippinen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0057",
+    "text": "Malaysia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0058",
+    "text": "Singapur",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0059",
+    "text": "Mongolei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0060",
+    "text": "Nepal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0061",
+    "text": "Iran",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0062",
+    "text": "Irak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0063",
+    "text": "Libanon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0064",
+    "text": "Syrien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0065",
+    "text": "Katar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0066",
+    "text": "Georgien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0067",
+    "text": "Taiwan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0068",
+    "text": "Australien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0069",
+    "text": "Neuseeland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0070",
+    "text": "Ägypten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0071",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0072",
+    "text": "Marokko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0073",
+    "text": "Tunesien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0074",
+    "text": "Kenia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0075",
+    "text": "Ghana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-040-a0076",
+    "text": "Nordirland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0077",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0078",
+    "text": "Paraguay",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0079",
+    "text": "Costa Rica",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0080",
+    "text": "Panama",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0081",
+    "text": "Dominikanische Republik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0082",
+    "text": "Haiti",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0083",
+    "text": "Kambodscha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0084",
+    "text": "Laos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0085",
+    "text": "Myanmar",
+    "aliases": [
+     "Birma",
+     "Burma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0086",
+    "text": "Bangladesch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0087",
+    "text": "Afghanistan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0088",
+    "text": "Palästina",
+    "aliases": [
+     "Staat Palästina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0089",
+    "text": "Jordanien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0090",
+    "text": "Vereinigte Arabische Emirate",
+    "aliases": [
+     "VAE",
+     "Emirate"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0091",
+    "text": "Kuwait",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0092",
+    "text": "Armenien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0093",
+    "text": "Sri Lanka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0094",
+    "text": "Malediven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0095",
+    "text": "Algerien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0096",
+    "text": "Libyen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0097",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0098",
+    "text": "Madagaskar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0099",
+    "text": "Kamerun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0100",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0101",
+    "text": "Sudan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0102",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0103",
+    "text": "Uganda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0104",
+    "text": "Senegal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0105",
+    "text": "Mali",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0106",
+    "text": "Angola",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0107",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0108",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-040-a0109",
+    "text": "Vatikanstadt",
+    "aliases": [
+     "Vatikan",
+     "Heiliger Stuhl"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0110",
+    "text": "Guatemala",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0111",
+    "text": "El Salvador",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0112",
+    "text": "Nicaragua",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0113",
+    "text": "Belize",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0114",
+    "text": "Guyana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0115",
+    "text": "Suriname",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0116",
+    "text": "Trinidad und Tobago",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0117",
+    "text": "Grenada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0118",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0119",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0120",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0121",
+    "text": "Bahrain",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0122",
+    "text": "Oman",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0123",
+    "text": "Jemen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0124",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0125",
+    "text": "Usbekistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0126",
+    "text": "Turkmenistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0127",
+    "text": "Kirgisistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0128",
+    "text": "Tadschikistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0129",
+    "text": "Brunei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0130",
+    "text": "Osttimor",
+    "aliases": [
+     "Timor-Leste"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0131",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0132",
+    "text": "Papua-Neuguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0133",
+    "text": "Samoa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0134",
+    "text": "Tonga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0135",
+    "text": "Vanuatu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0136",
+    "text": "Kiribati",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0137",
+    "text": "Tuvalu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0138",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0139",
+    "text": "Eritrea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0140",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0141",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0142",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0143",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0144",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0145",
+    "text": "Tschad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0146",
+    "text": "Burkina Faso",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0147",
+    "text": "Mauretanien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0148",
+    "text": "Gambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0149",
+    "text": "Guinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0150",
+    "text": "Guinea-Bissau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0151",
+    "text": "Äquatorialguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0152",
+    "text": "Liberia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0153",
+    "text": "Togo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0154",
+    "text": "Benin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0155",
+    "text": "Zentralafrikanische Republik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0156",
+    "text": "Republik Kongo",
+    "aliases": [
+     "Kongo-Brazzaville"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0157",
+    "text": "Demokratische Republik Kongo",
+    "aliases": [
+     "DR Kongo",
+     "Kongo-Kinshasa"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0158",
+    "text": "Burundi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0159",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0160",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-040-a0161",
+    "text": "São Tomé und Príncipe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-041",
+  "text": "Nenne ein Land, in dessen Flagge Schwarz vorkommt",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-041-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-041-a0002",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-041-a0003",
+    "text": "Albanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-041-a0004",
+    "text": "Estland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-041-a0005",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-041-a0006",
+    "text": "Ägypten",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-041-a0007",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-041-a0008",
+    "text": "Kenia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-041-a0009",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0010",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0011",
+    "text": "Trinidad und Tobago",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0012",
+    "text": "Südkorea",
+    "aliases": [
+     "Korea",
+     "Republik Korea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0013",
+    "text": "Afghanistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0014",
+    "text": "Irak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0015",
+    "text": "Palästina",
+    "aliases": [
+     "Staat Palästina"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0016",
+    "text": "Jordanien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0017",
+    "text": "Syrien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0018",
+    "text": "Vereinigte Arabische Emirate",
+    "aliases": [
+     "VAE",
+     "Emirate"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0019",
+    "text": "Kuwait",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0020",
+    "text": "Jemen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0021",
+    "text": "Brunei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0022",
+    "text": "Papua-Neuguinea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0023",
+    "text": "Libyen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0024",
+    "text": "Ghana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0025",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0026",
+    "text": "Sudan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0027",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0028",
+    "text": "Uganda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0029",
+    "text": "Angola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0030",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0031",
+    "text": "Botswana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0032",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0033",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-041-a0034",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0035",
+    "text": "Guyana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0036",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0037",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0038",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0039",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0040",
+    "text": "Kambodscha",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0041",
+    "text": "Turkmenistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0042",
+    "text": "Osttimor",
+    "aliases": [
+     "Timor-Leste"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0043",
+    "text": "Vanuatu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0044",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0045",
+    "text": "Lesotho",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0046",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0047",
+    "text": "Guinea-Bissau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-041-a0048",
+    "text": "São Tomé und Príncipe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-042",
+  "text": "Nenne ein Land, in dessen Flagge Grün vorkommt",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-042-a0001",
+    "text": "Italien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-042-a0002",
+    "text": "Irland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-042-a0003",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-042-a0004",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0005",
+    "text": "Ungarn",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0006",
+    "text": "Bulgarien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0007",
+    "text": "Litauen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0008",
+    "text": "Mexiko",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0009",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0010",
+    "text": "Pakistan",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0011",
+    "text": "Saudi-Arabien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0012",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0013",
+    "text": "Nigeria",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-042-a0014",
+    "text": "Wales",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0015",
+    "text": "Belarus",
+    "aliases": [
+     "Weißrussland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0016",
+    "text": "Zypern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0017",
+    "text": "Bolivien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0018",
+    "text": "Indien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0019",
+    "text": "Myanmar",
+    "aliases": [
+     "Birma",
+     "Burma"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0020",
+    "text": "Bangladesch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0021",
+    "text": "Afghanistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0022",
+    "text": "Iran",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0023",
+    "text": "Irak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0024",
+    "text": "Palästina",
+    "aliases": [
+     "Staat Palästina"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0025",
+    "text": "Jordanien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0026",
+    "text": "Libanon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0027",
+    "text": "Syrien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0028",
+    "text": "Vereinigte Arabische Emirate",
+    "aliases": [
+     "VAE",
+     "Emirate"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0029",
+    "text": "Kuwait",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0030",
+    "text": "Sri Lanka",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0031",
+    "text": "Malediven",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0032",
+    "text": "Oman",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0033",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0034",
+    "text": "Usbekistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0035",
+    "text": "Turkmenistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0036",
+    "text": "Marokko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0037",
+    "text": "Algerien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0038",
+    "text": "Libyen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0039",
+    "text": "Kenia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0040",
+    "text": "Ghana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0041",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0042",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0043",
+    "text": "Madagaskar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0044",
+    "text": "Kamerun",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0045",
+    "text": "Sudan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0046",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0047",
+    "text": "Senegal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0048",
+    "text": "Mali",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0049",
+    "text": "Elfenbeinküste",
+    "aliases": [
+     "Côte d'Ivoire"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0050",
+    "text": "Niger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0051",
+    "text": "Burkina Faso",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0052",
+    "text": "Guinea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0053",
+    "text": "Togo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0054",
+    "text": "Benin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0055",
+    "text": "Republik Kongo",
+    "aliases": [
+     "Kongo-Brazzaville"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-042-a0056",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-042-a0057",
+    "text": "Ruanda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-042-a0058",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-042-a0059",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-042-a0060",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0061",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0062",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0063",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0064",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0065",
+    "text": "Paraguay",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0066",
+    "text": "Dominikanische Republik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0067",
+    "text": "Haiti",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0068",
+    "text": "Guatemala",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0069",
+    "text": "El Salvador",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0070",
+    "text": "Nicaragua",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0071",
+    "text": "Belize",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0072",
+    "text": "Guyana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0073",
+    "text": "Suriname",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0074",
+    "text": "Grenada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0075",
+    "text": "St. Vincent und die Grenadinen",
+    "aliases": [
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0076",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0077",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0078",
+    "text": "Tadschikistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0079",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0080",
+    "text": "Vanuatu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0081",
+    "text": "Salomonen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0082",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0083",
+    "text": "Eritrea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0084",
+    "text": "Dschibuti",
+    "aliases": [
+     "Djibouti"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0085",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0086",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0087",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0088",
+    "text": "Lesotho",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0089",
+    "text": "Mauretanien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0090",
+    "text": "Gambia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0091",
+    "text": "Guinea-Bissau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0092",
+    "text": "Äquatorialguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0093",
+    "text": "Sierra Leone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0094",
+    "text": "Gabun",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0095",
+    "text": "Zentralafrikanische Republik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0096",
+    "text": "Burundi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0097",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-042-a0098",
+    "text": "São Tomé und Príncipe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-043",
+  "text": "Nenne ein Land, in dessen Flagge Gelb vorkommt",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-043-a0001",
+    "text": "Deutschland",
+    "aliases": [
+     "BRD",
+     "Bundesrepublik Deutschland"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-043-a0002",
+    "text": "Belgien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-043-a0003",
+    "text": "Schweden",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-043-a0004",
+    "text": "Ukraine",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-043-a0005",
+    "text": "Brasilien",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-043-a0006",
+    "text": "Spanien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-043-a0007",
+    "text": "Rumänien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-043-a0008",
+    "text": "Litauen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-043-a0009",
+    "text": "Kolumbien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-043-a0010",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-043-a0011",
+    "text": "China",
+    "aliases": [
+     "Volksrepublik China"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-043-a0012",
+    "text": "Portugal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0013",
+    "text": "Bosnien und Herzegowina",
+    "aliases": [
+     "Bosnien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0014",
+    "text": "Montenegro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0015",
+    "text": "Nordmazedonien",
+    "aliases": [
+     "Mazedonien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0016",
+    "text": "Kosovo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0017",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0018",
+    "text": "Liechtenstein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0019",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0020",
+    "text": "Vatikanstadt",
+    "aliases": [
+     "Vatikan",
+     "Heiliger Stuhl"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0021",
+    "text": "Argentinien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0022",
+    "text": "Venezuela",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0023",
+    "text": "Ecuador",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0024",
+    "text": "Bolivien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0025",
+    "text": "Uruguay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0026",
+    "text": "Vietnam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0027",
+    "text": "Philippinen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0028",
+    "text": "Malaysia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0029",
+    "text": "Myanmar",
+    "aliases": [
+     "Birma",
+     "Burma"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0030",
+    "text": "Mongolei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0031",
+    "text": "Kasachstan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0032",
+    "text": "Sri Lanka",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0033",
+    "text": "Kirgisistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0034",
+    "text": "Bhutan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0035",
+    "text": "Ägypten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0036",
+    "text": "Südafrika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0037",
+    "text": "Ghana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0038",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0039",
+    "text": "Tansania",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0040",
+    "text": "Kamerun",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0041",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0042",
+    "text": "Uganda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0043",
+    "text": "Senegal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0044",
+    "text": "Ruanda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0045",
+    "text": "Mali",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0046",
+    "text": "Angola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0047",
+    "text": "Mosambik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0048",
+    "text": "Burkina Faso",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0049",
+    "text": "Guinea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0050",
+    "text": "Togo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0051",
+    "text": "Benin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0052",
+    "text": "Republik Kongo",
+    "aliases": [
+     "Kongo-Brazzaville"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0053",
+    "text": "Demokratische Republik Kongo",
+    "aliases": [
+     "DR Kongo",
+     "Kongo-Kinshasa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-043-a0054",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-043-a0055",
+    "text": "Namibia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-043-a0056",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-043-a0057",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-043-a0058",
+    "text": "Nordirland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0059",
+    "text": "Kroatien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0060",
+    "text": "Serbien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0061",
+    "text": "Slowenien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0062",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0063",
+    "text": "Paraguay",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0064",
+    "text": "El Salvador",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0065",
+    "text": "Nicaragua",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0066",
+    "text": "Belize",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0067",
+    "text": "Guyana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0068",
+    "text": "Suriname",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0069",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0070",
+    "text": "Grenada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0071",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0072",
+    "text": "St. Vincent und die Grenadinen",
+    "aliases": [
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0073",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0074",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0075",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0076",
+    "text": "Tadschikistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0077",
+    "text": "Brunei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0078",
+    "text": "Osttimor",
+    "aliases": [
+     "Timor-Leste"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0079",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0080",
+    "text": "Papua-Neuguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0081",
+    "text": "Vanuatu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0082",
+    "text": "Salomonen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0083",
+    "text": "Kiribati",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0084",
+    "text": "Tuvalu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0085",
+    "text": "Nauru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0086",
+    "text": "Palau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0087",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0088",
+    "text": "Eritrea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0089",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0090",
+    "text": "Tschad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0091",
+    "text": "Mauretanien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0092",
+    "text": "Guinea-Bissau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0093",
+    "text": "Äquatorialguinea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0094",
+    "text": "Gabun",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0095",
+    "text": "Zentralafrikanische Republik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0096",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0097",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-043-a0098",
+    "text": "São Tomé und Príncipe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-044",
+  "text": "Nenne einen unabhängigen Inselstaat",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-044-a0001",
+    "text": "Island",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-044-a0002",
+    "text": "Malta",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-044-a0003",
+    "text": "Japan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-044-a0004",
+    "text": "Madagaskar",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-044-a0005",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0006",
+    "text": "Irland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0007",
+    "text": "Zypern",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0008",
+    "text": "Kuba",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0009",
+    "text": "Jamaika",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0010",
+    "text": "Philippinen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0011",
+    "text": "Indonesien",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0012",
+    "text": "Sri Lanka",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0013",
+    "text": "Malediven",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0014",
+    "text": "Neuseeland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0015",
+    "text": "Fidschi",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0016",
+    "text": "Mauritius",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0017",
+    "text": "Seychellen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-044-a0018",
+    "text": "Haiti",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0019",
+    "text": "Dominikanische Republik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0020",
+    "text": "Bahamas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0021",
+    "text": "Barbados",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0022",
+    "text": "Trinidad und Tobago",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0023",
+    "text": "Singapur",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0024",
+    "text": "Bahrain",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0025",
+    "text": "Taiwan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0026",
+    "text": "Australien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0027",
+    "text": "Papua-Neuguinea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0028",
+    "text": "Samoa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0029",
+    "text": "Tonga",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0030",
+    "text": "Kap Verde",
+    "aliases": [
+     "Cabo Verde"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-044-a0031",
+    "text": "Grenada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0032",
+    "text": "St. Lucia",
+    "aliases": [
+     "Saint Lucia",
+     "Sankt Lucia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0033",
+    "text": "St. Vincent und die Grenadinen",
+    "aliases": [
+     "Saint Vincent und die Grenadinen",
+     "Sankt Vincent und die Grenadinen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0034",
+    "text": "St. Kitts und Nevis",
+    "aliases": [
+     "Saint Kitts und Nevis",
+     "Sankt Kitts und Nevis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0035",
+    "text": "Antigua und Barbuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0036",
+    "text": "Dominica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0037",
+    "text": "Osttimor",
+    "aliases": [
+     "Timor-Leste"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0038",
+    "text": "Brunei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0039",
+    "text": "Vanuatu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0040",
+    "text": "Salomonen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0041",
+    "text": "Kiribati",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0042",
+    "text": "Tuvalu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0043",
+    "text": "Nauru",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0044",
+    "text": "Palau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0045",
+    "text": "Marshallinseln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0046",
+    "text": "Mikronesien",
+    "aliases": [
+     "Föderierte Staaten von Mikronesien"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0047",
+    "text": "Komoren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-044-a0048",
+    "text": "São Tomé und Príncipe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-045",
+  "text": "Nenne ein Land ohne direkten Meerzugang",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-045-a0001",
+    "text": "Österreich",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-045-a0002",
+    "text": "Schweiz",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-045-a0003",
+    "text": "Tschechien",
+    "aliases": [
+     "Tschechische Republik",
+     "Tschechei"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-045-a0004",
+    "text": "Ungarn",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-045-a0005",
+    "text": "Liechtenstein",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-045-a0006",
+    "text": "Luxemburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-045-a0007",
+    "text": "Mongolei",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-045-a0008",
+    "text": "Andorra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0009",
+    "text": "Belarus",
+    "aliases": [
+     "Weißrussland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0010",
+    "text": "Moldau",
+    "aliases": [
+     "Moldawien",
+     "Republik Moldau"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0011",
+    "text": "Nordmazedonien",
+    "aliases": [
+     "Mazedonien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0012",
+    "text": "San Marino",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0013",
+    "text": "Serbien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0014",
+    "text": "Slowakei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0015",
+    "text": "Vatikanstadt",
+    "aliases": [
+     "Vatikan",
+     "Heiliger Stuhl"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0016",
+    "text": "Kosovo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0017",
+    "text": "Afghanistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0018",
+    "text": "Kasachstan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0019",
+    "text": "Nepal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0020",
+    "text": "Bolivien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0021",
+    "text": "Paraguay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0022",
+    "text": "Tschad",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0023",
+    "text": "Äthiopien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0024",
+    "text": "Mali",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0025",
+    "text": "Niger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-045-a0026",
+    "text": "Armenien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-045-a0027",
+    "text": "Laos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-045-a0028",
+    "text": "Ruanda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-045-a0029",
+    "text": "Uganda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-045-a0030",
+    "text": "Simbabwe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-045-a0031",
+    "text": "Aserbaidschan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0032",
+    "text": "Bhutan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0033",
+    "text": "Kirgisistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0034",
+    "text": "Tadschikistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0035",
+    "text": "Turkmenistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0036",
+    "text": "Usbekistan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0037",
+    "text": "Botswana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0038",
+    "text": "Burkina Faso",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0039",
+    "text": "Burundi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0040",
+    "text": "Zentralafrikanische Republik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0041",
+    "text": "Eswatini",
+    "aliases": [
+     "Swasiland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0042",
+    "text": "Lesotho",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0043",
+    "text": "Malawi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0044",
+    "text": "Südsudan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-045-a0045",
+    "text": "Sambia",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

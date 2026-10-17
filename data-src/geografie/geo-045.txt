@@ -1,0 +1,53 @@
+@id geo-045
+@text Nenne ein Land ohne direkten Meerzugang
+@typ geschlossen
+# Alle souveränen Binnenstaaten (44 inkl. Vatikanstadt) plus Kosovo. Doppelbinnenländer: Liechtenstein, Usbekistan.
+# Das Kaspische Meer zählt NICHT als Meer (abflussloser See) -> Kasachstan, Turkmenistan, Aserbaidschan sind Binnenstaaten.
+# Moldau: nur Donauzugang bei Giurgiulești, keine Küste -> Binnenstaat. NICHT: Bosnien und Herzegowina (Küste bei Neum), DR Kongo (kurze Atlantikküste), Palästina (Gazastreifen am Mittelmeer).
+# Landesteile/abhängige Gebiete nicht aufgenommen.
+
+1 Österreich
+1 Schweiz
+2 Tschechien = Tschechische Republik; Tschechei
+2 Ungarn
+2 Liechtenstein
+2 Luxemburg
+2 Mongolei
+3 Andorra
+3 Belarus = Weißrussland
+3 Moldau = Moldawien; Republik Moldau
+3 Nordmazedonien = Mazedonien
+3 San Marino
+3 Serbien
+3 Slowakei
+3 Vatikanstadt = Vatikan; Heiliger Stuhl
+3 Kosovo
+3 Afghanistan
+3 Kasachstan
+3 Nepal
+3 Bolivien
+3 Paraguay
+3 Tschad
+3 Äthiopien
+3 Mali
+3 Niger
+4 Armenien
+4 Laos
+4 Ruanda
+4 Uganda
+4 Simbabwe
+5 Aserbaidschan
+5 Bhutan
+5 Kirgisistan
+5 Tadschikistan
+5 Turkmenistan
+5 Usbekistan
+5 Botswana
+5 Burkina Faso
+5 Burundi
+5 Zentralafrikanische Republik
+5 Eswatini = Swasiland
+5 Lesotho
+5 Malawi
+5 Südsudan
+5 Sambia

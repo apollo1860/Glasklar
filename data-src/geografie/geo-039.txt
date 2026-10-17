@@ -1,0 +1,115 @@
+@id geo-039
+@text Nenne ein Land, in dessen Flagge Blau vorkommt
+@typ geschlossen
+# Regel: jede Farbe, die in der aktuellen offiziellen Nationalflagge sichtbar vorkommt, zählt – auch in Wappen/Emblem.
+# Winzige Details eines Wappens/Emblems (z. B. Spanien Blau/Grün, Vatikan Rot) = tier5. Hellblau = Blau, Weinrot/Kastanienbraun = Rot, Gold = Gelb, Orange zählt NICHT als Gelb.
+# Länder mit zivilen und staatlichen Flaggen (Peru, Costa Rica, Polen, Österreich): die schlichte Nationalflagge ohne Wappen.
+# Afghanistan: Flagge der Republik (UN-anerkannt, Schwarz-Rot-Grün); die Taliban-Flagge ist weiß mit schwarzer Schrift.
+# Nordirland hat keine offizielle Flagge; gewertet Ulster Banner/St.-Patrick-Kreuz (Rot), Krone im Ulster Banner = Gelb (tier5).
+# Grönland, England, Schottland, Wales, Nordirland, Taiwan, Kosovo, Palästina, Vatikanstadt wie in geo-001 aufgenommen.
+# Nicht Blau u. a.: Italien, Irland, Japan, Kanada, Deutschland, Österreich, Schweiz, Spanien (nur Wappendetail -> tier5), Portugal (Blau nur im Wappen -> tier5).
+
+1 Frankreich
+1 Griechenland
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+2 Niederlande = Holland
+2 Schweden
+2 Finnland
+2 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+2 Russland = Russische Föderation
+2 Ukraine
+2 Brasilien
+2 Argentinien
+2 Israel
+2 Australien
+3 Norwegen
+3 Schottland
+3 Tschechien = Tschechische Republik; Tschechei
+3 Kroatien
+3 Island
+3 Luxemburg
+3 Rumänien
+3 Serbien
+3 Slowakei
+3 Slowenien
+3 Bosnien und Herzegowina = Bosnien
+3 Kosovo
+3 Estland
+3 Moldau = Moldawien; Republik Moldau
+3 Liechtenstein
+3 San Marino
+3 Andorra
+3 Chile
+3 Kolumbien
+3 Venezuela
+3 Kuba
+3 Ecuador
+3 Uruguay
+3 Costa Rica
+3 Panama
+3 Bahamas
+3 Indien
+3 Thailand
+3 Südkorea = Korea; Republik Korea
+3 Nordkorea = Demokratische Volksrepublik Korea
+3 Philippinen
+3 Malaysia
+3 Mongolei
+3 Kasachstan
+3 Taiwan
+3 Neuseeland
+3 Südafrika
+3 Somalia
+4 Paraguay
+4 Dominikanische Republik
+4 Haiti
+4 Kambodscha
+4 Laos
+4 Nepal
+4 Armenien
+4 Äthiopien
+4 Tansania
+4 Namibia
+4 Ruanda
+4 Mauritius
+4 Seychellen
+5 Spanien
+5 Portugal
+5 Montenegro
+5 Mexiko
+5 Guatemala
+5 Honduras
+5 El Salvador
+5 Nicaragua
+5 Belize
+5 Barbados
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 Antigua und Barbuda
+5 Aserbaidschan
+5 Usbekistan
+5 Fidschi
+5 Samoa
+5 Salomonen
+5 Kiribati
+5 Tuvalu
+5 Nauru
+5 Palau
+5 Marshallinseln
+5 Mikronesien = Föderierte Staaten von Mikronesien
+5 Südsudan
+5 Eritrea
+5 Dschibuti = Djibouti
+5 Botswana
+5 Lesotho
+5 Eswatini = Swasiland
+5 Tschad
+5 Gambia
+5 Äquatorialguinea
+5 Sierra Leone
+5 Liberia
+5 Gabun
+5 Zentralafrikanische Republik
+5 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+5 Komoren
+5 Kap Verde = Cabo Verde

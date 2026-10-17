@@ -1,0 +1,172 @@
+@id geo-040
+@text Nenne ein Land, in dessen Flagge Rot vorkommt
+@typ geschlossen
+# Regel: jede Farbe, die in der aktuellen offiziellen Nationalflagge sichtbar vorkommt, zählt – auch in Wappen/Emblem.
+# Winzige Details eines Wappens/Emblems (z. B. Spanien Blau/Grün, Vatikan Rot) = tier5. Hellblau = Blau, Weinrot/Kastanienbraun = Rot, Gold = Gelb, Orange zählt NICHT als Gelb.
+# Länder mit zivilen und staatlichen Flaggen (Peru, Costa Rica, Polen, Österreich): die schlichte Nationalflagge ohne Wappen.
+# Afghanistan: Flagge der Republik (UN-anerkannt, Schwarz-Rot-Grün); die Taliban-Flagge ist weiß mit schwarzer Schrift.
+# Nordirland hat keine offizielle Flagge; gewertet Ulster Banner/St.-Patrick-Kreuz (Rot), Krone im Ulster Banner = Gelb (tier5).
+# Grönland, England, Schottland, Wales, Nordirland, Taiwan, Kosovo, Palästina, Vatikanstadt wie in geo-001 aufgenommen.
+# Nicht Rot u. a.: Griechenland, Schweden, Finnland, Ukraine, Brasilien, Argentinien, Israel, Irland, Schottland, Estland, Bosnien, Kosovo, Indien, Saudi-Arabien, Pakistan, Nigeria, Elfenbeinküste, Zypern, Botswana.
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Schweiz
+1 Kanada
+1 Japan
+2 Frankreich
+2 Italien
+2 Spanien
+2 Österreich
+2 Polen
+2 Dänemark
+2 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+2 England
+2 Türkei = Türkiye
+2 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+2 China = Volksrepublik China
+3 Niederlande = Holland
+3 Belgien
+3 Portugal
+3 Norwegen
+3 Wales
+3 Russland = Russische Föderation
+3 Tschechien = Tschechische Republik; Tschechei
+3 Ungarn
+3 Kroatien
+3 Island
+3 Luxemburg
+3 Rumänien
+3 Bulgarien
+3 Serbien
+3 Slowakei
+3 Slowenien
+3 Albanien
+3 Montenegro
+3 Nordmazedonien = Mazedonien
+3 Litauen
+3 Lettland
+3 Belarus = Weißrussland
+3 Moldau = Moldawien; Republik Moldau
+3 Liechtenstein
+3 Monaco
+3 Malta
+3 Andorra
+3 Grönland
+3 Mexiko
+3 Chile
+3 Peru
+3 Kolumbien
+3 Venezuela
+3 Kuba
+3 Bolivien
+3 Thailand
+3 Südkorea = Korea; Republik Korea
+3 Nordkorea = Demokratische Volksrepublik Korea
+3 Vietnam
+3 Indonesien
+3 Philippinen
+3 Malaysia
+3 Singapur
+3 Mongolei
+3 Nepal
+3 Iran
+3 Irak
+3 Libanon
+3 Syrien
+3 Katar
+3 Georgien
+3 Taiwan
+3 Australien
+3 Neuseeland
+3 Ägypten
+3 Südafrika
+3 Marokko
+3 Tunesien
+3 Kenia
+3 Ghana
+4 Nordirland
+4 Ecuador
+4 Paraguay
+4 Costa Rica
+4 Panama
+4 Dominikanische Republik
+4 Haiti
+4 Kambodscha
+4 Laos
+4 Myanmar = Birma; Burma
+4 Bangladesch
+4 Afghanistan
+4 Palästina = Staat Palästina
+4 Jordanien
+4 Vereinigte Arabische Emirate = VAE; Emirate
+4 Kuwait
+4 Armenien
+4 Sri Lanka
+4 Malediven
+4 Algerien
+4 Libyen
+4 Äthiopien
+4 Madagaskar
+4 Kamerun
+4 Namibia
+4 Sudan
+4 Simbabwe
+4 Uganda
+4 Senegal
+4 Mali
+4 Angola
+4 Mauritius
+4 Seychellen
+5 Vatikanstadt = Vatikan; Heiliger Stuhl
+5 Guatemala
+5 El Salvador
+5 Nicaragua
+5 Belize
+5 Guyana
+5 Suriname
+5 Trinidad und Tobago
+5 Grenada
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica
+5 Bahrain
+5 Oman
+5 Jemen
+5 Aserbaidschan
+5 Usbekistan
+5 Turkmenistan
+5 Kirgisistan
+5 Tadschikistan
+5 Brunei
+5 Osttimor = Timor-Leste
+5 Fidschi
+5 Papua-Neuguinea
+5 Samoa
+5 Tonga
+5 Vanuatu
+5 Kiribati
+5 Tuvalu
+5 Südsudan
+5 Eritrea
+5 Dschibuti = Djibouti
+5 Sambia
+5 Malawi
+5 Mosambik
+5 Eswatini = Swasiland
+5 Tschad
+5 Burkina Faso
+5 Mauretanien
+5 Gambia
+5 Guinea
+5 Guinea-Bissau
+5 Äquatorialguinea
+5 Liberia
+5 Togo
+5 Benin
+5 Zentralafrikanische Republik
+5 Republik Kongo = Kongo-Brazzaville
+5 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+5 Burundi
+5 Komoren
+5 Kap Verde = Cabo Verde
+5 São Tomé und Príncipe

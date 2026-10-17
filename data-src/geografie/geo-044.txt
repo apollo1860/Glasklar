@@ -1,0 +1,56 @@
+@id geo-044
+@text Nenne einen unabhängigen Inselstaat
+@typ geschlossen
+# Souveräne Staaten, deren Gebiet ausschließlich aus Inseln besteht – auch wenn sie sich die Insel mit einem Nachbarn teilen (Irland, Haiti, Dom. Rep., Osttimor, Papua-Neuguinea, Indonesien, Brunei).
+# Brunei: liegt vollständig auf Borneo -> aufgenommen. Malaysia NICHT (Halbinsel Malakka = Festland). Äquatorialguinea NICHT (Festlandteil Río Muni ist größer als Bioko). Dänemark NICHT (Jütland).
+# Australien: Grenzfall (gilt als Kontinent), Staatsgebiet aber komplett von Meer umgeben -> aufgenommen (tier3), weil oft genannt.
+# Taiwan: De-facto-Staat, aufgenommen. NICHT aufgenommen (nicht unabhängig): Grönland, England, Schottland, Wales, Nordirland, Puerto Rico etc.
+
+1 Island
+1 Malta
+1 Japan
+1 Madagaskar
+2 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+2 Irland
+2 Zypern
+2 Kuba
+2 Jamaika
+2 Philippinen
+2 Indonesien
+2 Sri Lanka
+2 Malediven
+2 Neuseeland
+2 Fidschi
+2 Mauritius
+2 Seychellen
+3 Haiti
+3 Dominikanische Republik
+3 Bahamas
+3 Barbados
+3 Trinidad und Tobago
+3 Singapur
+3 Bahrain
+3 Taiwan
+3 Australien
+3 Papua-Neuguinea
+3 Samoa
+3 Tonga
+3 Kap Verde = Cabo Verde
+5 Grenada
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica
+5 Osttimor = Timor-Leste
+5 Brunei
+5 Vanuatu
+5 Salomonen
+5 Kiribati
+5 Tuvalu
+5 Nauru
+5 Palau
+5 Marshallinseln
+5 Mikronesien = Föderierte Staaten von Mikronesien
+5 Komoren
+5 São Tomé und Príncipe

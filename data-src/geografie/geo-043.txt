@@ -1,0 +1,111 @@
+@id geo-043
+@text Nenne ein Land, in dessen Flagge Gelb vorkommt
+@typ geschlossen
+# Regel: jede Farbe, die in der aktuellen offiziellen Nationalflagge sichtbar vorkommt, zählt – auch in Wappen/Emblem.
+# Winzige Details eines Wappens/Emblems (z. B. Spanien Blau/Grün, Vatikan Rot) = tier5. Hellblau = Blau, Weinrot/Kastanienbraun = Rot, Gold = Gelb, Orange zählt NICHT als Gelb.
+# Länder mit zivilen und staatlichen Flaggen (Peru, Costa Rica, Polen, Österreich): die schlichte Nationalflagge ohne Wappen.
+# Afghanistan: Flagge der Republik (UN-anerkannt, Schwarz-Rot-Grün); die Taliban-Flagge ist weiß mit schwarzer Schrift.
+# Nordirland hat keine offizielle Flagge; gewertet Ulster Banner/St.-Patrick-Kreuz (Rot), Krone im Ulster Banner = Gelb (tier5).
+# Grönland, England, Schottland, Wales, Nordirland, Taiwan, Kosovo, Palästina, Vatikanstadt wie in geo-001 aufgenommen.
+# Gold zählt als Gelb (z. B. Deutschland, Spanien, Portugal-Wappen, Ägypten-Adler, Vatikan).
+# Orange zählt NICHT: Irland, Indien, Niger, Elfenbeinküste, Armenien, Sambia (oranger Adler), Marshallinseln, Zypern (kupferfarbene Insel), Niederlande haben kein Gelb.
+# Gelb nur als Wappendetail (tier5): Kroatien, Serbien, Slowenien, San Marino, Nordirland (Krone), Paraguay, El Salvador, Nicaragua, Belize, Fidschi, Äquatorialguinea (Sterne).
+
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Belgien
+1 Schweden
+1 Ukraine
+1 Brasilien
+2 Spanien
+2 Rumänien
+2 Litauen
+2 Kolumbien
+2 Jamaika
+2 China = Volksrepublik China
+3 Portugal
+3 Bosnien und Herzegowina = Bosnien
+3 Montenegro
+3 Nordmazedonien = Mazedonien
+3 Kosovo
+3 Moldau = Moldawien; Republik Moldau
+3 Liechtenstein
+3 Andorra
+3 Vatikanstadt = Vatikan; Heiliger Stuhl
+3 Argentinien
+3 Venezuela
+3 Ecuador
+3 Bolivien
+3 Uruguay
+3 Vietnam
+3 Philippinen
+3 Malaysia
+3 Myanmar = Birma; Burma
+3 Mongolei
+3 Kasachstan
+3 Sri Lanka
+3 Kirgisistan
+3 Bhutan
+3 Ägypten
+3 Südafrika
+3 Ghana
+3 Äthiopien
+3 Tansania
+3 Kamerun
+3 Simbabwe
+3 Uganda
+3 Senegal
+3 Ruanda
+3 Mali
+3 Angola
+3 Mosambik
+3 Burkina Faso
+3 Guinea
+3 Togo
+3 Benin
+3 Republik Kongo = Kongo-Brazzaville
+3 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+4 Bahamas
+4 Namibia
+4 Mauritius
+4 Seychellen
+5 Nordirland
+5 Kroatien
+5 Serbien
+5 Slowenien
+5 San Marino
+5 Paraguay
+5 El Salvador
+5 Nicaragua
+5 Belize
+5 Guyana
+5 Suriname
+5 Barbados
+5 Grenada
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica
+5 Tadschikistan
+5 Brunei
+5 Osttimor = Timor-Leste
+5 Fidschi
+5 Papua-Neuguinea
+5 Vanuatu
+5 Salomonen
+5 Kiribati
+5 Tuvalu
+5 Nauru
+5 Palau
+5 Südsudan
+5 Eritrea
+5 Eswatini = Swasiland
+5 Tschad
+5 Mauretanien
+5 Guinea-Bissau
+5 Äquatorialguinea
+5 Gabun
+5 Zentralafrikanische Republik
+5 Komoren
+5 Kap Verde = Cabo Verde
+5 São Tomé und Príncipe
