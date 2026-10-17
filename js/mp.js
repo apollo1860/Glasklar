@@ -14,7 +14,7 @@ import { createGlass } from './glass.js';
 import { confetti, sparkle, splash, vibrate, wait, reducedMotion, flyInto } from './fx.js';
 import { $, esc, showScreen, modal, toast, renderCategoryChips, sipsLabel, drinkLabel } from './ui.js';
 import {
-  settings, played, requestWake, releaseWake, revealKind, assessment, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
+  settings, played, requestWake, releaseWake, revealKind, assessment, showRevealMsg, fillGlass, renderQuestionCard,
 } from './common.js';
 import {
   getBackend, backendMode, roomPath, session, createRoom, joinRoom, startPresence, leaveRoom,
@@ -589,7 +589,6 @@ export function createMultiplayer(ctx) {
     const groups = answerFrequencies(subs, q);
     const myKey = mySub ? (mySub.type === 'answer' ? mySub.answerId : mySub.type === 'nothing' ? '__nothing' : '__timeout') : null;
     renderGroups(groups, myKey);
-    showSolution(q);
     panel.hidden = false;
     updateRevealControls();
 

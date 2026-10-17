@@ -112,8 +112,8 @@ Optionale Kopfzeilen:
 | Kopfzeile | Bedeutung |
 |---|---|
 | `@typ geschlossen` | Kleine, vollständig aufzählbare Menge (z. B. Länder in Ostasien). Mindestens 5 Antworten statt 60. |
-| `@typ rangliste` | Wissensfrage nach Rang (z. B. Bundesland mit der höchsten Arbeitslosenquote). tier ergibt sich aus dem Rang, kein Gleiche-Antwort-Aufschlag, Lösung wird nach dem Reveal angezeigt. |
-| `@loesung …` | Lösungstext für den Reveal (Pflicht bei `rangliste`). |
+| `@typ rangliste` | Wissensfrage nach Rang (z. B. Bundesland mit der höchsten Arbeitslosenquote). tier ergibt sich aus dem Rang, kein Gleiche-Antwort-Aufschlag. Die richtige Lösung wird im Spiel bewusst nicht angezeigt. |
+| `@loesung …` | Lösung zur Dokumentation (Pflicht bei `rangliste`, wird im Spiel nicht angezeigt). |
 | `@quelle …` | Datenquelle (Dokumentation). |
 
 Ranglisten-Füllung: US-Staaten Platz 1–3 = 0, 4–8 = 1, 9–10 = 2, Rest = 3; Bundesländer Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.

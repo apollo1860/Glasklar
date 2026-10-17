@@ -139,13 +139,6 @@ export function assessment(question, sub) {
   return { label, kind: `t${a.tier}`, text: a.text };
 }
 
-/** Lösung (bei Ranglisten) unter den Antworten anzeigen. */
-export function showSolution(q) {
-  const el = $('#reveal-solution');
-  el.textContent = q.loesung ? `Lösung: ${q.loesung}` : '';
-  el.hidden = !q.loesung;
-}
-
 export function showRevealMsg(kind) {
   const msg = $('#reveal-msg');
   msg.textContent = pickMsg(kind);

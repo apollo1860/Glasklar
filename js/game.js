@@ -13,7 +13,7 @@ import {
 } from './ui.js';
 import {
   settings, played, requestWake, releaseWake, Countdown,
-  revealKind, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
+  revealKind, showRevealMsg, fillGlass, renderQuestionCard,
 } from './common.js';
 import { createMultiplayer } from './mp.js';
 
@@ -187,7 +187,6 @@ async function reveal(sub) {
   const groups = answerFrequencies({ me: sub }, q);
   renderAnswerChips($('#reveal-chips'), groups, { highlightKey: groups[0]?.key });
   $('#reveal-question').textContent = q.text;
-  showSolution(q);
   $('#reveal-panel').hidden = false;
   $('#btn-next').hidden = true;
 

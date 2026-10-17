@@ -283,7 +283,6 @@ button { font: inherit; color: inherit; }
 .reveal-msg.kind-hit { color: var(--green); border-color: rgba(47, 107, 79, .35); font-size: 1.6rem; box-shadow: 0 0 0 4px var(--green-soft), var(--shadow-2); }
 .reveal-msg.kind-close { color: var(--amber-deep); }
 .reveal-msg.kind-far { color: var(--red); border-color: rgba(200, 55, 45, .3); }
-.reveal-solution { margin: 0; text-align: center; font-size: .9rem; font-weight: 600; color: var(--ink-soft); line-height: 1.45; }
 .reveal-msg.kind-timeout, .reveal-msg.kind-nothing { color: var(--ink-soft); }
 @keyframes msgIn { to { opacity: 1; transform: translate(-50%, 0); } }
 
