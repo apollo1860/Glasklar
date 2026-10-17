@@ -1,7 +1,8 @@
 // Glasklar – zentrale Spielwerte. Hier anpassen, alles andere liest von hier.
 export const CONFIG = {
   // Füllung pro Frage nach tier der gewählten Antwort
-  fillByTier: { 1: 3, 2: 2, 3: 1, 4: 0, 5: 0 },
+  // Dezimalwerte erlaubt (z. B. 0,3) – gerundet wird erst bei der Abrechnung nach 3 Fragen
+  fillByTier: { 1: 3, 2: 2, 3: 1, 4: 0.3, 5: 0 },
   // "Nichts passt" und keine Antwort bis Timer-Ende
   fillNothing: 3,
   fillTimeout: 3,

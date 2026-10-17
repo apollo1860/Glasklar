@@ -143,12 +143,16 @@ export function showRevealMsg(kind) {
 
 /** Füllt ein Glas schrittweise von a nach b – mit Shake, Blubbern und Vibration. */
 export async function fillGlass(glass, from, to, { stepMs = 420, sound = true } = {}) {
-  for (let lvl = from + 1; lvl <= to; lvl++) {
+  // Ganze Stufen nacheinander, Dezimalrest (z. B. 0,3) als letzter kleiner Schritt
+  const steps = [];
+  for (let l = Math.floor(from) + 1; l < to; l++) steps.push(l);
+  if (to > from) steps.push(to);
+  for (const lvl of steps) {
     glass.setLevel(lvl);
     glass.shake(lvl >= 7);
     if (sound) sfx.blub(lvl);
     vibrate(lvl >= 7 ? 45 : 22);
-    if (lvl % 2 === 0 && !reducedMotion()) {
+    if (Math.round(lvl) % 2 === 0 && !reducedMotion()) {
       const p = glass.surfacePoint();
       splash(p.x, p.y, 4);
     }

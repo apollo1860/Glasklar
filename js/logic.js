@@ -232,15 +232,34 @@ export function computeQuestionFills(submissions, question, { multiplayer = fals
   for (const [pid, s] of Object.entries(submissions)) {
     const base = baseFill(s, question, cfg);
     const bonus = withBonus && s && s.type === 'answer' ? sameAnswerBonus(counts.get(s.answerId), cfg) : 0;
-    out[pid] = { base, bonus, fill: base + bonus };
+    out[pid] = { base, bonus, fill: round1(base + bonus) };
   }
   return out;
 }
 
 /** Schlücke einer Runde = Summe der Füllungen, gekappt. */
-export function roundSips(fills, cfg = CONFIG) {
+/** Auf eine Nachkommastelle (gegen Gleitkomma-Reste wie 0,30000000004). */
+export const round1 = (x) => Math.round((Number(x) || 0) * 10) / 10;
+
+/** Exakte Füllung einer Runde (Dezimal, gekappt). */
+export function roundExact(fills, cfg = CONFIG) {
   const sum = fills.reduce((acc, f) => acc + (Number(f) || 0), 0);
-  return Math.min(sum, cfg.maxSipsPerRound);
+  return Math.min(round1(sum), cfg.maxSipsPerRound);
+}
+
+/** Zu trinkende Schlücke: ab ,5 aufrunden, darunter abrunden. */
+export function drinkSips(exact) {
+  return Math.floor(round1(exact) + 0.5);
+}
+
+/** Etwas im Glas, aber unter 0,5 → „Mini-Schluck" ohne Zahl. */
+export function isMiniSip(exact) {
+  return round1(exact) > 0 && drinkSips(exact) === 0;
+}
+
+/** Schlücke einer Runde (gerundet). */
+export function roundSips(fills, cfg = CONFIG) {
+  return drinkSips(roundExact(fills, cfg));
 }
 
 /** Antworten gruppiert mit Häufigkeit für den Reveal (ohne tier). */
@@ -352,17 +371,18 @@ export function revealSubmissions(players, answers) {
 }
 
 /** Schlücke pro Spieler aus den Füllungen der Runde: { pid: { q1: 3, q2: 0 } } → { pid: sips } */
+/** Exakte Rundenfüllung pro Spieler (Dezimal, gekappt) – gerundet wird erst bei der Anzeige. */
 export function sipsByPlayer(fills, cfg = CONFIG) {
   const out = {};
-  for (const [pid, f] of Object.entries(fills || {})) out[pid] = roundSips(Object.values(f || {}), cfg);
+  for (const [pid, f] of Object.entries(fills || {})) out[pid] = roundExact(Object.values(f || {}), cfg);
   return out;
 }
 
-/** Gesamtschlücke aus der Rundenhistorie: { r1: { pid: n }, r2: … } → { pid: total } */
+/** Getrunkene Schlücke aus der Rundenhistorie (jede Runde gerundet): { r1: { pid: 2.3 }, … } → { pid: total } */
 export function totalsFromHistory(history) {
   const out = {};
   for (const round of Object.values(history || {})) {
-    for (const [pid, n] of Object.entries(round || {})) out[pid] = (out[pid] || 0) + (Number(n) || 0);
+    for (const [pid, n] of Object.entries(round || {})) out[pid] = (out[pid] || 0) + drinkSips(n);
   }
   return out;
 }

@@ -2,6 +2,8 @@
 
 Trinkspiel als Webapp: Alle bekommen dieselbe „Nenne ein …"-Frage. Je offensichtlicher die Antwort, desto voller das Glas – seltene Antworten halten es leer. Nach 3 Fragen trinkt jede:r so viele Schlücke, wie das Glas voll ist (max. 10).
 
+Füllung pro Antwort: tier1 = 3, tier2 = 2, tier3 = 1, tier4 = 0,3, tier5 = 0, „Nichts passt" = 3 (`CONFIG.fillByTier`, Dezimalwerte erlaubt). Gerundet wird erst bei der Abrechnung nach 3 Fragen: ab ,5 auf, darunter ab. Liegt die Runde über 0 und unter 0,5, heißt es nur „Mini-Schluck trinken" – ohne Zahl.
+
 🔞 Ab 18 · Verantwortungsvoll trinken · Alkoholfrei ist völlig ok.
 
 ## Lokal starten
@@ -47,7 +49,7 @@ Mit Konfiguration lässt sich der Testmodus über `?lokal` in der URL erzwingen 
 | `answered/{uid}` | nur „hat geantwortet" (für alle sichtbar) |
 | `answers/{uid}` | die Antwort selbst – lesbar erst nach dem Reveal |
 | `fills/{uid}/q1..q3` | Füllung pro Frage der laufenden Runde |
-| `history/r{n}/{uid}` | Schlücke pro Runde (Gesamtranking) |
+| `history/r{n}/{uid}` | exakte Füllung pro Runde (Dezimal); Anzeige und Gesamtranking runden je Runde |
 | `played/{frageId}` | im Raum schon gespielte Fragen |
 
 Zusätzlich `roomsActivity/{code}` (nur Zeitstempel) zum Aufräumen alter Räume; abfragbar ist dort nur, was älter als 6 Stunden ist.

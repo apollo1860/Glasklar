@@ -1,5 +1,5 @@
 // Glasklar – DOM-Helfer, Bildschirme, Modals und die Antwort-Eingabe.
-import { searchAnswers, searchKey } from './logic.js';
+import { searchAnswers, searchKey, drinkSips, isMiniSip } from './logic.js';
 import { store } from './storage.js';
 import { sfx } from './audio.js';
 
@@ -11,6 +11,8 @@ export function esc(s) {
 }
 
 export const sipsLabel = (n) => `${n} ${n === 1 ? 'Schluck' : 'Schlücke'}`;
+/** Rundenergebnis aus exakter Füllung: gerundet, unter 0,5 „Mini-Schluck" ohne Zahl. */
+export const drinkLabel = (exact) => (isMiniSip(exact) ? 'Mini-Schluck' : sipsLabel(drinkSips(exact)));
 
 /* ------------------------------------------------------------------ */
 /* Bildschirme & Viewport                                              */

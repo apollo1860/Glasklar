@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   normalize, searchKey, levenshtein, buildSearchIndex, searchAnswers, stem,
-  baseFill, sameAnswerBonus, computeQuestionFills, roundSips,
+  baseFill, sameAnswerBonus, computeQuestionFills, roundSips, roundExact, drinkSips, isMiniSip,
   answerFrequencies, rankBySips, roundWinners, drawQuestion,
 } from '../js/logic.js';
 import { CONFIG } from '../js/config.js';
@@ -149,7 +149,7 @@ test('Bewertung: tier-Werte, Nichts passt, Timeout', () => {
   assert.equal(baseFill({ type: 'answer', answerId: 'a1' }, Q), 3);
   assert.equal(baseFill({ type: 'answer', answerId: 'a3' }, Q), 2);
   assert.equal(baseFill({ type: 'answer', answerId: 'a2' }, Q), 1);
-  assert.equal(baseFill({ type: 'answer', answerId: 'a6' }, Q), 0);
+  assert.equal(baseFill({ type: 'answer', answerId: 'a6' }, Q), 0.3); // tier4: Dezimalwert
   assert.equal(baseFill({ type: 'answer', answerId: 'a7' }, Q), 0);
   assert.equal(baseFill({ type: 'nothing' }, Q), 3);
   assert.equal(baseFill({ type: 'timeout' }, Q), 3);
@@ -161,6 +161,21 @@ test('Bewertung: Cap bei 10 Schlücken', () => {
   assert.equal(roundSips([5, 5, 5]), 10);
   assert.equal(roundSips([0, 0, 1]), 1);
   assert.equal(roundSips([3, 5, 4]), CONFIG.maxSipsPerRound);
+});
+
+test('Bewertung: Dezimalwerte, Rundung ab ,5, Mini-Schluck unter 0,5', () => {
+  assert.equal(roundExact([0.3, 0.3, 0.3]), 0.9); // keine Gleitkomma-Reste
+  assert.equal(roundSips([0.3, 0.3, 0.3]), 1); // 0,9 → 1
+  assert.equal(roundSips([1, 1, 0.3]), 2); // 2,3 → 2
+  assert.equal(drinkSips(2.5), 3); // ab ,5 aufrunden
+  assert.equal(drinkSips(2.4), 2);
+  assert.equal(drinkSips(0.5), 1);
+  assert.equal(isMiniSip(0.3), true);
+  assert.equal(isMiniSip(0.4), true);
+  assert.equal(isMiniSip(0.5), false);
+  assert.equal(isMiniSip(0), false); // leeres Glas ist kein Mini-Schluck
+  assert.equal(roundSips([0.3, 0, 0]), 0);
+  assert.equal(roundExact([3, 3, 3.3, 1]), CONFIG.maxSipsPerRound); // Cap gilt weiter
 });
 
 test('Bewertung: Gleiche-Antwort-Aufschlag max +2, nur Multiplayer', () => {
@@ -266,7 +281,9 @@ test('Multiplayer: alle geantwortet, Reveal-Abgaben, Schlücke und Gesamtsumme',
   const subs = revealSubmissions(players, { a: { type: 'answer', answerId: 'a1' }, c: { type: 'nothing' } });
   assert.deepEqual(subs, { a: { type: 'answer', answerId: 'a1' }, c: { type: 'nothing' }, b: { type: 'timeout' } });
   assert.deepEqual(sipsByPlayer({ a: { q1: 3, q2: 5, q3: 4 }, b: { q1: 0, q2: 1 } }), { a: 10, b: 1 });
+  assert.deepEqual(sipsByPlayer({ a: { q1: 0.3, q2: 1, q3: 0.3 } }), { a: 1.6 }); // exakt, Rundung erst bei Anzeige
   assert.deepEqual(totalsFromHistory({ r1: { a: 4, b: 2 }, r2: { a: 1, b: 7 } }), { a: 5, b: 9 });
+  assert.deepEqual(totalsFromHistory({ r1: { a: 1.6, b: 0.3 }, r2: { a: 2.5, b: 0.4 } }), { a: 5, b: 0 }); // je Runde gerundet
 });
 
 test('Ranglisten: kein Gleiche-Antwort-Aufschlag', () => {

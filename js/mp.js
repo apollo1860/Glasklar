@@ -5,14 +5,14 @@
 import { CONFIG } from './config.js';
 import {
   computeQuestionFills, drawQuestion, answerFrequencies, electHost, activePlayers, allAnswered,
-  revealSubmissions, sipsByPlayer, totalsFromHistory, rankBySips, roundWinners, compareDe,
+  revealSubmissions, sipsByPlayer, totalsFromHistory, rankBySips, roundWinners, compareDe, round1, drinkSips, isMiniSip,
 } from './logic.js';
 import { getQuestion, getSearchIndex } from './data.js';
 import { store } from './storage.js';
 import { sfx } from './audio.js';
 import { createGlass } from './glass.js';
 import { confetti, sparkle, splash, vibrate, wait, reducedMotion, flyInto } from './fx.js';
-import { $, esc, showScreen, modal, toast, renderCategoryChips, sipsLabel } from './ui.js';
+import { $, esc, showScreen, modal, toast, renderCategoryChips, sipsLabel, drinkLabel } from './ui.js';
 import {
   settings, played, requestWake, releaseWake, revealKind, showRevealMsg, showSolution, fillGlass, renderQuestionCard,
 } from './common.js';
@@ -454,7 +454,7 @@ export function createMultiplayer(ctx) {
     const mine = M.fills?.[uid()] || {};
     let sum = 0;
     for (let i = 1; i < (M.meta?.qNum || 1); i++) sum += Number(mine[`q${i}`]) || 0;
-    return sum;
+    return round1(sum);
   }
 
   async function syncQuestion() {
@@ -600,13 +600,13 @@ export function createMultiplayer(ctx) {
       showRevealMsg(revealKind(mySub, mine.base, q.typ));
       const answer = mySub.type === 'answer' ? q.answers.find((a) => a.id === mySub.answerId) : null;
       if (answer?.tier === 1) glass.flashRed();
-      await fillGlass(glass, Math.min(prior, cap), Math.min(prior + mine.base, cap));
+      await fillGlass(glass, Math.min(prior, cap), Math.min(round1(prior + mine.base), cap));
 
       // Gleiche Antworten: Chips der anderen fliegen ins Glas, je ein Spritzer
       const myChip = $('#reveal-chips .answer-group.mine .answer-chip');
       const others = (groups.find((g) => g.key === myKey)?.count || 1) - 1;
       if (mySub.type === 'answer' && others > 0 && myChip) {
-        let lvl = Math.min(prior + mine.base, cap);
+        let lvl = Math.min(round1(prior + mine.base), cap);
         for (let i = 0; i < Math.min(others, 4); i++) {
           if (M.question?.seq !== seq) return;
           await new Promise((res) => flyInto(myChip, glass.surfacePoint(), res));
@@ -615,7 +615,7 @@ export function createMultiplayer(ctx) {
           sfx.splash();
           vibrate(30);
           if (i < mine.bonus && lvl < cap) {
-            lvl++;
+            lvl = Math.min(lvl + 1, cap);
             glass.setLevel(lvl);
             glass.shake(lvl >= 7);
             sfx.blub(lvl);
@@ -630,7 +630,7 @@ export function createMultiplayer(ctx) {
         sfx.clink();
         vibrate([20, 40, 20]);
       }
-      if (prior + mine.fill > cap) glass.overflow(true);
+      if (round1(prior + mine.fill) > cap) glass.overflow(true);
     }
     if (M.question?.seq !== seq) return;
     panel.dataset.done = '1';
@@ -706,12 +706,12 @@ export function createMultiplayer(ctx) {
       cell.innerHTML = `<div class="gc-glass"></div><div class="gc-name">${esc(pid === uid() ? 'Du' : nameOf(pid))}</div><div class="gc-count">0</div>`;
       row.appendChild(cell);
       const glass = createGlass(cell.querySelector('.gc-glass'), { compact: true });
-      return { pid, n, cell, glass, count: cell.querySelector('.gc-count') };
+      return { pid, n, d: drinkSips(n), mini: isMiniSip(n), cell, glass, count: cell.querySelector('.gc-count') };
     });
     const list = $('#mpr-list');
     list.innerHTML = entries.map(([pid, n]) => `
       <li class="${pid === uid() ? 'me' : ''}" data-pid="${esc(pid)}">
-        ${pid === uid() ? 'Du trinkst' : `<b>${esc(nameOf(pid))}</b> trinkt`} <span class="n">${sipsLabel(n)}</span>
+        ${pid === uid() ? 'Du trinkst' : `<b>${esc(nameOf(pid))}</b> trinkt`} <span class="n">${drinkLabel(n)}</span>
       </li>`).join('');
     list.classList.remove('show');
     renderRanking();
@@ -720,10 +720,13 @@ export function createMultiplayer(ctx) {
     await wait(450);
     if (M.meta?.phase !== 'endabrechnung' || M.meta.round !== round) return;
     sfx.fanfare();
-    const max = Math.max(0, ...entries.map(([, n]) => n));
+    for (const c of cells) {
+      if (c.mini) { c.glass.setLevel(c.n); c.count.textContent = 'Mini'; }
+    }
+    const max = Math.max(0, ...cells.map((c) => c.d));
     for (let lvl = 1; lvl <= max; lvl++) {
       for (const c of cells) {
-        if (lvl <= c.n) {
+        if (lvl <= c.d) {
           c.glass.setLevel(lvl);
           c.glass.shake(lvl >= 7);
           c.count.textContent = String(lvl);
@@ -738,7 +741,7 @@ export function createMultiplayer(ctx) {
     const winners = roundWinners(sips);
     const allSame = entries.every(([, n]) => n === entries[0][1]);
     for (const c of cells) {
-      if (!allSame && c.n === max && max > 0) c.glass.overflow(true);
+      if (!allSame && c.d === max && max > 0) c.glass.overflow(true);
       if (winners.includes(c.pid)) {
         c.cell.classList.add('winner');
         list.querySelector(`li[data-pid="${CSS.escape(c.pid)}"]`)?.classList.add('winner');

@@ -1,7 +1,7 @@
 // Glasklar – App-Start, Zustandsmaschine und Singleplayer.
 // Zustände pro Frage: lobby → frage → reveal → (frage | endabrechnung) → lobby
 import { CONFIG } from './config.js';
-import { computeQuestionFills, roundSips, drawQuestion, answerFrequencies } from './logic.js';
+import { computeQuestionFills, roundExact, drinkSips, isMiniSip, drawQuestion, answerFrequencies } from './logic.js';
 import { loadIndex, getCatalog, getQuestion, getSearchIndex } from './data.js';
 import { store } from './storage.js';
 import { initAudio, sfx, isMuted, setMuted } from './audio.js';
@@ -9,7 +9,7 @@ import { createGlass } from './glass.js';
 import { confetti, sparkle, vibrate, wait, reducedMotion } from './fx.js';
 import {
   $, $$, showScreen, initViewport, modal, toast, missingLog, AnswerInput,
-  renderCategoryChips, renderAnswerChips, sipsLabel,
+  renderCategoryChips, renderAnswerChips, sipsLabel, drinkLabel,
 } from './ui.js';
 import {
   settings, played, requestWake, releaseWake, Countdown,
@@ -175,9 +175,9 @@ async function reveal(sub) {
   $('#answer-area').hidden = true;
   const { me } = computeQuestionFills({ me: sub }, q, { multiplayer: false });
   const fill = me.fill;
-  const before = Math.min(S.fills.reduce((a, b) => a + b, 0), CONFIG.maxSipsPerRound);
+  const before = roundExact(S.fills);
   S.fills.push(fill);
-  const total = S.fills.reduce((a, b) => a + b, 0);
+  const total = roundExact(S.fills, { maxSipsPerRound: Infinity });
 
   const answer = sub.type === 'answer' ? q.answers.find((a) => a.id === sub.answerId) : null;
   const kind = revealKind(sub, me.base, q.typ);
@@ -223,8 +223,10 @@ function onNext() {
 
 async function showResult() {
   setPhase('endabrechnung');
-  const sips = roundSips(S.fills);
-  S.history.push({ round: S.round, sips });
+  const exact = roundExact(S.fills);
+  const sips = drinkSips(exact); // ab ,5 aufrunden, darunter abrunden
+  const mini = isMiniSip(exact);
+  S.history.push({ round: S.round, sips, exact });
   const best = stats.addRound(sips);
   const st = stats.get();
 
@@ -247,6 +249,11 @@ async function showResult() {
   sfx.fanfare();
   const count = big.querySelector('.count');
   const unit = big.querySelector('.unit');
+  if (mini) {
+    resultGlass.setLevel(exact);
+    big.innerHTML = 'Mini-Schluck trinken';
+    sfx.blub(1);
+  }
   for (let lvl = 1; lvl <= sips; lvl++) {
     resultGlass.setLevel(lvl);
     resultGlass.shake(lvl >= 7);
@@ -264,14 +271,18 @@ async function showResult() {
   if (sips >= CONFIG.maxSipsPerRound) {
     resultGlass.overflow(true);
     note.textContent = 'Randvoll – das Glas läuft über.';
+  } else if (mini) {
+    note.textContent = 'Fast glasklar – nur ein Hauch im Glas.';
   } else if (sips === 0) {
     note.textContent = 'Glasklar. Kein einziger Schluck.';
+  } else if (exact !== sips) {
+    note.textContent = `Genau ${String(exact).replace('.', ',')} – ${exact > sips ? 'abgerundet' : 'aufgerundet'}.`;
   }
   if (best.isBest && best.hadBest) {
     note.textContent = `Neuer Bestwert – vorher ${sipsLabel(best.prevBest)}`;
     confetti();
     sfx.clink();
-  } else if (sips === 0) {
+  } else if (sips === 0 && !mini) {
     confetti();
     sfx.clink();
   }
@@ -290,7 +301,7 @@ function showSummary() {
       <div class="sub">in ${S.history.length} ${S.history.length === 1 ? 'Runde' : 'Runden'}</div>
     </div>
     <ol class="summary-rounds">
-      ${S.history.map((h) => `<li class="${h.sips === best ? 'best' : ''}"><span>Runde ${h.round}</span><b>${sipsLabel(h.sips)}</b></li>`).join('')}
+      ${S.history.map((h) => `<li class="${h.sips === best ? 'best' : ''}"><span>Runde ${h.round}</span><b>${drinkLabel(h.exact ?? h.sips)}</b></li>`).join('')}
     </ol>
     <p class="muted">Beste Runde: ${sipsLabel(best)} · Ø ${(total / S.history.length).toFixed(1).replace('.', ',')}</p>`
     : '<p class="muted">Keine Runde beendet.</p>';
@@ -361,7 +372,7 @@ function howTo() {
       <li>Tippe deine Antwort als <b>ganzes Wort</b>. Erst dann erscheint sie zum Antippen – nur Einträge aus der Liste zählen, kleine Tippfehler werden erkannt.</li>
       <li><b>Je offensichtlicher</b> die Antwort, desto <b>voller</b> das Glas. Seltene Antworten halten es leer.</li>
       <li>„Nichts passt" oder keine Antwort füllt das Glas auch.</li>
-      <li>Nach 3 Fragen trinkst du so viele Schlücke, wie dein Glas voll ist (max. ${CONFIG.maxSipsPerRound}).</li>
+      <li>Nach 3 Fragen trinkst du so viele Schlücke, wie dein Glas voll ist (max. ${CONFIG.maxSipsPerRound}). Seltene Antworten geben auch mal 0,3 – abgerechnet wird gerundet (ab ,5 auf), unter 0,5 gibt es nur einen Mini-Schluck.</li>
     </ol>`,
     buttons: [{ label: 'Alles klar', value: true, kind: 'primary' }],
   });
