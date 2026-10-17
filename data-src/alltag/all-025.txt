@@ -1,0 +1,60 @@
+@id all-025
+@text Nenne einen Messenger-Dienst
+@typ geschlossen
+# Chat-/Instant-Messaging-Dienste und Apps, aktuelle und historische (inkl. Team-Chats wie Slack/Teams und DM-Funktionen sozialer Netzwerke).
+# SMS ist kein Messenger-Dienst im engeren Sinn → tier5. Reine Video-Telefonie (FaceTime, Zoom) nicht aufgenommen. Stand Okt. 2026.
+1 WhatsApp
+1 Telegram
+2 Signal
+2 Threema
+2 iMessage
+2 Facebook Messenger = Messenger
+2 Snapchat
+3 Discord
+3 Skype
+3 ICQ
+3 WeChat
+3 Line
+3 Viber
+3 Slack
+3 Microsoft Teams = Teams
+3 Instagram Direct = Instagram
+3 MSN Messenger = Windows Live Messenger; MSN
+4 Element = Matrix; Riot
+4 Wire
+4 KakaoTalk
+4 Google Hangouts = Hangouts
+4 Google Chat
+4 Kik
+4 AIM = AOL Instant Messenger
+4 Yahoo Messenger
+4 Session
+4 Briar
+4 SimpleX Chat = SimpleX
+4 XMPP = Jabber
+4 Ginlo
+4 Mattermost
+4 Rocket.Chat
+4 Google Talk
+4 Google Allo
+4 BlackBerry Messenger = BBM
+4 QQ
+4 Wickr
+4 Delta Chat
+4 Google Messages
+4 Beeper
+5 SMS
+5 RCS
+5 Hike
+5 Zalo
+5 Tango
+5 Hoccer
+5 Keybase
+5 imo
+5 Botim
+5 Max
+5 Tox
+5 Jami
+5 Trillian
+5 Pidgin
+5 Conversations

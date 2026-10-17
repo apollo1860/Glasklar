@@ -1,0 +1,69 @@
+@id ess-018
+@text Nenne ein Haribo-Produkt
+@typ geschlossen
+# Fruchtgummi-, Lakritz- und Schaumzucker-Sorten von Haribo (Deutschland), aktuelle und bekannte ehemalige/limitierte; Maoam ist seit 1986 Haribo-Marke und mit seinen Sorten aufgenommen.
+# Varianten (sauer, zuckerreduziert, Saft-) nur, wo sie als eigener Produktname bekannt sind. Stand Okt. 2026 (Pico-Balla 2026 als Limited Edition zurück).
+1 Goldbären = Gummibärchen; Gummibären
+2 Color-Rado = Colorado
+2 Tropifrutti
+2 Happy Cola = Colafläschchen
+2 Starmix
+2 Lakritz-Schnecken = Schnecken
+2 Phantasia
+2 Maoam
+3 Saft-Goldbären = Saftbären
+3 Pico-Balla
+3 Tangfastics
+3 Primavera = Primavera Erdbeeren
+3 Chamallows
+3 Happy Cherries = Kirschen
+3 Pfirsiche
+3 Frösche
+3 Riesen-Erdbeeren
+3 Konfekt = Lakritz-Konfekt
+3 Saure Pommes
+3 Schnuller = Kinder-Schnuller
+3 Spiegeleier
+3 Schlümpfe
+3 Bärchen-Pärchen
+3 Weiße Mäuse
+3 Saure Goldbären
+3 Saure Happy Cola = Happy Cola Sauer
+3 Maoam Bloxx = Bloxx
+3 Maoam Stripes = Stripes
+3 Balla Stixx
+3 Haribo Roulette = Roulette
+3 Super Mario
+4 Lakritz-Parade
+4 Salinos = Salino
+4 Katinchen
+4 Pirates
+4 Kolalas
+4 Pyramidos
+4 Pasta Basta
+4 Brombeeren
+4 Himbeeren
+4 Quaxi
+4 Wummis
+4 Fruity Bussi
+4 Frucht Flip
+4 Blaue Tüte
+4 Anaconda
+4 Bananas = Schaumzucker-Bananen
+4 BBQ Mallows
+4 Salz-Brezeln
+4 Milch HipStars
+4 Maoam Kracher = Kracher
+4 Maoam Pinballs = Pinballs
+4 Maoam Joystixx = Joystixx
+4 Maoam Mao Mixx = Mao Mixx
+4 Goldbären Zuckerreduziert
+4 Rotella
+4 Haribo Weltall = Weltall
+4 Crazy Schnuller
+4 Vulkano
+4 Big Black Python
+4 Cola-Ringe
+4 Saure Schlümpfe
+4 Goldbären Mini = Mini Goldbären
+5 Matador-Mix

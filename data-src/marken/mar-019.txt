@@ -1,0 +1,205 @@
+@id mar-019
+@text Nenne eine Fluggesellschaft
+@typ geschlossen
+# Passagier-Fluggesellschaften weltweit (Linie, Billigflieger, Ferienflieger) inkl. bekannter ehemaliger (Air Berlin, Germania, LTU, Swissair, Pan Am, Alitalia …). Keine reinen Frachtairlines.
+# Aliase nur für gebräuchliche Kurz-/Alternativnamen (BA, KLM, AUA, THY …), keine IATA-Codes wie LH. Discover Airlines hieß bis 2023 Eurowings Discover. Stand Okt. 2026.
+1 Lufthansa
+1 Ryanair
+2 Eurowings
+2 Condor
+2 Emirates = Fly Emirates
+2 easyJet
+2 Turkish Airlines = Turkish; THY
+3 KLM
+3 Air France
+3 British Airways = BA
+3 Qatar Airways = Qatar
+3 Swiss = Swiss International Air Lines
+3 Austrian Airlines = Austrian; AUA
+3 Wizz Air = Wizz
+3 TUIfly = TUI; TUI Airways
+3 Air Berlin
+3 Etihad = Etihad Airways
+3 Discover Airlines = Discover; Eurowings Discover
+3 American Airlines = American
+3 Delta = Delta Air Lines
+3 United Airlines = United
+3 Pegasus = Pegasus Airlines
+3 SunExpress
+3 Singapore Airlines
+3 Germanwings
+3 Vueling
+3 Norwegian = Norwegian Air Shuttle
+3 Iberia
+3 Alitalia
+3 ITA Airways = ITA
+4 SAS = Scandinavian Airlines
+4 Finnair
+4 Brussels Airlines
+4 TAP Air Portugal = TAP
+4 LOT = LOT Polish Airlines
+4 Aegean = Aegean Airlines
+4 Aer Lingus
+4 Icelandair
+4 Air Canada
+4 Cathay Pacific
+4 Japan Airlines = JAL
+4 All Nippon Airways = ANA
+4 Korean Air
+4 Thai Airways = Thai
+4 Qantas
+4 Air New Zealand
+4 Air China
+4 China Eastern = China Eastern Airlines
+4 China Southern = China Southern Airlines
+4 Hainan Airlines
+4 Air India
+4 IndiGo
+4 Southwest Airlines = Southwest
+4 JetBlue
+4 Alaska Airlines
+4 Spirit Airlines = Spirit
+4 Frontier Airlines = Frontier
+4 Hawaiian Airlines
+4 LATAM
+4 Avianca
+4 Aeroméxico
+4 Copa Airlines = Copa
+4 Ethiopian Airlines = Ethiopian
+4 EgyptAir
+4 Royal Air Maroc
+4 Saudia = Saudi Arabian Airlines
+4 Oman Air
+4 Gulf Air
+4 Kuwait Airways
+4 Royal Jordanian
+4 El Al
+4 Aeroflot
+4 Air Europa
+4 Jet2
+4 Transavia
+4 Volotea
+4 airBaltic
+4 Croatia Airlines
+4 Air Serbia
+4 Air Malta
+4 Germania
+4 LTU
+4 Swissair
+4 Pan Am = Pan American
+4 Thomas Cook Airlines = Thomas Cook
+4 Malaysia Airlines
+4 Garuda Indonesia = Garuda
+4 Philippine Airlines
+4 Vietnam Airlines
+4 EVA Air
+4 China Airlines
+4 Asiana = Asiana Airlines
+4 AirAsia
+4 Virgin Atlantic
+4 Virgin Australia
+4 South African Airways
+4 Kenya Airways
+4 flydubai
+4 Air Arabia
+4 Jetstar
+4 Scoot
+4 Corendon
+4 Marabu
+4 Sundair
+4 Smartwings
+4 Luxair
+4 Edelweiss = Edelweiss Air
+4 Helvetic = Helvetic Airways
+4 Level
+4 Lauda = Laudamotion; Lauda Europe
+4 Niki
+4 Air Dolomiti
+4 Air Transat
+4 WestJet
+4 Hapag-Lloyd Express = HLX
+4 Hapagfly = Hapag-Lloyd Flug
+4 dba = Deutsche BA
+4 Interflug
+4 Sabena
+4 Olympic Air = Olympic Airways; Olympic Airlines
+4 Monarch
+4 Flybe
+4 Wow Air
+4 Malév
+4 TWA = Trans World Airlines
+4 Continental Airlines
+4 Northwest Airlines
+4 US Airways
+4 Virgin America
+4 AJet = AnadoluJet
+4 Riyadh Air
+4 Neos
+4 Chair Airlines
+5 Volaris
+5 VivaAerobús
+5 Azul
+5 Gol
+5 Aerolíneas Argentinas
+5 JetSMART
+5 Interjet
+5 Air Mauritius
+5 Air Seychelles
+5 RwandAir
+5 Air Algérie
+5 Tunisair
+5 Nouvelair
+5 Middle East Airlines = MEA
+5 Iran Air
+5 Mahan Air
+5 Pakistan International Airlines = PIA
+5 SriLankan Airlines
+5 Biman Bangladesh Airlines = Biman
+5 Air Astana
+5 Uzbekistan Airways
+5 Azerbaijan Airlines = AZAL
+5 Ukraine International Airlines = UIA
+5 Belavia
+5 S7 Airlines = S7
+5 Pobeda
+5 Tarom
+5 Bulgaria Air
+5 Blue Air
+5 Air Moldova
+5 Freebird Airlines = Freebird
+5 Onur Air
+5 Atlasglobal
+5 Lion Air
+5 VietJet = VietJet Air
+5 Bamboo Airways
+5 Jeju Air
+5 Peach = Peach Aviation
+5 HK Express
+5 Starlux
+5 Bangkok Airways
+5 Fiji Airways
+5 Air Tahiti Nui
+5 Cebu Pacific
+5 flynas
+5 flyadeal
+5 Jazeera Airways
+5 Air Cairo
+5 Allegiant = Allegiant Air
+5 Sun Country = Sun Country Airlines
+5 Breeze = Breeze Airways
+5 Porter = Porter Airlines
+5 Air Greenland
+5 Atlantic Airways
+5 Widerøe
+5 Loganair
+5 bmi = British Midland
+5 Primera Air
+5 Cimber
+5 Binter
+5 Iberia Express
+5 Sky Express
+5 Cyprus Airways
+5 Malta Air
+5 KM Malta Airlines
+5 Eastern Air Lines
+5 Air Namibia

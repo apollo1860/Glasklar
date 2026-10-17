@@ -5890,5 +5890,4024 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mar-015",
+  "text": "Nenne eine Sonnencreme-Marke",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-015-a0001",
+    "text": "Nivea Sun",
+    "aliases": [
+     "Nivea"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-015-a0002",
+    "text": "Sundance",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-015-a0003",
+    "text": "Garnier Ambre Solaire",
+    "aliases": [
+     "Garnier",
+     "Ambre Solaire"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-015-a0004",
+    "text": "Ladival",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-015-a0005",
+    "text": "La Roche-Posay",
+    "aliases": [
+     "Anthelios"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-015-a0006",
+    "text": "Eucerin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0007",
+    "text": "Sun Ozon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0008",
+    "text": "Cien Sun",
+    "aliases": [
+     "Cien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0009",
+    "text": "Piz Buin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0010",
+    "text": "Hawaiian Tropic",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0011",
+    "text": "Avène",
+    "aliases": [
+     "Eau Thermale Avène"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0012",
+    "text": "Vichy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0013",
+    "text": "Bioderma",
+    "aliases": [
+     "Photoderm"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0014",
+    "text": "Daylong",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0015",
+    "text": "Babylove",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0016",
+    "text": "Lavera",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0017",
+    "text": "Alverde",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0018",
+    "text": "Beauty of Joseon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-015-a0019",
+    "text": "Isdin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0020",
+    "text": "Lancaster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0021",
+    "text": "Clinique",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0022",
+    "text": "Shiseido",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0023",
+    "text": "Banana Boat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0024",
+    "text": "Australian Gold",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0025",
+    "text": "Annemarie Börlind",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0026",
+    "text": "Bübchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0027",
+    "text": "Babydream",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0028",
+    "text": "Dado Sens",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0029",
+    "text": "Ultrasun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0030",
+    "text": "Riemann P20",
+    "aliases": [
+     "P20"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0031",
+    "text": "Sebamed",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0032",
+    "text": "Ombra Sun",
+    "aliases": [
+     "Ombra"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0033",
+    "text": "Neutrogena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0034",
+    "text": "Coppertone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0035",
+    "text": "Bondi Sands",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0036",
+    "text": "Weleda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0037",
+    "text": "Clarins",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0038",
+    "text": "Lancôme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0039",
+    "text": "Dior",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0040",
+    "text": "Biotherm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0041",
+    "text": "Estée Lauder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0042",
+    "text": "Sisley",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0043",
+    "text": "Caudalie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0044",
+    "text": "Uriage",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0045",
+    "text": "Heliocare",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0046",
+    "text": "Mustela",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0047",
+    "text": "Eco Cosmetics",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0048",
+    "text": "Bioré",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0049",
+    "text": "Anessa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0050",
+    "text": "Supergoop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0051",
+    "text": "Frei Öl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0052",
+    "text": "Paula's Choice",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0053",
+    "text": "Skin1004",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0054",
+    "text": "Round Lab",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-015-a0055",
+    "text": "Malibu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0056",
+    "text": "Altruist",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0057",
+    "text": "Sun Bum",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0058",
+    "text": "Ultra Violette",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0059",
+    "text": "Bevola",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0060",
+    "text": "La Prairie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0061",
+    "text": "i+m",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0062",
+    "text": "Sante",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0063",
+    "text": "Sun Protect",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0064",
+    "text": "Cosnature",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0065",
+    "text": "Kiehl's",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0066",
+    "text": "Dr. Hauschka",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-015-a0067",
+    "text": "Dermasence",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-016",
+  "text": "Nenne eine Deo-Marke",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-016-a0001",
+    "text": "Axe",
+    "aliases": [
+     "Lynx"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-016-a0002",
+    "text": "Nivea",
+    "aliases": [
+     "Nivea Men"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-016-a0003",
+    "text": "Rexona",
+    "aliases": [
+     "Sure",
+     "Rexona Men"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-016-a0004",
+    "text": "Dove",
+    "aliases": [
+     "Dove Men+Care"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-016-a0005",
+    "text": "Adidas",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-016-a0006",
+    "text": "Old Spice",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-016-a0007",
+    "text": "Fa",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-016-a0008",
+    "text": "8x4",
+    "aliases": [
+     "Acht mal vier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-016-a0009",
+    "text": "Balea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0010",
+    "text": "Sanex",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0011",
+    "text": "Garnier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0012",
+    "text": "Gillette",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0013",
+    "text": "Bac",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0014",
+    "text": "Borotalco",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0015",
+    "text": "Speick",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0016",
+    "text": "Weleda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0017",
+    "text": "Isana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0018",
+    "text": "Alverde",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0019",
+    "text": "Playboy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0020",
+    "text": "Bruno Banani",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0021",
+    "text": "Jean & Len",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0022",
+    "text": "Rituals",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-016-a0023",
+    "text": "Lavera",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0024",
+    "text": "Vichy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0025",
+    "text": "Eucerin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0026",
+    "text": "La Roche-Posay",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0027",
+    "text": "Sebamed",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0028",
+    "text": "Hidrofugal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0029",
+    "text": "Perspirex",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0030",
+    "text": "Etiaxil",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0031",
+    "text": "Driclor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0032",
+    "text": "Fenjal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0033",
+    "text": "Tabac",
+    "aliases": [
+     "Tabac Original"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0034",
+    "text": "Mum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0035",
+    "text": "Ben & Anna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0036",
+    "text": "Wolkenseifen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0037",
+    "text": "Schmidt's",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0038",
+    "text": "Nuud",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0039",
+    "text": "Hej Organic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0040",
+    "text": "Dr. Hauschka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0041",
+    "text": "Cien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0042",
+    "text": "Ombia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0043",
+    "text": "Clinique",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0044",
+    "text": "Biotherm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0045",
+    "text": "i+m",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0046",
+    "text": "Cosnature",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0047",
+    "text": "Sante",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0048",
+    "text": "Hugo Boss",
+    "aliases": [
+     "Boss"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0049",
+    "text": "Davidoff",
+    "aliases": [
+     "Cool Water"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0050",
+    "text": "Jil Sander",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0051",
+    "text": "Joop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0052",
+    "text": "Calvin Klein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-016-a0053",
+    "text": "Fair Squared",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0054",
+    "text": "Ziaja",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0055",
+    "text": "Ban",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0056",
+    "text": "Secret",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0057",
+    "text": "Mennen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0058",
+    "text": "Speed Stick",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0059",
+    "text": "Native",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0060",
+    "text": "Puma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0061",
+    "text": "Mexx",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0062",
+    "text": "s.Oliver",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0063",
+    "text": "Police",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0064",
+    "text": "Lacoste",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0065",
+    "text": "Tom Tailor",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0066",
+    "text": "Dolce & Gabbana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-016-a0067",
+    "text": "Paco Rabanne",
+    "aliases": [
+     "Rabanne"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-017",
+  "text": "Nenne einen Laden im Olympia-Einkaufszentrum (OEZ) in München",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-017-a0001",
+    "text": "H&M",
+    "aliases": [
+     "H und M"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-017-a0002",
+    "text": "Apple Store",
+    "aliases": [
+     "Apple"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0003",
+    "text": "Galeria",
+    "aliases": [
+     "Galeria Kaufhof",
+     "Kaufhof"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0004",
+    "text": "C&A",
+    "aliases": [
+     "C und A"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0005",
+    "text": "Zara",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0006",
+    "text": "dm",
+    "aliases": [
+     "dm-Drogeriemarkt"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0007",
+    "text": "Müller",
+    "aliases": [
+     "Drogerie Müller"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0008",
+    "text": "McDonald's",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-017-a0009",
+    "text": "Edeka",
+    "aliases": [
+     "Edeka-Center"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0010",
+    "text": "Douglas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0011",
+    "text": "Deichmann",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0012",
+    "text": "Hollister",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0013",
+    "text": "Foot Locker",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0014",
+    "text": "JD Sports",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0015",
+    "text": "Snipes",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0016",
+    "text": "Levi's",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0017",
+    "text": "Vero Moda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0018",
+    "text": "Jack & Jones",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0019",
+    "text": "New Yorker",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0020",
+    "text": "Pandora",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0021",
+    "text": "Tchibo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0022",
+    "text": "Hugendubel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0023",
+    "text": "Nordsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0024",
+    "text": "Dunkin'",
+    "aliases": [
+     "Dunkin Donuts"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0025",
+    "text": "Fielmann",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-017-a0026",
+    "text": "Wöhrl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0027",
+    "text": "Schmid",
+    "aliases": [
+     "Schuh Schmid",
+     "Schmid Schuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0028",
+    "text": "Calzedonia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0029",
+    "text": "Intimissimi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0030",
+    "text": "Tezenis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0031",
+    "text": "Hunkemöller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0032",
+    "text": "Desigual",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0033",
+    "text": "s.Oliver",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0034",
+    "text": "Tom Tailor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0035",
+    "text": "Camp David",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0036",
+    "text": "Marc O'Polo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0037",
+    "text": "Mustang",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0038",
+    "text": "Tretter",
+    "aliases": [
+     "Tretter-Schuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0039",
+    "text": "Skechers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0040",
+    "text": "Swarovski",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0041",
+    "text": "Christ",
+    "aliases": [
+     "Juwelier Christ"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0042",
+    "text": "Bijou Brigitte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0043",
+    "text": "Juwelier Kraemer",
+    "aliases": [
+     "Kraemer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0044",
+    "text": "WMF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0045",
+    "text": "Depot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0046",
+    "text": "Nanu-Nana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0047",
+    "text": "Rituals",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0048",
+    "text": "Apollo",
+    "aliases": [
+     "Apollo-Optik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0049",
+    "text": "O2",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0050",
+    "text": "Vodafone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0051",
+    "text": "Miniso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0052",
+    "text": "Hofpfisterei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0053",
+    "text": "Rischart",
+    "aliases": [
+     "Rischart's Backhaus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0054",
+    "text": "Segafredo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0055",
+    "text": "Pommes Freunde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0056",
+    "text": "Deutsche Post",
+    "aliases": [
+     "Post"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0057",
+    "text": "Stadtsparkasse München",
+    "aliases": [
+     "Sparkasse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0058",
+    "text": "City Parfümerie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-017-a0059",
+    "text": "Telekom",
+    "aliases": [
+     "Telekom Shop"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0060",
+    "text": "Hussel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0061",
+    "text": "Vitalia",
+    "aliases": [
+     "Vitalia Reformhaus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0062",
+    "text": "Gepp's",
+    "aliases": [
+     "Gepps Feinkost"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0063",
+    "text": "Privatbäckerei Wimmer",
+    "aliases": [
+     "Wimmer"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0064",
+    "text": "Backstube Wünsche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0065",
+    "text": "Shang Hai Markt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0066",
+    "text": "Le Burger",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0067",
+    "text": "Bui Tea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0068",
+    "text": "Say Cheese",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0069",
+    "text": "Blatter",
+    "aliases": [
+     "Blatter Friseure"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0070",
+    "text": "Schnittstelle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0071",
+    "text": "TUI",
+    "aliases": [
+     "TUI ReiseCenter"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0072",
+    "text": "SaniPlus",
+    "aliases": [
+     "Apotheke SaniPlus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0073",
+    "text": "Dreame",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-017-a0074",
+    "text": "Coffreze",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-018",
+  "text": "Nenne ein Produkt, das es von der Eigenmarke „ja!“ gibt",
+  "kategorie": "marken",
+  "answers": [
+   {
+    "id": "mar-018-a0001",
+    "text": "Milch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-018-a0002",
+    "text": "Butter",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-018-a0003",
+    "text": "Joghurt",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-018-a0004",
+    "text": "Toast",
+    "aliases": [
+     "Toastbrot"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-018-a0005",
+    "text": "Nudeln",
+    "aliases": [
+     "Pasta"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-018-a0006",
+    "text": "Käse",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0007",
+    "text": "Eier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0008",
+    "text": "Reis",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0009",
+    "text": "Mehl",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0010",
+    "text": "Zucker",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0011",
+    "text": "Cola",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0012",
+    "text": "Chips",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0013",
+    "text": "Klopapier",
+    "aliases": [
+     "Toilettenpapier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0014",
+    "text": "Quark",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0015",
+    "text": "Sahne",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0016",
+    "text": "Spaghetti",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0017",
+    "text": "Pizza",
+    "aliases": [
+     "Tiefkühlpizza"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0018",
+    "text": "Wasser",
+    "aliases": [
+     "Mineralwasser"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-018-a0019",
+    "text": "Spülmittel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0020",
+    "text": "Salami",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0021",
+    "text": "Schinken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0022",
+    "text": "Gouda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0023",
+    "text": "Mozzarella",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0024",
+    "text": "Frischkäse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0025",
+    "text": "Margarine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0026",
+    "text": "Kaffee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0027",
+    "text": "Ketchup",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0028",
+    "text": "Mayonnaise",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0029",
+    "text": "Senf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0030",
+    "text": "Haferflocken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0031",
+    "text": "Cornflakes",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0032",
+    "text": "Müsli",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0033",
+    "text": "Marmelade",
+    "aliases": [
+     "Konfitüre"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0034",
+    "text": "Nuss-Nougat-Creme",
+    "aliases": [
+     "Schokocreme"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0035",
+    "text": "Schokolade",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0036",
+    "text": "Kekse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0037",
+    "text": "Gummibärchen",
+    "aliases": [
+     "Fruchtgummi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0038",
+    "text": "Orangensaft",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0039",
+    "text": "Apfelsaft",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0040",
+    "text": "Limonade",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0041",
+    "text": "Eistee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0042",
+    "text": "Pommes",
+    "aliases": [
+     "Pommes frites"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0043",
+    "text": "Fischstäbchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0044",
+    "text": "Hackfleisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0045",
+    "text": "Würstchen",
+    "aliases": [
+     "Wiener Würstchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0046",
+    "text": "Taschentücher",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0047",
+    "text": "Küchenrolle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0048",
+    "text": "Brot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0049",
+    "text": "Brötchen",
+    "aliases": [
+     "Aufbackbrötchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0050",
+    "text": "Tomaten",
+    "aliases": [
+     "Dosentomaten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0051",
+    "text": "Thunfisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0052",
+    "text": "Öl",
+    "aliases": [
+     "Sonnenblumenöl"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0053",
+    "text": "Salz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0054",
+    "text": "Eis",
+    "aliases": [
+     "Speiseeis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-018-a0055",
+    "text": "Olivenöl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0056",
+    "text": "Rapsöl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0057",
+    "text": "Essig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0058",
+    "text": "Pfeffer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0059",
+    "text": "Paprikapulver",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0060",
+    "text": "Tomatenmark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0061",
+    "text": "Passierte Tomaten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0062",
+    "text": "Pesto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0063",
+    "text": "Tomatensoße",
+    "aliases": [
+     "Nudelsoße"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0064",
+    "text": "Mais",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0065",
+    "text": "Kidneybohnen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0066",
+    "text": "Erbsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0067",
+    "text": "Linsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0068",
+    "text": "Kichererbsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0069",
+    "text": "Sauerkraut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0070",
+    "text": "Gewürzgurken",
+    "aliases": [
+     "Gurken"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0071",
+    "text": "Rote Bete",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0072",
+    "text": "Apfelmus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0073",
+    "text": "Pfirsiche",
+    "aliases": [
+     "Pfirsichkonserve"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0074",
+    "text": "Ananas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0075",
+    "text": "Honig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0076",
+    "text": "Kakao",
+    "aliases": [
+     "Kakaopulver"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0077",
+    "text": "Tee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0078",
+    "text": "Instantkaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0079",
+    "text": "Kaffeepads",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0080",
+    "text": "Kaffeesahne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0081",
+    "text": "Kondensmilch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0082",
+    "text": "H-Milch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0083",
+    "text": "Buttermilch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0084",
+    "text": "Kefir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0085",
+    "text": "Schmand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0086",
+    "text": "Saure Sahne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0087",
+    "text": "Crème fraîche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0088",
+    "text": "Pudding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0089",
+    "text": "Milchreis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0090",
+    "text": "Grießpudding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0091",
+    "text": "Fruchtjoghurt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0092",
+    "text": "Skyr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0093",
+    "text": "Griechischer Joghurt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0094",
+    "text": "Kräuterbutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0095",
+    "text": "Schmelzkäse",
+    "aliases": [
+     "Scheibletten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0096",
+    "text": "Emmentaler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0097",
+    "text": "Feta",
+    "aliases": [
+     "Hirtenkäse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0098",
+    "text": "Camembert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0099",
+    "text": "Reibekäse",
+    "aliases": [
+     "Geriebener Käse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0100",
+    "text": "Parmesan",
+    "aliases": [
+     "Hartkäse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0101",
+    "text": "Hähnchenbrust",
+    "aliases": [
+     "Hähnchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0102",
+    "text": "Schnitzel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0103",
+    "text": "Bratwurst",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0104",
+    "text": "Leberwurst",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0105",
+    "text": "Lyoner",
+    "aliases": [
+     "Fleischwurst"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0106",
+    "text": "Kochschinken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0107",
+    "text": "Speck",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0108",
+    "text": "Putenbrust",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0109",
+    "text": "Leberkäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0110",
+    "text": "Lachs",
+    "aliases": [
+     "Räucherlachs"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0111",
+    "text": "Hering",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0112",
+    "text": "Frikadellen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0113",
+    "text": "Tortellini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0114",
+    "text": "Gnocchi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0115",
+    "text": "Spätzle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0116",
+    "text": "Lasagne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0117",
+    "text": "Baguette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0118",
+    "text": "Croissants",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0119",
+    "text": "Knäckebrot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0120",
+    "text": "Zwieback",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0121",
+    "text": "Paniermehl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0122",
+    "text": "Backpulver",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0123",
+    "text": "Puderzucker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0124",
+    "text": "Vanillezucker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0125",
+    "text": "Hefe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0126",
+    "text": "Kartoffelpüree",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0127",
+    "text": "Knödel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0128",
+    "text": "Brühe",
+    "aliases": [
+     "Gemüsebrühe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0129",
+    "text": "Erdnüsse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0130",
+    "text": "Salzstangen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0131",
+    "text": "Erdnussflips",
+    "aliases": [
+     "Flips"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0132",
+    "text": "Popcorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0133",
+    "text": "Studentenfutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0134",
+    "text": "Mandeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0135",
+    "text": "Walnüsse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0136",
+    "text": "Rosinen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0137",
+    "text": "Waffeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0138",
+    "text": "Lebkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0139",
+    "text": "Spekulatius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0140",
+    "text": "Butterkekse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0141",
+    "text": "Schokoriegel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0142",
+    "text": "Eiskonfekt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0143",
+    "text": "Bonbons",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0144",
+    "text": "Energy Drink",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0145",
+    "text": "Multivitaminsaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0146",
+    "text": "Apfelschorle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0147",
+    "text": "Orangenlimonade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0148",
+    "text": "Zitronenlimonade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0149",
+    "text": "Bier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0150",
+    "text": "Tiefkühlgemüse",
+    "aliases": [
+     "Gemüse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0151",
+    "text": "Spinat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0152",
+    "text": "Rahmspinat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0153",
+    "text": "Kroketten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0154",
+    "text": "Kartoffeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0155",
+    "text": "Äpfel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0156",
+    "text": "Bananen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0157",
+    "text": "Möhren",
+    "aliases": [
+     "Karotten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0158",
+    "text": "Zwiebeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0159",
+    "text": "Eisbergsalat",
+    "aliases": [
+     "Salat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0160",
+    "text": "Duschgel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0161",
+    "text": "Shampoo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0162",
+    "text": "Zahnpasta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0163",
+    "text": "Zahnbürste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0164",
+    "text": "Deo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0165",
+    "text": "Handseife",
+    "aliases": [
+     "Seife"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0166",
+    "text": "Rasierer",
+    "aliases": [
+     "Einwegrasierer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0167",
+    "text": "Wattepads",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0168",
+    "text": "Wattestäbchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0169",
+    "text": "Windeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0170",
+    "text": "Feuchttücher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0171",
+    "text": "Damenbinden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0172",
+    "text": "Tampons",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0173",
+    "text": "Waschmittel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0174",
+    "text": "Weichspüler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0175",
+    "text": "Spülmaschinentabs",
+    "aliases": [
+     "Geschirrspültabs"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0176",
+    "text": "Allzweckreiniger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0177",
+    "text": "WC-Reiniger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0178",
+    "text": "Glasreiniger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0179",
+    "text": "Müllbeutel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0180",
+    "text": "Alufolie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0181",
+    "text": "Frischhaltefolie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0182",
+    "text": "Backpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0183",
+    "text": "Gefrierbeutel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0184",
+    "text": "Schwämme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0185",
+    "text": "Servietten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0186",
+    "text": "Katzenfutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0187",
+    "text": "Hundefutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0188",
+    "text": "Katzenstreu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0189",
+    "text": "Teelichter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-018-a0190",
+    "text": "Hüttenkäse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0191",
+    "text": "Kokosmilch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0192",
+    "text": "Basmatireis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0193",
+    "text": "Milchbrötchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0194",
+    "text": "Gyros",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0195",
+    "text": "Kassler",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0196",
+    "text": "Seelachsfilet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0197",
+    "text": "Backfisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0198",
+    "text": "Garnelen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0199",
+    "text": "Bratkartoffeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0200",
+    "text": "Rösti",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0201",
+    "text": "Schupfnudeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0202",
+    "text": "Pfannkuchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0203",
+    "text": "Grießbrei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0204",
+    "text": "Mehrkornbrot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0205",
+    "text": "Weizenmischbrot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0206",
+    "text": "Sandwichtoast",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0207",
+    "text": "Zitronensaft",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0208",
+    "text": "Eiswürfel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0209",
+    "text": "Grillkohle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-018-a0210",
+    "text": "Batterien",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-019",
+  "text": "Nenne eine Fluggesellschaft",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-019-a0001",
+    "text": "Lufthansa",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-019-a0002",
+    "text": "Ryanair",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-019-a0003",
+    "text": "Eurowings",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-019-a0004",
+    "text": "Condor",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-019-a0005",
+    "text": "Emirates",
+    "aliases": [
+     "Fly Emirates"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-019-a0006",
+    "text": "easyJet",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-019-a0007",
+    "text": "Turkish Airlines",
+    "aliases": [
+     "Turkish",
+     "THY"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-019-a0008",
+    "text": "KLM",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0009",
+    "text": "Air France",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0010",
+    "text": "British Airways",
+    "aliases": [
+     "BA"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0011",
+    "text": "Qatar Airways",
+    "aliases": [
+     "Qatar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0012",
+    "text": "Swiss",
+    "aliases": [
+     "Swiss International Air Lines"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0013",
+    "text": "Austrian Airlines",
+    "aliases": [
+     "Austrian",
+     "AUA"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0014",
+    "text": "Wizz Air",
+    "aliases": [
+     "Wizz"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0015",
+    "text": "TUIfly",
+    "aliases": [
+     "TUI",
+     "TUI Airways"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0016",
+    "text": "Air Berlin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0017",
+    "text": "Etihad",
+    "aliases": [
+     "Etihad Airways"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0018",
+    "text": "Discover Airlines",
+    "aliases": [
+     "Discover",
+     "Eurowings Discover"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0019",
+    "text": "American Airlines",
+    "aliases": [
+     "American"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0020",
+    "text": "Delta",
+    "aliases": [
+     "Delta Air Lines"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0021",
+    "text": "United Airlines",
+    "aliases": [
+     "United"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0022",
+    "text": "Pegasus",
+    "aliases": [
+     "Pegasus Airlines"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0023",
+    "text": "SunExpress",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0024",
+    "text": "Singapore Airlines",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0025",
+    "text": "Germanwings",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0026",
+    "text": "Vueling",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0027",
+    "text": "Norwegian",
+    "aliases": [
+     "Norwegian Air Shuttle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0028",
+    "text": "Iberia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0029",
+    "text": "Alitalia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0030",
+    "text": "ITA Airways",
+    "aliases": [
+     "ITA"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-019-a0031",
+    "text": "SAS",
+    "aliases": [
+     "Scandinavian Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0032",
+    "text": "Finnair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0033",
+    "text": "Brussels Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0034",
+    "text": "TAP Air Portugal",
+    "aliases": [
+     "TAP"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0035",
+    "text": "LOT",
+    "aliases": [
+     "LOT Polish Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0036",
+    "text": "Aegean",
+    "aliases": [
+     "Aegean Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0037",
+    "text": "Aer Lingus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0038",
+    "text": "Icelandair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0039",
+    "text": "Air Canada",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0040",
+    "text": "Cathay Pacific",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0041",
+    "text": "Japan Airlines",
+    "aliases": [
+     "JAL"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0042",
+    "text": "All Nippon Airways",
+    "aliases": [
+     "ANA"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0043",
+    "text": "Korean Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0044",
+    "text": "Thai Airways",
+    "aliases": [
+     "Thai"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0045",
+    "text": "Qantas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0046",
+    "text": "Air New Zealand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0047",
+    "text": "Air China",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0048",
+    "text": "China Eastern",
+    "aliases": [
+     "China Eastern Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0049",
+    "text": "China Southern",
+    "aliases": [
+     "China Southern Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0050",
+    "text": "Hainan Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0051",
+    "text": "Air India",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0052",
+    "text": "IndiGo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0053",
+    "text": "Southwest Airlines",
+    "aliases": [
+     "Southwest"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0054",
+    "text": "JetBlue",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0055",
+    "text": "Alaska Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0056",
+    "text": "Spirit Airlines",
+    "aliases": [
+     "Spirit"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0057",
+    "text": "Frontier Airlines",
+    "aliases": [
+     "Frontier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0058",
+    "text": "Hawaiian Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0059",
+    "text": "LATAM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0060",
+    "text": "Avianca",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0061",
+    "text": "Aeroméxico",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0062",
+    "text": "Copa Airlines",
+    "aliases": [
+     "Copa"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0063",
+    "text": "Ethiopian Airlines",
+    "aliases": [
+     "Ethiopian"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0064",
+    "text": "EgyptAir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0065",
+    "text": "Royal Air Maroc",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0066",
+    "text": "Saudia",
+    "aliases": [
+     "Saudi Arabian Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0067",
+    "text": "Oman Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0068",
+    "text": "Gulf Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0069",
+    "text": "Kuwait Airways",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0070",
+    "text": "Royal Jordanian",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0071",
+    "text": "El Al",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0072",
+    "text": "Aeroflot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0073",
+    "text": "Air Europa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0074",
+    "text": "Jet2",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0075",
+    "text": "Transavia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0076",
+    "text": "Volotea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0077",
+    "text": "airBaltic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0078",
+    "text": "Croatia Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0079",
+    "text": "Air Serbia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0080",
+    "text": "Air Malta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0081",
+    "text": "Germania",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0082",
+    "text": "LTU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0083",
+    "text": "Swissair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0084",
+    "text": "Pan Am",
+    "aliases": [
+     "Pan American"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0085",
+    "text": "Thomas Cook Airlines",
+    "aliases": [
+     "Thomas Cook"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0086",
+    "text": "Malaysia Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0087",
+    "text": "Garuda Indonesia",
+    "aliases": [
+     "Garuda"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0088",
+    "text": "Philippine Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0089",
+    "text": "Vietnam Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0090",
+    "text": "EVA Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0091",
+    "text": "China Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0092",
+    "text": "Asiana",
+    "aliases": [
+     "Asiana Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0093",
+    "text": "AirAsia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0094",
+    "text": "Virgin Atlantic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0095",
+    "text": "Virgin Australia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0096",
+    "text": "South African Airways",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0097",
+    "text": "Kenya Airways",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0098",
+    "text": "flydubai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0099",
+    "text": "Air Arabia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0100",
+    "text": "Jetstar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0101",
+    "text": "Scoot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0102",
+    "text": "Corendon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0103",
+    "text": "Marabu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0104",
+    "text": "Sundair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0105",
+    "text": "Smartwings",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0106",
+    "text": "Luxair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0107",
+    "text": "Edelweiss",
+    "aliases": [
+     "Edelweiss Air"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0108",
+    "text": "Helvetic",
+    "aliases": [
+     "Helvetic Airways"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0109",
+    "text": "Level",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0110",
+    "text": "Lauda",
+    "aliases": [
+     "Laudamotion",
+     "Lauda Europe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0111",
+    "text": "Niki",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0112",
+    "text": "Air Dolomiti",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0113",
+    "text": "Air Transat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0114",
+    "text": "WestJet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0115",
+    "text": "Hapag-Lloyd Express",
+    "aliases": [
+     "HLX"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0116",
+    "text": "Hapagfly",
+    "aliases": [
+     "Hapag-Lloyd Flug"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0117",
+    "text": "dba",
+    "aliases": [
+     "Deutsche BA"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0118",
+    "text": "Interflug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0119",
+    "text": "Sabena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0120",
+    "text": "Olympic Air",
+    "aliases": [
+     "Olympic Airways",
+     "Olympic Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0121",
+    "text": "Monarch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0122",
+    "text": "Flybe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0123",
+    "text": "Wow Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0124",
+    "text": "Malév",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0125",
+    "text": "TWA",
+    "aliases": [
+     "Trans World Airlines"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0126",
+    "text": "Continental Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0127",
+    "text": "Northwest Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0128",
+    "text": "US Airways",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0129",
+    "text": "Virgin America",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0130",
+    "text": "AJet",
+    "aliases": [
+     "AnadoluJet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0131",
+    "text": "Riyadh Air",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0132",
+    "text": "Neos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0133",
+    "text": "Chair Airlines",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-019-a0134",
+    "text": "Volaris",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0135",
+    "text": "VivaAerobús",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0136",
+    "text": "Azul",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0137",
+    "text": "Gol",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0138",
+    "text": "Aerolíneas Argentinas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0139",
+    "text": "JetSMART",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0140",
+    "text": "Interjet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0141",
+    "text": "Air Mauritius",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0142",
+    "text": "Air Seychelles",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0143",
+    "text": "RwandAir",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0144",
+    "text": "Air Algérie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0145",
+    "text": "Tunisair",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0146",
+    "text": "Nouvelair",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0147",
+    "text": "Middle East Airlines",
+    "aliases": [
+     "MEA"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0148",
+    "text": "Iran Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0149",
+    "text": "Mahan Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0150",
+    "text": "Pakistan International Airlines",
+    "aliases": [
+     "PIA"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0151",
+    "text": "SriLankan Airlines",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0152",
+    "text": "Biman Bangladesh Airlines",
+    "aliases": [
+     "Biman"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0153",
+    "text": "Air Astana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0154",
+    "text": "Uzbekistan Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0155",
+    "text": "Azerbaijan Airlines",
+    "aliases": [
+     "AZAL"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0156",
+    "text": "Ukraine International Airlines",
+    "aliases": [
+     "UIA"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0157",
+    "text": "Belavia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0158",
+    "text": "S7 Airlines",
+    "aliases": [
+     "S7"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0159",
+    "text": "Pobeda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0160",
+    "text": "Tarom",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0161",
+    "text": "Bulgaria Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0162",
+    "text": "Blue Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0163",
+    "text": "Air Moldova",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0164",
+    "text": "Freebird Airlines",
+    "aliases": [
+     "Freebird"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0165",
+    "text": "Onur Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0166",
+    "text": "Atlasglobal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0167",
+    "text": "Lion Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0168",
+    "text": "VietJet",
+    "aliases": [
+     "VietJet Air"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0169",
+    "text": "Bamboo Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0170",
+    "text": "Jeju Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0171",
+    "text": "Peach",
+    "aliases": [
+     "Peach Aviation"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0172",
+    "text": "HK Express",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0173",
+    "text": "Starlux",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0174",
+    "text": "Bangkok Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0175",
+    "text": "Fiji Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0176",
+    "text": "Air Tahiti Nui",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0177",
+    "text": "Cebu Pacific",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0178",
+    "text": "flynas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0179",
+    "text": "flyadeal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0180",
+    "text": "Jazeera Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0181",
+    "text": "Air Cairo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0182",
+    "text": "Allegiant",
+    "aliases": [
+     "Allegiant Air"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0183",
+    "text": "Sun Country",
+    "aliases": [
+     "Sun Country Airlines"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0184",
+    "text": "Breeze",
+    "aliases": [
+     "Breeze Airways"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0185",
+    "text": "Porter",
+    "aliases": [
+     "Porter Airlines"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0186",
+    "text": "Air Greenland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0187",
+    "text": "Atlantic Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0188",
+    "text": "Widerøe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0189",
+    "text": "Loganair",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0190",
+    "text": "bmi",
+    "aliases": [
+     "British Midland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0191",
+    "text": "Primera Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0192",
+    "text": "Cimber",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0193",
+    "text": "Binter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0194",
+    "text": "Iberia Express",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0195",
+    "text": "Sky Express",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0196",
+    "text": "Cyprus Airways",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0197",
+    "text": "Malta Air",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0198",
+    "text": "KM Malta Airlines",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0199",
+    "text": "Eastern Air Lines",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-019-a0200",
+    "text": "Air Namibia",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

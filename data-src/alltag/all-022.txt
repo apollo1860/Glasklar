@@ -1,0 +1,63 @@
+@id all-022
+@text Nenne einen Club in München
+@typ geschlossen
+# Nachtclubs/Diskotheken und Club-Areale in München, aktuelle und bekannte ehemalige (Fragestellung zeitlos). Konzerthallen nur, wo regelmäßig Clubnächte stattfinden (Backstage, Muffatwerk/Ampere, Tonhalle, Theaterfabrik, Technikum, Feierwerk).
+# Status-Stand Okt. 2026: Harry Klein seit 05/2023 zu, Blitz seit 08/2026 zu (Deutsches Museum), DNA Club Ende 09/2026 zu, 8below 2023, Kong 2016, Bullit 2017, MMA 2019; Kultfabrik/Optimolwerke/Kunstpark Ost = ehemalige Partyareale (heute Werksviertel). Neu: Xolo (07/2026).
+# Reine Bars (Schumann's, Bergwolf …) nicht aufgenommen.
+1 P1
+2 Pacha
+2 Harry Klein
+2 Blitz = Blitz Club
+2 Rote Sonne
+2 Neuraum
+2 Bahnwärter Thiel
+3 Backstage
+3 Milla
+3 Palais = Palais Club
+3 Call me Drella
+3 089 Bar
+3 Pimpernel
+3 Bob Beaman
+3 Kultfabrik
+3 Optimolwerke
+3 Kunstpark Ost
+3 Milchbar = Milch und Bar
+3 Sweet Club
+3 Wannda = Wannda Circus
+3 Muffatwerk = Muffathalle
+4 Tonhalle
+4 Ampere
+4 Crux
+4 Max & Moritz
+4 Heart
+4 Kong
+4 Charlie
+4 Bullit
+4 Registratur
+4 Ultraschall
+4 Atomic Café
+4 Nachtwerk
+4 Feierwerk
+4 Strom
+4 Sauna = Club Sauna
+4 Legal = Legal Club
+4 Bossy
+4 NY.Club
+4 Goldener Reiter
+4 DNA = DNA Club
+4 MMA = Mixed Munich Arts
+4 8below = Eight Below
+4 Substanz
+4 Kiste
+4 Xolo = Xolo Club
+4 Unterdeck
+4 Cord
+4 Import Export
+4 Kranhalle
+4 Theaterfabrik
+4 Technikum
+5 Filmcasino
+5 Titty Twister
+5 Paradiso = Paradiso Tanzbar
+5 Parkcafé
+5 Muffatcafé

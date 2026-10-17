@@ -1,0 +1,73 @@
+@id mar-016
+@text Nenne eine Deo-Marke
+@typ geschlossen
+# Deodorant-/Antitranspirant-Marken, die in Deutschland verkauft werden (inkl. Drogerie-Eigenmarken und Naturkosmetik).
+# Deo-Linien von Parfüm-/Modemarken (Hugo Boss, Davidoff, Jil Sander, Joop! …) als tier4–5 zugelassen, da es dort echte Deo-Sprays/Sticks gibt.
+# Lynx/Sure sind die britischen Namen von Axe/Rexona → Alias. Stand Okt. 2026.
+1 Axe = Lynx
+1 Nivea = Nivea Men
+1 Rexona = Sure; Rexona Men
+2 Dove = Dove Men+Care
+2 Adidas
+2 Old Spice
+2 Fa
+2 8x4 = Acht mal vier
+3 Balea
+3 Sanex
+3 Garnier
+3 Gillette
+3 Bac
+3 Borotalco
+3 Speick
+3 Weleda
+3 Isana
+3 Alverde
+3 Playboy
+3 Bruno Banani
+3 Jean & Len
+3 Rituals
+4 Lavera
+4 Vichy
+4 Eucerin
+4 La Roche-Posay
+4 Sebamed
+4 Hidrofugal
+4 Perspirex
+4 Etiaxil
+4 Driclor
+4 Fenjal
+4 Tabac = Tabac Original
+4 Mum
+4 Ben & Anna
+4 Wolkenseifen
+4 Schmidt's
+4 Nuud
+4 Hej Organic
+4 Dr. Hauschka
+4 Cien
+4 Ombia
+4 Clinique
+4 Biotherm
+4 i+m
+4 Cosnature
+4 Sante
+4 Hugo Boss = Boss
+4 Davidoff = Cool Water
+4 Jil Sander
+4 Joop
+4 Calvin Klein
+5 Fair Squared
+5 Ziaja
+5 Ban
+5 Secret
+5 Mennen
+5 Speed Stick
+5 Native
+5 Puma
+5 Mexx
+5 s.Oliver
+5 Police
+5 Lacoste
+5 Tom Tailor
+5 Dolce & Gabbana
+5 Paco Rabanne = Rabanne

@@ -1,0 +1,71 @@
+@id all-023
+@text Nenne einen Internet-Browser
+@typ geschlossen
+# Webbrowser für Desktop und Mobil, aktuelle und historische. Suchmaschinen (Google, Bing) sind keine Browser; Ecosia und DuckDuckGo haben eigene Browser-Apps. Stand Okt. 2026 (inkl. KI-Browser wie Comet, ChatGPT Atlas, Dia).
+1 Chrome = Google Chrome
+1 Firefox = Mozilla Firefox; Mozilla
+1 Safari
+2 Edge = Microsoft Edge
+2 Internet Explorer = IE; Explorer
+2 Opera
+3 Opera GX
+3 Brave
+3 Tor = Tor Browser
+3 DuckDuckGo
+3 Samsung Internet
+3 Vivaldi
+3 Netscape = Netscape Navigator
+3 Arc
+3 Chromium
+3 Ecosia
+4 UC Browser
+4 Yandex = Yandex Browser
+4 Maxthon
+4 SeaMonkey
+4 Waterfox
+4 LibreWolf
+4 Mosaic = NCSA Mosaic
+4 Lynx
+4 Zen Browser = Zen
+4 Comet = Perplexity Comet
+4 ChatGPT Atlas = Atlas
+4 Dia
+4 Opera Mini
+4 Mullvad Browser
+4 Konqueror
+4 Pale Moon
+4 Firefox Focus
+4 Puffin
+4 Dolphin
+4 Kiwi Browser
+4 Avast Secure Browser
+4 Floorp
+4 Midori
+4 GNOME Web = Epiphany
+5 Falkon
+5 SRWare Iron = Iron
+5 Amazon Silk = Silk
+5 QQ Browser
+5 360 Secure Browser = 360 Browser
+5 Cốc Cốc
+5 Naver Whale = Whale
+5 Orion
+5 Flock
+5 RockMelt
+5 K-Meleon
+5 Camino
+5 Galeon
+5 OmniWeb
+5 Links
+5 w3m
+5 Dillo
+5 qutebrowser
+5 Min
+5 Sidekick
+5 Aloha
+5 Ghostery
+5 Opera Neon
+5 Opera Air
+5 Mozilla Suite
+5 WorldWideWeb = Nexus
+5 Ladybird

@@ -1,0 +1,81 @@
+@id mar-017
+@text Nenne einen Laden im Olympia-Einkaufszentrum (OEZ) in München
+@typ geschlossen
+# Aktuelle Mieter (Shops, Gastro, Dienstleister) des OEZ, Hanauer Str. 68 (~130 Shops). Quellen: Shop-/Kategorieseiten und Serviceflyer 2025 von olympia-einkaufszentrum.de (über WebSearch, Seite selbst geblockt), ECE-Ankermieter, Galeria-Filialliste. Stand Okt. 2026, Mieterwechsel möglich.
+# Schmid (Schuhe/Mode) im ehem. Karstadt-Gebäude seit 2021. Galeria (ehem. Kaufhof) laut Galeria weiterhin geöffnet.
+# NICHT aufgenommen: Karstadt (2020 geschlossen), Esprit/Orsay (keine dt. Filialen mehr), MediaMarkt/Saturn (gegenüber, Hanauer Str. 75/77, nicht im Center), Decathlon (Mona am OEZ, eigenes Gebäude), Primark/Rossmann/TK Maxx/Peek & Cloppenburg/Intersport/Görtz (nicht belegt).
+# Unsicher (tier5): Telekom Shop (nur Drittverzeichnis), Hussel, kleine Gastro-Mieter.
+1 H&M = H und M
+2 Apple Store = Apple
+2 Galeria = Galeria Kaufhof; Kaufhof
+2 C&A = C und A
+2 Zara
+2 dm = dm-Drogeriemarkt
+2 Müller = Drogerie Müller
+2 McDonald's
+3 Edeka = Edeka-Center
+3 Douglas
+3 Deichmann
+3 Hollister
+3 Foot Locker
+3 JD Sports
+3 Snipes
+3 Levi's
+3 Vero Moda
+3 Jack & Jones
+3 New Yorker
+3 Pandora
+3 Tchibo
+3 Hugendubel
+3 Nordsee
+3 Dunkin' = Dunkin Donuts
+3 Fielmann
+4 Wöhrl
+4 Schmid = Schuh Schmid; Schmid Schuhe
+4 Calzedonia
+4 Intimissimi
+4 Tezenis
+4 Hunkemöller
+4 Desigual
+4 s.Oliver
+4 Tom Tailor
+4 Camp David
+4 Marc O'Polo
+4 Mustang
+4 Tretter = Tretter-Schuhe
+4 Skechers
+4 Swarovski
+4 Christ = Juwelier Christ
+4 Bijou Brigitte
+4 Juwelier Kraemer = Kraemer
+4 WMF
+4 Depot
+4 Nanu-Nana
+4 Rituals
+4 Apollo = Apollo-Optik
+4 O2
+4 Vodafone
+4 Miniso
+4 Hofpfisterei
+4 Rischart = Rischart's Backhaus
+4 Segafredo
+4 Pommes Freunde
+4 Deutsche Post = Post
+4 Stadtsparkasse München = Sparkasse
+4 City Parfümerie
+5 Telekom = Telekom Shop
+5 Hussel
+5 Vitalia = Vitalia Reformhaus
+5 Gepp's = Gepps Feinkost
+5 Privatbäckerei Wimmer = Wimmer
+5 Backstube Wünsche
+5 Shang Hai Markt
+5 Le Burger
+5 Bui Tea
+5 Say Cheese
+5 Blatter = Blatter Friseure
+5 Schnittstelle
+5 TUI = TUI ReiseCenter
+5 SaniPlus = Apotheke SaniPlus
+5 Dreame
+5 Coffreze

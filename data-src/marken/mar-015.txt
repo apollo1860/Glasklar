@@ -1,0 +1,73 @@
+@id mar-015
+@text Nenne eine Sonnencreme-Marke
+@typ geschlossen
+# Marken/Linien von Sonnenschutzprodukten, die in Deutschland erhältlich sind (Drogerie, Apotheke, Discounter, Parfümerie, Naturkosmetik, K-Beauty).
+# Eigenmarken: Sundance (dm), Sun Ozon (Rossmann), Cien Sun (Lidl), Ombra Sun (Aldi), Babydream (Rossmann), Babylove (dm). „Sun Dance“ fällt durch die Normalisierung automatisch auf Sundance.
+# Bei Konzernmarken zählt die Hautpflegemarke (Garnier statt L'Oréal). Stand Okt. 2026.
+1 Nivea Sun = Nivea
+2 Sundance
+2 Garnier Ambre Solaire = Garnier; Ambre Solaire
+2 Ladival
+2 La Roche-Posay = Anthelios
+3 Eucerin
+3 Sun Ozon
+3 Cien Sun = Cien
+3 Piz Buin
+3 Hawaiian Tropic
+3 Avène = Eau Thermale Avène
+3 Vichy
+3 Bioderma = Photoderm
+3 Daylong
+3 Babylove
+3 Lavera
+3 Alverde
+3 Beauty of Joseon
+4 Isdin
+4 Lancaster
+4 Clinique
+4 Shiseido
+4 Banana Boat
+4 Australian Gold
+4 Annemarie Börlind
+4 Bübchen
+4 Babydream
+4 Dado Sens
+4 Ultrasun
+4 Riemann P20 = P20
+4 Sebamed
+4 Ombra Sun = Ombra
+4 Neutrogena
+4 Coppertone
+4 Bondi Sands
+4 Weleda
+4 Clarins
+4 Lancôme
+4 Dior
+4 Biotherm
+4 Estée Lauder
+4 Sisley
+4 Caudalie
+4 Uriage
+4 Heliocare
+4 Mustela
+4 Eco Cosmetics
+4 Bioré
+4 Anessa
+4 Supergoop
+4 Frei Öl
+4 Paula's Choice
+4 Skin1004
+4 Round Lab
+5 Malibu
+5 Altruist
+5 Sun Bum
+5 Ultra Violette
+5 Bevola
+5 La Prairie
+5 i+m
+5 Sante
+5 Sun Protect
+5 Cosnature
+5 Kiehl's
+5 Dr. Hauschka
+5 Dermasence

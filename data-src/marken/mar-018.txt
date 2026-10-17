@@ -1,0 +1,214 @@
+@id mar-018
+@text Nenne ein Produkt, das es von der Eigenmarke „ja!“ gibt
+# ja! ist die Preiseinstiegs-Eigenmarke von REWE (nicht Penny). Sehr breites Basissortiment: Molkerei, Frischfleisch, Wurst, Käse, Backwaren, Trockensortiment, Getränke, Süßwaren, TK, Drogerie, Haushalt, Tiernahrung.
+# Generische Produktnamen; nur Produkte, die es plausibel als ja! gibt. Nicht: Elektronik, Kleidung, Spirituosen-Marken. Stand Okt. 2026.
+1 Milch
+1 Butter
+1 Joghurt
+1 Toast = Toastbrot
+1 Nudeln = Pasta
+2 Käse
+2 Eier
+2 Reis
+2 Mehl
+2 Zucker
+2 Cola
+2 Chips
+2 Klopapier = Toilettenpapier
+2 Quark
+2 Sahne
+2 Spaghetti
+2 Pizza = Tiefkühlpizza
+2 Wasser = Mineralwasser
+3 Spülmittel
+3 Salami
+3 Schinken
+3 Gouda
+3 Mozzarella
+3 Frischkäse
+3 Margarine
+3 Kaffee
+3 Ketchup
+3 Mayonnaise
+3 Senf
+3 Haferflocken
+3 Cornflakes
+3 Müsli
+3 Marmelade = Konfitüre
+3 Nuss-Nougat-Creme = Schokocreme
+3 Schokolade
+3 Kekse
+3 Gummibärchen = Fruchtgummi
+3 Orangensaft
+3 Apfelsaft
+3 Limonade
+3 Eistee
+3 Pommes = Pommes frites
+3 Fischstäbchen
+3 Hackfleisch
+3 Würstchen = Wiener Würstchen
+3 Taschentücher
+3 Küchenrolle
+3 Brot
+3 Brötchen = Aufbackbrötchen
+3 Tomaten = Dosentomaten
+3 Thunfisch
+3 Öl = Sonnenblumenöl
+3 Salz
+3 Eis = Speiseeis
+4 Olivenöl
+4 Rapsöl
+4 Essig
+4 Pfeffer
+4 Paprikapulver
+4 Tomatenmark
+4 Passierte Tomaten
+4 Pesto
+4 Tomatensoße = Nudelsoße
+4 Mais
+4 Kidneybohnen
+4 Erbsen
+4 Linsen
+4 Kichererbsen
+4 Sauerkraut
+4 Gewürzgurken = Gurken
+4 Rote Bete
+4 Apfelmus
+4 Pfirsiche = Pfirsichkonserve
+4 Ananas
+4 Honig
+4 Kakao = Kakaopulver
+4 Tee
+4 Instantkaffee
+4 Kaffeepads
+4 Kaffeesahne
+4 Kondensmilch
+4 H-Milch
+4 Buttermilch
+4 Kefir
+4 Schmand
+4 Saure Sahne
+4 Crème fraîche
+4 Pudding
+4 Milchreis
+4 Grießpudding
+4 Fruchtjoghurt
+4 Skyr
+4 Griechischer Joghurt
+4 Kräuterbutter
+4 Schmelzkäse = Scheibletten
+4 Emmentaler
+4 Feta = Hirtenkäse
+4 Camembert
+4 Reibekäse = Geriebener Käse
+4 Parmesan = Hartkäse
+4 Hähnchenbrust = Hähnchen
+4 Schnitzel
+4 Bratwurst
+4 Leberwurst
+4 Lyoner = Fleischwurst
+4 Kochschinken
+4 Speck
+4 Putenbrust
+4 Leberkäse
+4 Lachs = Räucherlachs
+4 Hering
+4 Frikadellen
+4 Tortellini
+4 Gnocchi
+4 Spätzle
+4 Lasagne
+4 Baguette
+4 Croissants
+4 Knäckebrot
+4 Zwieback
+4 Paniermehl
+4 Backpulver
+4 Puderzucker
+4 Vanillezucker
+4 Hefe
+4 Kartoffelpüree
+4 Knödel
+4 Brühe = Gemüsebrühe
+4 Erdnüsse
+4 Salzstangen
+4 Erdnussflips = Flips
+4 Popcorn
+4 Studentenfutter
+4 Mandeln
+4 Walnüsse
+4 Rosinen
+4 Waffeln
+4 Lebkuchen
+4 Spekulatius
+4 Butterkekse
+4 Schokoriegel
+4 Eiskonfekt
+4 Bonbons
+4 Energy Drink
+4 Multivitaminsaft
+4 Apfelschorle
+4 Orangenlimonade
+4 Zitronenlimonade
+4 Bier
+4 Tiefkühlgemüse = Gemüse
+4 Spinat
+4 Rahmspinat
+4 Kroketten
+4 Kartoffeln
+4 Äpfel
+4 Bananen
+4 Möhren = Karotten
+4 Zwiebeln
+4 Eisbergsalat = Salat
+4 Duschgel
+4 Shampoo
+4 Zahnpasta
+4 Zahnbürste
+4 Deo
+4 Handseife = Seife
+4 Rasierer = Einwegrasierer
+4 Wattepads
+4 Wattestäbchen
+4 Windeln
+4 Feuchttücher
+4 Damenbinden
+4 Tampons
+4 Waschmittel
+4 Weichspüler
+4 Spülmaschinentabs = Geschirrspültabs
+4 Allzweckreiniger
+4 WC-Reiniger
+4 Glasreiniger
+4 Müllbeutel
+4 Alufolie
+4 Frischhaltefolie
+4 Backpapier
+4 Gefrierbeutel
+4 Schwämme
+4 Servietten
+4 Katzenfutter
+4 Hundefutter
+4 Katzenstreu
+4 Teelichter
+5 Hüttenkäse
+5 Kokosmilch
+5 Basmatireis
+5 Milchbrötchen
+5 Gyros
+5 Kassler
+5 Seelachsfilet
+5 Backfisch
+5 Garnelen
+5 Bratkartoffeln
+5 Rösti
+5 Schupfnudeln
+5 Pfannkuchen
+5 Grießbrei
+5 Mehrkornbrot
+5 Weizenmischbrot
+5 Sandwichtoast
+5 Zitronensaft
+5 Eiswürfel
+5 Grillkohle
+5 Batterien

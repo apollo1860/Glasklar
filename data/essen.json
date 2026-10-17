@@ -10671,6 +10671,441 @@
   ]
  },
  {
+  "id": "ess-018",
+  "text": "Nenne ein Haribo-Produkt",
+  "kategorie": "essen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "ess-018-a0001",
+    "text": "Goldbären",
+    "aliases": [
+     "Gummibärchen",
+     "Gummibären"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-018-a0002",
+    "text": "Color-Rado",
+    "aliases": [
+     "Colorado"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0003",
+    "text": "Tropifrutti",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0004",
+    "text": "Happy Cola",
+    "aliases": [
+     "Colafläschchen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0005",
+    "text": "Starmix",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0006",
+    "text": "Lakritz-Schnecken",
+    "aliases": [
+     "Schnecken"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0007",
+    "text": "Phantasia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0008",
+    "text": "Maoam",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-018-a0009",
+    "text": "Saft-Goldbären",
+    "aliases": [
+     "Saftbären"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0010",
+    "text": "Pico-Balla",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0011",
+    "text": "Tangfastics",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0012",
+    "text": "Primavera",
+    "aliases": [
+     "Primavera Erdbeeren"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0013",
+    "text": "Chamallows",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0014",
+    "text": "Happy Cherries",
+    "aliases": [
+     "Kirschen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0015",
+    "text": "Pfirsiche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0016",
+    "text": "Frösche",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0017",
+    "text": "Riesen-Erdbeeren",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0018",
+    "text": "Konfekt",
+    "aliases": [
+     "Lakritz-Konfekt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0019",
+    "text": "Saure Pommes",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0020",
+    "text": "Schnuller",
+    "aliases": [
+     "Kinder-Schnuller"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0021",
+    "text": "Spiegeleier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0022",
+    "text": "Schlümpfe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0023",
+    "text": "Bärchen-Pärchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0024",
+    "text": "Weiße Mäuse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0025",
+    "text": "Saure Goldbären",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0026",
+    "text": "Saure Happy Cola",
+    "aliases": [
+     "Happy Cola Sauer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0027",
+    "text": "Maoam Bloxx",
+    "aliases": [
+     "Bloxx"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0028",
+    "text": "Maoam Stripes",
+    "aliases": [
+     "Stripes"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0029",
+    "text": "Balla Stixx",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0030",
+    "text": "Haribo Roulette",
+    "aliases": [
+     "Roulette"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0031",
+    "text": "Super Mario",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-018-a0032",
+    "text": "Lakritz-Parade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0033",
+    "text": "Salinos",
+    "aliases": [
+     "Salino"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0034",
+    "text": "Katinchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0035",
+    "text": "Pirates",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0036",
+    "text": "Kolalas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0037",
+    "text": "Pyramidos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0038",
+    "text": "Pasta Basta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0039",
+    "text": "Brombeeren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0040",
+    "text": "Himbeeren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0041",
+    "text": "Quaxi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0042",
+    "text": "Wummis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0043",
+    "text": "Fruity Bussi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0044",
+    "text": "Frucht Flip",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0045",
+    "text": "Blaue Tüte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0046",
+    "text": "Anaconda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0047",
+    "text": "Bananas",
+    "aliases": [
+     "Schaumzucker-Bananen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0048",
+    "text": "BBQ Mallows",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0049",
+    "text": "Salz-Brezeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0050",
+    "text": "Milch HipStars",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0051",
+    "text": "Maoam Kracher",
+    "aliases": [
+     "Kracher"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0052",
+    "text": "Maoam Pinballs",
+    "aliases": [
+     "Pinballs"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0053",
+    "text": "Maoam Joystixx",
+    "aliases": [
+     "Joystixx"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0054",
+    "text": "Maoam Mao Mixx",
+    "aliases": [
+     "Mao Mixx"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0055",
+    "text": "Goldbären Zuckerreduziert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0056",
+    "text": "Rotella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0057",
+    "text": "Haribo Weltall",
+    "aliases": [
+     "Weltall"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0058",
+    "text": "Crazy Schnuller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0059",
+    "text": "Vulkano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0060",
+    "text": "Big Black Python",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0061",
+    "text": "Cola-Ringe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0062",
+    "text": "Saure Schlümpfe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0063",
+    "text": "Goldbären Mini",
+    "aliases": [
+     "Mini Goldbären"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-018-a0064",
+    "text": "Matador-Mix",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
   "id": "ess-019",
   "text": "Nenne etwas, das auf einem Döner landen kann",
   "kategorie": "essen",
