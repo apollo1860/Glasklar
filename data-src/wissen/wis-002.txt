@@ -1,0 +1,94 @@
+@id wis-002
+@text Nenne einen Studiengang an der Ludwig-Maximilians-Universität München
+# Fächer/Studiengänge der LMU (Bachelor, Master, Staatsexamen, Kirchliches Examen), Stand 2026 laut lmu.de-Studienangebot und eigenem Wissen.
+# Nicht drin: TUM-Fächer (Maschinenbau, Elektrotechnik, Architektur, Sportwissenschaft, Agrar-/Forstwissenschaft, Molekulare Biotechnologie).
+# Schwerpunkte des B.A. „Naher und Mittlerer Osten“ (Arabistik, Iranistik, Turkologie, Islamwissenschaft) sind dort als Aliase hinterlegt.
+
+1 Betriebswirtschaftslehre = BWL
+1 Rechtswissenschaft = Jura; Jus; Rechtswissenschaften
+1 Humanmedizin = Medizin
+2 Psychologie = Psycho
+2 Informatik = Info
+2 Volkswirtschaftslehre = VWL; Ökonomie; Economics
+2 Lehramt = Lehramt Gymnasium; Lehramt Grundschule; Grundschullehramt; Lehramt Realschule; Lehramt Mittelschule
+2 Germanistik = Deutsch; Deutsche Philologie
+2 Kommunikationswissenschaft = Kommunikationswissenschaften; KoWi; Publizistik
+3 Physik
+3 Mathematik = Mathe
+3 Biologie = Bio
+3 Chemie = Chemie und Biochemie
+3 Tiermedizin = Veterinärmedizin; Tiermed
+3 Zahnmedizin = Zahnmed
+3 Pharmazie
+3 Politikwissenschaft = Politologie; Politik; PoWi
+3 Geschichte
+3 Philosophie
+3 Soziologie
+3 Anglistik = Englisch
+3 Kunstgeschichte
+3 Medieninformatik
+3 Pädagogik = Bildungswissenschaft; Erziehungswissenschaft
+3 Statistik = Statistik und Data Science
+3 Romanistik
+4 Biochemie
+4 Katholische Theologie
+4 Evangelische Theologie
+4 Theologie
+4 Geographie = Geografie
+4 Geowissenschaften = Geologie
+4 Bioinformatik
+4 Data Science
+4 Computerlinguistik
+4 Theaterwissenschaft
+4 Musikwissenschaft
+4 Kunstpädagogik = Kunst
+4 Ethnologie = Sozial- und Kulturanthropologie
+4 Archäologie
+4 Klassische Archäologie
+4 Ägyptologie = Ägyptologie und Koptologie
+4 Sinologie = Chinastudien
+4 Japanologie
+4 Nordamerikastudien = Amerikanistik
+4 Buchwissenschaft
+4 Französisch = Französistik; Französische Philologie
+4 Italienisch = Italianistik
+4 Spanisch = Hispanistik
+4 Latein = Lateinische Philologie; Latinistik
+4 Griechisch = Griechische Philologie; Gräzistik
+4 Slavistik = Slawistik; Russisch
+4 Sonderpädagogik
+4 Meteorologie
+4 Public Health
+4 Komparatistik = Allgemeine und Vergleichende Literaturwissenschaft; Literaturwissenschaft
+4 Wirtschaftspädagogik
+4 Sprachtherapie = Logopädie
+4 Religionswissenschaft
+5 Astrophysik
+5 Geophysik
+5 Epidemiologie
+5 Neurowissenschaften = Neurowissenschaft; Neurobiologie
+5 Finanz- und Versicherungsmathematik = Versicherungsmathematik
+5 Mensch-Computer-Interaktion
+5 Künstliche Intelligenz = KI
+5 Naher und Mittlerer Osten = Arabistik; Islamwissenschaft; Turkologie; Iranistik
+5 Jüdische Geschichte und Kultur = Judaistik
+5 Altorientalistik = Assyriologie
+5 Vorderasiatische Archäologie
+5 Vor- und Frühgeschichtliche Archäologie
+5 Provinzialrömische Archäologie
+5 Byzantinistik = Byzantinistik und Neogräzistik; Neogräzistik
+5 Skandinavistik = Nordistik; Nordische Philologie
+5 Finnougristik
+5 Osteuropastudien
+5 Europäische Ethnologie = Volkskunde; Empirische Kulturwissenschaft
+5 Deutsch als Fremdsprache = DaF
+5 Phonetik
+5 Logik und Wissenschaftstheorie
+5 Orthodoxe Theologie
+5 Kanonisches Recht = Kirchenrecht
+5 Interkulturelle Kommunikation
+5 Schulpsychologie
+5 Umweltsysteme und Nachhaltigkeit
+5 Theoretische und Mathematische Physik
+5 Klassische Philologie
+5 Linguistik = Sprachwissenschaft

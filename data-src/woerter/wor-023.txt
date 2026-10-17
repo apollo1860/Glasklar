@@ -1,0 +1,75 @@
+@id wor-023
+@text Nenne einen sauberen Reim auf „essen“
+@typ geschlossen
+# Nur reine Reime im Standarddeutsch: gleicher betonter Vokal (inkl. Länge) und alles danach gleich.
+# Nicht aufgenommen: das Reimwort selbst sowie Komposita/Ableitungen, die es enthalten (identischer Reim).
+# Konjugierte Formen und Präfixverben sind zulässig; Groß/klein fällt zusammen (macht = Macht, rum = Rum, Triebe = triebe).
+# Reimsilbe -essen/-ässen mit kurzem e/ä. Ausgeschlossen: Formen und Komposita von „essen“ selbst (gegessen, aufessen, Abendessen,
+# Mittagessen, Mitessen, Essen als Stadt) – identischer Reim. Dativ-Plurale von -ess-Wörtern (Prozessen, Kongressen) sind korrekt und drin.
+
+1 vergessen
+1 messen
+1 fressen
+1 pressen
+2 besessen
+2 Interessen
+2 Hessen
+2 dessen
+2 gesessen
+3 Adressen
+3 Delikatessen
+3 Zypressen
+3 Prozessen
+3 indessen
+3 stattdessen
+3 währenddessen
+3 unterdessen
+3 infolgedessen
+3 angemessen
+3 gemessen
+3 vermessen
+3 ermessen
+3 bemessen
+3 gefressen
+3 erpressen
+3 auspressen
+3 versessen
+3 unvergessen
+3 kessen
+3 Kressen
+3 Tressen
+3 Finessen
+3 Exzessen
+3 Kongressen
+4 abmessen
+4 ausmessen
+4 nachmessen
+4 zumessen
+4 beimessen
+4 unangemessen
+4 auffressen
+4 zerfressen
+4 wegfressen
+4 anfressen
+4 vollfressen
+4 durchfressen
+4 zusammenpressen
+4 einpressen
+4 anpressen
+4 abpressen
+4 abgesessen
+4 ausgesessen
+4 eingesessen
+4 alteingesessen
+4 Hostessen
+4 Stewardessen
+4 Raffinessen
+4 Abszessen
+4 Baronessen
+4 Komtessen
+4 Mätressen
+4 Regressen
+4 Progressen
+5 Zitronenpressen
+5 Saftpressen
+5 Weinpressen

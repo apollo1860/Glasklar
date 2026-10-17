@@ -1,0 +1,121 @@
+@id wis-001
+@text Nenne einen griechischen Gott
+@typ geschlossen
+# Götter und Göttinnen der griechischen Mythologie: Olympier, Titanen, Urgottheiten, Personifikationen, Meeres-/Windgötter,
+# Musen, Moiren, Chariten, Erinyen. Herakles und Asklepios sind drin (nach dem Mythos zu Göttern erhoben), Psyche ebenso.
+# Nicht drin: reine Helden/Sterbliche (Achilles, Perseus, Odysseus), Nymphen, Ungeheuer, römische Namen (Jupiter, Venus, Mars, Neptun …).
+
+1 Zeus
+1 Poseidon
+1 Hades
+2 Athene = Athena; Pallas Athene
+2 Apollon = Apollo
+2 Aphrodite
+2 Hera
+2 Ares
+2 Hermes
+2 Kronos = Cronos
+3 Artemis
+3 Hephaistos = Hephaestus; Hephäst
+3 Demeter
+3 Dionysos = Dionysus; Bakchos; Bacchus
+3 Persephone = Kore
+3 Eros
+3 Nike
+3 Gaia = Gaja; Ge
+3 Uranos = Ouranos
+3 Prometheus
+3 Atlas
+3 Helios
+3 Pan
+3 Thanatos
+3 Herakles = Heracles
+3 Kratos
+3 Hestia
+4 Rhea = Rheia
+4 Chronos
+4 Selene
+4 Eos
+4 Leto
+4 Metis
+4 Okeanos = Oceanus
+4 Hyperion
+4 Mnemosyne
+4 Themis
+4 Epimetheus
+4 Chaos
+4 Nyx
+4 Erebos
+4 Tartaros
+4 Hekate
+4 Nemesis
+4 Tyche
+4 Hypnos
+4 Morpheus
+4 Iris
+4 Phobos
+4 Deimos
+4 Eris
+4 Asklepios = Asclepius; Äskulap
+4 Triton
+4 Amphitrite
+4 Proteus
+4 Boreas
+4 Zephyros = Zephyr
+4 Aiolos = Äolus
+4 Charon
+4 Priapos = Priapus
+4 Kalliope
+4 Klio
+4 Styx
+4 Hebe
+4 Harmonia
+5 Tethys
+5 Theia
+5 Koios
+5 Phoibe
+5 Kreios
+5 Iapetos
+5 Menoitios
+5 Asteria
+5 Dione
+5 Pontos
+5 Hemera
+5 Aither = Äther
+5 Ananke
+5 Eileithyia
+5 Enyo
+5 Hymenaios
+5 Hygieia
+5 Nereus
+5 Notos
+5 Euros
+5 Erato
+5 Euterpe
+5 Melpomene
+5 Polyhymnia
+5 Terpsichore
+5 Thalia
+5 Urania
+5 Klotho
+5 Lachesis
+5 Atropos
+5 Aglaia
+5 Euphrosyne
+5 Alekto
+5 Megaira
+5 Tisiphone
+5 Plutos
+5 Maia
+5 Bia
+5 Zelos
+5 Momos
+5 Dike
+5 Eirene
+5 Astraia
+5 Ate
+5 Kairos
+5 Phanes
+5 Psyche
+5 Pallas
+5 Perses

@@ -1,0 +1,35 @@
+@id wor-022
+@text Nenne einen sauberen Reim auf „dumm“
+@typ geschlossen
+# Nur reine Reime im Standarddeutsch: gleicher betonter Vokal (inkl. Länge) und alles danach gleich.
+# Nicht aufgenommen: das Reimwort selbst sowie Komposita/Ableitungen, die es enthalten (identischer Reim).
+# Konjugierte Formen und Präfixverben sind zulässig; Groß/klein fällt zusammen (macht = Macht, rum = Rum, Triebe = triebe).
+# Reimsilbe -umm/-um mit kurzem, BETONTEM u. Lateinische -um-Wörter mit unbetonter Endung (Publikum, Gymnasium, Datum, Album,
+# Zentrum, Museum) sind kein sauberer Reim und bewusst nicht drin; ebenso nicht Ruhm/Konsum (langes u). Ausgeschlossen: strohdumm, saudumm.
+
+1 krumm
+1 stumm
+1 rum
+2 warum
+2 um
+2 darum
+2 herum
+3 Mumm
+3 drum
+3 worum
+3 rundherum
+3 ringsum
+3 andersrum
+3 drumherum
+3 Gebrumm
+4 rundum
+4 ringsherum
+4 kurzum
+4 andersherum
+4 Gesumm
+4 bumm
+4 summ
+4 brumm
+5 drumrum
+5 hierum
+5 wumm

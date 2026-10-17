@@ -1,0 +1,2128 @@
+[
+ {
+  "id": "wis-001",
+  "text": "Nenne einen griechischen Gott",
+  "kategorie": "wissen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wis-001-a0001",
+    "text": "Zeus",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wis-001-a0002",
+    "text": "Poseidon",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wis-001-a0003",
+    "text": "Hades",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wis-001-a0004",
+    "text": "Athene",
+    "aliases": [
+     "Athena",
+     "Pallas Athene"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0005",
+    "text": "Apollon",
+    "aliases": [
+     "Apollo"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0006",
+    "text": "Aphrodite",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0007",
+    "text": "Hera",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0008",
+    "text": "Ares",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0009",
+    "text": "Hermes",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0010",
+    "text": "Kronos",
+    "aliases": [
+     "Cronos"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-001-a0011",
+    "text": "Artemis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0012",
+    "text": "Hephaistos",
+    "aliases": [
+     "Hephaestus",
+     "Hephäst"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0013",
+    "text": "Demeter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0014",
+    "text": "Dionysos",
+    "aliases": [
+     "Dionysus",
+     "Bakchos",
+     "Bacchus"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0015",
+    "text": "Persephone",
+    "aliases": [
+     "Kore"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0016",
+    "text": "Eros",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0017",
+    "text": "Nike",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0018",
+    "text": "Gaia",
+    "aliases": [
+     "Gaja",
+     "Ge"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0019",
+    "text": "Uranos",
+    "aliases": [
+     "Ouranos"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0020",
+    "text": "Prometheus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0021",
+    "text": "Atlas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0022",
+    "text": "Helios",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0023",
+    "text": "Pan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0024",
+    "text": "Thanatos",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0025",
+    "text": "Herakles",
+    "aliases": [
+     "Heracles"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0026",
+    "text": "Kratos",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0027",
+    "text": "Hestia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-001-a0028",
+    "text": "Rhea",
+    "aliases": [
+     "Rheia"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0029",
+    "text": "Chronos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0030",
+    "text": "Selene",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0031",
+    "text": "Eos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0032",
+    "text": "Leto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0033",
+    "text": "Metis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0034",
+    "text": "Okeanos",
+    "aliases": [
+     "Oceanus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0035",
+    "text": "Hyperion",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0036",
+    "text": "Mnemosyne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0037",
+    "text": "Themis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0038",
+    "text": "Epimetheus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0039",
+    "text": "Chaos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0040",
+    "text": "Nyx",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0041",
+    "text": "Erebos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0042",
+    "text": "Tartaros",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0043",
+    "text": "Hekate",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0044",
+    "text": "Nemesis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0045",
+    "text": "Tyche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0046",
+    "text": "Hypnos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0047",
+    "text": "Morpheus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0048",
+    "text": "Iris",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0049",
+    "text": "Phobos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0050",
+    "text": "Deimos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0051",
+    "text": "Eris",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0052",
+    "text": "Asklepios",
+    "aliases": [
+     "Asclepius",
+     "Äskulap"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0053",
+    "text": "Triton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0054",
+    "text": "Amphitrite",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0055",
+    "text": "Proteus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0056",
+    "text": "Boreas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0057",
+    "text": "Zephyros",
+    "aliases": [
+     "Zephyr"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0058",
+    "text": "Aiolos",
+    "aliases": [
+     "Äolus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0059",
+    "text": "Charon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0060",
+    "text": "Priapos",
+    "aliases": [
+     "Priapus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0061",
+    "text": "Kalliope",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0062",
+    "text": "Klio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0063",
+    "text": "Styx",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0064",
+    "text": "Hebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0065",
+    "text": "Harmonia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-001-a0066",
+    "text": "Tethys",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0067",
+    "text": "Theia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0068",
+    "text": "Koios",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0069",
+    "text": "Phoibe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0070",
+    "text": "Kreios",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0071",
+    "text": "Iapetos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0072",
+    "text": "Menoitios",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0073",
+    "text": "Asteria",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0074",
+    "text": "Dione",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0075",
+    "text": "Pontos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0076",
+    "text": "Hemera",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0077",
+    "text": "Aither",
+    "aliases": [
+     "Äther"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0078",
+    "text": "Ananke",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0079",
+    "text": "Eileithyia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0080",
+    "text": "Enyo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0081",
+    "text": "Hymenaios",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0082",
+    "text": "Hygieia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0083",
+    "text": "Nereus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0084",
+    "text": "Notos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0085",
+    "text": "Euros",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0086",
+    "text": "Erato",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0087",
+    "text": "Euterpe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0088",
+    "text": "Melpomene",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0089",
+    "text": "Polyhymnia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0090",
+    "text": "Terpsichore",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0091",
+    "text": "Thalia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0092",
+    "text": "Urania",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0093",
+    "text": "Klotho",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0094",
+    "text": "Lachesis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0095",
+    "text": "Atropos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0096",
+    "text": "Aglaia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0097",
+    "text": "Euphrosyne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0098",
+    "text": "Alekto",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0099",
+    "text": "Megaira",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0100",
+    "text": "Tisiphone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0101",
+    "text": "Plutos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0102",
+    "text": "Maia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0103",
+    "text": "Bia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0104",
+    "text": "Zelos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0105",
+    "text": "Momos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0106",
+    "text": "Dike",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0107",
+    "text": "Eirene",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0108",
+    "text": "Astraia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0109",
+    "text": "Ate",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0110",
+    "text": "Kairos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0111",
+    "text": "Phanes",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0112",
+    "text": "Psyche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0113",
+    "text": "Pallas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-001-a0114",
+    "text": "Perses",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wis-002",
+  "text": "Nenne einen Studiengang an der Ludwig-Maximilians-Universität München",
+  "kategorie": "wissen",
+  "answers": [
+   {
+    "id": "wis-002-a0001",
+    "text": "Betriebswirtschaftslehre",
+    "aliases": [
+     "BWL"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wis-002-a0002",
+    "text": "Rechtswissenschaft",
+    "aliases": [
+     "Jura",
+     "Jus",
+     "Rechtswissenschaften"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wis-002-a0003",
+    "text": "Humanmedizin",
+    "aliases": [
+     "Medizin"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wis-002-a0004",
+    "text": "Psychologie",
+    "aliases": [
+     "Psycho"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-002-a0005",
+    "text": "Informatik",
+    "aliases": [
+     "Info"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-002-a0006",
+    "text": "Volkswirtschaftslehre",
+    "aliases": [
+     "VWL",
+     "Ökonomie",
+     "Economics"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-002-a0007",
+    "text": "Lehramt",
+    "aliases": [
+     "Lehramt Gymnasium",
+     "Lehramt Grundschule",
+     "Grundschullehramt",
+     "Lehramt Realschule",
+     "Lehramt Mittelschule"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-002-a0008",
+    "text": "Germanistik",
+    "aliases": [
+     "Deutsch",
+     "Deutsche Philologie"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-002-a0009",
+    "text": "Kommunikationswissenschaft",
+    "aliases": [
+     "Kommunikationswissenschaften",
+     "KoWi",
+     "Publizistik"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wis-002-a0010",
+    "text": "Physik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0011",
+    "text": "Mathematik",
+    "aliases": [
+     "Mathe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0012",
+    "text": "Biologie",
+    "aliases": [
+     "Bio"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0013",
+    "text": "Chemie",
+    "aliases": [
+     "Chemie und Biochemie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0014",
+    "text": "Tiermedizin",
+    "aliases": [
+     "Veterinärmedizin",
+     "Tiermed"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0015",
+    "text": "Zahnmedizin",
+    "aliases": [
+     "Zahnmed"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0016",
+    "text": "Pharmazie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0017",
+    "text": "Politikwissenschaft",
+    "aliases": [
+     "Politologie",
+     "Politik",
+     "PoWi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0018",
+    "text": "Geschichte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0019",
+    "text": "Philosophie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0020",
+    "text": "Soziologie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0021",
+    "text": "Anglistik",
+    "aliases": [
+     "Englisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0022",
+    "text": "Kunstgeschichte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0023",
+    "text": "Medieninformatik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0024",
+    "text": "Pädagogik",
+    "aliases": [
+     "Bildungswissenschaft",
+     "Erziehungswissenschaft"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0025",
+    "text": "Statistik",
+    "aliases": [
+     "Statistik und Data Science"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0026",
+    "text": "Romanistik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-002-a0027",
+    "text": "Biochemie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0028",
+    "text": "Katholische Theologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0029",
+    "text": "Evangelische Theologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0030",
+    "text": "Theologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0031",
+    "text": "Geographie",
+    "aliases": [
+     "Geografie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0032",
+    "text": "Geowissenschaften",
+    "aliases": [
+     "Geologie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0033",
+    "text": "Bioinformatik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0034",
+    "text": "Data Science",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0035",
+    "text": "Computerlinguistik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0036",
+    "text": "Theaterwissenschaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0037",
+    "text": "Musikwissenschaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0038",
+    "text": "Kunstpädagogik",
+    "aliases": [
+     "Kunst"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0039",
+    "text": "Ethnologie",
+    "aliases": [
+     "Sozial- und Kulturanthropologie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0040",
+    "text": "Archäologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0041",
+    "text": "Klassische Archäologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0042",
+    "text": "Ägyptologie",
+    "aliases": [
+     "Ägyptologie und Koptologie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0043",
+    "text": "Sinologie",
+    "aliases": [
+     "Chinastudien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0044",
+    "text": "Japanologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0045",
+    "text": "Nordamerikastudien",
+    "aliases": [
+     "Amerikanistik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0046",
+    "text": "Buchwissenschaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0047",
+    "text": "Französisch",
+    "aliases": [
+     "Französistik",
+     "Französische Philologie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0048",
+    "text": "Italienisch",
+    "aliases": [
+     "Italianistik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0049",
+    "text": "Spanisch",
+    "aliases": [
+     "Hispanistik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0050",
+    "text": "Latein",
+    "aliases": [
+     "Lateinische Philologie",
+     "Latinistik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0051",
+    "text": "Griechisch",
+    "aliases": [
+     "Griechische Philologie",
+     "Gräzistik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0052",
+    "text": "Slavistik",
+    "aliases": [
+     "Slawistik",
+     "Russisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0053",
+    "text": "Sonderpädagogik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0054",
+    "text": "Meteorologie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0055",
+    "text": "Public Health",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0056",
+    "text": "Komparatistik",
+    "aliases": [
+     "Allgemeine und Vergleichende Literaturwissenschaft",
+     "Literaturwissenschaft"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0057",
+    "text": "Wirtschaftspädagogik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0058",
+    "text": "Sprachtherapie",
+    "aliases": [
+     "Logopädie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0059",
+    "text": "Religionswissenschaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-002-a0060",
+    "text": "Astrophysik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0061",
+    "text": "Geophysik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0062",
+    "text": "Epidemiologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0063",
+    "text": "Neurowissenschaften",
+    "aliases": [
+     "Neurowissenschaft",
+     "Neurobiologie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0064",
+    "text": "Finanz- und Versicherungsmathematik",
+    "aliases": [
+     "Versicherungsmathematik"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0065",
+    "text": "Mensch-Computer-Interaktion",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0066",
+    "text": "Künstliche Intelligenz",
+    "aliases": [
+     "KI"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0067",
+    "text": "Naher und Mittlerer Osten",
+    "aliases": [
+     "Arabistik",
+     "Islamwissenschaft",
+     "Turkologie",
+     "Iranistik"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0068",
+    "text": "Jüdische Geschichte und Kultur",
+    "aliases": [
+     "Judaistik"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0069",
+    "text": "Altorientalistik",
+    "aliases": [
+     "Assyriologie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0070",
+    "text": "Vorderasiatische Archäologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0071",
+    "text": "Vor- und Frühgeschichtliche Archäologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0072",
+    "text": "Provinzialrömische Archäologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0073",
+    "text": "Byzantinistik",
+    "aliases": [
+     "Byzantinistik und Neogräzistik",
+     "Neogräzistik"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0074",
+    "text": "Skandinavistik",
+    "aliases": [
+     "Nordistik",
+     "Nordische Philologie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0075",
+    "text": "Finnougristik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0076",
+    "text": "Osteuropastudien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0077",
+    "text": "Europäische Ethnologie",
+    "aliases": [
+     "Volkskunde",
+     "Empirische Kulturwissenschaft"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0078",
+    "text": "Deutsch als Fremdsprache",
+    "aliases": [
+     "DaF"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0079",
+    "text": "Phonetik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0080",
+    "text": "Logik und Wissenschaftstheorie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0081",
+    "text": "Orthodoxe Theologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0082",
+    "text": "Kanonisches Recht",
+    "aliases": [
+     "Kirchenrecht"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0083",
+    "text": "Interkulturelle Kommunikation",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0084",
+    "text": "Schulpsychologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0085",
+    "text": "Umweltsysteme und Nachhaltigkeit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0086",
+    "text": "Theoretische und Mathematische Physik",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0087",
+    "text": "Klassische Philologie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-002-a0088",
+    "text": "Linguistik",
+    "aliases": [
+     "Sprachwissenschaft"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wis-003",
+  "text": "Nenne ein Element im Periodensystem",
+  "kategorie": "wissen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wis-003-a0001",
+    "text": "Sauerstoff",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wis-003-a0002",
+    "text": "Wasserstoff",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wis-003-a0003",
+    "text": "Gold",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wis-003-a0004",
+    "text": "Helium",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-003-a0005",
+    "text": "Kohlenstoff",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-003-a0006",
+    "text": "Eisen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-003-a0007",
+    "text": "Silber",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-003-a0008",
+    "text": "Stickstoff",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-003-a0009",
+    "text": "Uran",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wis-003-a0010",
+    "text": "Kupfer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0011",
+    "text": "Natrium",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0012",
+    "text": "Kalium",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0013",
+    "text": "Zink",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0014",
+    "text": "Blei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0015",
+    "text": "Chlor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0016",
+    "text": "Neon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0017",
+    "text": "Plutonium",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0018",
+    "text": "Platin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0019",
+    "text": "Calcium",
+    "aliases": [
+     "Kalzium"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0020",
+    "text": "Magnesium",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0021",
+    "text": "Aluminium",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0022",
+    "text": "Lithium",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0023",
+    "text": "Quecksilber",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0024",
+    "text": "Schwefel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0025",
+    "text": "Titan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0026",
+    "text": "Argon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0027",
+    "text": "Phosphor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0028",
+    "text": "Zinn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0029",
+    "text": "Nickel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0030",
+    "text": "Silicium",
+    "aliases": [
+     "Silizium"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wis-003-a0031",
+    "text": "Fluor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0032",
+    "text": "Radium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0033",
+    "text": "Radon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0034",
+    "text": "Iod",
+    "aliases": [
+     "Jod"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0035",
+    "text": "Cobalt",
+    "aliases": [
+     "Kobalt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0036",
+    "text": "Chrom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0037",
+    "text": "Mangan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0038",
+    "text": "Wolfram",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0039",
+    "text": "Krypton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0040",
+    "text": "Xenon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0041",
+    "text": "Arsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0042",
+    "text": "Brom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0043",
+    "text": "Polonium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0044",
+    "text": "Selen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0045",
+    "text": "Barium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0046",
+    "text": "Bor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0047",
+    "text": "Beryllium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0048",
+    "text": "Caesium",
+    "aliases": [
+     "Zäsium"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0049",
+    "text": "Iridium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0050",
+    "text": "Palladium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0051",
+    "text": "Osmium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0052",
+    "text": "Strontium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0053",
+    "text": "Einsteinium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0054",
+    "text": "Cadmium",
+    "aliases": [
+     "Kadmium"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0055",
+    "text": "Bismut",
+    "aliases": [
+     "Wismut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0056",
+    "text": "Tantal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0057",
+    "text": "Vanadium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0058",
+    "text": "Neodym",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0059",
+    "text": "Germanium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0060",
+    "text": "Gallium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0061",
+    "text": "Thorium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wis-003-a0062",
+    "text": "Scandium",
+    "aliases": [
+     "Skandium"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0063",
+    "text": "Rubidium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0064",
+    "text": "Yttrium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0065",
+    "text": "Zirconium",
+    "aliases": [
+     "Zirkonium"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0066",
+    "text": "Niob",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0067",
+    "text": "Molybdän",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0068",
+    "text": "Technetium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0069",
+    "text": "Ruthenium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0070",
+    "text": "Rhodium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0071",
+    "text": "Indium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0072",
+    "text": "Antimon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0073",
+    "text": "Tellur",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0074",
+    "text": "Lanthan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0075",
+    "text": "Cer",
+    "aliases": [
+     "Cerium"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0076",
+    "text": "Praseodym",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0077",
+    "text": "Promethium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0078",
+    "text": "Samarium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0079",
+    "text": "Europium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0080",
+    "text": "Gadolinium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0081",
+    "text": "Terbium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0082",
+    "text": "Dysprosium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0083",
+    "text": "Holmium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0084",
+    "text": "Erbium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0085",
+    "text": "Thulium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0086",
+    "text": "Ytterbium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0087",
+    "text": "Lutetium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0088",
+    "text": "Hafnium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0089",
+    "text": "Rhenium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0090",
+    "text": "Thallium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0091",
+    "text": "Astat",
+    "aliases": [
+     "Astatin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0092",
+    "text": "Francium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0093",
+    "text": "Actinium",
+    "aliases": [
+     "Aktinium"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0094",
+    "text": "Protactinium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0095",
+    "text": "Neptunium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0096",
+    "text": "Americium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0097",
+    "text": "Curium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0098",
+    "text": "Berkelium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0099",
+    "text": "Californium",
+    "aliases": [
+     "Kalifornium"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0100",
+    "text": "Fermium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0101",
+    "text": "Mendelevium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0102",
+    "text": "Nobelium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0103",
+    "text": "Lawrencium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0104",
+    "text": "Rutherfordium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0105",
+    "text": "Dubnium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0106",
+    "text": "Seaborgium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0107",
+    "text": "Bohrium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0108",
+    "text": "Hassium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0109",
+    "text": "Meitnerium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0110",
+    "text": "Darmstadtium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0111",
+    "text": "Roentgenium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0112",
+    "text": "Copernicium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0113",
+    "text": "Nihonium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0114",
+    "text": "Flerovium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0115",
+    "text": "Moscovium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0116",
+    "text": "Livermorium",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0117",
+    "text": "Tenness",
+    "aliases": [
+     "Tennessin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wis-003-a0118",
+    "text": "Oganesson",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ }
+]

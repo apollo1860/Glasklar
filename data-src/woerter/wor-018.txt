@@ -1,0 +1,60 @@
+@id wor-018
+@text Nenne einen sauberen Reim auf „Liebe“
+@typ geschlossen
+# Nur reine Reime im Standarddeutsch: gleicher betonter Vokal (inkl. Länge) und alles danach gleich.
+# Nicht aufgenommen: das Reimwort selbst sowie Komposita/Ableitungen, die es enthalten (identischer Reim).
+# Konjugierte Formen und Präfixverben sind zulässig; Groß/klein fällt zusammen (macht = Macht, rum = Rum, Triebe = triebe).
+# Reimsilbe -iebe/-ibe (langes i + be). Ausgeschlossen: verliebe, Nächstenliebe usw. sowie unreine Reime (Rübe, Grübe, Rippe).
+# Konjunktiv-II-Formen (bliebe, schriebe, triebe, riebe) sind korrekte Formen und daher drin.
+
+1 Diebe
+1 Hiebe
+1 Triebe
+2 Siebe
+2 schiebe
+2 bliebe
+2 Getriebe
+3 schriebe
+3 Betriebe
+3 Antriebe
+3 Seitenhiebe
+3 Taschendiebe
+3 verschiebe
+3 riebe
+4 Ladendiebe
+4 Autodiebe
+4 Fahrraddiebe
+4 Juwelendiebe
+4 Kunstdiebe
+4 Datendiebe
+4 Meisterdiebe
+4 Pferdediebe
+4 Viehdiebe
+4 Vertriebe
+4 Auftriebe
+4 Abtriebe
+4 Austriebe
+4 Sexualtriebe
+4 Spieltriebe
+4 Schwerthiebe
+4 Peitschenhiebe
+4 Stockhiebe
+4 Axthiebe
+4 Teesiebe
+4 Küchensiebe
+4 Mehlsiebe
+4 aufschiebe
+4 abschiebe
+4 einschiebe
+4 zuschiebe
+4 vorschiebe
+4 beschriebe
+4 verschriebe
+4 unterschriebe
+4 abschriebe
+4 aufschriebe
+4 verbliebe
+4 zerriebe
+4 Griebe
+4 Geschiebe
+5 stiebe

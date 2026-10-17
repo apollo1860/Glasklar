@@ -6818,5 +6818,3697 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "wor-017",
+  "text": "Nenne einen sauberen Reim auf „Nacht“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-017-a0001",
+    "text": "lacht",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-017-a0002",
+    "text": "macht",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-017-a0003",
+    "text": "acht",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-017-a0004",
+    "text": "gemacht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-017-a0005",
+    "text": "Pracht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-017-a0006",
+    "text": "gelacht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-017-a0007",
+    "text": "Schlacht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-017-a0008",
+    "text": "gedacht",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-017-a0009",
+    "text": "Fracht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0010",
+    "text": "Schacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0011",
+    "text": "Wacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0012",
+    "text": "kracht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0013",
+    "text": "Tracht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0014",
+    "text": "gebracht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0015",
+    "text": "Yacht",
+    "aliases": [
+     "Jacht"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0016",
+    "text": "Verdacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0017",
+    "text": "erwacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0018",
+    "text": "bewacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0019",
+    "text": "ausgelacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0020",
+    "text": "sacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0021",
+    "text": "bedacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0022",
+    "text": "aufgewacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0023",
+    "text": "ausgedacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0024",
+    "text": "aufgemacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0025",
+    "text": "zugemacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0026",
+    "text": "Eintracht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0027",
+    "text": "Ohnmacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0028",
+    "text": "Supermacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-017-a0029",
+    "text": "Andacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0030",
+    "text": "Obacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0031",
+    "text": "Zwietracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0032",
+    "text": "Niedertracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0033",
+    "text": "Übermacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0034",
+    "text": "Vollmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0035",
+    "text": "Allmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0036",
+    "text": "Weltmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0037",
+    "text": "Großmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0038",
+    "text": "Streitmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0039",
+    "text": "Atommacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0040",
+    "text": "Pacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0041",
+    "text": "entfacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0042",
+    "text": "überwacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0043",
+    "text": "überdacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0044",
+    "text": "durchdacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0045",
+    "text": "erdacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0046",
+    "text": "nachgedacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0047",
+    "text": "angedacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0048",
+    "text": "mitgedacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0049",
+    "text": "erbracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0050",
+    "text": "verbracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0051",
+    "text": "vollbracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0052",
+    "text": "angebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0053",
+    "text": "mitgebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0054",
+    "text": "beigebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0055",
+    "text": "umgebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0056",
+    "text": "aufgebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0057",
+    "text": "untergebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0058",
+    "text": "hervorgebracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0059",
+    "text": "ausgemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0060",
+    "text": "angemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0061",
+    "text": "mitgemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0062",
+    "text": "nachgemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0063",
+    "text": "kaputtgemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0064",
+    "text": "schlappgemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0065",
+    "text": "festgemacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0066",
+    "text": "verlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0067",
+    "text": "belacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0068",
+    "text": "anlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0069",
+    "text": "auslacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0070",
+    "text": "zulacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0071",
+    "text": "aufmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0072",
+    "text": "zumacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0073",
+    "text": "ausmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0074",
+    "text": "mitmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0075",
+    "text": "anmacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0076",
+    "text": "verkracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0077",
+    "text": "gekracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0078",
+    "text": "Feldschlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0079",
+    "text": "Seeschlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0080",
+    "text": "Wasserschlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0081",
+    "text": "Schneeballschlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0082",
+    "text": "Kissenschlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0083",
+    "text": "Tortenschlacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0084",
+    "text": "Luftfracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0085",
+    "text": "Seefracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0086",
+    "text": "Aufzugsschacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0087",
+    "text": "Lüftungsschacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0088",
+    "text": "Volkstracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0089",
+    "text": "Bergwacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0090",
+    "text": "Wasserwacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0091",
+    "text": "Leibwacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0092",
+    "text": "Blütenpracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0093",
+    "text": "Farbenpracht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0094",
+    "text": "Tatverdacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-017-a0095",
+    "text": "Erbpacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0096",
+    "text": "Brandwacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0097",
+    "text": "Schutzmacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0098",
+    "text": "Seemacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0099",
+    "text": "Kolonialmacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0100",
+    "text": "Besatzungsmacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0101",
+    "text": "Wirtschaftsmacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0102",
+    "text": "Mittelmacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0103",
+    "text": "Anfangsverdacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0104",
+    "text": "Morgenandacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0105",
+    "text": "Abendandacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0106",
+    "text": "dargebracht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0107",
+    "text": "zugebracht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0108",
+    "text": "wiedergutgemacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0109",
+    "text": "gutgemacht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-017-a0110",
+    "text": "angefacht",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-018",
+  "text": "Nenne einen sauberen Reim auf „Liebe“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-018-a0001",
+    "text": "Diebe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-018-a0002",
+    "text": "Hiebe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-018-a0003",
+    "text": "Triebe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-018-a0004",
+    "text": "Siebe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-018-a0005",
+    "text": "schiebe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-018-a0006",
+    "text": "bliebe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-018-a0007",
+    "text": "Getriebe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-018-a0008",
+    "text": "schriebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0009",
+    "text": "Betriebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0010",
+    "text": "Antriebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0011",
+    "text": "Seitenhiebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0012",
+    "text": "Taschendiebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0013",
+    "text": "verschiebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0014",
+    "text": "riebe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-018-a0015",
+    "text": "Ladendiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0016",
+    "text": "Autodiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0017",
+    "text": "Fahrraddiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0018",
+    "text": "Juwelendiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0019",
+    "text": "Kunstdiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0020",
+    "text": "Datendiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0021",
+    "text": "Meisterdiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0022",
+    "text": "Pferdediebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0023",
+    "text": "Viehdiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0024",
+    "text": "Vertriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0025",
+    "text": "Auftriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0026",
+    "text": "Abtriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0027",
+    "text": "Austriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0028",
+    "text": "Sexualtriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0029",
+    "text": "Spieltriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0030",
+    "text": "Schwerthiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0031",
+    "text": "Peitschenhiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0032",
+    "text": "Stockhiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0033",
+    "text": "Axthiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0034",
+    "text": "Teesiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0035",
+    "text": "Küchensiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0036",
+    "text": "Mehlsiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0037",
+    "text": "aufschiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0038",
+    "text": "abschiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0039",
+    "text": "einschiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0040",
+    "text": "zuschiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0041",
+    "text": "vorschiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0042",
+    "text": "beschriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0043",
+    "text": "verschriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0044",
+    "text": "unterschriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0045",
+    "text": "abschriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0046",
+    "text": "aufschriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0047",
+    "text": "verbliebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0048",
+    "text": "zerriebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0049",
+    "text": "Griebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0050",
+    "text": "Geschiebe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-018-a0051",
+    "text": "stiebe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-019",
+  "text": "Nenne einen sauberen Reim auf „Geld“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-019-a0001",
+    "text": "Welt",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-019-a0002",
+    "text": "Feld",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-019-a0003",
+    "text": "Held",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-019-a0004",
+    "text": "Zelt",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-019-a0005",
+    "text": "bellt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-019-a0006",
+    "text": "stellt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-019-a0007",
+    "text": "fällt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-019-a0008",
+    "text": "hält",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-019-a0009",
+    "text": "gefällt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-019-a0010",
+    "text": "bestellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0011",
+    "text": "gestellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0012",
+    "text": "Bielefeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0013",
+    "text": "Umwelt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0014",
+    "text": "Superheld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0015",
+    "text": "Spielfeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0016",
+    "text": "Bierzelt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0017",
+    "text": "Festzelt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0018",
+    "text": "erhält",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0019",
+    "text": "enthält",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0020",
+    "text": "behält",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0021",
+    "text": "vorgestellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0022",
+    "text": "hergestellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0023",
+    "text": "festgestellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0024",
+    "text": "Schlachtfeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0025",
+    "text": "Fußballfeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0026",
+    "text": "Kornfeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0027",
+    "text": "Unterwelt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0028",
+    "text": "Krefeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0029",
+    "text": "verhält",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0030",
+    "text": "gellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0031",
+    "text": "schnellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0032",
+    "text": "prellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0033",
+    "text": "erhellt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0034",
+    "text": "auffällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0035",
+    "text": "einfällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0036",
+    "text": "ausfällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0037",
+    "text": "umfällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0038",
+    "text": "entfällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0039",
+    "text": "verfällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0040",
+    "text": "zerfällt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-019-a0041",
+    "text": "überfällt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0042",
+    "text": "befällt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0043",
+    "text": "missfällt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0044",
+    "text": "anfällt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0045",
+    "text": "unterhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0046",
+    "text": "aufhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0047",
+    "text": "festhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0048",
+    "text": "aushält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0049",
+    "text": "anhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0050",
+    "text": "zurückhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0051",
+    "text": "abhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0052",
+    "text": "hinhält",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0053",
+    "text": "verstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0054",
+    "text": "erstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0055",
+    "text": "entstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0056",
+    "text": "eingestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0057",
+    "text": "angestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0058",
+    "text": "abgestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0059",
+    "text": "aufgestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0060",
+    "text": "ausgestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0061",
+    "text": "dargestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0062",
+    "text": "umgestellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0063",
+    "text": "vorstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0064",
+    "text": "einstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0065",
+    "text": "anstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0066",
+    "text": "abstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0067",
+    "text": "aufstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0068",
+    "text": "ausstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0069",
+    "text": "herstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0070",
+    "text": "darstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0071",
+    "text": "feststellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0072",
+    "text": "umstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0073",
+    "text": "unterstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0074",
+    "text": "zustellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0075",
+    "text": "nachstellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0076",
+    "text": "gebellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0077",
+    "text": "anbellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0078",
+    "text": "schellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0079",
+    "text": "geprellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0080",
+    "text": "zerschellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0081",
+    "text": "pellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0082",
+    "text": "gepellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0083",
+    "text": "wellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0084",
+    "text": "gewellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0085",
+    "text": "aufhellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0086",
+    "text": "gesellt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0087",
+    "text": "vergällt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0088",
+    "text": "Zirkuszelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0089",
+    "text": "Partyzelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0090",
+    "text": "Außenwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0091",
+    "text": "Innenwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0092",
+    "text": "Arbeitswelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0093",
+    "text": "Tierwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0094",
+    "text": "Pflanzenwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0095",
+    "text": "Traumwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0096",
+    "text": "Märchenwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0097",
+    "text": "Nachwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0098",
+    "text": "Scheinwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0099",
+    "text": "Bergwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0100",
+    "text": "Fachwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0101",
+    "text": "Halbwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0102",
+    "text": "Spielwelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0103",
+    "text": "Volksheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0104",
+    "text": "Nationalheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0105",
+    "text": "Kriegsheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0106",
+    "text": "Titelheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0107",
+    "text": "Actionheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0108",
+    "text": "Romanheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0109",
+    "text": "Filmheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0110",
+    "text": "Antiheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0111",
+    "text": "Sagenheld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0112",
+    "text": "Weizenfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0113",
+    "text": "Maisfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0114",
+    "text": "Rapsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0115",
+    "text": "Mohnfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0116",
+    "text": "Erdbeerfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0117",
+    "text": "Minenfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0118",
+    "text": "Umfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0119",
+    "text": "Vorfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0120",
+    "text": "Mittelfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0121",
+    "text": "Starterfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0122",
+    "text": "Teilnehmerfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0123",
+    "text": "Arbeitsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0124",
+    "text": "Tätigkeitsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0125",
+    "text": "Magnetfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0126",
+    "text": "Kraftfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0127",
+    "text": "Textfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0128",
+    "text": "Suchfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0129",
+    "text": "Spannungsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0130",
+    "text": "Blickfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0131",
+    "text": "Sichtfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0132",
+    "text": "Gesichtsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0133",
+    "text": "Bitterfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-019-a0134",
+    "text": "Spelt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0135",
+    "text": "Belt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0136",
+    "text": "quellt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0137",
+    "text": "Mitwelt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0138",
+    "text": "Erlebniswelt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0139",
+    "text": "Wasserwelt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0140",
+    "text": "Alltagswelt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0141",
+    "text": "Gräberfeld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0142",
+    "text": "Mansfeld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0143",
+    "text": "Bad Hersfeld",
+    "aliases": [
+     "Hersfeld"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0144",
+    "text": "Schönefeld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0145",
+    "text": "Hünfeld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0146",
+    "text": "Kinoheld",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-019-a0147",
+    "text": "Tagesheld",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-020",
+  "text": "Nenne einen sauberen Reim auf „Bier“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-020-a0001",
+    "text": "hier",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-020-a0002",
+    "text": "mir",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-020-a0003",
+    "text": "vier",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-020-a0004",
+    "text": "Tier",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-020-a0005",
+    "text": "dir",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-020-a0006",
+    "text": "wir",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-020-a0007",
+    "text": "Papier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-020-a0008",
+    "text": "Klavier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-020-a0009",
+    "text": "ihr",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-020-a0010",
+    "text": "Gier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-020-a0011",
+    "text": "Stier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0012",
+    "text": "Offizier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0013",
+    "text": "Revier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0014",
+    "text": "Turnier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0015",
+    "text": "Visier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0016",
+    "text": "Quartier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0017",
+    "text": "Pier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0018",
+    "text": "Kavalier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0019",
+    "text": "Vampir",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0020",
+    "text": "Souvenir",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0021",
+    "text": "Zier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0022",
+    "text": "Haustier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0023",
+    "text": "Klopapier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0024",
+    "text": "Kuscheltier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0025",
+    "text": "Neugier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0026",
+    "text": "Manier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0027",
+    "text": "Barbier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0028",
+    "text": "Pionier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0029",
+    "text": "Juwelier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0030",
+    "text": "Elixier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0031",
+    "text": "Kurier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0032",
+    "text": "Scharnier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0033",
+    "text": "Spalier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0034",
+    "text": "Musketier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0035",
+    "text": "Getier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0036",
+    "text": "Untier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0037",
+    "text": "Faultier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0038",
+    "text": "Murmeltier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0039",
+    "text": "Stofftier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0040",
+    "text": "Raubtier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-020-a0041",
+    "text": "Toilettenpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0042",
+    "text": "Zeitungspapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0043",
+    "text": "Geschenkpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0044",
+    "text": "Backpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0045",
+    "text": "Butterbrotpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0046",
+    "text": "Wertpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0047",
+    "text": "Altpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0048",
+    "text": "Packpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0049",
+    "text": "Schleifpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0050",
+    "text": "Briefpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0051",
+    "text": "Seidenpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0052",
+    "text": "Löschpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0053",
+    "text": "Positionspapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0054",
+    "text": "Polizeirevier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0055",
+    "text": "Jagdrevier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0056",
+    "text": "Ruhrrevier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0057",
+    "text": "Hauptquartier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0058",
+    "text": "Winterquartier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0059",
+    "text": "Nachtquartier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0060",
+    "text": "Tennisturnier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0061",
+    "text": "Pokerturnier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0062",
+    "text": "Schachturnier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0063",
+    "text": "Fußballturnier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0064",
+    "text": "Unteroffizier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0065",
+    "text": "Stabsoffizier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0066",
+    "text": "Habgier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0067",
+    "text": "Raffgier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0068",
+    "text": "Geldgier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0069",
+    "text": "Machtgier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0070",
+    "text": "Mordgier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0071",
+    "text": "Fressgier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0072",
+    "text": "Kampfstier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0073",
+    "text": "Zuchtstier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0074",
+    "text": "Nutztier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0075",
+    "text": "Wildtier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0076",
+    "text": "Säugetier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0077",
+    "text": "Herdentier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0078",
+    "text": "Partytier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0079",
+    "text": "Wappentier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0080",
+    "text": "Maultier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0081",
+    "text": "Trampeltier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0082",
+    "text": "Gürteltier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0083",
+    "text": "Schnabeltier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0084",
+    "text": "Beuteltier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0085",
+    "text": "Fabeltier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0086",
+    "text": "Krafttier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0087",
+    "text": "Versuchstier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0088",
+    "text": "Grenadier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0089",
+    "text": "Kanonier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0090",
+    "text": "Füsilier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0091",
+    "text": "Furnier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0092",
+    "text": "Klistier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0093",
+    "text": "Polier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0094",
+    "text": "Kassier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0095",
+    "text": "Plaisir",
+    "aliases": [
+     "Pläsier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0096",
+    "text": "Brevier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0097",
+    "text": "Rapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0098",
+    "text": "Wesir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0099",
+    "text": "Kürassier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0100",
+    "text": "Panier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0101",
+    "text": "Brigadier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0102",
+    "text": "Geschmier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-020-a0103",
+    "text": "Kohlerevier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0104",
+    "text": "Zootier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0105",
+    "text": "probier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0106",
+    "text": "kapier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0107",
+    "text": "studier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0108",
+    "text": "marschier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0109",
+    "text": "rasier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0110",
+    "text": "frisier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-020-a0111",
+    "text": "passier",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-021",
+  "text": "Nenne einen sauberen Reim auf „gehen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-021-a0001",
+    "text": "sehen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-021-a0002",
+    "text": "stehen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-021-a0003",
+    "text": "drehen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-021-a0004",
+    "text": "verstehen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-021-a0005",
+    "text": "wehen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0006",
+    "text": "Zehen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0007",
+    "text": "flehen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0008",
+    "text": "geschehen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0009",
+    "text": "Seen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0010",
+    "text": "Feen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0011",
+    "text": "Ideen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-021-a0012",
+    "text": "entstehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0013",
+    "text": "bestehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0014",
+    "text": "aufstehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0015",
+    "text": "gestehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0016",
+    "text": "widerstehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0017",
+    "text": "überstehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0018",
+    "text": "verdrehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0019",
+    "text": "umdrehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0020",
+    "text": "durchdrehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0021",
+    "text": "aufdrehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0022",
+    "text": "ansehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0023",
+    "text": "aussehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0024",
+    "text": "fernsehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0025",
+    "text": "übersehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0026",
+    "text": "wiedersehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0027",
+    "text": "zusehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0028",
+    "text": "einsehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0029",
+    "text": "nachsehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0030",
+    "text": "Alleen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0031",
+    "text": "Armeen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0032",
+    "text": "Museen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0033",
+    "text": "Rehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0034",
+    "text": "Ehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0035",
+    "text": "anflehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-021-a0036",
+    "text": "ausstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0037",
+    "text": "zustehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0038",
+    "text": "beistehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0039",
+    "text": "dastehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0040",
+    "text": "feststehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0041",
+    "text": "freistehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0042",
+    "text": "gegenüberstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0043",
+    "text": "stillstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0044",
+    "text": "nahestehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0045",
+    "text": "offenstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0046",
+    "text": "vorstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0047",
+    "text": "unterstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0048",
+    "text": "einstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0049",
+    "text": "anstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0050",
+    "text": "herumstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0051",
+    "text": "rumstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0052",
+    "text": "bereitstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0053",
+    "text": "durchstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0054",
+    "text": "abstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0055",
+    "text": "erstehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0056",
+    "text": "zudrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0057",
+    "text": "abdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0058",
+    "text": "andrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0059",
+    "text": "weiterdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0060",
+    "text": "zurückdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0061",
+    "text": "herumdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0062",
+    "text": "rumdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0063",
+    "text": "eindrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0064",
+    "text": "festdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0065",
+    "text": "hochdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0066",
+    "text": "runterdrehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0067",
+    "text": "absehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0068",
+    "text": "versehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0069",
+    "text": "vorhersehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0070",
+    "text": "voraussehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0071",
+    "text": "umsehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0072",
+    "text": "hinsehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0073",
+    "text": "wegsehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0074",
+    "text": "durchsehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0075",
+    "text": "aufsehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0076",
+    "text": "ersehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0077",
+    "text": "besehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0078",
+    "text": "zurücksehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0079",
+    "text": "schwarzsehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0080",
+    "text": "verwehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0081",
+    "text": "zuwehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0082",
+    "text": "umwehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0083",
+    "text": "Schlehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0084",
+    "text": "Lehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0085",
+    "text": "Orchideen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0086",
+    "text": "Tourneen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0087",
+    "text": "Moscheen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0088",
+    "text": "Mausoleen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0089",
+    "text": "Odysseen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0090",
+    "text": "Chausseen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0091",
+    "text": "Kameen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-021-a0092",
+    "text": "durchwehen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-021-a0093",
+    "text": "rotsehen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-021-a0094",
+    "text": "Lyzeen",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-022",
+  "text": "Nenne einen sauberen Reim auf „dumm“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-022-a0001",
+    "text": "krumm",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-022-a0002",
+    "text": "stumm",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-022-a0003",
+    "text": "rum",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-022-a0004",
+    "text": "warum",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-022-a0005",
+    "text": "um",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-022-a0006",
+    "text": "darum",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-022-a0007",
+    "text": "herum",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-022-a0008",
+    "text": "Mumm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0009",
+    "text": "drum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0010",
+    "text": "worum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0011",
+    "text": "rundherum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0012",
+    "text": "ringsum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0013",
+    "text": "andersrum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0014",
+    "text": "drumherum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0015",
+    "text": "Gebrumm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-022-a0016",
+    "text": "rundum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0017",
+    "text": "ringsherum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0018",
+    "text": "kurzum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0019",
+    "text": "andersherum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0020",
+    "text": "Gesumm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0021",
+    "text": "bumm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0022",
+    "text": "summ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0023",
+    "text": "brumm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-022-a0024",
+    "text": "drumrum",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-022-a0025",
+    "text": "hierum",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-022-a0026",
+    "text": "wumm",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-023",
+  "text": "Nenne einen sauberen Reim auf „essen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-023-a0001",
+    "text": "vergessen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-023-a0002",
+    "text": "messen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-023-a0003",
+    "text": "fressen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-023-a0004",
+    "text": "pressen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-023-a0005",
+    "text": "besessen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-023-a0006",
+    "text": "Interessen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-023-a0007",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-023-a0008",
+    "text": "dessen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-023-a0009",
+    "text": "gesessen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-023-a0010",
+    "text": "Adressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0011",
+    "text": "Delikatessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0012",
+    "text": "Zypressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0013",
+    "text": "Prozessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0014",
+    "text": "indessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0015",
+    "text": "stattdessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0016",
+    "text": "währenddessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0017",
+    "text": "unterdessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0018",
+    "text": "infolgedessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0019",
+    "text": "angemessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0020",
+    "text": "gemessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0021",
+    "text": "vermessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0022",
+    "text": "ermessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0023",
+    "text": "bemessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0024",
+    "text": "gefressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0025",
+    "text": "erpressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0026",
+    "text": "auspressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0027",
+    "text": "versessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0028",
+    "text": "unvergessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0029",
+    "text": "kessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0030",
+    "text": "Kressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0031",
+    "text": "Tressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0032",
+    "text": "Finessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0033",
+    "text": "Exzessen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0034",
+    "text": "Kongressen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-023-a0035",
+    "text": "abmessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0036",
+    "text": "ausmessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0037",
+    "text": "nachmessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0038",
+    "text": "zumessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0039",
+    "text": "beimessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0040",
+    "text": "unangemessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0041",
+    "text": "auffressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0042",
+    "text": "zerfressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0043",
+    "text": "wegfressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0044",
+    "text": "anfressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0045",
+    "text": "vollfressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0046",
+    "text": "durchfressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0047",
+    "text": "zusammenpressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0048",
+    "text": "einpressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0049",
+    "text": "anpressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0050",
+    "text": "abpressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0051",
+    "text": "abgesessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0052",
+    "text": "ausgesessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0053",
+    "text": "eingesessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0054",
+    "text": "alteingesessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0055",
+    "text": "Hostessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0056",
+    "text": "Stewardessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0057",
+    "text": "Raffinessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0058",
+    "text": "Abszessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0059",
+    "text": "Baronessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0060",
+    "text": "Komtessen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0061",
+    "text": "Mätressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0062",
+    "text": "Regressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0063",
+    "text": "Progressen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-023-a0064",
+    "text": "Zitronenpressen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-023-a0065",
+    "text": "Saftpressen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-023-a0066",
+    "text": "Weinpressen",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

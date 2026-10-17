@@ -171,8 +171,8 @@
       "id": "woerter",
       "name": "Wörter & Sprache",
       "icon": "🔤",
-      "count": 14,
-      "v": "4341601cc5",
+      "count": 21,
+      "v": "4a87f2cd9a",
       "questions": [
         "wor-003",
         "wor-004",
@@ -187,7 +187,14 @@
         "wor-013",
         "wor-014",
         "wor-015",
-        "wor-016"
+        "wor-016",
+        "wor-017",
+        "wor-018",
+        "wor-019",
+        "wor-020",
+        "wor-021",
+        "wor-022",
+        "wor-023"
       ]
     },
     {
@@ -249,6 +256,18 @@
         "all-018",
         "all-019",
         "all-020"
+      ]
+    },
+    {
+      "id": "wissen",
+      "name": "Wissen & Bildung",
+      "icon": "🎓",
+      "count": 3,
+      "v": "72bd4b9ee6",
+      "questions": [
+        "wis-001",
+        "wis-002",
+        "wis-003"
       ]
     }
   ]

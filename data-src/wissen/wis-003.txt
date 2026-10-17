@@ -1,0 +1,124 @@
+@id wis-003
+@text Nenne ein Element im Periodensystem
+@typ geschlossen
+# Alle 118 chemischen Elemente mit deutschen Namen (IUPAC/DIN). Aliase nur für übliche deutsche Schreibvarianten
+# (Calcium/Kalzium, Iod/Jod, Bismut/Wismut usw.), keine englischen Namen und keine Elementsymbole.
+
+1 Sauerstoff
+1 Wasserstoff
+1 Gold
+2 Helium
+2 Kohlenstoff
+2 Eisen
+2 Silber
+2 Stickstoff
+2 Uran
+3 Kupfer
+3 Natrium
+3 Kalium
+3 Zink
+3 Blei
+3 Chlor
+3 Neon
+3 Plutonium
+3 Platin
+3 Calcium = Kalzium
+3 Magnesium
+3 Aluminium
+3 Lithium
+3 Quecksilber
+3 Schwefel
+3 Titan
+3 Argon
+3 Phosphor
+3 Zinn
+3 Nickel
+3 Silicium = Silizium
+4 Fluor
+4 Radium
+4 Radon
+4 Iod = Jod
+4 Cobalt = Kobalt
+4 Chrom
+4 Mangan
+4 Wolfram
+4 Krypton
+4 Xenon
+4 Arsen
+4 Brom
+4 Polonium
+4 Selen
+4 Barium
+4 Bor
+4 Beryllium
+4 Caesium = Zäsium
+4 Iridium
+4 Palladium
+4 Osmium
+4 Strontium
+4 Einsteinium
+4 Cadmium = Kadmium
+4 Bismut = Wismut
+4 Tantal
+4 Vanadium
+4 Neodym
+4 Germanium
+4 Gallium
+4 Thorium
+5 Scandium = Skandium
+5 Rubidium
+5 Yttrium
+5 Zirconium = Zirkonium
+5 Niob
+5 Molybdän
+5 Technetium
+5 Ruthenium
+5 Rhodium
+5 Indium
+5 Antimon
+5 Tellur
+5 Lanthan
+5 Cer = Cerium
+5 Praseodym
+5 Promethium
+5 Samarium
+5 Europium
+5 Gadolinium
+5 Terbium
+5 Dysprosium
+5 Holmium
+5 Erbium
+5 Thulium
+5 Ytterbium
+5 Lutetium
+5 Hafnium
+5 Rhenium
+5 Thallium
+5 Astat = Astatin
+5 Francium
+5 Actinium = Aktinium
+5 Protactinium
+5 Neptunium
+5 Americium
+5 Curium
+5 Berkelium
+5 Californium = Kalifornium
+5 Fermium
+5 Mendelevium
+5 Nobelium
+5 Lawrencium
+5 Rutherfordium
+5 Dubnium
+5 Seaborgium
+5 Bohrium
+5 Hassium
+5 Meitnerium
+5 Darmstadtium
+5 Roentgenium
+5 Copernicium
+5 Nihonium
+5 Flerovium
+5 Moscovium
+5 Livermorium
+5 Tenness = Tennessin
+5 Oganesson

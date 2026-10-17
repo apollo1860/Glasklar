@@ -9,5 +9,6 @@
   {"id": "woerter", "name": "Wörter & Sprache", "prefix": "wor", "icon": "🔤"},
   {"id": "marken", "name": "Marken & Firmen", "prefix": "mar", "icon": "🏷️"},
   {"id": "politik", "name": "Politik & Persönlichkeiten", "prefix": "pol", "icon": "🏛️"},
-  {"id": "alltag", "name": "Alltag, Party & Technik", "prefix": "all", "icon": "🎲"}
+  {"id": "alltag", "name": "Alltag, Party & Technik", "prefix": "all", "icon": "🎲"},
+  {"id": "wissen", "name": "Wissen & Bildung", "prefix": "wis", "icon": "🎓"}
 ]
