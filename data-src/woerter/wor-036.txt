@@ -1,0 +1,96 @@
+@id wor-036
+@text Nenne ein Synonym für „groß“
+@typ geschlossen
+# Räumlich/körperlich groß, aber auch bedeutend (ein großer Künstler), erwachsen (die Großen) und viel/stark (große Angst).
+# Umgangssprache und Jugendsprache (fett, mega, riesig), Verstärkungen (riesengroß) und englische Wörter (big, huge).
+
+1 riesig
+1 gewaltig
+2 hoch
+2 lang
+2 riesengroß
+2 enorm
+2 gigantisch
+2 mächtig
+2 massiv
+2 immens
+2 hochgewachsen
+3 groß gewachsen
+4 ausgedehnt
+4 weit
+4 breit
+4 geräumig
+3 umfangreich
+3 beträchtlich
+3 erheblich
+4 kolossal
+4 monumental
+4 monströs
+3 überdimensional = überdimensioniert
+3 mega
+3 fett
+3 dick
+4 wuchtig
+4 stattlich
+3 hünenhaft
+4 baumlang
+3 bedeutend
+4 wichtig
+3 erwachsen
+3 big
+3 huge
+4 large
+3 tall
+3 XXL = XL
+4 titanisch
+4 ungeheuer
+4 unermesslich
+4 unendlich
+4 grandios
+4 großartig
+4 beachtlich
+4 ordentlich
+4 viel
+4 stark
+3 hoch aufgeschossen = aufgeschossen
+4 großformatig
+4 voluminös
+4 bombastisch
+4 krass
+4 übergroß
+4 überlebensgroß
+4 haushoch
+4 turmhoch
+4 himmelhoch
+4 zyklopisch
+4 megagroß
+4 saugroß
+4 mordsgroß = Mords
+4 maxi
+4 jumbo
+4 king size
+4 ausladend
+4 sperrig
+4 klotzig
+4 korpulent
+4 füllig
+4 beleibt
+4 kräftig
+4 gewichtig
+4 namhaft
+4 berühmt
+4 prominent
+4 bedeutsam
+4 ausgewachsen
+4 majestätisch
+4 imposant
+4 eindrucksvoll
+4 beeindruckend
+4 heftig
+4 mordsmäßig
+5 giga
+5 reichlich
+5 schlaksig
+5 maximal
+5 vast
+5 kapital

@@ -1,0 +1,96 @@
+@id wor-026
+@text Nenne ein Synonym für „lügen“
+@typ geschlossen
+# Die Unwahrheit sagen inkl. Umgangssprache, Redewendungen und regionaler Formen; täuschen/betrügen/schwindeln als naheliegende Nennungen aufgenommen.
+
+1 schwindeln
+1 flunkern
+2 die Unwahrheit sagen
+2 betrügen
+2 täuschen
+2 erfinden
+2 sich etwas ausdenken = ausdenken
+3 anlügen
+3 belügen
+3 verarschen
+3 verkohlen
+3 hintergehen
+3 tricksen
+3 schummeln
+3 bluffen
+3 erdichten
+3 faken
+3 Märchen erzählen = Märchen
+3 Geschichten erzählen = Geschichten
+3 die Wahrheit verdrehen
+3 vorgaukeln
+3 vortäuschen
+3 vormachen
+4 verheimlichen
+4 lügen wie gedruckt
+4 jemandem einen Bären aufbinden = Bären aufbinden
+4 das Blaue vom Himmel lügen = Blaue vom Himmel
+4 Lügenmärchen erzählen = Lügenmärchen
+4 Mist erzählen = Mist
+4 Scheiß erzählen = Scheiße erzählen
+4 Bullshit erzählen = Bullshit
+4 jemandem etwas vormachen
+4 hinters Licht führen = Licht führen
+4 beschummeln
+4 beschwindeln
+4 anschwindeln
+4 anflunkern
+4 erschwindeln
+4 ersinnen
+4 fabulieren
+4 fantasieren = phantasieren
+4 übertreiben
+4 aufschneiden
+4 dichten
+4 heucheln
+4 simulieren
+4 verschleiern
+4 vertuschen
+4 beschönigen
+4 verfälschen
+4 fälschen
+4 irreführen
+4 in die Irre führen
+4 desinformieren
+4 lügen, dass sich die Balken biegen = Balken biegen
+4 die Unwahrheit erzählen
+4 eine Lüge erzählen
+4 cappen = cap
+4 jemanden anschmieren = anschmieren
+4 jemanden bescheißen = bescheißen
+4 an der Nase herumführen = Nase herumführen
+4 veräppeln
+4 verscheißern
+4 hochnehmen
+4 foppen
+4 verschaukeln
+5 türken
+5 schwindeln wie gedruckt
+5 kohlen
+5 nicht die Wahrheit sagen
+5 sich herausreden = herausreden; rausreden
+5 Ausreden erfinden
+5 sich etwas aus den Fingern saugen = aus den Fingern saugen
+5 Seemannsgarn spinnen = Seemannsgarn; Garn spinnen
+5 spinnen
+5 Lügen auftischen = auftischen
+5 Märchen auftischen
+5 jemandem etwas weismachen = weismachen
+5 vorschwindeln
+5 vorflunkern
+5 vorlügen
+5 mogeln
+5 gaunern
+5 hochstapeln
+5 einen vom Pferd erzählen
+5 Fake News verbreiten = Fake News
+5 verdrehen
+5 sich verstellen = verstellen
+5 schauspielern
+5 mauscheln
+5 lügen wie ein Teppichhändler = Teppichhändler

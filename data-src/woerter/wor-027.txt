@@ -1,0 +1,65 @@
+@id wor-027
+@text Nenne ein Synonym für „küssen“
+@typ geschlossen
+# Küssen inkl. Umgangssprache, Jugendsprache, Regionalismen (busseln, bützen, schmatzen) und Wendungen; Zungenkuss-Varianten und „rummachen“ zugelassen.
+# Bloßes Kuscheln/Umarmen ist kein Küssen, aber „schmusen“/„herzen“/„liebkosen“ (umfassen Küssen) aufgenommen.
+
+1 knutschen
+1 schmusen
+2 busseln = Bussi geben; Busserl geben
+2 abknutschen
+2 rummachen
+2 einen Kuss geben
+2 Zungenkuss = Zungenkuss geben
+2 Bussi = Busserl
+3 schnäbeln
+3 abschlabbern
+3 herzen
+3 liebkosen
+3 Küsschen geben = Küsschen
+3 knuddeln
+3 schmatzen
+3 abschmatzen
+3 einen Schmatz geben = Schmatz; Schmatzer
+3 rumknutschen
+3 rumschmusen
+3 French Kiss = French Kissing
+3 kiss = kissing
+3 züngeln
+3 abküssen
+3 einen Kuss aufdrücken = aufdrücken
+3 knutschen gehen
+3 Zunge geben
+3 turteln
+3 kuscheln
+4 abbusseln
+4 abschlecken
+4 Wangenkuss = Kuss auf die Wange
+4 Handkuss = Handkuss geben
+4 Bussi Bussi
+4 Küsschen links, Küsschen rechts
+4 kosen
+4 Zärtlichkeiten austauschen = Zärtlichkeiten
+4 bützen = Bützchen geben; Bützje
+4 schnäbeln wie die Turteltauben
+4 Speichel austauschen
+4 sich näherkommen = näherkommen
+4 fummeln
+4 Knutschfleck machen = Knutschfleck
+4 schlabbern
+4 Lippen aufeinanderdrücken = Lippen aufeinanderlegen
+4 Mund auf Mund
+5 snoggen = snog
+5 smoochen = smooch
+5 making out = make out
+5 Kussi = Kussi geben
+5 Schmatzerl
+5 Bussel
+5 Mäulchen geben = Mäulchen
+5 Lippen spitzen
+5 Eskimokuss
+5 Schmetterlingskuss
+5 Wangenküsschen
+5 Luftkuss = Luftküsschen
+5 Kusshand = Kusshand zuwerfen
+5 abschmusen

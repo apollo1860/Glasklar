@@ -1,0 +1,65 @@
+@id wor-025
+@text Nenne ein Jugendwort des Jahres, das es in die Top 3 geschafft hat
+@typ geschlossen
+# Langenscheidt-Wahl „Jugendwort des Jahres“ (Deutschland), Plätze 1–3 von 2008 bis 2026 (Stand Oktober 2026; 2026 am 10.10.2026 auf der Frankfurter Buchmesse verkündet).
+# 2019 fand keine Wahl statt. Bis 2018 entschied eine Jury, seit 2020 per Online-Abstimmung. Quellen: Langenscheidt-Pressemeldungen, Wikipedia-Tabelle, zdfheute, hessenschau.
+# 2008: 1 Gammelfleischparty, 2 Bildschirmbräune, 3 unterhopft · 2009: 1 hartzen, 2 Bam, 3 Bankster · 2010: 1 Niveaulimbo, 2 Arschfax, 3 Egosurfen
+# 2011: 1 Swag, 2 Epic Fail, 3 guttenbergen · 2012: 1 YOLO, 2 FU, 3 Yalla · 2013: 1 Babo, 2 fame, 3 gediegen · 2014: 1 Läuft bei dir, 2 Gönn dir, 3 Hayvan
+# 2015: 1 Smombie, 2 merkeln, 3 rumoxidieren · 2016: 1 fly sein, 2 bae, 3 isso · 2017: 1 I bims, 2 napflixen, 3 tinderjährig
+# 2018: 1 Ehrenmann/Ehrenfrau, 2 glucosehaltig, 3 verbuggt · 2020: 1 lost, 2 cringe, 3 wyld · 2021: 1 cringe, 2 sus, 3 sheesh
+# 2022: 1 smash, 2 bodenlos, 3 Macher · 2023: 1 goofy, 2 Side Eye, 3 NPC · 2024: 1 Aura, 2 Talahon, 3 Schere
+# 2025: 1 das crazy, 2 goonen, 3 checkst du · 2026: 1 Ragebait, 2 Peak, 3 Crashout
+
+1 Cringe
+1 Smash
+1 Goofy
+1 Aura
+2 Sus
+2 Lost
+2 YOLO
+2 Swag
+2 Läuft bei dir = läuft
+2 Babo
+2 Ehrenmann = Ehrenfrau
+2 I bims
+2 Das crazy
+2 Ragebait
+3 Smombie
+3 Talahon
+3 Sheesh
+3 NPC
+3 Gönn dir = gönn
+3 Gammelfleischparty
+3 Goonen = goon
+3 Peak
+3 Schere
+4 Side Eye
+4 Crashout
+4 Checkst du = checkst
+4 Fly sein = fly
+4 Niveaulimbo
+4 Hartzen
+4 Bae
+4 Isso
+4 Merkeln
+4 Epic Fail = Fail
+4 Yalla
+4 Wyld = wild
+4 Bodenlos
+5 Bildschirmbräune
+5 Unterhopft = unterhopft sein
+5 Bam
+5 Bankster
+5 Arschfax
+5 Egosurfen
+5 Guttenbergen
+5 FU = Fuck you
+5 Fame
+5 Gediegen
+5 Hayvan
+5 Rumoxidieren
+5 Napflixen
+5 Tinderjährig
+5 Glucosehaltig
+5 Verbuggt
+5 Macher

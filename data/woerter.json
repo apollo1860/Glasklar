@@ -11684,6 +11684,6722 @@
   ]
  },
  {
+  "id": "wor-025",
+  "text": "Nenne ein Jugendwort des Jahres, das es in die Top 3 geschafft hat",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-025-a0001",
+    "text": "Cringe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-025-a0002",
+    "text": "Smash",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-025-a0003",
+    "text": "Goofy",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-025-a0004",
+    "text": "Aura",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-025-a0005",
+    "text": "Sus",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0006",
+    "text": "Lost",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0007",
+    "text": "YOLO",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0008",
+    "text": "Swag",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0009",
+    "text": "Läuft bei dir",
+    "aliases": [
+     "läuft"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0010",
+    "text": "Babo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0011",
+    "text": "Ehrenmann",
+    "aliases": [
+     "Ehrenfrau"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0012",
+    "text": "I bims",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0013",
+    "text": "Das crazy",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0014",
+    "text": "Ragebait",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-025-a0015",
+    "text": "Smombie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0016",
+    "text": "Talahon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0017",
+    "text": "Sheesh",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0018",
+    "text": "NPC",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0019",
+    "text": "Gönn dir",
+    "aliases": [
+     "gönn"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0020",
+    "text": "Gammelfleischparty",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0021",
+    "text": "Goonen",
+    "aliases": [
+     "goon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0022",
+    "text": "Peak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0023",
+    "text": "Schere",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-025-a0024",
+    "text": "Side Eye",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0025",
+    "text": "Crashout",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0026",
+    "text": "Checkst du",
+    "aliases": [
+     "checkst"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0027",
+    "text": "Fly sein",
+    "aliases": [
+     "fly"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0028",
+    "text": "Niveaulimbo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0029",
+    "text": "Hartzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0030",
+    "text": "Bae",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0031",
+    "text": "Isso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0032",
+    "text": "Merkeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0033",
+    "text": "Epic Fail",
+    "aliases": [
+     "Fail"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0034",
+    "text": "Yalla",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0035",
+    "text": "Wyld",
+    "aliases": [
+     "wild"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0036",
+    "text": "Bodenlos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-025-a0037",
+    "text": "Bildschirmbräune",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0038",
+    "text": "Unterhopft",
+    "aliases": [
+     "unterhopft sein"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0039",
+    "text": "Bam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0040",
+    "text": "Bankster",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0041",
+    "text": "Arschfax",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0042",
+    "text": "Egosurfen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0043",
+    "text": "Guttenbergen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0044",
+    "text": "FU",
+    "aliases": [
+     "Fuck you"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0045",
+    "text": "Fame",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0046",
+    "text": "Gediegen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0047",
+    "text": "Hayvan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0048",
+    "text": "Rumoxidieren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0049",
+    "text": "Napflixen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0050",
+    "text": "Tinderjährig",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0051",
+    "text": "Glucosehaltig",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0052",
+    "text": "Verbuggt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-025-a0053",
+    "text": "Macher",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-026",
+  "text": "Nenne ein Synonym für „lügen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-026-a0001",
+    "text": "schwindeln",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-026-a0002",
+    "text": "flunkern",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-026-a0003",
+    "text": "die Unwahrheit sagen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-026-a0004",
+    "text": "betrügen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-026-a0005",
+    "text": "täuschen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-026-a0006",
+    "text": "erfinden",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-026-a0007",
+    "text": "sich etwas ausdenken",
+    "aliases": [
+     "ausdenken"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-026-a0008",
+    "text": "anlügen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0009",
+    "text": "belügen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0010",
+    "text": "verarschen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0011",
+    "text": "verkohlen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0012",
+    "text": "hintergehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0013",
+    "text": "tricksen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0014",
+    "text": "schummeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0015",
+    "text": "bluffen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0016",
+    "text": "erdichten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0017",
+    "text": "faken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0018",
+    "text": "Märchen erzählen",
+    "aliases": [
+     "Märchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0019",
+    "text": "Geschichten erzählen",
+    "aliases": [
+     "Geschichten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0020",
+    "text": "die Wahrheit verdrehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0021",
+    "text": "vorgaukeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0022",
+    "text": "vortäuschen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0023",
+    "text": "vormachen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-026-a0024",
+    "text": "verheimlichen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0025",
+    "text": "lügen wie gedruckt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0026",
+    "text": "jemandem einen Bären aufbinden",
+    "aliases": [
+     "Bären aufbinden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0027",
+    "text": "das Blaue vom Himmel lügen",
+    "aliases": [
+     "Blaue vom Himmel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0028",
+    "text": "Lügenmärchen erzählen",
+    "aliases": [
+     "Lügenmärchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0029",
+    "text": "Mist erzählen",
+    "aliases": [
+     "Mist"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0030",
+    "text": "Scheiß erzählen",
+    "aliases": [
+     "Scheiße erzählen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0031",
+    "text": "Bullshit erzählen",
+    "aliases": [
+     "Bullshit"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0032",
+    "text": "jemandem etwas vormachen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0033",
+    "text": "hinters Licht führen",
+    "aliases": [
+     "Licht führen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0034",
+    "text": "beschummeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0035",
+    "text": "beschwindeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0036",
+    "text": "anschwindeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0037",
+    "text": "anflunkern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0038",
+    "text": "erschwindeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0039",
+    "text": "ersinnen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0040",
+    "text": "fabulieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0041",
+    "text": "fantasieren",
+    "aliases": [
+     "phantasieren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0042",
+    "text": "übertreiben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0043",
+    "text": "aufschneiden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0044",
+    "text": "dichten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0045",
+    "text": "heucheln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0046",
+    "text": "simulieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0047",
+    "text": "verschleiern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0048",
+    "text": "vertuschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0049",
+    "text": "beschönigen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0050",
+    "text": "verfälschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0051",
+    "text": "fälschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0052",
+    "text": "irreführen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0053",
+    "text": "in die Irre führen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0054",
+    "text": "desinformieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0055",
+    "text": "lügen, dass sich die Balken biegen",
+    "aliases": [
+     "Balken biegen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0056",
+    "text": "die Unwahrheit erzählen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0057",
+    "text": "eine Lüge erzählen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0058",
+    "text": "cappen",
+    "aliases": [
+     "cap"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0059",
+    "text": "jemanden anschmieren",
+    "aliases": [
+     "anschmieren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0060",
+    "text": "jemanden bescheißen",
+    "aliases": [
+     "bescheißen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0061",
+    "text": "an der Nase herumführen",
+    "aliases": [
+     "Nase herumführen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0062",
+    "text": "veräppeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0063",
+    "text": "verscheißern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0064",
+    "text": "hochnehmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0065",
+    "text": "foppen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0066",
+    "text": "verschaukeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-026-a0067",
+    "text": "türken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0068",
+    "text": "schwindeln wie gedruckt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0069",
+    "text": "kohlen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0070",
+    "text": "nicht die Wahrheit sagen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0071",
+    "text": "sich herausreden",
+    "aliases": [
+     "herausreden",
+     "rausreden"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0072",
+    "text": "Ausreden erfinden",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0073",
+    "text": "sich etwas aus den Fingern saugen",
+    "aliases": [
+     "aus den Fingern saugen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0074",
+    "text": "Seemannsgarn spinnen",
+    "aliases": [
+     "Seemannsgarn",
+     "Garn spinnen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0075",
+    "text": "spinnen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0076",
+    "text": "Lügen auftischen",
+    "aliases": [
+     "auftischen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0077",
+    "text": "Märchen auftischen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0078",
+    "text": "jemandem etwas weismachen",
+    "aliases": [
+     "weismachen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0079",
+    "text": "vorschwindeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0080",
+    "text": "vorflunkern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0081",
+    "text": "vorlügen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0082",
+    "text": "mogeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0083",
+    "text": "gaunern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0084",
+    "text": "hochstapeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0085",
+    "text": "einen vom Pferd erzählen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0086",
+    "text": "Fake News verbreiten",
+    "aliases": [
+     "Fake News"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0087",
+    "text": "verdrehen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0088",
+    "text": "sich verstellen",
+    "aliases": [
+     "verstellen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0089",
+    "text": "schauspielern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0090",
+    "text": "mauscheln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-026-a0091",
+    "text": "lügen wie ein Teppichhändler",
+    "aliases": [
+     "Teppichhändler"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-027",
+  "text": "Nenne ein Synonym für „küssen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-027-a0001",
+    "text": "knutschen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-027-a0002",
+    "text": "schmusen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-027-a0003",
+    "text": "busseln",
+    "aliases": [
+     "Bussi geben",
+     "Busserl geben"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-027-a0004",
+    "text": "abknutschen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-027-a0005",
+    "text": "rummachen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-027-a0006",
+    "text": "einen Kuss geben",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-027-a0007",
+    "text": "Zungenkuss",
+    "aliases": [
+     "Zungenkuss geben"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-027-a0008",
+    "text": "Bussi",
+    "aliases": [
+     "Busserl"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-027-a0009",
+    "text": "schnäbeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0010",
+    "text": "abschlabbern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0011",
+    "text": "herzen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0012",
+    "text": "liebkosen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0013",
+    "text": "Küsschen geben",
+    "aliases": [
+     "Küsschen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0014",
+    "text": "knuddeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0015",
+    "text": "schmatzen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0016",
+    "text": "abschmatzen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0017",
+    "text": "einen Schmatz geben",
+    "aliases": [
+     "Schmatz",
+     "Schmatzer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0018",
+    "text": "rumknutschen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0019",
+    "text": "rumschmusen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0020",
+    "text": "French Kiss",
+    "aliases": [
+     "French Kissing"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0021",
+    "text": "kiss",
+    "aliases": [
+     "kissing"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0022",
+    "text": "züngeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0023",
+    "text": "abküssen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0024",
+    "text": "einen Kuss aufdrücken",
+    "aliases": [
+     "aufdrücken"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0025",
+    "text": "knutschen gehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0026",
+    "text": "Zunge geben",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0027",
+    "text": "turteln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0028",
+    "text": "kuscheln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-027-a0029",
+    "text": "abbusseln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0030",
+    "text": "abschlecken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0031",
+    "text": "Wangenkuss",
+    "aliases": [
+     "Kuss auf die Wange"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0032",
+    "text": "Handkuss",
+    "aliases": [
+     "Handkuss geben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0033",
+    "text": "Bussi Bussi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0034",
+    "text": "Küsschen links, Küsschen rechts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0035",
+    "text": "kosen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0036",
+    "text": "Zärtlichkeiten austauschen",
+    "aliases": [
+     "Zärtlichkeiten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0037",
+    "text": "bützen",
+    "aliases": [
+     "Bützchen geben",
+     "Bützje"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0038",
+    "text": "schnäbeln wie die Turteltauben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0039",
+    "text": "Speichel austauschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0040",
+    "text": "sich näherkommen",
+    "aliases": [
+     "näherkommen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0041",
+    "text": "fummeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0042",
+    "text": "Knutschfleck machen",
+    "aliases": [
+     "Knutschfleck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0043",
+    "text": "schlabbern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0044",
+    "text": "Lippen aufeinanderdrücken",
+    "aliases": [
+     "Lippen aufeinanderlegen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0045",
+    "text": "Mund auf Mund",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-027-a0046",
+    "text": "snoggen",
+    "aliases": [
+     "snog"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0047",
+    "text": "smoochen",
+    "aliases": [
+     "smooch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0048",
+    "text": "making out",
+    "aliases": [
+     "make out"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0049",
+    "text": "Kussi",
+    "aliases": [
+     "Kussi geben"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0050",
+    "text": "Schmatzerl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0051",
+    "text": "Bussel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0052",
+    "text": "Mäulchen geben",
+    "aliases": [
+     "Mäulchen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0053",
+    "text": "Lippen spitzen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0054",
+    "text": "Eskimokuss",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0055",
+    "text": "Schmetterlingskuss",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0056",
+    "text": "Wangenküsschen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0057",
+    "text": "Luftkuss",
+    "aliases": [
+     "Luftküsschen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0058",
+    "text": "Kusshand",
+    "aliases": [
+     "Kusshand zuwerfen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-027-a0059",
+    "text": "abschmusen",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-028",
+  "text": "Nenne ein Synonym für „arbeiten“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-028-a0001",
+    "text": "schuften",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-028-a0002",
+    "text": "malochen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-028-a0003",
+    "text": "ackern",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0004",
+    "text": "schaffen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0005",
+    "text": "jobben",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0006",
+    "text": "tätig sein",
+    "aliases": [
+     "tätig"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0007",
+    "text": "werkeln",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0008",
+    "text": "rackern",
+    "aliases": [
+     "abrackern",
+     "sich abrackern"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0009",
+    "text": "sich abmühen",
+    "aliases": [
+     "abmühen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0010",
+    "text": "hackeln",
+    "aliases": [
+     "hackln",
+     "hackeln gehen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0011",
+    "text": "beschäftigt sein",
+    "aliases": [
+     "beschäftigt"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0012",
+    "text": "erwerbstätig sein",
+    "aliases": [
+     "erwerbstätig"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-028-a0013",
+    "text": "sich anstrengen",
+    "aliases": [
+     "anstrengen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0014",
+    "text": "schwitzen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0015",
+    "text": "buckeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0016",
+    "text": "sich plagen",
+    "aliases": [
+     "plagen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0017",
+    "text": "sich abschuften",
+    "aliases": [
+     "abschuften"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0018",
+    "text": "sich abplagen",
+    "aliases": [
+     "abplagen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0019",
+    "text": "sich abarbeiten",
+    "aliases": [
+     "abarbeiten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0020",
+    "text": "werken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0021",
+    "text": "wirken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0022",
+    "text": "handeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0023",
+    "text": "tun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0024",
+    "text": "machen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0025",
+    "text": "erledigen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0026",
+    "text": "sich betätigen",
+    "aliases": [
+     "betätigen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0027",
+    "text": "sich beschäftigen",
+    "aliases": [
+     "beschäftigen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0028",
+    "text": "schaffe gehen",
+    "aliases": [
+     "schaffen gehen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0029",
+    "text": "zur Arbeit gehen",
+    "aliases": [
+     "auf Arbeit gehen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0030",
+    "text": "Geld verdienen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0031",
+    "text": "seinen Lebensunterhalt verdienen",
+    "aliases": [
+     "Lebensunterhalt verdienen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0032",
+    "text": "berufstätig sein",
+    "aliases": [
+     "berufstätig"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0033",
+    "text": "im Büro sein",
+    "aliases": [
+     "ins Büro gehen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0034",
+    "text": "grinden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0035",
+    "text": "hustlen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0036",
+    "text": "working",
+    "aliases": [
+     "work"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0037",
+    "text": "funktionieren",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0038",
+    "text": "laufen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0039",
+    "text": "sich ins Zeug legen",
+    "aliases": [
+     "ins Zeug legen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0040",
+    "text": "fleißig sein",
+    "aliases": [
+     "fleißig"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0041",
+    "text": "tüfteln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0042",
+    "text": "basteln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0043",
+    "text": "anpacken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0044",
+    "text": "zupacken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0045",
+    "text": "wurschteln",
+    "aliases": [
+     "wursteln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-028-a0046",
+    "text": "sich reinhängen",
+    "aliases": [
+     "reinhängen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0047",
+    "text": "sich reinknien",
+    "aliases": [
+     "reinknien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0048",
+    "text": "klotzen",
+    "aliases": [
+     "ranklotzen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0049",
+    "text": "sich den Arsch aufreißen",
+    "aliases": [
+     "Arsch aufreißen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0050",
+    "text": "sich krummlegen",
+    "aliases": [
+     "krummlegen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0051",
+    "text": "sich abschinden",
+    "aliases": [
+     "abschinden",
+     "schinden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0052",
+    "text": "sich abstrampeln",
+    "aliases": [
+     "abstrampeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0053",
+    "text": "sich abquälen",
+    "aliases": [
+     "abquälen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0054",
+    "text": "sich abhetzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0055",
+    "text": "roboten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0056",
+    "text": "knechten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0057",
+    "text": "fronen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0058",
+    "text": "büezen",
+    "aliases": [
+     "büetzen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0059",
+    "text": "schanzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0060",
+    "text": "ochsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0061",
+    "text": "büffeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0062",
+    "text": "pauken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0063",
+    "text": "hantieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0064",
+    "text": "herumwerkeln",
+    "aliases": [
+     "rumwerkeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0065",
+    "text": "herumbasteln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0066",
+    "text": "wuseln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0067",
+    "text": "rödeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0068",
+    "text": "wühlen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0069",
+    "text": "fuhrwerken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0070",
+    "text": "Dienst tun",
+    "aliases": [
+     "Dienst haben",
+     "im Dienst sein"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0071",
+    "text": "Schicht machen",
+    "aliases": [
+     "Schicht haben",
+     "Schicht schieben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0072",
+    "text": "Überstunden machen",
+    "aliases": [
+     "Überstunden schieben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0073",
+    "text": "angestellt sein",
+    "aliases": [
+     "angestellt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0074",
+    "text": "einen Job haben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0075",
+    "text": "in Lohn und Brot stehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0076",
+    "text": "einer Arbeit nachgehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0077",
+    "text": "einen Beruf ausüben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0078",
+    "text": "sich verdingen",
+    "aliases": [
+     "verdingen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0079",
+    "text": "dienen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0080",
+    "text": "arbeiten wie ein Pferd",
+    "aliases": [
+     "schuften wie ein Pferd"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0081",
+    "text": "sich nützlich machen",
+    "aliases": [
+     "nützlich machen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0082",
+    "text": "produzieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0083",
+    "text": "leisten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0084",
+    "text": "performen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0085",
+    "text": "agieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0086",
+    "text": "sich verausgaben",
+    "aliases": [
+     "verausgaben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0087",
+    "text": "zugange sein",
+    "aliases": [
+     "zugange"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0088",
+    "text": "Gas geben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0089",
+    "text": "reinhauen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0090",
+    "text": "sich bemühen",
+    "aliases": [
+     "bemühen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-028-a0091",
+    "text": "sich zerreißen",
+    "aliases": [
+     "zerreißen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0092",
+    "text": "sich aufopfern",
+    "aliases": [
+     "aufopfern"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0093",
+    "text": "placken",
+    "aliases": [
+     "sich placken",
+     "abplacken"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0094",
+    "text": "fretten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0095",
+    "text": "mühen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0096",
+    "text": "rotieren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0097",
+    "text": "Kohle machen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0098",
+    "text": "Brötchen verdienen",
+    "aliases": [
+     "seine Brötchen verdienen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0099",
+    "text": "auf Montage sein",
+    "aliases": [
+     "Montage"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0100",
+    "text": "im Homeoffice sein",
+    "aliases": [
+     "Homeoffice"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0101",
+    "text": "lohnarbeiten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-028-a0102",
+    "text": "einen Finger rühren",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-029",
+  "text": "Nenne ein Synonym für „stehlen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-029-a0001",
+    "text": "klauen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-029-a0002",
+    "text": "mopsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-029-a0003",
+    "text": "stibitzen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0004",
+    "text": "entwenden",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0005",
+    "text": "klemmen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0006",
+    "text": "rauben",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0007",
+    "text": "mitgehen lassen",
+    "aliases": [
+     "mitnehmen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0008",
+    "text": "einsacken",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0009",
+    "text": "abziehen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0010",
+    "text": "ausrauben",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0011",
+    "text": "plündern",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0012",
+    "text": "bestehlen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-029-a0013",
+    "text": "krallen",
+    "aliases": [
+     "sich krallen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0014",
+    "text": "grapschen",
+    "aliases": [
+     "grabschen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0015",
+    "text": "abstauben",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0016",
+    "text": "organisieren",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0017",
+    "text": "mausen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0018",
+    "text": "wegnehmen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0019",
+    "text": "einstecken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0020",
+    "text": "sich aneignen",
+    "aliases": [
+     "aneignen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0021",
+    "text": "an sich nehmen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0022",
+    "text": "sich unter den Nagel reißen",
+    "aliases": [
+     "unter den Nagel reißen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0023",
+    "text": "lange Finger machen",
+    "aliases": [
+     "lange Finger"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0024",
+    "text": "zocken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0025",
+    "text": "abzocken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0026",
+    "text": "fladern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0027",
+    "text": "einbrechen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0028",
+    "text": "Diebstahl begehen",
+    "aliases": [
+     "Diebstahl"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0029",
+    "text": "ausplündern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0030",
+    "text": "unterschlagen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0031",
+    "text": "veruntreuen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0032",
+    "text": "erbeuten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0033",
+    "text": "Ladendiebstahl",
+    "aliases": [
+     "shoplifting"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0034",
+    "text": "entführen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0035",
+    "text": "abgreifen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0036",
+    "text": "abräumen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0037",
+    "text": "wegschnappen",
+    "aliases": [
+     "schnappen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-029-a0038",
+    "text": "räubern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0039",
+    "text": "abluchsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0040",
+    "text": "ergaunern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0041",
+    "text": "erschleichen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0042",
+    "text": "ausnehmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0043",
+    "text": "schröpfen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0044",
+    "text": "abknöpfen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0045",
+    "text": "abnehmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0046",
+    "text": "wegmopsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0047",
+    "text": "wegklauen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0048",
+    "text": "brandschatzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0049",
+    "text": "mitgehen heißen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0050",
+    "text": "sich bedienen",
+    "aliases": [
+     "bedienen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0051",
+    "text": "sich vergreifen",
+    "aliases": [
+     "vergreifen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0052",
+    "text": "sich bereichern",
+    "aliases": [
+     "bereichern"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0053",
+    "text": "beklauen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0054",
+    "text": "berauben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0055",
+    "text": "kapern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0056",
+    "text": "entern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0057",
+    "text": "wildern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0058",
+    "text": "abkupfern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0059",
+    "text": "plagiieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0060",
+    "text": "raubkopieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0061",
+    "text": "ein Ding drehen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0062",
+    "text": "einen Bruch machen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0063",
+    "text": "Taschendiebstahl",
+    "aliases": [
+     "Taschen leeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0064",
+    "text": "ausräumen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0065",
+    "text": "jacken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0066",
+    "text": "yoinken",
+    "aliases": [
+     "yoink"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0067",
+    "text": "snatchen",
+    "aliases": [
+     "snatch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0068",
+    "text": "stealen",
+    "aliases": [
+     "steal"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-029-a0069",
+    "text": "sich zueignen",
+    "aliases": [
+     "zueignen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0070",
+    "text": "kassieren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0071",
+    "text": "einkassieren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0072",
+    "text": "sich etwas abzweigen",
+    "aliases": [
+     "abzweigen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0073",
+    "text": "abzwacken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0074",
+    "text": "einheimsen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0075",
+    "text": "fingern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-029-a0076",
+    "text": "schnipfen",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-030",
+  "text": "Nenne ein Synonym für „schlafen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-030-a0001",
+    "text": "pennen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-030-a0002",
+    "text": "ruhen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-030-a0003",
+    "text": "dösen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0004",
+    "text": "schlummern",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0005",
+    "text": "ratzen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0006",
+    "text": "nicken",
+    "aliases": [
+     "einnicken"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0007",
+    "text": "ein Nickerchen machen",
+    "aliases": [
+     "Nickerchen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0008",
+    "text": "pofen",
+    "aliases": [
+     "poofen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0009",
+    "text": "Heia machen",
+    "aliases": [
+     "heia"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0010",
+    "text": "einschlafen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-030-a0011",
+    "text": "träumen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0012",
+    "text": "sich ausruhen",
+    "aliases": [
+     "ausruhen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0013",
+    "text": "Mittagsschlaf machen",
+    "aliases": [
+     "Mittagsschlaf"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0014",
+    "text": "Mittagsschläfchen",
+    "aliases": [
+     "Schläfchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0015",
+    "text": "Powernap",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0016",
+    "text": "napping",
+    "aliases": [
+     "nap"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0017",
+    "text": "sleepen",
+    "aliases": [
+     "sleep"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0018",
+    "text": "ins Bett gehen",
+    "aliases": [
+     "Bett gehen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0019",
+    "text": "zu Bett gehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0020",
+    "text": "schlafen gehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0021",
+    "text": "sich hinlegen",
+    "aliases": [
+     "hinlegen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0022",
+    "text": "sich aufs Ohr legen",
+    "aliases": [
+     "aufs Ohr legen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0023",
+    "text": "sich aufs Ohr hauen",
+    "aliases": [
+     "aufs Ohr hauen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0024",
+    "text": "in die Federn gehen",
+    "aliases": [
+     "Federn"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0025",
+    "text": "in die Falle gehen",
+    "aliases": [
+     "Falle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0026",
+    "text": "in die Heia gehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0027",
+    "text": "sich in die Koje hauen",
+    "aliases": [
+     "Koje"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0028",
+    "text": "sich in die Kiste hauen",
+    "aliases": [
+     "Kiste"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0029",
+    "text": "Augenpflege betreiben",
+    "aliases": [
+     "Augenpflege"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0030",
+    "text": "Matratzenhorchdienst",
+    "aliases": [
+     "Matratze abhorchen",
+     "an der Matratze horchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0031",
+    "text": "schnarchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0032",
+    "text": "durchschlafen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0033",
+    "text": "ausschlafen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0034",
+    "text": "verschlafen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0035",
+    "text": "wegdösen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0036",
+    "text": "wegnicken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0037",
+    "text": "wegpennen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0038",
+    "text": "eindösen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0039",
+    "text": "einpennen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0040",
+    "text": "knacken",
+    "aliases": [
+     "knacken gehen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0041",
+    "text": "bubu machen",
+    "aliases": [
+     "bubu"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-030-a0042",
+    "text": "Siesta machen",
+    "aliases": [
+     "Siesta"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0043",
+    "text": "ein Schläfchen halten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0044",
+    "text": "ein Auge zumachen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0045",
+    "text": "die Augen zumachen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0046",
+    "text": "die Augen schließen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0047",
+    "text": "Schäfchen zählen",
+    "aliases": [
+     "Schäfchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0048",
+    "text": "im Bett liegen",
+    "aliases": [
+     "Bett liegen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0049",
+    "text": "übernachten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0050",
+    "text": "nächtigen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0051",
+    "text": "kampieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0052",
+    "text": "sich zur Ruhe begeben",
+    "aliases": [
+     "zur Ruhe begeben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0053",
+    "text": "sich niederlegen",
+    "aliases": [
+     "niederlegen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0054",
+    "text": "sich schlafen legen",
+    "aliases": [
+     "schlafen legen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0055",
+    "text": "sich in die Waagerechte begeben",
+    "aliases": [
+     "Waagerechte",
+     "Horizontale",
+     "in die Horizontale"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0056",
+    "text": "in Morpheus' Armen liegen",
+    "aliases": [
+     "Morpheus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0057",
+    "text": "wie ein Stein schlafen",
+    "aliases": [
+     "Stein"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0058",
+    "text": "wie ein Murmeltier schlafen",
+    "aliases": [
+     "Murmeltier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0059",
+    "text": "wie ein Bär schlafen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0060",
+    "text": "Winterschlaf halten",
+    "aliases": [
+     "Winterschlaf"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0061",
+    "text": "abschalten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0062",
+    "text": "wegtreten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-030-a0063",
+    "text": "wegratzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0064",
+    "text": "sägen",
+    "aliases": [
+     "Holz sägen",
+     "Bäume sägen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0065",
+    "text": "schlafen wie ein Toter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0066",
+    "text": "dämmern",
+    "aliases": [
+     "vor sich hin dämmern"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0067",
+    "text": "duseln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0068",
+    "text": "im Reich der Träume sein",
+    "aliases": [
+     "Reich der Träume"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0069",
+    "text": "im Land der Träume sein",
+    "aliases": [
+     "Land der Träume"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0070",
+    "text": "koksen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-030-a0071",
+    "text": "ins Nest gehen",
+    "aliases": [
+     "Nest"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-030-a0072",
+    "text": "schlafen wie ein Ratz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-030-a0073",
+    "text": "sich die Augen von innen anschauen",
+    "aliases": [
+     "Augen von innen"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-031",
+  "text": "Nenne ein Synonym für „Alkohol“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-031-a0001",
+    "text": "Alk",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-031-a0002",
+    "text": "Schnaps",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-031-a0003",
+    "text": "Fusel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0004",
+    "text": "Sprit",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0005",
+    "text": "Ethanol",
+    "aliases": [
+     "Äthanol"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0006",
+    "text": "Spirituosen",
+    "aliases": [
+     "Spirituose"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0007",
+    "text": "Hochprozentiges",
+    "aliases": [
+     "Hochprozentiger"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0008",
+    "text": "Booze",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0009",
+    "text": "Promille",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0010",
+    "text": "Stoff",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-031-a0011",
+    "text": "Gesöff",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0012",
+    "text": "Suff",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0013",
+    "text": "Feuerwasser",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0014",
+    "text": "Alkoholika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0015",
+    "text": "alkoholische Getränke",
+    "aliases": [
+     "alkoholisches Getränk"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0016",
+    "text": "geistige Getränke",
+    "aliases": [
+     "geistiges Getränk"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0017",
+    "text": "Branntwein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0018",
+    "text": "Weingeist",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0019",
+    "text": "Spiritus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0020",
+    "text": "Ethylalkohol",
+    "aliases": [
+     "Äthylalkohol"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0021",
+    "text": "C2H5OH",
+    "aliases": [
+     "EtOH"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0022",
+    "text": "Alcohol",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0023",
+    "text": "Liquor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0024",
+    "text": "Drinks",
+    "aliases": [
+     "Drink"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0025",
+    "text": "Prozente",
+    "aliases": [
+     "Prozentiges"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0026",
+    "text": "Umdrehungen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0027",
+    "text": "Bölkstoff",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0028",
+    "text": "Zielwasser",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0029",
+    "text": "Gift",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0030",
+    "text": "Teufelszeug",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0031",
+    "text": "Kurze",
+    "aliases": [
+     "Kurzer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0032",
+    "text": "Saufzeug",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0033",
+    "text": "Droge",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-031-a0034",
+    "text": "Destillat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0035",
+    "text": "Klarer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0036",
+    "text": "Spirit",
+    "aliases": [
+     "Spirits"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0037",
+    "text": "Seelentröster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0038",
+    "text": "Sorgenbrecher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0039",
+    "text": "Rauschmittel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0040",
+    "text": "Genussmittel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0041",
+    "text": "Alkoholisches",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0042",
+    "text": "Hartes",
+    "aliases": [
+     "harte Sachen",
+     "was Hartes"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0043",
+    "text": "flüssiger Mut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-031-a0044",
+    "text": "Rachenputzer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-031-a0045",
+    "text": "Lebenswasser",
+    "aliases": [
+     "Aqua vitae"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-031-a0046",
+    "text": "Schluck",
+    "aliases": [
+     "Schlückchen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-031-a0047",
+    "text": "Sauferei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-031-a0048",
+    "text": "Geistiges",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-032",
+  "text": "Nenne ein Synonym für „Geschlechtsverkehr“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-032-a0001",
+    "text": "Sex",
+    "aliases": [
+     "Sex haben"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-032-a0002",
+    "text": "Vögeln",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-032-a0003",
+    "text": "Bumsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-032-a0004",
+    "text": "Beischlaf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0005",
+    "text": "Koitus",
+    "aliases": [
+     "Coitus"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0006",
+    "text": "Geschlechtsakt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0007",
+    "text": "Ficken",
+    "aliases": [
+     "Fick"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0008",
+    "text": "Liebe machen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0009",
+    "text": "miteinander schlafen",
+    "aliases": [
+     "schlafen",
+     "schlafen mit"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0010",
+    "text": "Poppen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0011",
+    "text": "Verkehr",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-032-a0012",
+    "text": "Kopulation",
+    "aliases": [
+     "kopulieren"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0013",
+    "text": "Pimpern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0014",
+    "text": "Nageln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0015",
+    "text": "Knallen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0016",
+    "text": "Rammeln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0017",
+    "text": "Schnackseln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0018",
+    "text": "Begattung",
+    "aliases": [
+     "begatten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0019",
+    "text": "Paarung",
+    "aliases": [
+     "paaren",
+     "sich paaren"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0020",
+    "text": "Sexualverkehr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0021",
+    "text": "Akt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0022",
+    "text": "Nummer",
+    "aliases": [
+     "eine Nummer schieben"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0023",
+    "text": "Quickie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0024",
+    "text": "One-Night-Stand",
+    "aliases": [
+     "ONS"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0025",
+    "text": "Schäferstündchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0026",
+    "text": "Liebesspiel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0027",
+    "text": "GV",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0028",
+    "text": "Fuck",
+    "aliases": [
+     "fucken"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0029",
+    "text": "Rummachen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0030",
+    "text": "Flachlegen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0031",
+    "text": "es tun",
+    "aliases": [
+     "tun"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0032",
+    "text": "es treiben",
+    "aliases": [
+     "treiben",
+     "es miteinander treiben"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0033",
+    "text": "Sexen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0034",
+    "text": "Liebesakt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-032-a0035",
+    "text": "Stoßen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0036",
+    "text": "Bürsten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0037",
+    "text": "Pudern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0038",
+    "text": "Pempern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0039",
+    "text": "Intimverkehr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0040",
+    "text": "Matratzensport",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0041",
+    "text": "Bettsport",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0042",
+    "text": "Horizontaler Tango",
+    "aliases": [
+     "horizontaler Tanz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0043",
+    "text": "Intercourse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0044",
+    "text": "Hanky Panky",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0045",
+    "text": "Kohabitation",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0046",
+    "text": "Penetration",
+    "aliases": [
+     "penetrieren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0047",
+    "text": "Vereinigung",
+    "aliases": [
+     "sich vereinigen",
+     "körperliche Vereinigung"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0048",
+    "text": "geschlechtliche Vereinigung",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0049",
+    "text": "Sexualakt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0050",
+    "text": "intim werden",
+    "aliases": [
+     "Intimität"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0051",
+    "text": "Liebesnacht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0052",
+    "text": "Rein-raus-Spiel",
+    "aliases": [
+     "rein raus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0053",
+    "text": "Ringelpiez mit Anfassen",
+    "aliases": [
+     "Ringelpiez"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0054",
+    "text": "Bettakrobatik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0055",
+    "text": "Nümmerchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0056",
+    "text": "Durchnehmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0057",
+    "text": "Besteigen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0058",
+    "text": "Bespringen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0059",
+    "text": "Beiwohnen",
+    "aliases": [
+     "Beiwohnung"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0060",
+    "text": "Verkehren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0061",
+    "text": "Netflix and Chill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0062",
+    "text": "Smash",
+    "aliases": [
+     "smashen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0063",
+    "text": "Banging",
+    "aliases": [
+     "bangen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0064",
+    "text": "Zur Sache kommen",
+    "aliases": [
+     "zur Sache gehen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0065",
+    "text": "Vollzug",
+    "aliases": [
+     "vollziehen",
+     "Ehe vollziehen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0066",
+    "text": "eheliche Pflichten",
+    "aliases": [
+     "eheliche Pflicht"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0067",
+    "text": "Fortpflanzung",
+    "aliases": [
+     "fortpflanzen",
+     "sich fortpflanzen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0068",
+    "text": "Bohren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0069",
+    "text": "Ballern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-032-a0070",
+    "text": "Shaggen",
+    "aliases": [
+     "shag"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0071",
+    "text": "Screwen",
+    "aliases": [
+     "screw"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0072",
+    "text": "Hooking up",
+    "aliases": [
+     "hooken",
+     "Hookup"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0073",
+    "text": "Durchvögeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0074",
+    "text": "Rumvögeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0075",
+    "text": "Rumficken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0076",
+    "text": "Herumhuren",
+    "aliases": [
+     "rumhuren"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0077",
+    "text": "Hobeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0078",
+    "text": "Dübeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0079",
+    "text": "Decken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0080",
+    "text": "Beglücken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0081",
+    "text": "Erkennen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0082",
+    "text": "Zeugung",
+    "aliases": [
+     "zeugen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0083",
+    "text": "Fleischeslust",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0084",
+    "text": "Unzucht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0085",
+    "text": "Gruppensex",
+    "aliases": [
+     "Orgie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0086",
+    "text": "Dreier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-032-a0087",
+    "text": "Bettgymnastik",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-033",
+  "text": "Nenne ein Synonym für „verstehen“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-033-a0001",
+    "text": "begreifen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-033-a0002",
+    "text": "kapieren",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-033-a0003",
+    "text": "checken",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-033-a0004",
+    "text": "raffen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-033-a0005",
+    "text": "erfassen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-033-a0006",
+    "text": "nachvollziehen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-033-a0007",
+    "text": "schnallen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-033-a0008",
+    "text": "durchblicken",
+    "aliases": [
+     "Durchblick haben"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-033-a0009",
+    "text": "auffassen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0010",
+    "text": "durchschauen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0011",
+    "text": "erkennen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0012",
+    "text": "einsehen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0013",
+    "text": "realisieren",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0014",
+    "text": "mitbekommen",
+    "aliases": [
+     "mitkriegen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0015",
+    "text": "peilen",
+    "aliases": [
+     "Peilung haben"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0016",
+    "text": "rallen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0017",
+    "text": "blicken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0018",
+    "text": "kennen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0019",
+    "text": "wissen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0020",
+    "text": "hören",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0021",
+    "text": "folgen",
+    "aliases": [
+     "folgen können"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0022",
+    "text": "Verständnis haben",
+    "aliases": [
+     "Verständnis zeigen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0023",
+    "text": "sich auskennen",
+    "aliases": [
+     "auskennen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0024",
+    "text": "dahinterkommen",
+    "aliases": [
+     "dahintersteigen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0025",
+    "text": "einleuchten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0026",
+    "text": "ein Licht aufgehen",
+    "aliases": [
+     "aufgehen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0027",
+    "text": "der Groschen ist gefallen",
+    "aliases": [
+     "Groschen fällt",
+     "Groschen gefallen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0028",
+    "text": "klar sein",
+    "aliases": [
+     "klar werden"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0029",
+    "text": "understand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0030",
+    "text": "sich verstehen",
+    "aliases": [
+     "auskommen",
+     "gut auskommen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0031",
+    "text": "interpretieren",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0032",
+    "text": "deuten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0033",
+    "text": "nachempfinden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0034",
+    "text": "sich einfühlen",
+    "aliases": [
+     "einfühlen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-033-a0035",
+    "text": "auslegen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0036",
+    "text": "merken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0037",
+    "text": "lernen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0038",
+    "text": "beherrschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0039",
+    "text": "können",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0040",
+    "text": "ergründen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0041",
+    "text": "durchdringen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0042",
+    "text": "nachfühlen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0043",
+    "text": "mitfühlen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0044",
+    "text": "gneißen",
+    "aliases": [
+     "gneisen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0045",
+    "text": "kneißen",
+    "aliases": [
+     "kneisen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0046",
+    "text": "fressen",
+    "aliases": [
+     "gefressen haben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0047",
+    "text": "intus haben",
+    "aliases": [
+     "intus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0048",
+    "text": "draufhaben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0049",
+    "text": "im Bilde sein",
+    "aliases": [
+     "Bilde"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0050",
+    "text": "Bescheid wissen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0051",
+    "text": "informiert sein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0052",
+    "text": "harmonieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0053",
+    "text": "auf einer Wellenlänge sein",
+    "aliases": [
+     "Wellenlänge"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0054",
+    "text": "sich einen Reim darauf machen",
+    "aliases": [
+     "Reim machen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0055",
+    "text": "einen Zugang finden",
+    "aliases": [
+     "Zugang haben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0056",
+    "text": "verinnerlichen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0057",
+    "text": "aufnehmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0058",
+    "text": "vernehmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0059",
+    "text": "entschlüsseln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0060",
+    "text": "dekodieren",
+    "aliases": [
+     "decodieren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0061",
+    "text": "enträtseln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0062",
+    "text": "entziffern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0063",
+    "text": "herausfinden",
+    "aliases": [
+     "rausfinden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0064",
+    "text": "durchsteigen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0065",
+    "text": "sich etwas zusammenreimen",
+    "aliases": [
+     "zusammenreimen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-033-a0066",
+    "text": "spannen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0067",
+    "text": "checkst du",
+    "aliases": [
+     "checkst"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0068",
+    "text": "verstanden",
+    "aliases": [
+     "alles klar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0069",
+    "text": "roger",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0070",
+    "text": "kopiert",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0071",
+    "text": "capito",
+    "aliases": [
+     "capisce",
+     "kapito"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0072",
+    "text": "wahrnehmen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0073",
+    "text": "Ahnung haben",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0074",
+    "text": "im Klaren sein",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0075",
+    "text": "sehen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-033-a0076",
+    "text": "mitkommen",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-034",
+  "text": "Nenne ein Synonym für „schmutzig“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-034-a0001",
+    "text": "dreckig",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-034-a0002",
+    "text": "unsauber",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-034-a0003",
+    "text": "verschmutzt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0004",
+    "text": "versifft",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0005",
+    "text": "schmuddelig",
+    "aliases": [
+     "schmuddlig"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0006",
+    "text": "eklig",
+    "aliases": [
+     "ekelig"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0007",
+    "text": "ungewaschen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0008",
+    "text": "siffig",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0009",
+    "text": "schmierig",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0010",
+    "text": "unhygienisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0011",
+    "text": "verdreckt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-034-a0012",
+    "text": "verschmiert",
+    "aliases": [
+     "dreckverschmiert"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0013",
+    "text": "verkrustet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0014",
+    "text": "verklebt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0015",
+    "text": "klebrig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0016",
+    "text": "fleckig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0017",
+    "text": "befleckt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0018",
+    "text": "beschmutzt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0019",
+    "text": "speckig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0020",
+    "text": "staubig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0021",
+    "text": "verstaubt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0022",
+    "text": "schlammig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0023",
+    "text": "matschig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0024",
+    "text": "voller Dreck",
+    "aliases": [
+     "voll Dreck"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0025",
+    "text": "unrein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0026",
+    "text": "ungepflegt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0027",
+    "text": "verwahrlost",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0028",
+    "text": "gammelig",
+    "aliases": [
+     "vergammelt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0029",
+    "text": "vermüllt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0030",
+    "text": "dirty",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0031",
+    "text": "unanständig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0032",
+    "text": "schlüpfrig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0033",
+    "text": "versaut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0034",
+    "text": "schweinisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0035",
+    "text": "obszön",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0036",
+    "text": "grindig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0037",
+    "text": "dreckert",
+    "aliases": [
+     "dreckat"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0038",
+    "text": "gatschig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-034-a0039",
+    "text": "runtergekommen",
+    "aliases": [
+     "heruntergekommen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0040",
+    "text": "verlottert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0041",
+    "text": "schäbig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0042",
+    "text": "räudig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0043",
+    "text": "unappetitlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0044",
+    "text": "zotig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0045",
+    "text": "anrüchig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0046",
+    "text": "pervers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0047",
+    "text": "ordinär",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0048",
+    "text": "vulgär",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0049",
+    "text": "schamlos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0050",
+    "text": "sittenlos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0051",
+    "text": "unsittlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0052",
+    "text": "unmoralisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0053",
+    "text": "unlauter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0054",
+    "text": "korrupt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0055",
+    "text": "zwielichtig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0056",
+    "text": "dubios",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0057",
+    "text": "schmutzverkrustet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0058",
+    "text": "rußig",
+    "aliases": [
+     "verrußt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0059",
+    "text": "ölverschmiert",
+    "aliases": [
+     "ölig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0060",
+    "text": "fettig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0061",
+    "text": "besudelt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0062",
+    "text": "beschmiert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0063",
+    "text": "kotig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0064",
+    "text": "voll gesaut",
+    "aliases": [
+     "eingesaut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0065",
+    "text": "verpestet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0066",
+    "text": "verseucht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0067",
+    "text": "kontaminiert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0068",
+    "text": "verunreinigt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0069",
+    "text": "dreckstarrend",
+    "aliases": [
+     "starrend vor Dreck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0070",
+    "text": "grauslich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0071",
+    "text": "assig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0072",
+    "text": "verranzt",
+    "aliases": [
+     "ranzig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0073",
+    "text": "abgeranzt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0074",
+    "text": "schlampig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0075",
+    "text": "verkeimt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-034-a0076",
+    "text": "saudreckig",
+    "aliases": [
+     "saumäßig dreckig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-034-a0077",
+    "text": "schweinig",
+    "aliases": [
+     "ferkelig"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-035",
+  "text": "Nenne ein Synonym für „klein“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-035-a0001",
+    "text": "winzig",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-035-a0002",
+    "text": "gering",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-035-a0003",
+    "text": "klitzeklein",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0004",
+    "text": "mini",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0005",
+    "text": "zierlich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0006",
+    "text": "kurz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0007",
+    "text": "mickrig",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0008",
+    "text": "niedlich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0009",
+    "text": "minimal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0010",
+    "text": "kompakt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-035-a0011",
+    "text": "schmal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0012",
+    "text": "knapp",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0013",
+    "text": "winzig klein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0014",
+    "text": "kleingewachsen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0015",
+    "text": "kleinwüchsig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0016",
+    "text": "zwergenhaft",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0017",
+    "text": "zwergig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0018",
+    "text": "putzig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0019",
+    "text": "süß",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0020",
+    "text": "handlich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0021",
+    "text": "überschaubar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0022",
+    "text": "bescheiden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0023",
+    "text": "dürftig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0024",
+    "text": "popelig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0025",
+    "text": "lütt",
+    "aliases": [
+     "lüttje"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0026",
+    "text": "unbedeutend",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0027",
+    "text": "geringfügig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0028",
+    "text": "marginal",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0029",
+    "text": "mikroskopisch",
+    "aliases": [
+     "mikroskopisch klein"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0030",
+    "text": "jung",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0031",
+    "text": "small",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0032",
+    "text": "tiny",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0033",
+    "text": "little",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0034",
+    "text": "schmächtig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0035",
+    "text": "zart",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0036",
+    "text": "niedrig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0037",
+    "text": "wenig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0038",
+    "text": "kümmerlich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0039",
+    "text": "Miniatur",
+    "aliases": [
+     "miniaturhaft"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0040",
+    "text": "im Taschenformat",
+    "aliases": [
+     "Taschenformat",
+     "Westentaschenformat"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0041",
+    "text": "nicht groß",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-035-a0042",
+    "text": "puppig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0043",
+    "text": "eng",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0044",
+    "text": "begrenzt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0045",
+    "text": "beschränkt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0046",
+    "text": "unwichtig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0047",
+    "text": "belanglos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0048",
+    "text": "nebensächlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0049",
+    "text": "spärlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0050",
+    "text": "fein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0051",
+    "text": "untersetzt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0052",
+    "text": "gedrungen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0053",
+    "text": "nieder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0054",
+    "text": "lächerlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0055",
+    "text": "im Miniformat",
+    "aliases": [
+     "Miniformat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0056",
+    "text": "im Kleinformat",
+    "aliases": [
+     "Kleinformat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0057",
+    "text": "knirpsig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0058",
+    "text": "mausklein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0059",
+    "text": "piccolo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0060",
+    "text": "petit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0061",
+    "text": "minder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0062",
+    "text": "nicht der Rede wert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0063",
+    "text": "ein bisschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0064",
+    "text": "minimini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0065",
+    "text": "nano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0066",
+    "text": "mikro",
+    "aliases": [
+     "micro"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0067",
+    "text": "stummelig",
+    "aliases": [
+     "Stummel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0068",
+    "text": "kurz geraten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0069",
+    "text": "von kleiner Statur",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0070",
+    "text": "gnomenhaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-035-a0071",
+    "text": "lilliputanerhaft",
+    "aliases": [
+     "liliputanerhaft"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-035-a0072",
+    "text": "diminutiv",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-035-a0073",
+    "text": "infinitesimal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-035-a0074",
+    "text": "verschwindend gering",
+    "aliases": [
+     "verschwindend"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-035-a0075",
+    "text": "unscheinbar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-035-a0076",
+    "text": "bedeutungslos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-035-a0077",
+    "text": "unerheblich",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-036",
+  "text": "Nenne ein Synonym für „groß“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-036-a0001",
+    "text": "riesig",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-036-a0002",
+    "text": "gewaltig",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-036-a0003",
+    "text": "hoch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0004",
+    "text": "lang",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0005",
+    "text": "riesengroß",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0006",
+    "text": "enorm",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0007",
+    "text": "gigantisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0008",
+    "text": "mächtig",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0009",
+    "text": "massiv",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0010",
+    "text": "immens",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0011",
+    "text": "hochgewachsen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-036-a0012",
+    "text": "groß gewachsen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0013",
+    "text": "ausgedehnt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0014",
+    "text": "weit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0015",
+    "text": "breit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0016",
+    "text": "geräumig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0017",
+    "text": "umfangreich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0018",
+    "text": "beträchtlich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0019",
+    "text": "erheblich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0020",
+    "text": "kolossal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0021",
+    "text": "monumental",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0022",
+    "text": "monströs",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0023",
+    "text": "überdimensional",
+    "aliases": [
+     "überdimensioniert"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0024",
+    "text": "mega",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0025",
+    "text": "fett",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0026",
+    "text": "dick",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0027",
+    "text": "wuchtig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0028",
+    "text": "stattlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0029",
+    "text": "hünenhaft",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0030",
+    "text": "baumlang",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0031",
+    "text": "bedeutend",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0032",
+    "text": "wichtig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0033",
+    "text": "erwachsen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0034",
+    "text": "big",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0035",
+    "text": "huge",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0036",
+    "text": "large",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0037",
+    "text": "tall",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0038",
+    "text": "XXL",
+    "aliases": [
+     "XL"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0039",
+    "text": "titanisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0040",
+    "text": "ungeheuer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0041",
+    "text": "unermesslich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0042",
+    "text": "unendlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0043",
+    "text": "grandios",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0044",
+    "text": "großartig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0045",
+    "text": "beachtlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0046",
+    "text": "ordentlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0047",
+    "text": "viel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0048",
+    "text": "stark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0049",
+    "text": "hoch aufgeschossen",
+    "aliases": [
+     "aufgeschossen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-036-a0050",
+    "text": "großformatig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0051",
+    "text": "voluminös",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0052",
+    "text": "bombastisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0053",
+    "text": "krass",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0054",
+    "text": "übergroß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0055",
+    "text": "überlebensgroß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0056",
+    "text": "haushoch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0057",
+    "text": "turmhoch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0058",
+    "text": "himmelhoch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0059",
+    "text": "zyklopisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0060",
+    "text": "megagroß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0061",
+    "text": "saugroß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0062",
+    "text": "mordsgroß",
+    "aliases": [
+     "Mords"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0063",
+    "text": "maxi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0064",
+    "text": "jumbo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0065",
+    "text": "king size",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0066",
+    "text": "ausladend",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0067",
+    "text": "sperrig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0068",
+    "text": "klotzig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0069",
+    "text": "korpulent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0070",
+    "text": "füllig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0071",
+    "text": "beleibt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0072",
+    "text": "kräftig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0073",
+    "text": "gewichtig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0074",
+    "text": "namhaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0075",
+    "text": "berühmt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0076",
+    "text": "prominent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0077",
+    "text": "bedeutsam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0078",
+    "text": "ausgewachsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0079",
+    "text": "majestätisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0080",
+    "text": "imposant",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0081",
+    "text": "eindrucksvoll",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0082",
+    "text": "beeindruckend",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0083",
+    "text": "heftig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0084",
+    "text": "mordsmäßig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-036-a0085",
+    "text": "giga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-036-a0086",
+    "text": "reichlich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-036-a0087",
+    "text": "schlaksig",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-036-a0088",
+    "text": "maximal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-036-a0089",
+    "text": "vast",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-036-a0090",
+    "text": "kapital",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-037",
+  "text": "Nenne ein Synonym für „Kneipe“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-037-a0001",
+    "text": "Kneipe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-037-a0002",
+    "text": "Bar",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-037-a0003",
+    "text": "Lokal",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-037-a0004",
+    "text": "Pinte",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0005",
+    "text": "Spelunke",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0006",
+    "text": "Kaschemme",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0007",
+    "text": "Wirtshaus",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0008",
+    "text": "Gaststätte",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0009",
+    "text": "Pub",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0010",
+    "text": "Beisl",
+    "aliases": [
+     "Beisel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0011",
+    "text": "Beiz",
+    "aliases": [
+     "Beize"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0012",
+    "text": "Schenke",
+    "aliases": [
+     "Schänke"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0013",
+    "text": "Taverne",
+    "aliases": [
+     "Tavern"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0014",
+    "text": "Lounge",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0015",
+    "text": "Restaurant",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-037-a0016",
+    "text": "Boazn",
+    "aliases": [
+     "Boaz"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0017",
+    "text": "Stampe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0018",
+    "text": "Destille",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0019",
+    "text": "Eckkneipe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0020",
+    "text": "Stammkneipe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0021",
+    "text": "Dorfkneipe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0022",
+    "text": "Bierkneipe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0023",
+    "text": "Studentenkneipe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0024",
+    "text": "Bierbar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0025",
+    "text": "Cocktailbar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0026",
+    "text": "Weinbar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0027",
+    "text": "Weinstube",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0028",
+    "text": "Bierstube",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0029",
+    "text": "Bierhalle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0030",
+    "text": "Biergarten",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0031",
+    "text": "Brauhaus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0032",
+    "text": "Wirtschaft",
+    "aliases": [
+     "Weetschaft"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0033",
+    "text": "Gasthaus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0034",
+    "text": "Gasthof",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0035",
+    "text": "Gastwirtschaft",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0036",
+    "text": "Wirtsstube",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0037",
+    "text": "Schankwirtschaft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0038",
+    "text": "Schankstube",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0039",
+    "text": "Ausschank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0040",
+    "text": "Lokalität",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0041",
+    "text": "Etablissement",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0042",
+    "text": "Kaffeehaus",
+    "aliases": [
+     "Café"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0043",
+    "text": "Bistro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0044",
+    "text": "Tränke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0045",
+    "text": "Saloon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0046",
+    "text": "Speakeasy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0047",
+    "text": "Absturzkneipe",
+    "aliases": [
+     "Absturzbar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0048",
+    "text": "Raucherkneipe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0049",
+    "text": "Heuriger",
+    "aliases": [
+     "Heurigen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0050",
+    "text": "Straußwirtschaft",
+    "aliases": [
+     "Besenwirtschaft"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-037-a0051",
+    "text": "Bodega",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0052",
+    "text": "Tapasbar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0053",
+    "text": "Trinkhalle",
+    "aliases": [
+     "Büdchen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0054",
+    "text": "Theke",
+    "aliases": [
+     "Tresen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0055",
+    "text": "Schuppen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0056",
+    "text": "Laden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0057",
+    "text": "Location",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0058",
+    "text": "Club",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0059",
+    "text": "Disko",
+    "aliases": [
+     "Disco",
+     "Diskothek"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0060",
+    "text": "Nachtclub",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0061",
+    "text": "Nachtlokal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0062",
+    "text": "Rotlichtbar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0063",
+    "text": "Szenekneipe",
+    "aliases": [
+     "Szenebar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0064",
+    "text": "Musikkneipe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0065",
+    "text": "Sportsbar",
+    "aliases": [
+     "Sportbar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0066",
+    "text": "Irish Pub",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0067",
+    "text": "Hotelbar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0068",
+    "text": "Dachterrassenbar",
+    "aliases": [
+     "Rooftop-Bar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0069",
+    "text": "Strandbar",
+    "aliases": [
+     "Beachbar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0070",
+    "text": "Kellerbar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0071",
+    "text": "Bude",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0072",
+    "text": "Loch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0073",
+    "text": "Kneipchen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0074",
+    "text": "Gaststube",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0075",
+    "text": "Krug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0076",
+    "text": "Ratskeller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0077",
+    "text": "Bierkeller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0078",
+    "text": "Weinkeller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0079",
+    "text": "Bierlokal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0080",
+    "text": "Bumslokal",
+    "aliases": [
+     "Bums"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0081",
+    "text": "Schwemme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0082",
+    "text": "Ausflugslokal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-037-a0083",
+    "text": "Schankraum",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0084",
+    "text": "Trinkstube",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0085",
+    "text": "Pils-Stube",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0086",
+    "text": "Weinlokal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0087",
+    "text": "Bierzelt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0088",
+    "text": "Seemannskneipe",
+    "aliases": [
+     "Hafenkneipe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0089",
+    "text": "Dorfwirtschaft",
+    "aliases": [
+     "Dorfkrug"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0090",
+    "text": "Tanzlokal",
+    "aliases": [
+     "Tanzbar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0091",
+    "text": "Piano-Bar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0092",
+    "text": "Whiskybar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0093",
+    "text": "Ginbar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0094",
+    "text": "Shishabar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-037-a0095",
+    "text": "Karaokebar",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
   "id": "wor-038",
   "text": "Nenne einen gängigen deutschen weiblichen Vornamen, der mit „L“ beginnt",
   "kategorie": "woerter",

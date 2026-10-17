@@ -1,0 +1,83 @@
+@id wor-035
+@text Nenne ein Synonym für „klein“
+@typ geschlossen
+# Geringe Größe/Körpergröße, aber auch geringes Ausmaß (eine kleine Summe), jung (die Kleinen) und unbedeutend.
+# Umgangssprache, Regionalismen (lütt) und Verstärkungen (klitzeklein, winzig klein); englisch tiny/small.
+
+1 winzig
+1 gering
+2 klitzeklein
+2 mini
+2 zierlich
+2 kurz
+2 mickrig
+2 niedlich
+2 minimal
+2 kompakt
+3 schmal
+3 knapp
+3 winzig klein
+3 kleingewachsen
+3 kleinwüchsig
+3 zwergenhaft
+3 zwergig
+3 putzig
+3 süß
+3 handlich
+3 überschaubar
+3 bescheiden
+3 dürftig
+3 popelig
+3 lütt = lüttje
+3 unbedeutend
+3 geringfügig
+3 marginal
+3 mikroskopisch = mikroskopisch klein
+3 jung
+3 small
+3 tiny
+3 little
+3 schmächtig
+3 zart
+3 niedrig
+3 wenig
+3 kümmerlich
+3 Miniatur = miniaturhaft
+3 im Taschenformat = Taschenformat; Westentaschenformat
+3 nicht groß
+4 puppig
+4 eng
+4 begrenzt
+4 beschränkt
+4 unwichtig
+4 belanglos
+4 nebensächlich
+4 spärlich
+4 fein
+4 untersetzt
+4 gedrungen
+4 nieder
+4 lächerlich
+4 im Miniformat = Miniformat
+4 im Kleinformat = Kleinformat
+4 knirpsig
+4 mausklein
+4 piccolo
+4 petit
+4 minder
+4 nicht der Rede wert
+4 ein bisschen
+4 minimini
+4 nano
+4 mikro = micro
+4 stummelig = Stummel
+4 kurz geraten
+4 von kleiner Statur
+4 gnomenhaft
+5 lilliputanerhaft = liliputanerhaft
+5 diminutiv
+5 infinitesimal
+5 verschwindend gering = verschwindend
+5 unscheinbar
+5 bedeutungslos
+5 unerheblich

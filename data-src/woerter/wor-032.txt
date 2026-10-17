@@ -1,0 +1,94 @@
+@id wor-032
+@text Nenne ein Synonym für „Geschlechtsverkehr“
+@typ geschlossen
+# Erwachsenen-Partyspiel: Fachsprache, Umgangssprache, Vulgärsprache, Regionalismen (schnackseln, pempern), Jugendsprache und englischer Slang.
+# Substantive UND Verben zugelassen (Spieler tippen beides: „Sex“ wie „vögeln“), ebenso Wendungen wie „Liebe machen“, „eine Nummer schieben“.
+# Einzelne Sexualpraktiken (Oral-, Anal-, Petting, Selbstbefriedigung) und bloße Beziehungsbegriffe (Affäre, Seitensprung) bewusst nicht.
+
+1 Sex = Sex haben
+1 Vögeln
+1 Bumsen
+2 Beischlaf
+2 Koitus = Coitus
+2 Geschlechtsakt
+2 Ficken = Fick
+2 Liebe machen
+2 miteinander schlafen = schlafen; schlafen mit
+2 Poppen
+2 Verkehr
+3 Kopulation = kopulieren
+3 Pimpern
+3 Nageln
+3 Knallen
+3 Rammeln
+3 Schnackseln
+3 Begattung = begatten
+3 Paarung = paaren; sich paaren
+3 Sexualverkehr
+3 Akt
+3 Nummer = eine Nummer schieben
+3 Quickie
+3 One-Night-Stand = ONS
+3 Schäferstündchen
+3 Liebesspiel
+3 GV
+3 Fuck = fucken
+3 Rummachen
+3 Flachlegen
+3 es tun = tun
+3 es treiben = treiben; es miteinander treiben
+3 Sexen
+3 Liebesakt
+4 Stoßen
+4 Bürsten
+4 Pudern
+4 Pempern
+4 Intimverkehr
+4 Matratzensport
+4 Bettsport
+4 Horizontaler Tango = horizontaler Tanz
+4 Intercourse
+4 Hanky Panky
+4 Kohabitation
+4 Penetration = penetrieren
+4 Vereinigung = sich vereinigen; körperliche Vereinigung
+4 geschlechtliche Vereinigung
+4 Sexualakt
+4 intim werden = Intimität
+4 Liebesnacht
+4 Rein-raus-Spiel = rein raus
+4 Ringelpiez mit Anfassen = Ringelpiez
+4 Bettakrobatik
+4 Nümmerchen
+4 Durchnehmen
+4 Besteigen
+4 Bespringen
+4 Beiwohnen = Beiwohnung
+4 Verkehren
+4 Netflix and Chill
+4 Smash = smashen
+4 Banging = bangen
+4 Zur Sache kommen = zur Sache gehen
+4 Vollzug = vollziehen; Ehe vollziehen
+4 eheliche Pflichten = eheliche Pflicht
+4 Fortpflanzung = fortpflanzen; sich fortpflanzen
+4 Bohren
+4 Ballern
+5 Shaggen = shag
+5 Screwen = screw
+5 Hooking up = hooken; Hookup
+5 Durchvögeln
+5 Rumvögeln
+5 Rumficken
+5 Herumhuren = rumhuren
+5 Hobeln
+5 Dübeln
+5 Decken
+5 Beglücken
+5 Erkennen
+5 Zeugung = zeugen
+5 Fleischeslust
+5 Unzucht
+5 Gruppensex = Orgie
+5 Dreier
+5 Bettgymnastik

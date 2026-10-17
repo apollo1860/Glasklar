@@ -1,0 +1,54 @@
+@id wor-031
+@text Nenne ein Synonym für „Alkohol“
+@typ geschlossen
+# Alkohol als Getränk und als Stoff (Ethanol) inkl. Umgangssprache (Alk, Fusel, Sprit, Bölkstoff) und Oberbegriffe (Spirituosen, Hochprozentiges).
+# Schnaps/Kurze als häufig generisch gebrauchte Wörter aufgenommen; konkrete Getränke (Bier, Wein, Wodka …) bewusst nicht.
+
+1 Alk
+1 Schnaps
+2 Fusel
+2 Sprit
+2 Ethanol = Äthanol
+2 Spirituosen = Spirituose
+2 Hochprozentiges = Hochprozentiger
+2 Booze
+2 Promille
+2 Stoff
+3 Gesöff
+3 Suff
+3 Feuerwasser
+3 Alkoholika
+3 alkoholische Getränke = alkoholisches Getränk
+3 geistige Getränke = geistiges Getränk
+3 Branntwein
+3 Weingeist
+3 Spiritus
+3 Ethylalkohol = Äthylalkohol
+3 C2H5OH = EtOH
+3 Alcohol
+3 Liquor
+3 Drinks = Drink
+3 Prozente = Prozentiges
+3 Umdrehungen
+3 Bölkstoff
+3 Zielwasser
+3 Gift
+3 Teufelszeug
+3 Kurze = Kurzer
+3 Saufzeug
+3 Droge
+4 Destillat
+4 Klarer
+4 Spirit = Spirits
+4 Seelentröster
+4 Sorgenbrecher
+4 Rauschmittel
+4 Genussmittel
+4 Alkoholisches
+4 Hartes = harte Sachen; was Hartes
+4 flüssiger Mut
+5 Rachenputzer
+5 Lebenswasser = Aqua vitae
+5 Schluck = Schlückchen
+5 Sauferei
+5 Geistiges

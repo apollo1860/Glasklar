@@ -1,0 +1,82 @@
+@id wor-029
+@text Nenne ein Synonym für „stehlen“
+@typ geschlossen
+# Etwas widerrechtlich wegnehmen inkl. Umgangssprache (klauen, mopsen, zocken), Gaunersprache, Regionalismen (stibitzen, fladern) und Wendungen.
+# Spezielle Formen (rauben, plündern, einbrechen, unterschlagen, Ladendiebstahl) aufgenommen; „betrügen“ nicht.
+
+1 klauen
+1 mopsen
+2 stibitzen
+2 entwenden
+3 klemmen
+2 rauben
+2 mitgehen lassen = mitnehmen
+2 einsacken
+2 abziehen
+2 ausrauben
+2 plündern
+2 bestehlen
+3 krallen = sich krallen
+3 grapschen = grabschen
+3 abstauben
+3 organisieren
+3 mausen
+3 wegnehmen
+3 einstecken
+3 sich aneignen = aneignen
+3 an sich nehmen
+3 sich unter den Nagel reißen = unter den Nagel reißen
+3 lange Finger machen = lange Finger
+3 zocken
+3 abzocken
+3 fladern
+3 einbrechen
+3 Diebstahl begehen = Diebstahl
+3 ausplündern
+3 unterschlagen
+3 veruntreuen
+3 erbeuten
+3 Ladendiebstahl = shoplifting
+4 entführen
+3 abgreifen
+3 abräumen
+3 wegschnappen = schnappen
+4 räubern
+4 abluchsen
+4 ergaunern
+4 erschleichen
+4 ausnehmen
+4 schröpfen
+4 abknöpfen
+4 abnehmen
+4 wegmopsen
+4 wegklauen
+4 brandschatzen
+4 mitgehen heißen
+4 sich bedienen = bedienen
+4 sich vergreifen = vergreifen
+4 sich bereichern = bereichern
+4 beklauen
+4 berauben
+4 kapern
+4 entern
+4 wildern
+4 abkupfern
+4 plagiieren
+4 raubkopieren
+4 ein Ding drehen
+4 einen Bruch machen
+4 Taschendiebstahl = Taschen leeren
+4 ausräumen
+4 jacken
+4 yoinken = yoink
+4 snatchen = snatch
+4 stealen = steal
+5 sich zueignen = zueignen
+5 kassieren
+5 einkassieren
+5 sich etwas abzweigen = abzweigen
+5 abzwacken
+5 einheimsen
+5 fingern
+5 schnipfen

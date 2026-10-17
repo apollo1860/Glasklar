@@ -1,0 +1,79 @@
+@id wor-030
+@text Nenne ein Synonym für „schlafen“
+@typ geschlossen
+# Schlafen inkl. kurzer Schlaf (Nickerchen), Umgangssprache (pennen, ratzen), Regionalismen (heia machen, pofen) und Wendungen.
+# Einschlafen/zu Bett gehen aufgenommen; „miteinander schlafen“ (Sex) bewusst nicht.
+
+1 pennen
+1 ruhen
+2 dösen
+2 schlummern
+2 ratzen
+2 nicken = einnicken
+2 ein Nickerchen machen = Nickerchen
+2 pofen = poofen
+2 Heia machen = heia
+2 einschlafen
+3 träumen
+3 sich ausruhen = ausruhen
+3 Mittagsschlaf machen = Mittagsschlaf
+3 Mittagsschläfchen = Schläfchen
+3 Powernap
+4 napping = nap
+3 sleepen = sleep
+3 ins Bett gehen = Bett gehen
+3 zu Bett gehen
+3 schlafen gehen
+3 sich hinlegen = hinlegen
+3 sich aufs Ohr legen = aufs Ohr legen
+3 sich aufs Ohr hauen = aufs Ohr hauen
+3 in die Federn gehen = Federn
+3 in die Falle gehen = Falle
+3 in die Heia gehen
+3 sich in die Koje hauen = Koje
+3 sich in die Kiste hauen = Kiste
+3 Augenpflege betreiben = Augenpflege
+3 Matratzenhorchdienst = Matratze abhorchen; an der Matratze horchen
+3 schnarchen
+3 durchschlafen
+3 ausschlafen
+3 verschlafen
+3 wegdösen
+3 wegnicken
+3 wegpennen
+3 eindösen
+3 einpennen
+4 knacken = knacken gehen
+3 bubu machen = bubu
+4 Siesta machen = Siesta
+4 ein Schläfchen halten
+4 ein Auge zumachen
+4 die Augen zumachen
+4 die Augen schließen
+4 Schäfchen zählen = Schäfchen
+4 im Bett liegen = Bett liegen
+4 übernachten
+4 nächtigen
+4 kampieren
+4 sich zur Ruhe begeben = zur Ruhe begeben
+4 sich niederlegen = niederlegen
+4 sich schlafen legen = schlafen legen
+4 sich in die Waagerechte begeben = Waagerechte; Horizontale; in die Horizontale
+4 in Morpheus' Armen liegen = Morpheus
+4 wie ein Stein schlafen = Stein
+4 wie ein Murmeltier schlafen = Murmeltier
+4 wie ein Bär schlafen
+4 Winterschlaf halten = Winterschlaf
+4 abschalten
+5 wegtreten
+4 wegratzen
+4 sägen = Holz sägen; Bäume sägen
+4 schlafen wie ein Toter
+4 dämmern = vor sich hin dämmern
+4 duseln
+4 im Reich der Träume sein = Reich der Träume
+4 im Land der Träume sein = Land der Träume
+5 koksen
+4 ins Nest gehen = Nest
+5 schlafen wie ein Ratz
+5 sich die Augen von innen anschauen = Augen von innen

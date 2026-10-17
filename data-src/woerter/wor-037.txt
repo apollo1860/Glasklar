@@ -1,0 +1,102 @@
+@id wor-037
+@text Nenne ein Synonym für „Kneipe“
+@typ geschlossen
+# Schanklokale aller Art inkl. Umgangssprache (Pinte, Spelunke, Kaschemme), Regionalismen (Beisl, Beiz, Boazn, Weetschaft, Stampe) und Lokaltypen, in denen man vor allem trinkt.
+# Fragetext bewusst nur „Kneipe“, damit „Bar“ und „Lokal“ als naheliegendste Antworten zählen. Allgemeine Gaststätten-Begriffe (Wirtshaus, Restaurant) zugelassen;
+# Clubs/Diskos, Cafés und Trinkbuden als Randfälle tier4–5; reine Speiselokale (Imbiss, Pizzeria), Kiosk/Späti nicht.
+
+1 Kneipe
+1 Bar
+1 Lokal
+2 Pinte
+2 Spelunke
+2 Kaschemme
+2 Wirtshaus
+2 Gaststätte
+2 Pub
+2 Beisl = Beisel
+2 Beiz = Beize
+2 Schenke = Schänke
+2 Taverne = Tavern
+2 Lounge
+2 Restaurant
+3 Boazn = Boaz
+3 Stampe
+4 Destille
+3 Eckkneipe
+3 Stammkneipe
+3 Dorfkneipe
+3 Bierkneipe
+4 Studentenkneipe
+3 Bierbar
+3 Cocktailbar
+3 Weinbar
+3 Weinstube
+4 Bierstube
+4 Bierhalle
+3 Biergarten
+3 Brauhaus
+3 Wirtschaft = Weetschaft
+3 Gasthaus
+3 Gasthof
+3 Gastwirtschaft
+4 Wirtsstube
+4 Schankwirtschaft
+4 Schankstube
+4 Ausschank
+4 Lokalität
+4 Etablissement
+5 Kaffeehaus = Café
+4 Bistro
+4 Tränke
+4 Saloon
+4 Speakeasy
+4 Absturzkneipe = Absturzbar
+4 Raucherkneipe
+3 Heuriger = Heurigen
+3 Straußwirtschaft = Besenwirtschaft
+4 Bodega
+4 Tapasbar
+5 Trinkhalle = Büdchen
+4 Theke = Tresen
+4 Schuppen
+4 Laden
+4 Location
+4 Club
+4 Disko = Disco; Diskothek
+4 Nachtclub
+4 Nachtlokal
+4 Rotlichtbar
+4 Szenekneipe = Szenebar
+4 Musikkneipe
+4 Sportsbar = Sportbar
+4 Irish Pub
+4 Hotelbar
+4 Dachterrassenbar = Rooftop-Bar
+4 Strandbar = Beachbar
+4 Kellerbar
+5 Bude
+5 Loch
+5 Kneipchen
+4 Gaststube
+4 Krug
+4 Ratskeller
+4 Bierkeller
+4 Weinkeller
+4 Bierlokal
+4 Bumslokal = Bums
+4 Schwemme
+4 Ausflugslokal
+5 Schankraum
+5 Trinkstube
+5 Pils-Stube
+5 Weinlokal
+5 Bierzelt
+5 Seemannskneipe = Hafenkneipe
+5 Dorfwirtschaft = Dorfkrug
+5 Tanzlokal = Tanzbar
+5 Piano-Bar
+5 Whiskybar
+5 Ginbar
+5 Shishabar
+5 Karaokebar

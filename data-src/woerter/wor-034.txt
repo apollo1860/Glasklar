@@ -1,0 +1,83 @@
+@id wor-034
+@text Nenne ein Synonym für „schmutzig“
+@typ geschlossen
+# Verschmutzt/unsauber inkl. Umgangssprache (versifft, siffig), Regionalismen (gatschig, dreckert, grindig) und übertragener Bedeutung
+# (unanständig/versaut sowie unlauter: „schmutzige Geschäfte“). Bloß unordentlich (chaotisch) nicht.
+
+1 dreckig
+1 unsauber
+2 verschmutzt
+2 versifft
+2 schmuddelig = schmuddlig
+2 eklig = ekelig
+2 ungewaschen
+2 siffig
+2 schmierig
+2 unhygienisch
+2 verdreckt
+3 verschmiert = dreckverschmiert
+3 verkrustet
+3 verklebt
+3 klebrig
+3 fleckig
+3 befleckt
+3 beschmutzt
+3 speckig
+3 staubig
+3 verstaubt
+3 schlammig
+3 matschig
+3 voller Dreck = voll Dreck
+3 unrein
+3 ungepflegt
+3 verwahrlost
+3 gammelig = vergammelt
+3 vermüllt
+3 dirty
+3 unanständig
+3 schlüpfrig
+3 versaut
+3 schweinisch
+3 obszön
+3 grindig
+3 dreckert = dreckat
+3 gatschig
+4 runtergekommen = heruntergekommen
+4 verlottert
+4 schäbig
+4 räudig
+4 unappetitlich
+4 zotig
+4 anrüchig
+4 pervers
+4 ordinär
+4 vulgär
+4 schamlos
+4 sittenlos
+4 unsittlich
+4 unmoralisch
+4 unlauter
+4 korrupt
+4 zwielichtig
+4 dubios
+4 schmutzverkrustet
+4 rußig = verrußt
+4 ölverschmiert = ölig
+4 fettig
+4 besudelt
+4 beschmiert
+4 kotig
+4 voll gesaut = eingesaut
+4 verpestet
+4 verseucht
+4 kontaminiert
+4 verunreinigt
+4 dreckstarrend = starrend vor Dreck
+4 grauslich
+4 assig
+4 verranzt = ranzig
+4 abgeranzt
+4 schlampig
+5 verkeimt
+4 saudreckig = saumäßig dreckig
+5 schweinig = ferkelig

@@ -1,0 +1,82 @@
+@id wor-033
+@text Nenne ein Synonym für „verstehen“
+@typ geschlossen
+# Begreifen/erfassen inkl. Umgangssprache (checken, raffen, kapieren), Jugendsprache, Regionalismen (gneißen, kneißen) und Wendungen („der Groschen ist gefallen“).
+# Auch akustisch verstehen (hören), „sich verstehen“ (auskommen) und „Verständnis haben/nachvollziehen“ aufgenommen.
+
+1 begreifen
+1 kapieren
+1 checken
+2 raffen
+2 erfassen
+2 nachvollziehen
+2 schnallen
+2 durchblicken = Durchblick haben
+3 auffassen
+3 durchschauen
+3 erkennen
+3 einsehen
+3 realisieren
+3 mitbekommen = mitkriegen
+3 peilen = Peilung haben
+3 rallen
+3 blicken
+3 kennen
+3 wissen
+3 hören
+3 folgen = folgen können
+3 Verständnis haben = Verständnis zeigen
+3 sich auskennen = auskennen
+3 dahinterkommen = dahintersteigen
+3 einleuchten
+3 ein Licht aufgehen = aufgehen
+3 der Groschen ist gefallen = Groschen fällt; Groschen gefallen
+3 klar sein = klar werden
+3 understand
+3 sich verstehen = auskommen; gut auskommen
+3 interpretieren
+3 deuten
+3 nachempfinden
+3 sich einfühlen = einfühlen
+4 auslegen
+4 merken
+4 lernen
+4 beherrschen
+4 können
+4 ergründen
+4 durchdringen
+4 nachfühlen
+4 mitfühlen
+4 gneißen = gneisen
+4 kneißen = kneisen
+4 fressen = gefressen haben
+4 intus haben = intus
+4 draufhaben
+4 im Bilde sein = Bilde
+4 Bescheid wissen
+4 informiert sein
+4 harmonieren
+4 auf einer Wellenlänge sein = Wellenlänge
+4 sich einen Reim darauf machen = Reim machen
+4 einen Zugang finden = Zugang haben
+4 verinnerlichen
+4 aufnehmen
+4 vernehmen
+4 entschlüsseln
+4 dekodieren = decodieren
+4 enträtseln
+4 entziffern
+4 herausfinden = rausfinden
+4 durchsteigen
+4 sich etwas zusammenreimen = zusammenreimen
+5 spannen
+5 checkst du = checkst
+5 verstanden = alles klar
+5 roger
+5 kopiert
+5 capito = capisce; kapito
+5 wahrnehmen
+5 Ahnung haben
+5 im Klaren sein
+5 sehen
+5 mitkommen

@@ -1,0 +1,108 @@
+@id wor-028
+@text Nenne ein Synonym für „arbeiten“
+@typ geschlossen
+# Tätig sein / einer Arbeit nachgehen inkl. Umgangssprache (malochen, schuften, ackern), Regionalismen (hackeln, schaffen, büezen) und Wendungen.
+# Auch „funktionieren“ (die Maschine arbeitet) aufgenommen.
+
+1 schuften
+1 malochen
+2 ackern
+2 schaffen
+2 jobben
+2 tätig sein = tätig
+2 werkeln
+2 rackern = abrackern; sich abrackern
+2 sich abmühen = abmühen
+2 hackeln = hackln; hackeln gehen
+2 beschäftigt sein = beschäftigt
+2 erwerbstätig sein = erwerbstätig
+3 sich anstrengen = anstrengen
+3 schwitzen
+3 buckeln
+3 sich plagen = plagen
+3 sich abschuften = abschuften
+3 sich abplagen = abplagen
+3 sich abarbeiten = abarbeiten
+3 werken
+3 wirken
+4 handeln
+4 tun
+4 machen
+3 erledigen
+3 sich betätigen = betätigen
+3 sich beschäftigen = beschäftigen
+3 schaffe gehen = schaffen gehen
+3 zur Arbeit gehen = auf Arbeit gehen
+3 Geld verdienen
+3 seinen Lebensunterhalt verdienen = Lebensunterhalt verdienen
+3 berufstätig sein = berufstätig
+3 im Büro sein = ins Büro gehen
+3 grinden
+3 hustlen
+3 working = work
+3 funktionieren
+4 laufen
+3 sich ins Zeug legen = ins Zeug legen
+3 fleißig sein = fleißig
+3 tüfteln
+3 basteln
+3 anpacken
+3 zupacken
+3 wurschteln = wursteln
+4 sich reinhängen = reinhängen
+4 sich reinknien = reinknien
+4 klotzen = ranklotzen
+4 sich den Arsch aufreißen = Arsch aufreißen
+4 sich krummlegen = krummlegen
+4 sich abschinden = abschinden; schinden
+4 sich abstrampeln = abstrampeln
+4 sich abquälen = abquälen
+4 sich abhetzen
+4 roboten
+4 knechten
+4 fronen
+4 büezen = büetzen
+4 schanzen
+4 ochsen
+4 büffeln
+4 pauken
+4 hantieren
+4 herumwerkeln = rumwerkeln
+4 herumbasteln
+4 wuseln
+4 rödeln
+4 wühlen
+4 fuhrwerken
+4 Dienst tun = Dienst haben; im Dienst sein
+4 Schicht machen = Schicht haben; Schicht schieben
+4 Überstunden machen = Überstunden schieben
+4 angestellt sein = angestellt
+4 einen Job haben
+4 in Lohn und Brot stehen
+4 einer Arbeit nachgehen
+4 einen Beruf ausüben
+4 sich verdingen = verdingen
+5 dienen
+5 arbeiten wie ein Pferd = schuften wie ein Pferd
+4 sich nützlich machen = nützlich machen
+4 produzieren
+4 leisten
+4 performen
+4 agieren
+4 sich verausgaben = verausgaben
+4 zugange sein = zugange
+4 Gas geben
+4 reinhauen
+4 sich bemühen = bemühen
+5 sich zerreißen = zerreißen
+5 sich aufopfern = aufopfern
+5 placken = sich placken; abplacken
+5 fretten
+5 mühen
+5 rotieren
+5 Kohle machen
+5 Brötchen verdienen = seine Brötchen verdienen
+5 auf Montage sein = Montage
+5 im Homeoffice sein = Homeoffice
+5 lohnarbeiten
+5 einen Finger rühren
