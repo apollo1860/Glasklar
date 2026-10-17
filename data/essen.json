@@ -8777,5 +8777,402 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "ess-014",
+  "text": "Nenne eine Chips-Geschmacksrichtung",
+  "kategorie": "essen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "ess-014-a0001",
+    "text": "Paprika",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-014-a0002",
+    "text": "Salz",
+    "aliases": [
+     "Gesalzen",
+     "Salted",
+     "Classic",
+     "Original",
+     "Natur"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-014-a0003",
+    "text": "Sour Cream",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-014-a0004",
+    "text": "Cheese & Onion",
+    "aliases": [
+     "Käse & Zwiebel",
+     "Käse und Zwiebel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-014-a0005",
+    "text": "Salt & Vinegar",
+    "aliases": [
+     "Salz & Essig",
+     "Salz und Essig",
+     "Essig"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-014-a0006",
+    "text": "Barbecue",
+    "aliases": [
+     "BBQ",
+     "Smoky BBQ",
+     "Honey BBQ"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-014-a0007",
+    "text": "Chili",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-014-a0008",
+    "text": "Ungarisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-014-a0009",
+    "text": "Sour Cream & Onion",
+    "aliases": [
+     "Sour Cream and Onion"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0010",
+    "text": "Käse",
+    "aliases": [
+     "Cheese"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0011",
+    "text": "Zwiebel",
+    "aliases": [
+     "Onion"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0012",
+    "text": "Pizza",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0013",
+    "text": "Ketchup",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0014",
+    "text": "Currywurst",
+    "aliases": [
+     "Curry"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0015",
+    "text": "Pfeffer",
+    "aliases": [
+     "Pepper"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0016",
+    "text": "Meersalz",
+    "aliases": [
+     "Sea Salt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0017",
+    "text": "Trüffel",
+    "aliases": [
+     "Truffle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0018",
+    "text": "Hot Chili",
+    "aliases": [
+     "Hot"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0019",
+    "text": "Sweet Chili",
+    "aliases": [
+     "Thai Sweet Chili"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0020",
+    "text": "Western Style",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0021",
+    "text": "Joghurt & Kräuter",
+    "aliases": [
+     "Joghurt und Kräuter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0022",
+    "text": "Rosmarin",
+    "aliases": [
+     "Rosemary"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0023",
+    "text": "Meersalz & Pfeffer",
+    "aliases": [
+     "Salz & Pfeffer",
+     "Salz und Pfeffer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0024",
+    "text": "Nacho Cheese",
+    "aliases": [
+     "Nacho"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0025",
+    "text": "Pommes Rot-Weiß",
+    "aliases": [
+     "Pommes"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0026",
+    "text": "Bratkartoffel",
+    "aliases": [
+     "Bratkartoffeln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0027",
+    "text": "Hähnchen",
+    "aliases": [
+     "Chicken",
+     "Brathähnchen",
+     "Grillhähnchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0028",
+    "text": "Jalapeño",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0029",
+    "text": "Wasabi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0030",
+    "text": "Kräuter",
+    "aliases": [
+     "Herbs"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0031",
+    "text": "Senf",
+    "aliases": [
+     "Mustard"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0032",
+    "text": "Honig-Senf",
+    "aliases": [
+     "Honey Mustard"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0033",
+    "text": "Döner",
+    "aliases": [
+     "Döner Kebab",
+     "Kebab"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0034",
+    "text": "Peperoni",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-014-a0035",
+    "text": "Chili Cheese",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0036",
+    "text": "Cool American",
+    "aliases": [
+     "Cool Ranch",
+     "Ranch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0037",
+    "text": "Hot & Spicy",
+    "aliases": [
+     "Spicy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0038",
+    "text": "Oriental",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0039",
+    "text": "Mexican Style",
+    "aliases": [
+     "Mexican"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0040",
+    "text": "Salsa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0041",
+    "text": "Knoblauch",
+    "aliases": [
+     "Garlic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0042",
+    "text": "Limette",
+    "aliases": [
+     "Lime",
+     "Chili Limette",
+     "Chili & Lime"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0043",
+    "text": "Cheddar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0044",
+    "text": "Speck",
+    "aliases": [
+     "Bacon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0045",
+    "text": "Balsamico",
+    "aliases": [
+     "Balsamic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-014-a0046",
+    "text": "Gyros",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-014-a0047",
+    "text": "Zaziki",
+    "aliases": [
+     "Tzatziki"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-014-a0048",
+    "text": "Sriracha",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-014-a0049",
+    "text": "Habanero",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-014-a0050",
+    "text": "Pulled Pork",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-014-a0051",
+    "text": "Pickles",
+    "aliases": [
+     "Gurke",
+     "Dill Pickle"
+    ],
+    "tier": 5
+   }
+  ]
  }
 ]

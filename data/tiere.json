@@ -6381,5 +6381,698 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "tie-011",
+  "text": "Nenne ein Fabelwesen",
+  "kategorie": "tiere",
+  "answers": [
+   {
+    "id": "tie-011-a0001",
+    "text": "Drache",
+    "aliases": [
+     "Drachen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-011-a0002",
+    "text": "Einhorn",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-011-a0003",
+    "text": "Phönix",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0004",
+    "text": "Meerjungfrau",
+    "aliases": [
+     "Seejungfrau",
+     "Meerjungfrauen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0005",
+    "text": "Vampir",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0006",
+    "text": "Werwolf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0007",
+    "text": "Pegasus",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0008",
+    "text": "Greif",
+    "aliases": [
+     "Vogel Greif"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0009",
+    "text": "Zentaur",
+    "aliases": [
+     "Kentaur",
+     "Centaur"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0010",
+    "text": "Troll",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0011",
+    "text": "Elfe",
+    "aliases": [
+     "Elf",
+     "Elben"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0012",
+    "text": "Zwerg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0013",
+    "text": "Kobold",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0014",
+    "text": "Fee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0015",
+    "text": "Yeti",
+    "aliases": [
+     "Schneemensch"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-011-a0016",
+    "text": "Minotaurus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0017",
+    "text": "Zyklop",
+    "aliases": [
+     "Kyklop"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0018",
+    "text": "Basilisk",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0019",
+    "text": "Hydra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0020",
+    "text": "Kraken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0021",
+    "text": "Sphinx",
+    "aliases": [
+     "Sphinge"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0022",
+    "text": "Chimäre",
+    "aliases": [
+     "Chimära",
+     "Chimaira"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0023",
+    "text": "Wolpertinger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0024",
+    "text": "Nessie",
+    "aliases": [
+     "Ungeheuer von Loch Ness",
+     "Loch-Ness-Monster"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0025",
+    "text": "Golem",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0026",
+    "text": "Gnom",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0027",
+    "text": "Riese",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0028",
+    "text": "Ork",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0029",
+    "text": "Hobbit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0030",
+    "text": "Zerberus",
+    "aliases": [
+     "Kerberos",
+     "Cerberus",
+     "Höllenhund"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0031",
+    "text": "Medusa",
+    "aliases": [
+     "Gorgone"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0032",
+    "text": "Bigfoot",
+    "aliases": [
+     "Sasquatch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0033",
+    "text": "Zombie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0034",
+    "text": "Geist",
+    "aliases": [
+     "Gespenst"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0035",
+    "text": "Dschinn",
+    "aliases": [
+     "Flaschengeist",
+     "Djinn",
+     "Genie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0036",
+    "text": "Harpyie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0037",
+    "text": "Sirene",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0038",
+    "text": "Hippogreif",
+    "aliases": [
+     "Hippogryph"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0039",
+    "text": "Heinzelmännchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-011-a0040",
+    "text": "Satyr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0041",
+    "text": "Faun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0042",
+    "text": "Nymphe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0043",
+    "text": "Nixe",
+    "aliases": [
+     "Nix"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0044",
+    "text": "Rübezahl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0045",
+    "text": "Lindwurm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0046",
+    "text": "Tatzelwurm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0047",
+    "text": "Leviathan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0048",
+    "text": "Mantikor",
+    "aliases": [
+     "Manticore"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0049",
+    "text": "Banshee",
+    "aliases": [
+     "Todesfee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0050",
+    "text": "Wendigo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0051",
+    "text": "Chupacabra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0052",
+    "text": "Ghul",
+    "aliases": [
+     "Ghoul"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0053",
+    "text": "Dryade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0054",
+    "text": "Undine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0055",
+    "text": "Seeschlange",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0056",
+    "text": "Seeungeheuer",
+    "aliases": [
+     "Seemonster"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0057",
+    "text": "Fenrir",
+    "aliases": [
+     "Fenriswolf"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0058",
+    "text": "Midgardschlange",
+    "aliases": [
+     "Jörmungandr"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0059",
+    "text": "Sleipnir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0060",
+    "text": "Walküre",
+    "aliases": [
+     "Valkyrie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0061",
+    "text": "Titan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0062",
+    "text": "Ent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0063",
+    "text": "Balrog",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0064",
+    "text": "Dementor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0065",
+    "text": "Gremlin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0066",
+    "text": "Poltergeist",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0067",
+    "text": "Wichtel",
+    "aliases": [
+     "Wichtelmännchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0068",
+    "text": "Klabautermann",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0069",
+    "text": "Krampus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0070",
+    "text": "Elwetritsch",
+    "aliases": [
+     "Elwetritsche"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0071",
+    "text": "Leprechaun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0072",
+    "text": "Gargoyle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0073",
+    "text": "Dämon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0074",
+    "text": "Werkatze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-011-a0075",
+    "text": "Behemoth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0076",
+    "text": "Kelpie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0077",
+    "text": "Kappa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0078",
+    "text": "Kitsune",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0079",
+    "text": "Tengu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0080",
+    "text": "Oni",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0081",
+    "text": "Wyvern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0082",
+    "text": "Sylphe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0083",
+    "text": "Vogel Roch",
+    "aliases": [
+     "Roch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0084",
+    "text": "Typhon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0085",
+    "text": "Skylla",
+    "aliases": [
+     "Scylla"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0086",
+    "text": "Charybdis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0087",
+    "text": "Warg",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0088",
+    "text": "Thestral",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0089",
+    "text": "Schrat",
+    "aliases": [
+     "Waldschrat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0090",
+    "text": "Alb",
+    "aliases": [
+     "Nachtmahr",
+     "Mahr"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0091",
+    "text": "Rasselbock",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0092",
+    "text": "Jackalope",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0093",
+    "text": "Garuda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0094",
+    "text": "Naga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0095",
+    "text": "Wassermann",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0096",
+    "text": "Selkie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0097",
+    "text": "Succubus",
+    "aliases": [
+     "Sukkubus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0098",
+    "text": "Lamia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0099",
+    "text": "Homunkulus",
+    "aliases": [
+     "Homunculus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0100",
+    "text": "Mothman",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0101",
+    "text": "Irrlicht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-011-a0102",
+    "text": "Drude",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

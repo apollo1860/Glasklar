@@ -1,0 +1,45 @@
+@id mar-009
+@text Nenne einen Sportwettenanbieter in Deutschland
+@typ geschlossen
+# Sportwettenanbieter, die in Deutschland aktiv sind oder waren (lizenziert, staatlich, ehemals bekannt oder offshore, aber in Deutschland bekannt).
+
+1 Tipico
+1 Bet365
+2 Bwin
+2 Interwetten
+2 Betano
+2 Oddset = Lotto
+3 Betway
+3 Bet-at-home
+3 Sportwetten.de
+3 Admiral = Admiralbet
+3 Happybet
+3 Merkur = Merkur Sports; Merkur Bets
+3 Neo.bet
+3 Winamax
+3 Mybet
+3 Unibet
+3 BildBet
+3 Stake
+4 BetVictor
+4 Betfair
+4 William Hill
+4 888sport = 888
+4 Cashpoint
+4 Xtip
+4 Tipwin
+4 Bet3000
+4 NetBet
+4 1xBet
+4 Sportingbet
+4 Wetten.com
+4 Betsson
+4 Lottoland
+5 22Bet
+5 Pinnacle
+5 Vbet
+5 Mr Green
+5 LeoVegas
+5 Expekt
+5 Bet90
+5 Rabona

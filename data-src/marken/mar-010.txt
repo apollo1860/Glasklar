@@ -1,0 +1,48 @@
+@id mar-010
+@text Nenne einen E-Mail-Provider in Deutschland
+@typ geschlossen
+# In Deutschland genutzte E-Mail-Anbieter (Freemail, Bezahl-/Datenschutz-Anbieter, Internetprovider mit Postfach), inkl. ehemals bekannter Dienste.
+
+1 Gmail = Google Mail; Google
+1 GMX
+1 Web.de
+2 T-Online = Telekom
+2 Outlook = Hotmail; Live; MSN; Microsoft
+2 Yahoo
+3 iCloud = Apple; me.com
+3 Freenet
+3 Posteo
+3 Proton = ProtonMail
+3 Mailbox.org
+3 IONOS = 1&1; 1und1
+3 Arcor
+3 AOL
+3 Tuta = Tutanota
+3 Mail.de
+3 Vodafone
+3 Strato
+4 Mail.com
+4 Email.de
+4 Alice
+4 O2
+4 Lycos
+4 Fastmail
+4 Zoho
+4 Yandex
+4 Mail.ru
+4 Startmail
+4 Mailfence
+4 Hushmail
+4 Kabel Deutschland
+4 Unitymedia
+4 NetCologne
+4 EWE
+4 Hey
+4 All-Inkl
+4 Hetzner
+4 Runbox
+4 Firemail
+5 Tiscali
+5 Versatel
+5 Kabelmail
+5 Disroot

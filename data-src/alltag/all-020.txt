@@ -1,0 +1,612 @@
+@id all-020
+@text Nenne etwas, das ein Supermarkt verkauft
+# Typisches Sortiment deutscher Supermärkte und Discounter: Lebensmittel, Getränke, Drogerie, Haushalt, Tierbedarf, Non-Food-Aktionsware.
+# Generische Begriffe statt Marken; Singular als Haupttext, Plural als Alias.
+
+1 Milch
+1 Brot
+1 Obst
+1 Gemüse
+1 Käse
+2 Bier
+2 Butter
+2 Ei = Eier
+2 Wurst
+2 Fleisch
+2 Nudel = Nudeln; Pasta
+2 Wasser = Mineralwasser; Sprudel
+2 Apfel
+2 Banane = Bananen
+2 Klopapier = Toilettenpapier; Klopapierrolle
+2 Lebensmittel = Nahrungsmittel; Nahrung
+2 Getränk = Getränke
+2 Schokolade
+2 Süßigkeit = Süßigkeiten; Süßes
+2 Kaffee
+2 Joghurt = Jogurt
+3 Brötchen = Semmel; Schrippe; Weck
+3 Reis
+3 Kartoffel = Kartoffeln; Erdäpfel
+3 Tomate = Tomaten
+3 Gurke = Gurken; Salatgurke
+3 Salat = Kopfsalat; Eisbergsalat
+3 Zwiebel = Zwiebeln
+3 Karotte = Karotten; Möhre; Möhren; Mohrrübe
+3 Paprika
+3 Orange = Orangen; Apfelsine
+3 Zitrone = Zitronen
+3 Birne = Birnen
+3 Erdbeere = Erdbeeren
+3 Weintraube = Weintrauben; Trauben
+3 Hackfleisch = Hack; Gehacktes
+3 Hähnchen = Hühnchen; Hähnchenbrust; Hühnerfleisch
+3 Schinken
+3 Salami
+3 Fisch
+3 Mehl
+3 Zucker
+3 Salz
+3 Pfeffer
+3 Öl = Speiseöl; Sonnenblumenöl
+3 Olivenöl
+3 Essig
+3 Margarine
+3 Sahne = Schlagsahne; Rahm
+3 Quark
+3 Saft = Fruchtsaft
+3 Orangensaft = O-Saft
+3 Apfelsaft
+3 Cola
+3 Limonade = Limo; Brause
+3 Wein
+3 Sekt
+3 Schnaps = Spirituosen
+3 Alkohol
+3 Tee
+3 Chips
+3 Kekse = Keks; Plätzchen
+3 Gummibärchen = Gummibären; Fruchtgummi
+3 Eis = Speiseeis; Eiscreme
+3 Tiefkühlpizza = Pizza; TK-Pizza
+3 Tiefkühlkost = Tiefkühlware; TK-Ware
+3 Konserve = Konserven; Dosenfutter
+3 Müsli
+3 Cornflakes = Frühstücksflocken; Cerealien
+3 Marmelade = Konfitüre
+3 Nuss-Nougat-Creme = Nutella; Schokocreme; Schokoaufstrich
+3 Honig
+3 Toast = Toastbrot
+3 Kuchen
+3 Shampoo
+3 Duschgel
+3 Zahnpasta = Zahncreme
+3 Zahnbürste = Zahnbürsten
+3 Seife
+3 Deo = Deodorant
+3 Waschmittel
+3 Spülmittel
+3 Putzmittel = Reinigungsmittel
+3 Küchenrolle = Küchenpapier; Zewa
+3 Taschentuch = Taschentücher; Tempo
+3 Müllbeutel = Mülltüte; Müllsack
+3 Windel = Windeln
+3 Hundefutter
+3 Katzenfutter
+3 Tierfutter = Tiernahrung
+3 Zeitschrift = Zeitschriften; Magazin
+3 Zeitung = Zeitungen
+3 Blume = Blumen; Blumenstrauß
+3 Batterie = Batterien
+3 Zigarette = Zigaretten; Kippen
+3 Tabak
+3 Kaugummi
+3 Tüte = Tüten; Plastiktüte; Einkaufstüte
+3 Ananas
+4 Mango = Mangos
+4 Kiwi = Kiwis
+4 Pfirsich = Pfirsiche
+4 Nektarine = Nektarinen
+4 Aprikose = Aprikosen; Marille
+4 Pflaume = Pflaumen; Zwetschge; Zwetschgen
+3 Kirsche = Kirschen
+4 Himbeere = Himbeeren
+4 Heidelbeere = Heidelbeeren; Blaubeere; Blaubeeren
+4 Brombeere = Brombeeren
+4 Johannisbeere = Johannisbeeren
+4 Stachelbeere = Stachelbeeren
+3 Melone = Melonen
+4 Wassermelone
+4 Honigmelone
+3 Mandarine = Mandarinen; Clementine; Clementinen
+4 Grapefruit
+4 Limette = Limetten
+4 Avocado = Avocados
+4 Granatapfel
+4 Feige = Feigen
+4 Dattel = Datteln
+4 Kokosnuss
+4 Papaya
+4 Maracuja = Passionsfrucht
+4 Physalis
+4 Litschi = Lychee
+4 Kaki = Sharonfrucht
+4 Rhabarber
+3 Brokkoli = Broccoli
+4 Blumenkohl
+4 Rosenkohl
+4 Rotkohl = Rotkraut; Blaukraut
+4 Weißkohl = Weißkraut
+4 Grünkohl
+4 Wirsing
+4 Kohlrabi
+4 Kohl
+4 Spinat
+4 Zucchini
+4 Aubergine = Auberginen
+4 Kürbis
+4 Spargel
+4 Lauch = Porree
+4 Sellerie = Staudensellerie; Knollensellerie
+4 Radieschen
+4 Rettich
+4 Rote Bete = Rote Beete
+3 Pilz = Pilze; Champignon; Champignons
+4 Mais
+4 Erbse = Erbsen
+4 Bohne = Bohnen; grüne Bohnen
+4 Kidneybohne = Kidneybohnen
+4 Linse = Linsen
+4 Kichererbse = Kichererbsen
+3 Knoblauch
+4 Ingwer
+4 Chili = Peperoni
+4 Fenchel
+4 Rucola
+4 Feldsalat
+4 Süßkartoffel = Süßkartoffeln
+4 Pastinake = Pastinaken
+4 Frühlingszwiebel = Lauchzwiebel
+4 Schalotte = Schalotten
+4 Petersilie
+4 Schnittlauch
+4 Basilikum
+4 Kräuter
+4 Gewürz = Gewürze
+4 Paprikapulver
+4 Zimt
+4 Curry = Currypulver
+4 Oregano
+4 Muskat = Muskatnuss
+4 Vanille = Vanillezucker
+4 Backpulver
+4 Hefe
+4 Speisestärke = Stärke
+4 Haferflocken
+4 Grieß
+4 Polenta
+4 Couscous
+4 Bulgur
+4 Quinoa
+4 Spaghetti
+4 Lasagneplatten = Lasagne
+4 Spätzle
+4 Gnocchi
+4 Tortellini
+4 Ravioli
+4 Kartoffelpüree = Püree; Kartoffelbrei
+4 Pommes = Pommes frites; Fritten
+4 Kroketten
+4 Knödel = Klöße
+4 Tomatensoße = Tomatensauce; Passata; Pastasoße
+4 Tomatenmark
+3 Ketchup
+4 Senf
+4 Mayonnaise = Mayo
+4 Remoulade
+4 Grillsoße = Grillsauce; Barbecuesoße
+4 Sojasoße = Sojasauce
+4 Soße = Sauce; Saucen
+4 Brühe = Gemüsebrühe; Fleischbrühe; Brühwürfel
+4 Suppe = Suppen; Dosensuppe; Tütensuppe
+4 Fertiggericht = Fertiggerichte
+3 Thunfisch
+3 Lachs
+4 Hering = Matjes
+4 Fischstäbchen
+4 Garnele = Garnelen; Shrimps; Krabben
+4 Sardine = Sardinen
+4 Forelle
+4 Makrele
+4 Kabeljau
+4 Rindfleisch = Rind
+4 Schweinefleisch = Schwein
+4 Steak = Steaks
+4 Schnitzel
+4 Kotelett
+4 Bratwurst = Bratwürste
+3 Würstchen = Wiener; Frankfurter; Bockwurst
+4 Leberwurst
+4 Mortadella
+4 Aufschnitt
+4 Speck = Bacon
+4 Putenfleisch = Pute; Truthahn
+4 Grillfleisch = Grillgut
+4 Gyros
+4 Döner = Dönerfleisch
+4 Frikadelle = Frikadellen; Bulette; Fleischpflanzerl
+4 Leberkäse
+4 Wild
+4 Lamm = Lammfleisch
+4 Ente
+4 Tofu
+4 Fleischersatz = Veggie-Burger; vegane Wurst
+4 Gouda
+4 Emmentaler
+4 Mozzarella
+4 Feta = Schafskäse; Hirtenkäse
+4 Camembert
+4 Brie
+4 Parmesan
+4 Frischkäse
+4 Hüttenkäse
+4 Schmelzkäse
+4 Reibekäse = geriebener Käse
+4 Buttermilch
+4 Kefir
+4 Schmand
+4 Crème fraîche
+4 Pudding
+4 Milchreis
+4 Kakao = Kakaopulver
+4 Pflanzenmilch = Hafermilch; Sojamilch; Mandelmilch
+4 Kondensmilch = Kaffeesahne
+4 H-Milch
+4 Eiskaffee
+3 Energydrink = Red Bull
+4 Eistee
+4 Sprite = Zitronenlimonade
+4 Fanta = Orangenlimonade
+4 Spezi = Cola-Mix
+4 Apfelschorle = Schorle
+4 Radler = Alsterwasser
+4 Weizenbier = Weißbier
+4 Alkoholfreies Bier
+4 Vodka = Wodka
+4 Rum
+4 Gin
+4 Whisky = Whiskey
+4 Likör
+4 Prosecco
+4 Rotwein
+4 Weißwein
+4 Rosé = Rosewein
+4 Glühwein
+4 Sirup
+4 Espresso
+4 Kaffeepad = Kaffeepads
+4 Kaffeekapsel = Kaffeekapseln; Kapseln
+4 Instantkaffee = löslicher Kaffee
+4 Kaffeebohne = Kaffeebohnen
+4 Früchtetee
+4 Kräutertee
+4 Grüner Tee
+4 Pfefferminztee
+4 Vollkornbrot
+4 Baguette
+4 Brezel = Brezeln; Breze
+4 Croissant = Croissants
+4 Laugengebäck
+4 Knäckebrot
+4 Zwieback
+4 Backmischung = Backmischungen
+4 Torte
+4 Muffin = Muffins
+4 Donut = Donuts
+4 Berliner = Krapfen; Pfannkuchen
+4 Waffel = Waffeln
+4 Schokoriegel
+4 Bonbon = Bonbons
+4 Lutscher = Lolli
+4 Lakritz = Lakritze
+4 Praline = Pralinen
+4 Marshmallow = Marshmallows
+4 Salzstange = Salzstangen; Salzbrezel
+4 Erdnuss = Erdnüsse; Erdnussflips; Flips
+4 Nuss = Nüsse
+4 Mandel = Mandeln
+4 Walnuss = Walnüsse
+4 Haselnuss = Haselnüsse
+4 Cashew = Cashews; Cashewkerne
+4 Pistazie = Pistazien
+4 Studentenfutter
+4 Trockenobst = Rosinen
+4 Popcorn
+4 Cracker
+4 Reiswaffel = Reiswaffeln
+4 Müsliriegel
+4 Erdnussbutter
+4 Ahornsirup
+4 Babynahrung = Babybrei; Gläschen
+4 Babymilch = Säuglingsnahrung
+4 Feuchttücher
+4 Wattepads
+4 Wattestäbchen
+4 Damenbinde = Binden
+4 Tampon = Tampons
+4 Kondom = Kondome
+4 Rasierer = Rasierklingen
+4 Rasierschaum
+4 Creme = Hautcreme; Bodylotion; Handcreme
+4 Sonnencreme = Sonnenmilch
+4 Haargel
+4 Haarspray
+4 Spülung = Haarspülung
+4 Haarfarbe = Haartönung
+4 Make-up = Schminke
+4 Lippenpflege = Labello; Lippenbalsam
+4 Nagellack
+4 Parfüm = Parfum
+4 Mundspülung
+4 Zahnseide
+4 Pflaster
+4 Kopfschmerztabletten = Schmerztabletten
+4 Vitamin = Vitamine; Nahrungsergänzungsmittel
+4 Weichspüler
+4 Spülmaschinentabs = Geschirrspültabs; Spültabs
+4 Spülschwamm = Schwamm
+4 Lappen = Putzlappen; Spültuch
+4 Allzweckreiniger
+4 WC-Reiniger = Klostein; Toilettenreiniger
+4 Glasreiniger
+4 Entkalker
+4 Alufolie
+4 Frischhaltefolie
+4 Backpapier
+4 Gefrierbeutel
+4 Butterbrotpapier = Brotpapier
+4 Serviette = Servietten
+4 Pappteller
+4 Strohhalm = Strohhalme
+4 Kerze = Kerzen; Teelicht; Teelichter
+4 Streichholz = Streichhölzer
+4 Feuerzeug
+4 Grillkohle = Kohle
+4 Grillanzünder
+4 Glühbirne = Glühbirnen; Leuchtmittel; LED-Lampe
+4 Handschuh = Handschuhe; Gummihandschuhe
+4 Socke = Socken; Strümpfe
+4 Unterwäsche = Unterhose
+4 Strumpfhose
+4 Kleidung = Klamotten
+4 Schuh = Schuhe
+4 Spielzeug
+4 Schreibwaren = Stifte; Stift
+4 Heft = Hefte
+4 Papier = Druckerpapier
+4 Kugelschreiber = Kuli
+4 Klebeband = Tesa; Tesafilm
+4 Geschenkpapier
+4 Glückwunschkarte = Grußkarte; Karte
+4 Briefmarke = Briefmarken
+4 Geschenkkarte = Gutschein; Guthabenkarte
+4 Prepaidkarte = Handyguthaben; Aufladekarte
+4 Lottoschein = Lotto
+4 Pflanze = Pflanzen; Topfpflanze; Zimmerpflanze
+4 Blumenerde = Erde
+4 Katzenstreu
+4 Vogelfutter
+4 Leckerli = Hundesnack
+4 Geschirr = Teller
+4 Tasse = Tassen
+4 Glas = Gläser
+4 Besteck
+4 Topf = Töpfe
+4 Pfanne = Pfannen
+4 Küchengerät = Küchengeräte
+4 Elektronik
+4 Kopfhörer
+4 Ladekabel = Kabel
+4 Handy = Smartphone
+4 Fernseher
+4 Werkzeug
+4 Fahrrad
+4 Bettwäsche
+4 Handtuch = Handtücher
+4 Decke
+4 Kissen
+4 Dekoration = Deko
+4 Regenschirm = Schirm
+4 Sonnenbrille
+4 Buch = Bücher
+4 Comic = Comics
+4 DVD
+4 Rätselheft
+3 Essen
+3 Milchprodukt = Milchprodukte; Molkereiprodukte
+3 Backware = Backwaren; Gebäck
+3 Drogerieartikel = Drogerie
+3 Kosmetik = Kosmetikartikel
+4 Fleischwaren = Wurstwaren
+4 Haushaltsware = Haushaltswaren; Haushaltsartikel
+4 Hygieneartikel
+4 Spielware = Spielwaren
+4 Bioprodukt = Bioprodukte; Bio-Lebensmittel
+4 Grundnahrungsmittel
+4 Snack = Snacks; Knabberzeug
+4 Sauerkraut
+4 Gewürzgurke = Gewürzgurken; saure Gurken; Essiggurken
+4 Olive = Oliven
+4 Pesto
+4 Hummus
+4 Sushi
+4 Wrap = Wraps; Tortilla
+4 Tortillachips = Nachos
+4 Dip = Dips
+4 Brotaufstrich = Aufstrich
+4 Apfelmus
+4 Eintopf
+4 Maultasche = Maultaschen
+4 Flammkuchen
+4 Burger = Hamburger
+4 Hotdog
+4 Kartoffelsalat
+4 Nudelsalat
+4 Krautsalat
+4 Fleischsalat
+4 Puderzucker
+4 Brauner Zucker = Rohrzucker
+4 Süßstoff
+4 Marzipan
+4 Lebkuchen
+4 Spekulatius
+4 Stollen = Christstollen
+4 Schokoweihnachtsmann = Weihnachtsmann
+4 Osterhase = Schokohase; Schokoosterhase
+4 Osterei = Ostereier
+4 Adventskalender
+4 Malzbier
+4 Smoothie = Smoothies
+4 Tonic Water = Tonic
+4 Ginger Ale
+4 Bitter Lemon
+4 Mate = Mate-Tee
+4 Sportgetränk = Isotonisches Getränk
+4 Champagner
+4 Eierlikör
+4 Kräuterlikör
+4 Korn
+4 Cidre = Cider
+4 Skyr
+4 Trinkjoghurt
+4 Götterspeise = Wackelpudding
+4 Grießbrei
+4 Butterschmalz
+4 Schmalz
+4 Rapsöl
+4 Kokosöl
+4 Kokosmilch
+4 Sonnenblumenkerne
+4 Kürbiskerne
+4 Leinsamen
+4 Chiasamen
+4 Sesam
+4 Glasnudeln
+4 Reisnudeln
+4 Instantnudeln = Ramen; Fertignudeln
+4 Frühlingsrolle = Frühlingsrollen
+4 Kartoffelpuffer = Reibekuchen; Reibeplätzchen
+4 Rösti
+4 Rahmspinat
+4 Tiefkühlgemüse = TK-Gemüse
+4 Fischfilet = Schlemmerfilet
+4 Muschel = Muscheln
+4 Tintenfisch = Calamari
+4 Rollmops
+4 Kaviar
+4 Surimi
+4 Belegtes Brötchen
+4 Sandwich = Sandwiches
+4 Obstsalat
+4 Hefezopf
+4 Brathähnchen = Grillhähnchen; Hendl
+4 Kaffeefilter = Filtertüten
+4 Eiswürfel = Crushed Ice
+4 Brennspiritus
+4 Kaminholz = Brennholz; Holz
+4 Streusalz
+4 Staubsaugerbeutel
+4 Wäscheklammer = Wäscheklammern
+4 Fleckentferner = Fleckenentferner
+4 Insektenspray = Mückenspray; Mückenschutz
+4 Lufterfrischer = Raumspray; Raumduft
+4 Desinfektionsmittel = Desinfektionsspray
+4 Besen = Handfeger
+4 Eimer
+4 Wischmopp = Mopp
+4 Spülbürste
+4 Gesichtscreme
+4 Abschminktücher
+4 Haarbürste = Kamm
+4 Haargummi = Haargummis
+4 Lippenstift
+4 Wimperntusche = Mascara
+4 Rasiergel
+4 Aftershave
+4 Slipeinlage = Slipeinlagen
+4 Schnuller
+4 Babyöl
+4 Taschenlampe
+4 Verlängerungskabel = Mehrfachsteckdose
+4 Powerbank
+4 USB-Stick
+4 Grill
+4 Luftmatratze
+4 Gartenmöbel
+4 Gartenschlauch
+4 Samen = Saatgut
+4 Dünger
+4 Weihnachtsbaum = Tannenbaum; Christbaum
+4 Adventskranz
+4 Feuerwerk = Böller; Raketen; Silvesterfeuerwerk
+4 Wunderkerze = Wunderkerzen
+4 Luftballon = Luftballons; Ballon
+4 Spielkarten
+4 Puzzle
+4 Brettspiel = Gesellschaftsspiel
+4 Knete
+4 Fischfutter
+4 Kaninchenfutter = Nagerfutter
+4 Kauknochen
+4 Eiskratzer
+4 Frostschutzmittel = Scheibenfrostschutz
+4 Motoröl
+5 Kapern
+5 Antipasti
+5 Getrocknete Tomaten
+5 Hirse
+5 Graupen
+5 Buchweizen
+5 Amaranth
+5 Currypaste
+5 Kuvertüre
+5 Streusel = Zuckerstreusel
+5 Gelatine
+5 Backaroma
+5 Lebensmittelfarbe
+5 Nougat
+5 Dominosteine
+5 Zuckerrübensirup = Rübenkraut
+5 Obstler
+5 Portwein
+5 Sherry
+5 Wermut
+5 Kokoswasser
+5 Sülze
+5 Obatzda
+5 Ghee
+5 Schupfnudeln
+5 Kompott = Dosenobst
+5 Baked Beans
+5 Chili con Carne
+5 Gallseife
+5 Schuhcreme
+5 Mausefalle
+5 Fliegenfänger
+5 Duftkerze
+5 Nagelfeile
+5 Fußcreme
+5 Bartöl
+5 Menstruationstasse
+5 Inkontinenzeinlagen
+5 Babypuder
+5 FFP2-Maske = Maske; Mundschutz
+5 Speicherkarte
+5 Planschbecken
+5 Malbuch
+5 Wasserpistole
+5 Sandspielzeug
+5 Schultüte
+5 Grablicht
+5 Holzkohlebriketts = Briketts
+4 Teig = Blätterteig; Pizzateig; Hefeteig
+4 Chicken Nuggets = Nuggets

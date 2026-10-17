@@ -1,0 +1,206 @@
+@id fil-012
+@text Nenne einen Anime
+# Japanische Zeichentrickserien und Anime-Filme. Deutsche Titel und Originaltitel als Alias.
+# Aufgenommen auch japanische (Ko-)Produktionen, die in Deutschland als Kinderserien liefen (Heidi, Biene Maja, Wickie, Nils Holgersson, Alfred J. Kwak).
+# Fortsetzungen nur getrennt, wenn eigenständig bekannt (Dragon Ball / Z / Super / GT, Naruto / Shippuden / Boruto).
+
+1 One Piece
+1 Naruto
+1 Dragon Ball
+1 Pokémon
+2 Dragon Ball Z = DBZ
+2 Attack on Titan = Shingeki no Kyojin; AoT
+2 Death Note
+2 Sailor Moon
+2 Detektiv Conan = Case Closed; Meitantei Conan
+2 Demon Slayer = Kimetsu no Yaiba
+2 Jujutsu Kaisen
+2 My Hero Academia = Boku no Hero Academia
+2 Chihiros Reise ins Zauberland = Spirited Away; Sen to Chihiro
+2 Yu-Gi-Oh!
+2 Digimon
+3 Heidi
+3 Die Biene Maja
+3 Captain Tsubasa = Die tollen Fußballstars
+3 Hunter x Hunter
+3 Fullmetal Alchemist = Fullmetal Alchemist: Brotherhood; FMA
+3 Bleach
+3 Tokyo Ghoul
+3 Spy x Family
+3 Chainsaw Man
+3 Neon Genesis Evangelion = Evangelion
+3 Akira
+3 One-Punch Man
+3 Sword Art Online = SAO
+3 Mein Nachbar Totoro = Totoro; My Neighbor Totoro
+3 Prinzessin Mononoke = Mononoke; Princess Mononoke
+3 Das wandelnde Schloss = Howl’s Moving Castle; Howls wandelndes Schloss
+3 Dragon Ball Super
+3 Naruto Shippuden
+3 Cowboy Bebop
+3 Haikyu!! = Haikyuu
+3 Black Clover
+3 Fairy Tail
+3 Inuyasha
+3 Doraemon
+3 Hamtaro
+3 Beyblade
+3 Frieren = Sousou no Frieren; Frieren – Nach dem Ende der Reise
+3 Dragon Ball GT
+3 Your Name = Kimi no Na wa
+3 Wickie und die starken Männer = Wickie
+3 Captain Future
+3 Ponyo = Ponyo – Das große Abenteuer am Meer
+3 Solo Leveling
+4 Ranma ½ = Ranma 1/2
+4 Nils Holgersson
+4 Alfred J. Kwak = Alfred Jodocus Kwak
+4 Mila Superstar
+4 Kickers
+4 Tao Tao
+4 Kimba, der weiße Löwe = Kimba
+4 Astro Boy = Tetsuwan Atom
+4 Lady Oscar = Die Rosen von Versailles
+4 Marco
+4 Dr. Slump
+4 Saint Seiya
+4 Hellsing
+4 Trigun
+4 Ghost in the Shell
+4 Code Geass
+4 Steins;Gate
+4 Mob Psycho 100 = Mob Psycho
+4 Vinland Saga
+4 Dr. Stone
+4 The Promised Neverland = Yakusoku no Neverland
+4 Made in Abyss
+4 Violet Evergarden
+4 Re:Zero
+4 Konosuba
+4 Overlord
+4 That Time I Got Reincarnated as a Slime = Tensura
+4 Blue Lock
+4 Oshi no Ko
+4 Kaiju No. 8
+4 Dandadan
+4 Mashle
+4 Hell’s Paradise = Jigokuraku
+4 Tokyo Revengers
+4 Bungo Stray Dogs
+4 Noragami
+4 Soul Eater
+4 Fire Force
+4 Parasyte = Kiseijuu
+4 Erased = Boku dake ga Inai Machi
+4 Elfen Lied
+4 Higurashi
+4 Toradora!
+4 Clannad
+4 Angel Beats!
+4 Your Lie in April = Shigatsu wa Kimi no Uso
+4 A Silent Voice = Koe no Katachi
+4 Weathering with You = Tenki no Ko
+4 Suzume
+4 Der Junge und der Reiher = The Boy and the Heron
+4 Nausicaä aus dem Tal der Winde = Nausicaä
+4 Das Schloss im Himmel = Laputa; Castle in the Sky
+4 Porco Rosso
+4 Kikis kleiner Lieferservice = Kiki’s Delivery Service
+4 Die letzten Glühwürmchen = Grave of the Fireflies
+4 Arrietty = Arrietty – Die wundersame Welt der Borger
+4 Das Königreich der Katzen = The Cat Returns
+4 Paprika
+4 Perfect Blue
+4 Ninja Scroll
+4 JoJo’s Bizarre Adventure = JoJo
+4 Fist of the North Star = Hokuto no Ken
+4 Gintama
+4 Yu Yu Hakusho
+4 Rurouni Kenshin = Kenshin
+4 Slam Dunk
+4 Kuroko’s Basketball = Kuroko no Basket
+4 Initial D
+4 Shaman King
+4 Medabots
+4 Yo-kai Watch
+4 Cardcaptor Sakura
+4 Tokyo Mew Mew
+4 Fruits Basket
+4 Ouran High School Host Club
+4 Nana
+4 Kaguya-sama: Love is War = Kaguya-sama
+4 Bocchi the Rock!
+4 K-On!
+4 Die Melancholie der Haruhi Suzumiya = Haruhi Suzumiya
+4 Cyberpunk: Edgerunners = Edgerunners
+4 Devilman Crybaby = Devilman
+4 Berserk
+4 Psycho-Pass
+4 Mobile Suit Gundam = Gundam
+4 Gurren Lagann = Tengen Toppa Gurren Lagann
+4 Kill la Kill
+4 Darling in the Franxx
+4 Akame ga Kill
+4 No Game No Life
+4 The Rising of the Shield Hero = Shield Hero
+4 Goblin Slayer
+4 Beastars
+4 Assassination Classroom
+4 The Seven Deadly Sins = Nanatsu no Taizai
+4 Fate/Zero
+4 Fate/stay night
+4 Food Wars = Shokugeki no Soma
+4 Great Teacher Onizuka = GTO
+4 Lupin III = Lupin
+4 City Hunter
+4 Crayon Shin-chan = Shin-chan
+4 Boruto
+4 5 Centimeters per Second
+4 Ame & Yuki – Die Wolfskinder = Wolf Children
+4 Summer Wars
+4 Das Mädchen, das durch die Zeit sprang = The Girl Who Leapt Through Time
+4 Samurai Champloo
+4 Hajime no Ippo
+4 Black Lagoon
+4 Kakegurui
+4 Komi Can’t Communicate = Komi-san
+4 Die Tagebücher der Apothekerin = The Apothecary Diaries; Kusuriya no Hitorigoto
+4 Sakamoto Days
+4 Mushoku Tensei
+4 Blue Exorcist = Ao no Exorcist
+4 Cells at Work! = Hataraku Saibou
+4 Space Battleship Yamato = Star Blazers
+4 Speed Racer = Mach GoGoGo
+4 Captain Harlock
+5 Dragon Ball Daima
+5 Die Legende der Prinzessin Kaguya = Kaguya
+5 Erinnerungen an Marnie = When Marnie Was There
+5 Pom Poko
+5 Stimme des Herzens = Whisper of the Heart
+5 Belle
+5 Mirai
+5 Serial Experiments Lain = Lain
+5 Afro Samurai
+5 Durarara!!
+5 Yuri!!! on Ice
+5 Claymore
+5 Mazinger Z
+5 Highschool DxD
+5 High School of the Dead
+5 Dororo
+5 Magi
+5 Lucky Star
+5 Azumanga Daioh
+5 Horimiya
+5 My Dress-Up Darling
+5 Saber Rider und die Star Sheriffs = Saber Rider
+5 Puschel, das Eichhorn = Puschel
+5 Jeanne, die Kamikaze-Diebin
+5 Sara, die kleine Prinzessin
+5 Anne mit den roten Haaren
+5 Candy Candy
+5 Monster
+5 Love Hina
+5 Spice and Wolf
+5 D.Gray-man
+5 Bakugan

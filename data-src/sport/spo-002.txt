@@ -1,0 +1,123 @@
+@id spo-002
+@text Nenne eine olympische Sportart
+# Aktuelles Programm (Paris 2024, Milano Cortina 2026), für LA 2028 neu aufgenommene Sportarten (Cricket, Lacrosse, Flag Football, Squash)
+# sowie ehemals olympische Sportarten (Tauziehen, Polo, Croquet, Jeu de Paume, Rackets, Pelota, Motorboot, Roque, Militärpatrouille).
+# Häufig genannte Disziplinen (Hochsprung, Slalom, Dressur …) als eigene Einträge. Nur Vorführ-/Demonstrationssportarten (Eisstockschießen, Bandy, Skijöring) nicht.
+
+1 Fußball
+1 Schwimmen
+1 Leichtathletik
+2 Turnen = Kunstturnen; Geräteturnen
+2 Basketball
+2 Handball
+2 Tennis
+2 Volleyball
+2 Boxen
+2 Skispringen
+2 Biathlon
+2 Eishockey
+2 Radsport = Radfahren
+2 Ski alpin = Skifahren
+2 Eiskunstlauf
+3 Beachvolleyball
+3 Tischtennis
+3 Badminton
+3 Judo
+3 Ringen
+3 Fechten
+3 Gewichtheben
+3 Rudern
+3 Kanu = Kanusport; Kajak; Kanurennsport; Kanuslalom
+3 Segeln
+3 Reiten = Pferdesport; Reitsport
+3 Triathlon
+3 Bogenschießen
+3 Sportschießen = Schießen
+3 Taekwondo
+3 Golf
+3 Rugby = Siebener-Rugby; Rugby Sevens
+3 Hockey = Feldhockey
+3 Wasserball
+3 Wasserspringen = Turmspringen; Kunstspringen
+3 Synchronschwimmen = Artistic Swimming
+3 Rhythmische Sportgymnastik = Rhythmische Gymnastik
+3 Trampolin = Trampolinturnen
+3 Surfen = Wellenreiten
+3 Skateboard = Skateboarding; Skaten
+3 Sportklettern = Klettern; Bouldern
+3 Breaking = Breakdance
+3 Skilanglauf = Langlauf
+3 Nordische Kombination
+3 Snowboard = Snowboarden
+3 Eisschnelllauf
+3 Shorttrack
+3 Curling
+3 Bob = Bobfahren
+3 Rodeln = Rennrodeln
+3 Skeleton
+3 Freestyle-Skiing = Ski Freestyle
+3 Karate
+3 Baseball
+3 Marathon
+3 Hochsprung
+3 Weitsprung
+3 Kugelstoßen
+3 Speerwurf
+3 Stabhochsprung
+3 Sprint = 100-Meter-Lauf; 100 m
+3 Zehnkampf
+3 Laufen = Lauf
+3 Slalom
+3 Abfahrt = Abfahrtslauf
+4 Moderner Fünfkampf = Fünfkampf
+4 Softball
+4 BMX
+4 Mountainbike = Mountainbiking
+4 Bahnradsport = Bahnrad
+4 Straßenradsport = Straßenrennen
+4 Freiwasserschwimmen
+4 Diskuswurf
+4 Hammerwurf
+4 Dreisprung
+4 Hürdenlauf
+4 Staffellauf = Staffel
+4 Gehen = Bahngehen
+4 Siebenkampf
+4 Hindernislauf = 3000 m Hindernis
+4 Riesenslalom
+4 Super-G
+4 Buckelpiste
+4 Skicross
+4 Halfpipe
+4 Dressur = Dressurreiten
+4 Springreiten
+4 Vielseitigkeit
+4 Skibergsteigen
+4 Cricket
+4 Lacrosse
+4 Flag Football
+4 Squash
+4 Tauziehen
+4 Polo
+5 Croquet = Krocket
+5 Jeu de Paume
+5 Rackets
+5 Pelota = Baskische Pelota
+5 Motorbootsport = Motorboot
+5 Roque
+5 Militärpatrouille
+5 Langstreckenlauf
+5 Mittelstreckenlauf
+5 Alpine Kombination
+5 Skiathlon
+5 Bodenturnen
+5 Ringe
+5 Reck
+5 Barren = Stufenbarren
+5 Pauschenpferd
+5 Pferdsprung
+5 Schwebebalken
+5 Keirin
+5 Big Air
+5 Slopestyle
+5 Aerials

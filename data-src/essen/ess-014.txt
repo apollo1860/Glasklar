@@ -1,0 +1,57 @@
+@id ess-014
+@text Nenne eine Chips-Geschmacksrichtung
+@typ geschlossen
+# Geschmacksrichtungen von Kartoffel-, Tortilla- und Stapelchips im deutschsprachigen Handel (aktuell oder bekannt aus früheren/limitierten Editionen).
+# Sour Cream und Sour Cream & Onion sind getrennt, weil beide als eigene Sorten verkauft werden.
+
+1 Paprika
+1 Salz = Gesalzen; Salted; Classic; Original; Natur
+2 Sour Cream
+2 Cheese & Onion = Käse & Zwiebel; Käse und Zwiebel
+2 Salt & Vinegar = Salz & Essig; Salz und Essig; Essig
+2 Barbecue = BBQ; Smoky BBQ; Honey BBQ
+2 Chili
+2 Ungarisch
+3 Sour Cream & Onion = Sour Cream and Onion
+3 Käse = Cheese
+3 Zwiebel = Onion
+3 Pizza
+3 Ketchup
+3 Currywurst = Curry
+3 Pfeffer = Pepper
+3 Meersalz = Sea Salt
+3 Trüffel = Truffle
+3 Hot Chili = Hot
+3 Sweet Chili = Thai Sweet Chili
+3 Western Style
+3 Joghurt & Kräuter = Joghurt und Kräuter
+3 Rosmarin = Rosemary
+3 Meersalz & Pfeffer = Salz & Pfeffer; Salz und Pfeffer
+3 Nacho Cheese = Nacho
+3 Pommes Rot-Weiß = Pommes
+3 Bratkartoffel = Bratkartoffeln
+3 Hähnchen = Chicken; Brathähnchen; Grillhähnchen
+3 Jalapeño
+3 Wasabi
+3 Kräuter = Herbs
+3 Senf = Mustard
+3 Honig-Senf = Honey Mustard
+3 Döner = Döner Kebab; Kebab
+3 Peperoni
+4 Chili Cheese
+4 Cool American = Cool Ranch; Ranch
+4 Hot & Spicy = Spicy
+4 Oriental
+4 Mexican Style = Mexican
+4 Salsa
+4 Knoblauch = Garlic
+4 Limette = Lime; Chili Limette; Chili & Lime
+4 Cheddar
+4 Speck = Bacon
+4 Balsamico = Balsamic
+5 Gyros
+5 Zaziki = Tzatziki
+5 Sriracha
+5 Habanero
+5 Pulled Pork
+5 Pickles = Gurke; Dill Pickle

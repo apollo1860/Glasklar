@@ -1,0 +1,56 @@
+@id mar-008
+@text Nenne eine Tankstelle in Deutschland
+@typ geschlossen
+# Tankstellenmarken und -ketten in Deutschland, inkl. Supermarkt-Tankstellen, regionaler Marken und ehemals bekannter Marken (BP, DEA, Texaco, Minol …).
+# Reine Ladesäulen-Betreiber (Ionity, Tesla) zählen nicht.
+
+1 Aral
+1 Shell
+2 Esso
+2 Total = TotalEnergies
+2 Jet
+3 Star
+3 Avia
+3 Agip = Eni
+3 BFT
+3 Westfalen
+3 Raiffeisen
+3 HEM
+3 OMV
+3 Orlen
+3 BP
+3 Globus
+3 Kaufland
+4 Q1
+4 Hoyer
+4 Classic
+4 Score
+4 Sprint
+4 ED
+4 Tamoil
+4 Calpam
+4 Team
+4 Elan
+4 Supol
+4 Oil!
+4 Gulf
+4 BayWa
+4 Allguth
+4 Mr. Wash
+4 Tank & Rast = Serways
+4 DEA
+4 Texaco
+4 Minol
+4 Mobil
+4 Fina
+4 Elf
+4 Freie Tankstelle
+4 Marktkauf
+4 Costco
+5 Gasolin
+5 Conoco
+5 Markant
+5 Nordoel
+5 Edeka
+5 Real
+5 Famila

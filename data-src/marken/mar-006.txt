@@ -1,0 +1,120 @@
+@id mar-006
+@text Nenne eine Hotelkette in Deutschland
+@typ geschlossen
+# Hotelketten, Hotelmarken und Hotelkonzerne mit Häusern in Deutschland (Konzern ODER einzelne Marke zählt).
+
+1 Motel One
+2 B&B Hotels = B&B; B und B
+2 Ibis = Ibis Budget; Ibis Styles
+2 Holiday Inn = Holiday Inn Express
+2 Hilton
+2 Marriott
+2 Steigenberger
+3 Maritim
+3 NH Hotels = NH; NH Collection
+3 Mercure
+3 Novotel
+3 Radisson = Radisson Blu
+3 Premier Inn
+3 Meininger
+3 A&O = A&O Hostels
+3 Accor
+3 Dorint
+3 Best Western
+3 Leonardo = Leonardo Hotels
+3 Sheraton
+3 Hyatt = Park Hyatt; Grand Hyatt; Hyatt Regency
+3 InterContinental = IHG
+3 Kempinski
+3 Ritz-Carlton = Ritz
+3 Westin
+3 25hours
+3 Ruby = Ruby Hotels
+3 Center Parcs
+3 Hampton by Hilton = Hampton
+4 H-Hotels = H-Hotel; H4 Hotel; H2 Hotel
+4 Lindner
+4 Achat = Achat Hotels
+4 Arcotel
+4 Prizeotel
+4 Moxy
+4 Courtyard by Marriott = Courtyard
+4 Le Méridien
+4 Renaissance
+4 Crowne Plaza
+4 Indigo = Hotel Indigo
+4 Four Seasons
+4 Mandarin Oriental
+4 Rocco Forte
+4 Sofitel
+4 Pullman
+4 MGallery
+4 Mövenpick
+4 Adagio
+4 Mama Shelter
+4 Greet
+4 Hotel F1 = Formule 1; F1
+4 Super 8
+4 Wyndham
+4 Travel Charme
+4 Arabella
+4 Seaside = Seaside Hotels
+4 Atlantic Hotels = Atlantic
+4 Vienna House
+4 Park Inn
+4 Scandic
+4 Hilton Garden Inn
+4 DoubleTree = DoubleTree by Hilton
+4 Waldorf Astoria
+4 Andaz
+4 Aloft
+4 Autograph Collection
+4 AC Hotels = AC Hotel
+4 Residence Inn
+4 Meliá
+4 Innside
+4 Barceló
+4 Soho House
+4 Nyx = NYX Hotels
+4 Tryp
+4 Novum = Novum Hotels
+4 GHotel
+4 Explorer = Explorer Hotels
+4 Romantik Hotels = Romantik
+4 Ringhotels
+4 Akzent Hotels = Akzent
+4 Van der Valk
+4 Upstalsboom
+4 Ahorn Hotels = Ahorn
+4 Dormero
+4 Welcome Hotels = Welcome
+5 Pentahotels = Penta
+5 Victor's
+5 Fairfield = Fairfield by Marriott
+5 Four Points = Four Points by Sheraton
+5 Element
+5 Tulip Inn = Golden Tulip
+5 Jaz in the City = Jaz
+5 Wombat's
+5 Generator
+5 Jugendherberge = DJH
+5 Select Hotels = Select
+5 Ameron
+5 Living Hotels
+5 Adina
+5 Citadines
+5 Numa
+5 Limehome
+5 The Niu = Niu
+5 Sonnenhotels
+4 Ramada
+4 Days Inn
+3 IntercityHotel = Intercity
+4 Fairmont
+4 Althoff
+5 Oetker Collection = Oetker
+5 Park Plaza
+5 Maxx by Steigenberger = Maxx
+5 Amedia
+5 Me and All
+5 Precise Hotels = Precise

@@ -1,0 +1,43 @@
+@id mar-005
+@text Nenne eine Energy-Drink-Marke
+@typ geschlossen
+# Energy-Drink-Marken im deutschen Handel inkl. Handelsmarken der Discounter und bekannter ehemaliger Marken. Einzelsorten (z. B. „Monster Ultra“) zählen zur Marke.
+
+1 Red Bull
+1 Monster = Monster Energy
+2 Rockstar = Rockstar Energy
+2 28 Black
+3 Effect
+3 Booster = Booster Energy
+3 Relentless
+3 Burn
+3 Prime = Prime Energy
+3 Bullit
+3 Flying Power = Aldi Energy
+3 Celsius
+3 Reign
+3 Mr. Energy = Mister Energy
+3 Gönrgy = Gönergy
+3 Holy = Holy Energy
+4 Power Horse
+4 Gut & Günstig Energy = Gut & Günstig
+4 Ja! Energy = Ja!
+4 K-Classic Energy = K-Classic
+4 XL Energy = XL
+4 Bomb Energy = Bomb
+4 Shark = Shark Energy
+4 Battery = Battery Energy
+4 Bang = Bang Energy
+4 Nocco
+4 Hell = Hell Energy
+4 Pitbull
+4 Ghost = Ghost Energy
+4 C4 = C4 Energy
+4 Emerge
+4 Mixxed Up = Lidl Energy
+4 Freeway Energy = Freeway
+4 Coca-Cola Energy
+4 Dark Dog
+4 Playboy Energy = Playboy
+4 Gamer Supps = GG
+5 Rhino's = Rhinos Energy

@@ -1,0 +1,20 @@
+@id spo-003
+@text Nenne einen deutschen Bundesliga-Meister
+@typ geschlossen
+# Alle Meister der Fußball-Bundesliga der Männer seit 1963/64, Stand Saison 2025/26 (Meister: FC Bayern München).
+# Nicht: Vereine, die nur vor 1963 Deutscher Meister waren (z. B. Schalke 04, Eintracht Frankfurt, VfR Mannheim, Rot-Weiss Essen),
+# Schalke 04 wurde nie Bundesliga-Meister; DDR-Meister nicht enthalten.
+
+1 FC Bayern München = Bayern; Bayern München; FCB
+1 Borussia Dortmund = BVB; Dortmund
+2 Borussia Mönchengladbach = Gladbach; Mönchengladbach; BMG
+2 Bayer 04 Leverkusen = Leverkusen; Bayer Leverkusen
+2 Werder Bremen = Bremen; Werder; SV Werder Bremen
+2 VfB Stuttgart = Stuttgart; VfB
+2 Hamburger SV = HSV; Hamburg
+3 VfL Wolfsburg = Wolfsburg
+3 1. FC Köln = Köln; FC Köln; Effzeh
+3 1. FC Kaiserslautern = FCK; Lautern; Kaiserslautern
+3 1. FC Nürnberg = Nürnberg; Club; FCN
+4 TSV 1860 München = 1860 München; 1860; Sechzig; Löwen; Sechzger
+4 Eintracht Braunschweig = Braunschweig

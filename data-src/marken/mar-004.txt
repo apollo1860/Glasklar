@@ -1,0 +1,140 @@
+@id mar-004
+@text Nenne einen Sportausrüster
+@typ geschlossen
+# Sportartikel- und Sportbekleidungsmarken (Teamsport, Laufen, Outdoor, Schläger-/Wintersport, Fitness), aktuell oder historisch bekannt.
+# Reine Sporthändler (Decathlon-Eigenmarken ausgenommen, Intersport, SportScheck) zählen nicht; Decathlon ist als Hersteller eigener Marken zugelassen.
+
+1 Adidas
+1 Nike
+2 Puma
+2 Under Armour
+3 Asics
+3 New Balance
+3 Reebok
+3 Jako
+3 Erima
+3 Kappa
+3 Umbro
+3 Hummel
+3 Fila
+3 Uhlsport
+3 The North Face = North Face
+3 Jack Wolfskin
+3 Decathlon = Kipsta; Kalenji; Quechua; Artengo; Domyos
+3 Salomon
+3 Wilson
+3 Head
+3 Lululemon
+4 Joma
+4 Macron
+4 Mizuno
+4 Le Coq Sportif
+4 Lotto
+4 Diadora
+4 Errea
+4 Castore
+4 Saucony
+4 Brooks
+4 Hoka = Hoka One One
+4 On = On Running
+4 Babolat
+4 Yonex
+4 Prince
+4 Dunlop
+4 Lacoste
+4 Ellesse
+4 Sergio Tacchini
+4 Champion
+4 Russell Athletic
+4 Converse
+4 Vans
+4 Columbia
+4 Patagonia
+4 Mammut
+4 Vaude
+4 Schöffel
+4 Arc'teryx
+4 Deuter
+4 Ortovox
+4 Salewa
+4 Dynafit
+4 Odlo
+4 Craft
+4 Löffler
+4 McKinley
+4 Atomic
+4 Fischer
+4 Völkl
+4 Rossignol
+4 Elan
+4 K2
+4 Burton
+4 Ziener
+4 Reusch
+4 Derbystar
+4 Select
+4 Molten
+4 Mikasa
+4 Spalding
+4 Gymshark
+4 Stanno
+4 Kempa
+4 Saller
+4 Capelli Sport = Capelli
+4 Kelme
+4 Nordica
+4 Tecnica
+4 Lowa
+4 Meindl
+4 Hanwag
+4 Merrell
+4 Mavic
+4 Shimano
+4 Speedo
+4 Arena
+4 Everlast
+4 Venum
+4 Kettler
+4 Technogym
+5 Admiral
+5 Hi-Tec
+5 Slazenger
+5 Donnay
+5 Starter
+5 Avia
+5 Karhu
+5 Mitre
+4 Jordan = Air Jordan
+5 Tecnifibre
+5 Haglöfs
+5 Bergans
+5 Fjällräven
+5 Norrøna = Norrona
+5 Icebreaker
+5 Smartwool
+5 Falke
+5 2XU
+5 Compressport
+5 Gore Wear = Gore
+5 Onitsuka Tiger
+5 Inov-8
+5 Altra
+5 Topo Athletic
+5 Newline
+5 Nakamura
+5 Energetics
+5 Firefly
+5 Crivit
+5 Sondico
+5 Sells
+4 Scott
+4 Uvex
+4 Leki
+4 Oakley
+5 Black Diamond
+5 Petzl
+5 Marmot
+5 Peak Performance
+5 Bogner
+5 Spyder
+5 Kjus

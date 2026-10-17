@@ -1,0 +1,606 @@
+@id fil-011
+@text Nenne ein Pokémon
+# Deutsche Namen als Haupttext, englischer Name als Alias (wenn verschieden). Generation 1–4 (Nr. 1–493) vollständig,
+# danach Starter, Legendäre/Mysteriöse und populäre Pokémon der Generationen 5–9. Nidoran♀/♂ als ein Eintrag „Nidoran“.
+# Regionalformen, Mega-Entwicklungen etc. nicht separat.
+
+1 Glurak = Charizard
+1 Pikachu
+2 Bisasam = Bulbasaur
+2 Glumanda = Charmander
+2 Schiggy = Squirtle
+2 Raichu
+2 Pummeluff = Jigglypuff
+2 Mauzi = Meowth
+2 Enton = Psyduck
+2 Gengar
+2 Karpador = Magikarp
+2 Garados = Gyarados
+2 Evoli = Eevee
+2 Relaxo = Snorlax
+2 Mewtu = Mewtwo
+2 Mew
+3 Bisaknosp = Ivysaur
+3 Bisaflor = Venusaur
+3 Glutexo = Charmeleon
+3 Schillok = Wartortle
+3 Turtok = Blastoise
+3 Raupy = Caterpie
+3 Safcon = Metapod
+3 Smettbo = Butterfree
+3 Hornliu = Weedle
+3 Kokuna = Kakuna
+3 Taubsi = Pidgey
+3 Tauboss = Pidgeot
+3 Rattfratz = Rattata
+3 Rettan = Ekans
+3 Arbok
+3 Sandan = Sandshrew
+3 Nidoran
+3 Piepi = Clefairy
+3 Vulpix
+3 Zubat
+3 Myrapla = Oddish
+3 Paras
+3 Digda = Diglett
+3 Menki = Mankey
+3 Fukano = Growlithe
+3 Arkani = Arcanine
+3 Quapsel = Poliwag
+3 Abra
+3 Kadabra
+3 Simsala = Alakazam
+3 Machomei = Machamp
+3 Knofensa = Bellsprout
+3 Tentacha = Tentacool
+3 Kleinstein = Geodude
+3 Geowaz = Golem
+3 Ponita = Ponyta
+3 Flegmon = Slowpoke
+3 Magnetilo = Magnemite
+3 Dodu = Doduo
+3 Sleima = Grimer
+3 Muschas = Shellder
+3 Nebulak = Gastly
+3 Alpollo = Haunter
+3 Onix
+3 Krabby
+3 Voltobal = Voltorb
+3 Tragosso = Cubone
+3 Smogon = Koffing
+3 Chaneira = Chansey
+3 Seeper = Horsea
+3 Goldini = Goldeen
+3 Sterndu = Staryu
+3 Pantimos = Mr. Mime
+3 Sichlor = Scyther
+3 Elektek = Electabuzz
+3 Magmar
+3 Tauros
+3 Lapras
+3 Ditto
+3 Aquana = Vaporeon
+3 Blitza = Jolteon
+3 Flamara = Flareon
+3 Porygon
+3 Amonitas = Omanyte
+3 Kabuto
+3 Aerodactyl
+3 Arktos = Articuno
+3 Zapdos
+3 Lavados = Moltres
+3 Dratini
+3 Dragoran = Dragonite
+3 Endivie = Chikorita
+3 Feurigel = Cyndaquil
+3 Karnimani = Totodile
+3 Pichu
+3 Togepi
+3 Marill
+3 Psiana = Espeon
+3 Nachtara = Umbreon
+3 Lugia
+3 Ho-Oh
+3 Celebi
+3 Geckarbor = Treecko
+3 Flemmli = Torchic
+3 Hydropi = Mudkip
+3 Kyogre
+3 Groudon
+3 Rayquaza
+3 Chelast = Turtwig
+3 Panflam = Chimchar
+3 Plinfa = Piplup
+3 Lucario
+4 Bibor = Beedrill
+4 Tauboga = Pidgeotto
+4 Rattikarl = Raticate
+4 Habitak = Spearow
+4 Ibitak = Fearow
+4 Sandamer = Sandslash
+4 Nidorina
+4 Nidoqueen
+4 Nidorino
+4 Nidoking
+4 Pixi = Clefable
+4 Vulnona = Ninetales
+4 Knuddeluff = Wigglytuff
+4 Golbat
+4 Duflor = Gloom
+4 Giflor = Vileplume
+4 Parasek = Parasect
+4 Bluzuk = Venonat
+4 Omot = Venomoth
+4 Digdri = Dugtrio
+4 Snobilikat = Persian
+4 Entoron = Golduck
+4 Rasaff = Primeape
+4 Quaputzi = Poliwhirl
+4 Quappo = Poliwrath
+4 Machollo = Machop
+4 Maschock = Machoke
+4 Ultrigaria = Weepinbell
+4 Sarzenia = Victreebel
+4 Tentoxa = Tentacruel
+4 Georok = Graveler
+4 Gallopa = Rapidash
+4 Lahmus = Slowbro
+4 Magneton
+4 Porenta = Farfetch’d
+4 Dodri = Dodrio
+4 Jurob = Seel
+4 Jugong = Dewgong
+4 Sleimok = Muk
+4 Austos = Cloyster
+4 Traumato = Drowzee
+4 Hypno
+4 Kingler
+4 Lektrobal = Electrode
+4 Owei = Exeggcute
+4 Kokowei = Exeggutor
+4 Knogga = Marowak
+4 Kicklee = Hitmonlee
+4 Nockchan = Hitmonchan
+4 Schlurp = Lickitung
+4 Smogmog = Weezing
+4 Rihorn = Rhyhorn
+4 Rizeros = Rhydon
+4 Tangela
+4 Kangama = Kangaskhan
+4 Seemon = Seadra
+4 Golking = Seaking
+4 Starmie
+4 Rossana = Jynx
+4 Pinsir
+4 Amoroso = Omastar
+4 Kabutops
+4 Dragonir = Dragonair
+4 Meganie = Meganium
+4 Tornupto = Typhlosion
+4 Impergator = Feraligatr
+4 Hoothoot
+4 Iksbat = Crobat
+4 Voltilamm = Mareep
+4 Ampharos
+4 Icognito = Unown
+4 Woingenau = Wobbuffet
+4 Stahlos = Steelix
+4 Snubbull
+4 Scherox = Scizor
+4 Porygon2
+4 Heiteira = Blissey
+4 Raikou
+4 Entei
+4 Suicune
+4 Larvitar
+4 Despotar = Tyranitar
+4 Gewaldro = Sceptile
+4 Lohgock = Blaziken
+4 Sumpex = Swampert
+4 Guardevoir = Gardevoir
+4 Milotic
+4 Kecleon
+4 Absol
+4 Kindwurm = Bagon
+4 Brutalanda = Salamence
+4 Tanhel = Beldum
+4 Metagross
+4 Regirock
+4 Regice
+4 Registeel
+4 Latias
+4 Latios
+4 Jirachi
+4 Deoxys
+4 Chelterrar = Torterra
+4 Panferno = Infernape
+4 Impoleon = Empoleon
+4 Staraptor
+4 Bidiza = Bidoof
+4 Sheinux = Shinx
+4 Luxtra = Luxray
+4 Pachirisu
+4 Pantimimi = Mime Jr.
+4 Wonneira = Happiny
+4 Kaumalat = Gible
+4 Knakrack = Garchomp
+4 Mampfaxo = Munchlax
+4 Riolu
+4 Snibunna = Weavile
+4 Rihornior = Rhyperior
+4 Elevoltek = Electivire
+4 Magbrant = Magmortar
+4 Togekiss
+4 Folipurba = Leafeon
+4 Glaziola = Glaceon
+4 Porygon-Z
+4 Galagladi = Gallade
+4 Dialga
+4 Palkia
+4 Heatran
+4 Regigigas
+4 Giratina
+4 Cresselia
+4 Manaphy
+4 Darkrai
+4 Shaymin
+4 Arceus
+4 Serpifeu = Snivy
+4 Floink = Tepig
+4 Ottaro = Oshawott
+4 Reshiram
+4 Zekrom
+4 Zorua
+4 Zoroark
+4 Igamaro = Chespin
+4 Fynx = Fennekin
+4 Froxy = Froakie
+4 Quajutsu = Greninja
+4 Xerneas
+4 Yveltal
+4 Feelinara = Sylveon
+4 Bauz = Rowlet
+4 Flamiau = Litten
+4 Fuegro = Incineroar
+4 Robball = Popplio
+4 Solgaleo
+4 Lunala
+4 Meltan
+4 Mimigma = Mimikyu
+4 Chimpep = Grookey
+4 Hopplo = Scorbunny
+4 Liberlo = Cinderace
+4 Memmeon = Sobble
+4 Zacian
+4 Zamazenta
+4 Felori = Sprigatito
+4 Krokel = Fuecoco
+4 Kwaks = Quaxly
+4 Koraidon
+4 Miraidon
+5 Lorblatt = Bayleef
+5 Igelavar = Quilava
+5 Tyracroc = Croconaw
+5 Wiesor = Sentret
+5 Wiesenior = Furret
+5 Noctuh = Noctowl
+5 Ledyba
+5 Ledian
+5 Webarak = Spinarak
+5 Ariados
+5 Lampi = Chinchou
+5 Lanturn
+5 Pii = Cleffa
+5 Fluffeluff = Igglybuff
+5 Togetic
+5 Natu
+5 Xatu
+5 Waaty = Flaaffy
+5 Blubella = Bellossom
+5 Azumarill
+5 Mogelbaum = Sudowoodo
+5 Quaxo = Politoed
+5 Hoppspross = Hoppip
+5 Hubelupf = Skiploom
+5 Papungha = Jumpluff
+5 Griffel = Aipom
+5 Sonnkern = Sunkern
+5 Sonnflora = Sunflora
+5 Yanma
+5 Felino = Wooper
+5 Morlord = Quagsire
+5 Kramurx = Murkrow
+5 Laschoking = Slowking
+5 Traunfugil = Misdreavus
+5 Girafarig
+5 Tannza = Pineco
+5 Forstellka = Forretress
+5 Dummisel = Dunsparce
+5 Skorgla = Gligar
+5 Granbull
+5 Baldorfish = Qwilfish
+5 Pottrott = Shuckle
+5 Skaraborn = Heracross
+5 Sniebel = Sneasel
+5 Teddiursa
+5 Ursaring
+5 Schneckmag = Slugma
+5 Magcargo
+5 Quiekel = Swinub
+5 Keifel = Piloswine
+5 Corasonn = Corsola
+5 Remoraid
+5 Octillery
+5 Botogel = Delibird
+5 Mantax = Mantine
+5 Panzaeron = Skarmory
+5 Hunduster = Houndour
+5 Hundemon = Houndoom
+5 Seedraking = Kingdra
+5 Phanpy
+5 Donphan
+5 Damhirplex = Stantler
+5 Farbeagle = Smeargle
+5 Rabauz = Tyrogue
+5 Kapoera = Hitmontop
+5 Kussilla = Smoochum
+5 Elekid
+5 Magby
+5 Miltank
+5 Pupitar
+5 Reptain = Grovyle
+5 Jungglut = Combusken
+5 Moorabbel = Marshtomp
+5 Fiffyen = Poochyena
+5 Magnayen = Mightyena
+5 Zigzachs = Zigzagoon
+5 Geradaks = Linoone
+5 Waumpel = Wurmple
+5 Schaloko = Silcoon
+5 Papinella = Beautifly
+5 Panekon = Cascoon
+5 Pudox = Dustox
+5 Loturzel = Lotad
+5 Lombrero = Lombre
+5 Kappalores = Ludicolo
+5 Samurzel = Seedot
+5 Blanas = Nuzleaf
+5 Tengulist = Shiftry
+5 Schwalbini = Taillow
+5 Schwalboss = Swellow
+5 Wingull
+5 Pelipper
+5 Trasla = Ralts
+5 Kirlia
+5 Gehweiher = Surskit
+5 Maskeregen = Masquerain
+5 Knilz = Shroomish
+5 Kapilz = Breloom
+5 Bummelz = Slakoth
+5 Muntier = Vigoroth
+5 Letarking = Slaking
+5 Nincada
+5 Ninjask
+5 Ninjatom = Shedinja
+5 Flurmel = Whismur
+5 Krakeelo = Loudred
+5 Krawumms = Exploud
+5 Makuhita
+5 Hariyama
+5 Azurill
+5 Nasgnet = Nosepass
+5 Eneco = Skitty
+5 Enekoro = Delcatty
+5 Zobiris = Sableye
+5 Flunkifer = Mawile
+5 Stollunior = Aron
+5 Stollrak = Lairon
+5 Stolloss = Aggron
+5 Meditie = Meditite
+5 Meditalis = Medicham
+5 Frizelbliz = Electrike
+5 Voltenso = Manectric
+5 Plusle
+5 Minun
+5 Volbeat
+5 Illumise
+5 Roselia
+5 Schluppuck = Gulpin
+5 Schlukwech = Swalot
+5 Kanivanha = Carvanha
+5 Tohaido = Sharpedo
+5 Wailmer
+5 Wailord
+5 Camaub = Numel
+5 Camerupt
+5 Qurtel = Torkoal
+5 Spoink
+5 Groink = Grumpig
+5 Pandir = Spinda
+5 Knacklion = Trapinch
+5 Vibrava
+5 Libelldra = Flygon
+5 Tuska = Cacnea
+5 Noktuska = Cacturne
+5 Wablu = Swablu
+5 Altaria
+5 Sengo = Zangoose
+5 Vipitis = Seviper
+5 Lunastein = Lunatone
+5 Sonnfel = Solrock
+5 Schmerbe = Barboach
+5 Welsar = Whiscash
+5 Krebscorps = Corphish
+5 Krebutack = Crawdaunt
+5 Puppance = Baltoy
+5 Lepumentas = Claydol
+5 Liliep = Lileep
+5 Wielie = Cradily
+5 Anorith
+5 Armaldo
+5 Barschwa = Feebas
+5 Formeo = Castform
+5 Shuppet
+5 Banette
+5 Zwirrlicht = Duskull
+5 Zwirrklop = Dusclops
+5 Tropius
+5 Palimpalim = Chimecho
+5 Isso = Wynaut
+5 Schneppke = Snorunt
+5 Firnontor = Glalie
+5 Seemops = Spheal
+5 Seejong = Sealeo
+5 Walraisa = Walrein
+5 Perlu = Clamperl
+5 Aalabyss = Huntail
+5 Saganabyss = Gorebyss
+5 Relicanth
+5 Liebiskus = Luvdisc
+5 Draschel = Shelgon
+5 Metang
+5 Chelcarain = Grotle
+5 Panpyro = Monferno
+5 Pliprin = Prinplup
+5 Staralili = Starly
+5 Staravia
+5 Bidifas = Bibarel
+5 Zirpurze = Kricketot
+5 Zirpeise = Kricketune
+5 Luxio
+5 Knospi = Budew
+5 Roserade
+5 Koknodon = Cranidos
+5 Rameidon = Rampardos
+5 Schilterus = Shieldon
+5 Bollterus = Bastiodon
+5 Burmy
+5 Burmadame = Wormadam
+5 Moterpel = Mothim
+5 Wadribie = Combee
+5 Honweisel = Vespiquen
+5 Bamelin = Buizel
+5 Bojelin = Floatzel
+5 Kikugi = Cherubi
+5 Kinoso = Cherrim
+5 Schalellos = Shellos
+5 Gastrodon
+5 Ambidiffel = Ambipom
+5 Driftlon = Drifloon
+5 Drifzepeli = Drifblim
+5 Haspiror = Buneary
+5 Schlapor = Lopunny
+5 Traunmagil = Mismagius
+5 Kramshef = Honchkrow
+5 Charmian = Glameow
+5 Shnurgarst = Purugly
+5 Klingplim = Chingling
+5 Skunkapuh = Stunky
+5 Skuntank
+5 Bronzel = Bronzor
+5 Bronzong
+5 Mobai = Bonsly
+5 Plaudagei = Chatot
+5 Kryppuk = Spiritomb
+5 Knarksel = Gabite
+5 Hippopotas
+5 Hippoterus = Hippowdon
+5 Pionskora = Skorupi
+5 Piondragi = Drapion
+5 Glibunkel = Croagunk
+5 Toxiquak = Toxicroak
+5 Venuflibis = Carnivine
+5 Finneon
+5 Lumineon
+5 Mantirps = Mantyke
+5 Shnebedeck = Snover
+5 Rexblisar = Abomasnow
+5 Magnezone
+5 Schlurplek = Lickilicky
+5 Tangoloss = Tangrowth
+5 Yanmega
+5 Skorgro = Gliscor
+5 Mamutel = Mamoswine
+5 Voluminas = Probopass
+5 Zwirrfinst = Dusknoir
+5 Frosdedje = Froslass
+5 Rotom
+5 Selfe = Uxie
+5 Vesprit = Mesprit
+5 Tobutz = Azelf
+5 Phione
+5 Efoserp = Servine
+5 Serpiroyal = Serperior
+5 Ferkokel = Pignite
+5 Flambirex = Emboar
+5 Zwottronin = Dewott
+5 Admurai = Samurott
+5 Victini
+5 Kyurem
+5 Kobalium = Cobalion
+5 Terrakium = Terrakion
+5 Viridium = Virizion
+5 Boreos = Tornadus
+5 Voltolos = Thundurus
+5 Demeteros = Landorus
+5 Keldeo
+5 Meloetta
+5 Genesect
+5 Kapuno = Deino
+5 Trikephalo = Hydreigon
+5 Lichtel = Litwick
+5 Skelabra = Chandelure
+5 Washakwil = Braviary
+5 Ohrdoch = Audino
+5 Igastarnish = Quilladin
+5 Brigaron = Chesnaught
+5 Rutena = Braixen
+5 Fennexis = Delphox
+5 Amphizel = Frogadier
+5 Zygarde
+5 Diancie
+5 Hoopa
+5 Volcanion
+5 Dedenne
+5 Fiaro = Talonflame
+5 Pam-Pam = Pancham
+5 Pandagro = Pangoro
+5 Durengard = Aegislash
+5 Arboretoss = Dartrix
+5 Silvarro = Decidueye
+5 Miezunder = Torracat
+5 Marikeck = Brionne
+5 Primarene = Primarina
+5 Necrozma
+5 Cosmog
+5 Kapu-Riki = Tapu Koko
+5 Kapu-Fala = Tapu Lele
+5 Kapu-Toro = Tapu Bulu
+5 Kapu-Kime = Tapu Fini
+5 Magearna
+5 Marshadow
+5 Zeraora
+5 Melmetal
+5 Wuffels = Rockruff
+5 Wolwerock = Lycanroc
+5 Chimstix = Thwackey
+5 Gortrom = Rillaboom
+5 Kickerlo = Raboot
+5 Phlegleon = Drizzile
+5 Intelleon = Inteleon
+5 Endynalos = Eternatus
+5 Dakuma = Kubfu
+5 Wulaosu = Urshifu
+5 Zarude
+5 Coronospa = Calyrex
+5 Regieleki
+5 Regidrago
+5 Feliospa = Floragato
+5 Maskagato = Meowscarada
+5 Lokroko = Crocalor
+5 Skelokrok = Skeledirge
+5 Fuentente = Quaxwell
+5 Bailonda = Quaquaval
+5 Ogerpon
+5 Terapagos
+5 Pamo = Pawmi

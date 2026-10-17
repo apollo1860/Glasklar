@@ -14295,5 +14295,4355 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "all-020",
+  "text": "Nenne etwas, das ein Supermarkt verkauft",
+  "kategorie": "alltag",
+  "answers": [
+   {
+    "id": "all-020-a0001",
+    "text": "Milch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-020-a0002",
+    "text": "Brot",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-020-a0003",
+    "text": "Obst",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-020-a0004",
+    "text": "Gemüse",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-020-a0005",
+    "text": "Käse",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "all-020-a0006",
+    "text": "Bier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0007",
+    "text": "Butter",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0008",
+    "text": "Ei",
+    "aliases": [
+     "Eier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0009",
+    "text": "Wurst",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0010",
+    "text": "Fleisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0011",
+    "text": "Nudel",
+    "aliases": [
+     "Nudeln",
+     "Pasta"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0012",
+    "text": "Wasser",
+    "aliases": [
+     "Mineralwasser",
+     "Sprudel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0013",
+    "text": "Apfel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0014",
+    "text": "Banane",
+    "aliases": [
+     "Bananen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0015",
+    "text": "Klopapier",
+    "aliases": [
+     "Toilettenpapier",
+     "Klopapierrolle"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0016",
+    "text": "Lebensmittel",
+    "aliases": [
+     "Nahrungsmittel",
+     "Nahrung"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0017",
+    "text": "Getränk",
+    "aliases": [
+     "Getränke"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0018",
+    "text": "Schokolade",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0019",
+    "text": "Süßigkeit",
+    "aliases": [
+     "Süßigkeiten",
+     "Süßes"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0020",
+    "text": "Kaffee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0021",
+    "text": "Joghurt",
+    "aliases": [
+     "Jogurt"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "all-020-a0022",
+    "text": "Brötchen",
+    "aliases": [
+     "Semmel",
+     "Schrippe",
+     "Weck"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0023",
+    "text": "Reis",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0024",
+    "text": "Kartoffel",
+    "aliases": [
+     "Kartoffeln",
+     "Erdäpfel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0025",
+    "text": "Tomate",
+    "aliases": [
+     "Tomaten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0026",
+    "text": "Gurke",
+    "aliases": [
+     "Gurken",
+     "Salatgurke"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0027",
+    "text": "Salat",
+    "aliases": [
+     "Kopfsalat",
+     "Eisbergsalat"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0028",
+    "text": "Zwiebel",
+    "aliases": [
+     "Zwiebeln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0029",
+    "text": "Karotte",
+    "aliases": [
+     "Karotten",
+     "Möhre",
+     "Möhren",
+     "Mohrrübe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0030",
+    "text": "Paprika",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0031",
+    "text": "Orange",
+    "aliases": [
+     "Orangen",
+     "Apfelsine"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0032",
+    "text": "Zitrone",
+    "aliases": [
+     "Zitronen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0033",
+    "text": "Birne",
+    "aliases": [
+     "Birnen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0034",
+    "text": "Erdbeere",
+    "aliases": [
+     "Erdbeeren"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0035",
+    "text": "Weintraube",
+    "aliases": [
+     "Weintrauben",
+     "Trauben"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0036",
+    "text": "Hackfleisch",
+    "aliases": [
+     "Hack",
+     "Gehacktes"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0037",
+    "text": "Hähnchen",
+    "aliases": [
+     "Hühnchen",
+     "Hähnchenbrust",
+     "Hühnerfleisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0038",
+    "text": "Schinken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0039",
+    "text": "Salami",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0040",
+    "text": "Fisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0041",
+    "text": "Mehl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0042",
+    "text": "Zucker",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0043",
+    "text": "Salz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0044",
+    "text": "Pfeffer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0045",
+    "text": "Öl",
+    "aliases": [
+     "Speiseöl",
+     "Sonnenblumenöl"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0046",
+    "text": "Olivenöl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0047",
+    "text": "Essig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0048",
+    "text": "Margarine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0049",
+    "text": "Sahne",
+    "aliases": [
+     "Schlagsahne",
+     "Rahm"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0050",
+    "text": "Quark",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0051",
+    "text": "Saft",
+    "aliases": [
+     "Fruchtsaft"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0052",
+    "text": "Orangensaft",
+    "aliases": [
+     "O-Saft"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0053",
+    "text": "Apfelsaft",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0054",
+    "text": "Cola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0055",
+    "text": "Limonade",
+    "aliases": [
+     "Limo",
+     "Brause"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0056",
+    "text": "Wein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0057",
+    "text": "Sekt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0058",
+    "text": "Schnaps",
+    "aliases": [
+     "Spirituosen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0059",
+    "text": "Alkohol",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0060",
+    "text": "Tee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0061",
+    "text": "Chips",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0062",
+    "text": "Kekse",
+    "aliases": [
+     "Keks",
+     "Plätzchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0063",
+    "text": "Gummibärchen",
+    "aliases": [
+     "Gummibären",
+     "Fruchtgummi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0064",
+    "text": "Eis",
+    "aliases": [
+     "Speiseeis",
+     "Eiscreme"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0065",
+    "text": "Tiefkühlpizza",
+    "aliases": [
+     "Pizza",
+     "TK-Pizza"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0066",
+    "text": "Tiefkühlkost",
+    "aliases": [
+     "Tiefkühlware",
+     "TK-Ware"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0067",
+    "text": "Konserve",
+    "aliases": [
+     "Konserven",
+     "Dosenfutter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0068",
+    "text": "Müsli",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0069",
+    "text": "Cornflakes",
+    "aliases": [
+     "Frühstücksflocken",
+     "Cerealien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0070",
+    "text": "Marmelade",
+    "aliases": [
+     "Konfitüre"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0071",
+    "text": "Nuss-Nougat-Creme",
+    "aliases": [
+     "Nutella",
+     "Schokocreme",
+     "Schokoaufstrich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0072",
+    "text": "Honig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0073",
+    "text": "Toast",
+    "aliases": [
+     "Toastbrot"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0074",
+    "text": "Kuchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0075",
+    "text": "Shampoo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0076",
+    "text": "Duschgel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0077",
+    "text": "Zahnpasta",
+    "aliases": [
+     "Zahncreme"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0078",
+    "text": "Zahnbürste",
+    "aliases": [
+     "Zahnbürsten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0079",
+    "text": "Seife",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0080",
+    "text": "Deo",
+    "aliases": [
+     "Deodorant"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0081",
+    "text": "Waschmittel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0082",
+    "text": "Spülmittel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0083",
+    "text": "Putzmittel",
+    "aliases": [
+     "Reinigungsmittel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0084",
+    "text": "Küchenrolle",
+    "aliases": [
+     "Küchenpapier",
+     "Zewa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0085",
+    "text": "Taschentuch",
+    "aliases": [
+     "Taschentücher",
+     "Tempo"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0086",
+    "text": "Müllbeutel",
+    "aliases": [
+     "Mülltüte",
+     "Müllsack"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0087",
+    "text": "Windel",
+    "aliases": [
+     "Windeln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0088",
+    "text": "Hundefutter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0089",
+    "text": "Katzenfutter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0090",
+    "text": "Tierfutter",
+    "aliases": [
+     "Tiernahrung"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0091",
+    "text": "Zeitschrift",
+    "aliases": [
+     "Zeitschriften",
+     "Magazin"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0092",
+    "text": "Zeitung",
+    "aliases": [
+     "Zeitungen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0093",
+    "text": "Blume",
+    "aliases": [
+     "Blumen",
+     "Blumenstrauß"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0094",
+    "text": "Batterie",
+    "aliases": [
+     "Batterien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0095",
+    "text": "Zigarette",
+    "aliases": [
+     "Zigaretten",
+     "Kippen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0096",
+    "text": "Tabak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0097",
+    "text": "Kaugummi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0098",
+    "text": "Tüte",
+    "aliases": [
+     "Tüten",
+     "Plastiktüte",
+     "Einkaufstüte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0099",
+    "text": "Ananas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0100",
+    "text": "Mango",
+    "aliases": [
+     "Mangos"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0101",
+    "text": "Kiwi",
+    "aliases": [
+     "Kiwis"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0102",
+    "text": "Pfirsich",
+    "aliases": [
+     "Pfirsiche"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0103",
+    "text": "Nektarine",
+    "aliases": [
+     "Nektarinen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0104",
+    "text": "Aprikose",
+    "aliases": [
+     "Aprikosen",
+     "Marille"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0105",
+    "text": "Pflaume",
+    "aliases": [
+     "Pflaumen",
+     "Zwetschge",
+     "Zwetschgen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0106",
+    "text": "Kirsche",
+    "aliases": [
+     "Kirschen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0107",
+    "text": "Himbeere",
+    "aliases": [
+     "Himbeeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0108",
+    "text": "Heidelbeere",
+    "aliases": [
+     "Heidelbeeren",
+     "Blaubeere",
+     "Blaubeeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0109",
+    "text": "Brombeere",
+    "aliases": [
+     "Brombeeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0110",
+    "text": "Johannisbeere",
+    "aliases": [
+     "Johannisbeeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0111",
+    "text": "Stachelbeere",
+    "aliases": [
+     "Stachelbeeren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0112",
+    "text": "Melone",
+    "aliases": [
+     "Melonen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0113",
+    "text": "Wassermelone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0114",
+    "text": "Honigmelone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0115",
+    "text": "Mandarine",
+    "aliases": [
+     "Mandarinen",
+     "Clementine",
+     "Clementinen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0116",
+    "text": "Grapefruit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0117",
+    "text": "Limette",
+    "aliases": [
+     "Limetten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0118",
+    "text": "Avocado",
+    "aliases": [
+     "Avocados"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0119",
+    "text": "Granatapfel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0120",
+    "text": "Feige",
+    "aliases": [
+     "Feigen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0121",
+    "text": "Dattel",
+    "aliases": [
+     "Datteln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0122",
+    "text": "Kokosnuss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0123",
+    "text": "Papaya",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0124",
+    "text": "Maracuja",
+    "aliases": [
+     "Passionsfrucht"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0125",
+    "text": "Physalis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0126",
+    "text": "Litschi",
+    "aliases": [
+     "Lychee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0127",
+    "text": "Kaki",
+    "aliases": [
+     "Sharonfrucht"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0128",
+    "text": "Rhabarber",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0129",
+    "text": "Brokkoli",
+    "aliases": [
+     "Broccoli"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0130",
+    "text": "Blumenkohl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0131",
+    "text": "Rosenkohl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0132",
+    "text": "Rotkohl",
+    "aliases": [
+     "Rotkraut",
+     "Blaukraut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0133",
+    "text": "Weißkohl",
+    "aliases": [
+     "Weißkraut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0134",
+    "text": "Grünkohl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0135",
+    "text": "Wirsing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0136",
+    "text": "Kohlrabi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0137",
+    "text": "Kohl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0138",
+    "text": "Spinat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0139",
+    "text": "Zucchini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0140",
+    "text": "Aubergine",
+    "aliases": [
+     "Auberginen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0141",
+    "text": "Kürbis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0142",
+    "text": "Spargel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0143",
+    "text": "Lauch",
+    "aliases": [
+     "Porree"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0144",
+    "text": "Sellerie",
+    "aliases": [
+     "Staudensellerie",
+     "Knollensellerie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0145",
+    "text": "Radieschen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0146",
+    "text": "Rettich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0147",
+    "text": "Rote Bete",
+    "aliases": [
+     "Rote Beete"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0148",
+    "text": "Pilz",
+    "aliases": [
+     "Pilze",
+     "Champignon",
+     "Champignons"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0149",
+    "text": "Mais",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0150",
+    "text": "Erbse",
+    "aliases": [
+     "Erbsen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0151",
+    "text": "Bohne",
+    "aliases": [
+     "Bohnen",
+     "grüne Bohnen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0152",
+    "text": "Kidneybohne",
+    "aliases": [
+     "Kidneybohnen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0153",
+    "text": "Linse",
+    "aliases": [
+     "Linsen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0154",
+    "text": "Kichererbse",
+    "aliases": [
+     "Kichererbsen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0155",
+    "text": "Knoblauch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0156",
+    "text": "Ingwer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0157",
+    "text": "Chili",
+    "aliases": [
+     "Peperoni"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0158",
+    "text": "Fenchel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0159",
+    "text": "Rucola",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0160",
+    "text": "Feldsalat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0161",
+    "text": "Süßkartoffel",
+    "aliases": [
+     "Süßkartoffeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0162",
+    "text": "Pastinake",
+    "aliases": [
+     "Pastinaken"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0163",
+    "text": "Frühlingszwiebel",
+    "aliases": [
+     "Lauchzwiebel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0164",
+    "text": "Schalotte",
+    "aliases": [
+     "Schalotten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0165",
+    "text": "Petersilie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0166",
+    "text": "Schnittlauch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0167",
+    "text": "Basilikum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0168",
+    "text": "Kräuter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0169",
+    "text": "Gewürz",
+    "aliases": [
+     "Gewürze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0170",
+    "text": "Paprikapulver",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0171",
+    "text": "Zimt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0172",
+    "text": "Curry",
+    "aliases": [
+     "Currypulver"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0173",
+    "text": "Oregano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0174",
+    "text": "Muskat",
+    "aliases": [
+     "Muskatnuss"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0175",
+    "text": "Vanille",
+    "aliases": [
+     "Vanillezucker"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0176",
+    "text": "Backpulver",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0177",
+    "text": "Hefe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0178",
+    "text": "Speisestärke",
+    "aliases": [
+     "Stärke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0179",
+    "text": "Haferflocken",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0180",
+    "text": "Grieß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0181",
+    "text": "Polenta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0182",
+    "text": "Couscous",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0183",
+    "text": "Bulgur",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0184",
+    "text": "Quinoa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0185",
+    "text": "Spaghetti",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0186",
+    "text": "Lasagneplatten",
+    "aliases": [
+     "Lasagne"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0187",
+    "text": "Spätzle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0188",
+    "text": "Gnocchi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0189",
+    "text": "Tortellini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0190",
+    "text": "Ravioli",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0191",
+    "text": "Kartoffelpüree",
+    "aliases": [
+     "Püree",
+     "Kartoffelbrei"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0192",
+    "text": "Pommes",
+    "aliases": [
+     "Pommes frites",
+     "Fritten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0193",
+    "text": "Kroketten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0194",
+    "text": "Knödel",
+    "aliases": [
+     "Klöße"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0195",
+    "text": "Tomatensoße",
+    "aliases": [
+     "Tomatensauce",
+     "Passata",
+     "Pastasoße"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0196",
+    "text": "Tomatenmark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0197",
+    "text": "Ketchup",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0198",
+    "text": "Senf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0199",
+    "text": "Mayonnaise",
+    "aliases": [
+     "Mayo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0200",
+    "text": "Remoulade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0201",
+    "text": "Grillsoße",
+    "aliases": [
+     "Grillsauce",
+     "Barbecuesoße"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0202",
+    "text": "Sojasoße",
+    "aliases": [
+     "Sojasauce"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0203",
+    "text": "Soße",
+    "aliases": [
+     "Sauce",
+     "Saucen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0204",
+    "text": "Brühe",
+    "aliases": [
+     "Gemüsebrühe",
+     "Fleischbrühe",
+     "Brühwürfel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0205",
+    "text": "Suppe",
+    "aliases": [
+     "Suppen",
+     "Dosensuppe",
+     "Tütensuppe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0206",
+    "text": "Fertiggericht",
+    "aliases": [
+     "Fertiggerichte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0207",
+    "text": "Thunfisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0208",
+    "text": "Lachs",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0209",
+    "text": "Hering",
+    "aliases": [
+     "Matjes"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0210",
+    "text": "Fischstäbchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0211",
+    "text": "Garnele",
+    "aliases": [
+     "Garnelen",
+     "Shrimps",
+     "Krabben"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0212",
+    "text": "Sardine",
+    "aliases": [
+     "Sardinen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0213",
+    "text": "Forelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0214",
+    "text": "Makrele",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0215",
+    "text": "Kabeljau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0216",
+    "text": "Rindfleisch",
+    "aliases": [
+     "Rind"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0217",
+    "text": "Schweinefleisch",
+    "aliases": [
+     "Schwein"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0218",
+    "text": "Steak",
+    "aliases": [
+     "Steaks"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0219",
+    "text": "Schnitzel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0220",
+    "text": "Kotelett",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0221",
+    "text": "Bratwurst",
+    "aliases": [
+     "Bratwürste"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0222",
+    "text": "Würstchen",
+    "aliases": [
+     "Wiener",
+     "Frankfurter",
+     "Bockwurst"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0223",
+    "text": "Leberwurst",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0224",
+    "text": "Mortadella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0225",
+    "text": "Aufschnitt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0226",
+    "text": "Speck",
+    "aliases": [
+     "Bacon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0227",
+    "text": "Putenfleisch",
+    "aliases": [
+     "Pute",
+     "Truthahn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0228",
+    "text": "Grillfleisch",
+    "aliases": [
+     "Grillgut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0229",
+    "text": "Gyros",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0230",
+    "text": "Döner",
+    "aliases": [
+     "Dönerfleisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0231",
+    "text": "Frikadelle",
+    "aliases": [
+     "Frikadellen",
+     "Bulette",
+     "Fleischpflanzerl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0232",
+    "text": "Leberkäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0233",
+    "text": "Wild",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0234",
+    "text": "Lamm",
+    "aliases": [
+     "Lammfleisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0235",
+    "text": "Ente",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0236",
+    "text": "Tofu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0237",
+    "text": "Fleischersatz",
+    "aliases": [
+     "Veggie-Burger",
+     "vegane Wurst"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0238",
+    "text": "Gouda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0239",
+    "text": "Emmentaler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0240",
+    "text": "Mozzarella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0241",
+    "text": "Feta",
+    "aliases": [
+     "Schafskäse",
+     "Hirtenkäse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0242",
+    "text": "Camembert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0243",
+    "text": "Brie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0244",
+    "text": "Parmesan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0245",
+    "text": "Frischkäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0246",
+    "text": "Hüttenkäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0247",
+    "text": "Schmelzkäse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0248",
+    "text": "Reibekäse",
+    "aliases": [
+     "geriebener Käse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0249",
+    "text": "Buttermilch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0250",
+    "text": "Kefir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0251",
+    "text": "Schmand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0252",
+    "text": "Crème fraîche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0253",
+    "text": "Pudding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0254",
+    "text": "Milchreis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0255",
+    "text": "Kakao",
+    "aliases": [
+     "Kakaopulver"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0256",
+    "text": "Pflanzenmilch",
+    "aliases": [
+     "Hafermilch",
+     "Sojamilch",
+     "Mandelmilch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0257",
+    "text": "Kondensmilch",
+    "aliases": [
+     "Kaffeesahne"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0258",
+    "text": "H-Milch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0259",
+    "text": "Eiskaffee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0260",
+    "text": "Energydrink",
+    "aliases": [
+     "Red Bull"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0261",
+    "text": "Eistee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0262",
+    "text": "Sprite",
+    "aliases": [
+     "Zitronenlimonade"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0263",
+    "text": "Fanta",
+    "aliases": [
+     "Orangenlimonade"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0264",
+    "text": "Spezi",
+    "aliases": [
+     "Cola-Mix"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0265",
+    "text": "Apfelschorle",
+    "aliases": [
+     "Schorle"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0266",
+    "text": "Radler",
+    "aliases": [
+     "Alsterwasser"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0267",
+    "text": "Weizenbier",
+    "aliases": [
+     "Weißbier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0268",
+    "text": "Alkoholfreies Bier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0269",
+    "text": "Vodka",
+    "aliases": [
+     "Wodka"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0270",
+    "text": "Rum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0271",
+    "text": "Gin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0272",
+    "text": "Whisky",
+    "aliases": [
+     "Whiskey"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0273",
+    "text": "Likör",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0274",
+    "text": "Prosecco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0275",
+    "text": "Rotwein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0276",
+    "text": "Weißwein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0277",
+    "text": "Rosé",
+    "aliases": [
+     "Rosewein"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0278",
+    "text": "Glühwein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0279",
+    "text": "Sirup",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0280",
+    "text": "Espresso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0281",
+    "text": "Kaffeepad",
+    "aliases": [
+     "Kaffeepads"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0282",
+    "text": "Kaffeekapsel",
+    "aliases": [
+     "Kaffeekapseln",
+     "Kapseln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0283",
+    "text": "Instantkaffee",
+    "aliases": [
+     "löslicher Kaffee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0284",
+    "text": "Kaffeebohne",
+    "aliases": [
+     "Kaffeebohnen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0285",
+    "text": "Früchtetee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0286",
+    "text": "Kräutertee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0287",
+    "text": "Grüner Tee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0288",
+    "text": "Pfefferminztee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0289",
+    "text": "Vollkornbrot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0290",
+    "text": "Baguette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0291",
+    "text": "Brezel",
+    "aliases": [
+     "Brezeln",
+     "Breze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0292",
+    "text": "Croissant",
+    "aliases": [
+     "Croissants"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0293",
+    "text": "Laugengebäck",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0294",
+    "text": "Knäckebrot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0295",
+    "text": "Zwieback",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0296",
+    "text": "Backmischung",
+    "aliases": [
+     "Backmischungen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0297",
+    "text": "Torte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0298",
+    "text": "Muffin",
+    "aliases": [
+     "Muffins"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0299",
+    "text": "Donut",
+    "aliases": [
+     "Donuts"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0300",
+    "text": "Berliner",
+    "aliases": [
+     "Krapfen",
+     "Pfannkuchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0301",
+    "text": "Waffel",
+    "aliases": [
+     "Waffeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0302",
+    "text": "Schokoriegel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0303",
+    "text": "Bonbon",
+    "aliases": [
+     "Bonbons"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0304",
+    "text": "Lutscher",
+    "aliases": [
+     "Lolli"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0305",
+    "text": "Lakritz",
+    "aliases": [
+     "Lakritze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0306",
+    "text": "Praline",
+    "aliases": [
+     "Pralinen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0307",
+    "text": "Marshmallow",
+    "aliases": [
+     "Marshmallows"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0308",
+    "text": "Salzstange",
+    "aliases": [
+     "Salzstangen",
+     "Salzbrezel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0309",
+    "text": "Erdnuss",
+    "aliases": [
+     "Erdnüsse",
+     "Erdnussflips",
+     "Flips"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0310",
+    "text": "Nuss",
+    "aliases": [
+     "Nüsse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0311",
+    "text": "Mandel",
+    "aliases": [
+     "Mandeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0312",
+    "text": "Walnuss",
+    "aliases": [
+     "Walnüsse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0313",
+    "text": "Haselnuss",
+    "aliases": [
+     "Haselnüsse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0314",
+    "text": "Cashew",
+    "aliases": [
+     "Cashews",
+     "Cashewkerne"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0315",
+    "text": "Pistazie",
+    "aliases": [
+     "Pistazien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0316",
+    "text": "Studentenfutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0317",
+    "text": "Trockenobst",
+    "aliases": [
+     "Rosinen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0318",
+    "text": "Popcorn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0319",
+    "text": "Cracker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0320",
+    "text": "Reiswaffel",
+    "aliases": [
+     "Reiswaffeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0321",
+    "text": "Müsliriegel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0322",
+    "text": "Erdnussbutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0323",
+    "text": "Ahornsirup",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0324",
+    "text": "Babynahrung",
+    "aliases": [
+     "Babybrei",
+     "Gläschen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0325",
+    "text": "Babymilch",
+    "aliases": [
+     "Säuglingsnahrung"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0326",
+    "text": "Feuchttücher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0327",
+    "text": "Wattepads",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0328",
+    "text": "Wattestäbchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0329",
+    "text": "Damenbinde",
+    "aliases": [
+     "Binden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0330",
+    "text": "Tampon",
+    "aliases": [
+     "Tampons"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0331",
+    "text": "Kondom",
+    "aliases": [
+     "Kondome"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0332",
+    "text": "Rasierer",
+    "aliases": [
+     "Rasierklingen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0333",
+    "text": "Rasierschaum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0334",
+    "text": "Creme",
+    "aliases": [
+     "Hautcreme",
+     "Bodylotion",
+     "Handcreme"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0335",
+    "text": "Sonnencreme",
+    "aliases": [
+     "Sonnenmilch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0336",
+    "text": "Haargel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0337",
+    "text": "Haarspray",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0338",
+    "text": "Spülung",
+    "aliases": [
+     "Haarspülung"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0339",
+    "text": "Haarfarbe",
+    "aliases": [
+     "Haartönung"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0340",
+    "text": "Make-up",
+    "aliases": [
+     "Schminke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0341",
+    "text": "Lippenpflege",
+    "aliases": [
+     "Labello",
+     "Lippenbalsam"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0342",
+    "text": "Nagellack",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0343",
+    "text": "Parfüm",
+    "aliases": [
+     "Parfum"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0344",
+    "text": "Mundspülung",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0345",
+    "text": "Zahnseide",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0346",
+    "text": "Pflaster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0347",
+    "text": "Kopfschmerztabletten",
+    "aliases": [
+     "Schmerztabletten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0348",
+    "text": "Vitamin",
+    "aliases": [
+     "Vitamine",
+     "Nahrungsergänzungsmittel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0349",
+    "text": "Weichspüler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0350",
+    "text": "Spülmaschinentabs",
+    "aliases": [
+     "Geschirrspültabs",
+     "Spültabs"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0351",
+    "text": "Spülschwamm",
+    "aliases": [
+     "Schwamm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0352",
+    "text": "Lappen",
+    "aliases": [
+     "Putzlappen",
+     "Spültuch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0353",
+    "text": "Allzweckreiniger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0354",
+    "text": "WC-Reiniger",
+    "aliases": [
+     "Klostein",
+     "Toilettenreiniger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0355",
+    "text": "Glasreiniger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0356",
+    "text": "Entkalker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0357",
+    "text": "Alufolie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0358",
+    "text": "Frischhaltefolie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0359",
+    "text": "Backpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0360",
+    "text": "Gefrierbeutel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0361",
+    "text": "Butterbrotpapier",
+    "aliases": [
+     "Brotpapier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0362",
+    "text": "Serviette",
+    "aliases": [
+     "Servietten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0363",
+    "text": "Pappteller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0364",
+    "text": "Strohhalm",
+    "aliases": [
+     "Strohhalme"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0365",
+    "text": "Kerze",
+    "aliases": [
+     "Kerzen",
+     "Teelicht",
+     "Teelichter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0366",
+    "text": "Streichholz",
+    "aliases": [
+     "Streichhölzer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0367",
+    "text": "Feuerzeug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0368",
+    "text": "Grillkohle",
+    "aliases": [
+     "Kohle"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0369",
+    "text": "Grillanzünder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0370",
+    "text": "Glühbirne",
+    "aliases": [
+     "Glühbirnen",
+     "Leuchtmittel",
+     "LED-Lampe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0371",
+    "text": "Handschuh",
+    "aliases": [
+     "Handschuhe",
+     "Gummihandschuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0372",
+    "text": "Socke",
+    "aliases": [
+     "Socken",
+     "Strümpfe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0373",
+    "text": "Unterwäsche",
+    "aliases": [
+     "Unterhose"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0374",
+    "text": "Strumpfhose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0375",
+    "text": "Kleidung",
+    "aliases": [
+     "Klamotten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0376",
+    "text": "Schuh",
+    "aliases": [
+     "Schuhe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0377",
+    "text": "Spielzeug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0378",
+    "text": "Schreibwaren",
+    "aliases": [
+     "Stifte",
+     "Stift"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0379",
+    "text": "Heft",
+    "aliases": [
+     "Hefte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0380",
+    "text": "Papier",
+    "aliases": [
+     "Druckerpapier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0381",
+    "text": "Kugelschreiber",
+    "aliases": [
+     "Kuli"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0382",
+    "text": "Klebeband",
+    "aliases": [
+     "Tesa",
+     "Tesafilm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0383",
+    "text": "Geschenkpapier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0384",
+    "text": "Glückwunschkarte",
+    "aliases": [
+     "Grußkarte",
+     "Karte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0385",
+    "text": "Briefmarke",
+    "aliases": [
+     "Briefmarken"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0386",
+    "text": "Geschenkkarte",
+    "aliases": [
+     "Gutschein",
+     "Guthabenkarte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0387",
+    "text": "Prepaidkarte",
+    "aliases": [
+     "Handyguthaben",
+     "Aufladekarte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0388",
+    "text": "Lottoschein",
+    "aliases": [
+     "Lotto"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0389",
+    "text": "Pflanze",
+    "aliases": [
+     "Pflanzen",
+     "Topfpflanze",
+     "Zimmerpflanze"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0390",
+    "text": "Blumenerde",
+    "aliases": [
+     "Erde"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0391",
+    "text": "Katzenstreu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0392",
+    "text": "Vogelfutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0393",
+    "text": "Leckerli",
+    "aliases": [
+     "Hundesnack"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0394",
+    "text": "Geschirr",
+    "aliases": [
+     "Teller"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0395",
+    "text": "Tasse",
+    "aliases": [
+     "Tassen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0396",
+    "text": "Glas",
+    "aliases": [
+     "Gläser"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0397",
+    "text": "Besteck",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0398",
+    "text": "Topf",
+    "aliases": [
+     "Töpfe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0399",
+    "text": "Pfanne",
+    "aliases": [
+     "Pfannen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0400",
+    "text": "Küchengerät",
+    "aliases": [
+     "Küchengeräte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0401",
+    "text": "Elektronik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0402",
+    "text": "Kopfhörer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0403",
+    "text": "Ladekabel",
+    "aliases": [
+     "Kabel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0404",
+    "text": "Handy",
+    "aliases": [
+     "Smartphone"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0405",
+    "text": "Fernseher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0406",
+    "text": "Werkzeug",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0407",
+    "text": "Fahrrad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0408",
+    "text": "Bettwäsche",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0409",
+    "text": "Handtuch",
+    "aliases": [
+     "Handtücher"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0410",
+    "text": "Decke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0411",
+    "text": "Kissen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0412",
+    "text": "Dekoration",
+    "aliases": [
+     "Deko"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0413",
+    "text": "Regenschirm",
+    "aliases": [
+     "Schirm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0414",
+    "text": "Sonnenbrille",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0415",
+    "text": "Buch",
+    "aliases": [
+     "Bücher"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0416",
+    "text": "Comic",
+    "aliases": [
+     "Comics"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0417",
+    "text": "DVD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0418",
+    "text": "Rätselheft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0419",
+    "text": "Essen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0420",
+    "text": "Milchprodukt",
+    "aliases": [
+     "Milchprodukte",
+     "Molkereiprodukte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0421",
+    "text": "Backware",
+    "aliases": [
+     "Backwaren",
+     "Gebäck"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0422",
+    "text": "Drogerieartikel",
+    "aliases": [
+     "Drogerie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0423",
+    "text": "Kosmetik",
+    "aliases": [
+     "Kosmetikartikel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "all-020-a0424",
+    "text": "Fleischwaren",
+    "aliases": [
+     "Wurstwaren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0425",
+    "text": "Haushaltsware",
+    "aliases": [
+     "Haushaltswaren",
+     "Haushaltsartikel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0426",
+    "text": "Hygieneartikel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0427",
+    "text": "Spielware",
+    "aliases": [
+     "Spielwaren"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0428",
+    "text": "Bioprodukt",
+    "aliases": [
+     "Bioprodukte",
+     "Bio-Lebensmittel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0429",
+    "text": "Grundnahrungsmittel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0430",
+    "text": "Snack",
+    "aliases": [
+     "Snacks",
+     "Knabberzeug"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0431",
+    "text": "Sauerkraut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0432",
+    "text": "Gewürzgurke",
+    "aliases": [
+     "Gewürzgurken",
+     "saure Gurken",
+     "Essiggurken"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0433",
+    "text": "Olive",
+    "aliases": [
+     "Oliven"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0434",
+    "text": "Pesto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0435",
+    "text": "Hummus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0436",
+    "text": "Sushi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0437",
+    "text": "Wrap",
+    "aliases": [
+     "Wraps",
+     "Tortilla"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0438",
+    "text": "Tortillachips",
+    "aliases": [
+     "Nachos"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0439",
+    "text": "Dip",
+    "aliases": [
+     "Dips"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0440",
+    "text": "Brotaufstrich",
+    "aliases": [
+     "Aufstrich"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0441",
+    "text": "Apfelmus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0442",
+    "text": "Eintopf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0443",
+    "text": "Maultasche",
+    "aliases": [
+     "Maultaschen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0444",
+    "text": "Flammkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0445",
+    "text": "Burger",
+    "aliases": [
+     "Hamburger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0446",
+    "text": "Hotdog",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0447",
+    "text": "Kartoffelsalat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0448",
+    "text": "Nudelsalat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0449",
+    "text": "Krautsalat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0450",
+    "text": "Fleischsalat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0451",
+    "text": "Puderzucker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0452",
+    "text": "Brauner Zucker",
+    "aliases": [
+     "Rohrzucker"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0453",
+    "text": "Süßstoff",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0454",
+    "text": "Marzipan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0455",
+    "text": "Lebkuchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0456",
+    "text": "Spekulatius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0457",
+    "text": "Stollen",
+    "aliases": [
+     "Christstollen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0458",
+    "text": "Schokoweihnachtsmann",
+    "aliases": [
+     "Weihnachtsmann"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0459",
+    "text": "Osterhase",
+    "aliases": [
+     "Schokohase",
+     "Schokoosterhase"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0460",
+    "text": "Osterei",
+    "aliases": [
+     "Ostereier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0461",
+    "text": "Adventskalender",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0462",
+    "text": "Malzbier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0463",
+    "text": "Smoothie",
+    "aliases": [
+     "Smoothies"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0464",
+    "text": "Tonic Water",
+    "aliases": [
+     "Tonic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0465",
+    "text": "Ginger Ale",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0466",
+    "text": "Bitter Lemon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0467",
+    "text": "Mate",
+    "aliases": [
+     "Mate-Tee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0468",
+    "text": "Sportgetränk",
+    "aliases": [
+     "Isotonisches Getränk"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0469",
+    "text": "Champagner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0470",
+    "text": "Eierlikör",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0471",
+    "text": "Kräuterlikör",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0472",
+    "text": "Korn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0473",
+    "text": "Cidre",
+    "aliases": [
+     "Cider"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0474",
+    "text": "Skyr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0475",
+    "text": "Trinkjoghurt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0476",
+    "text": "Götterspeise",
+    "aliases": [
+     "Wackelpudding"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0477",
+    "text": "Grießbrei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0478",
+    "text": "Butterschmalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0479",
+    "text": "Schmalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0480",
+    "text": "Rapsöl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0481",
+    "text": "Kokosöl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0482",
+    "text": "Kokosmilch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0483",
+    "text": "Sonnenblumenkerne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0484",
+    "text": "Kürbiskerne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0485",
+    "text": "Leinsamen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0486",
+    "text": "Chiasamen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0487",
+    "text": "Sesam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0488",
+    "text": "Glasnudeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0489",
+    "text": "Reisnudeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0490",
+    "text": "Instantnudeln",
+    "aliases": [
+     "Ramen",
+     "Fertignudeln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0491",
+    "text": "Frühlingsrolle",
+    "aliases": [
+     "Frühlingsrollen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0492",
+    "text": "Kartoffelpuffer",
+    "aliases": [
+     "Reibekuchen",
+     "Reibeplätzchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0493",
+    "text": "Rösti",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0494",
+    "text": "Rahmspinat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0495",
+    "text": "Tiefkühlgemüse",
+    "aliases": [
+     "TK-Gemüse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0496",
+    "text": "Fischfilet",
+    "aliases": [
+     "Schlemmerfilet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0497",
+    "text": "Muschel",
+    "aliases": [
+     "Muscheln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0498",
+    "text": "Tintenfisch",
+    "aliases": [
+     "Calamari"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0499",
+    "text": "Rollmops",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0500",
+    "text": "Kaviar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0501",
+    "text": "Surimi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0502",
+    "text": "Belegtes Brötchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0503",
+    "text": "Sandwich",
+    "aliases": [
+     "Sandwiches"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0504",
+    "text": "Obstsalat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0505",
+    "text": "Hefezopf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0506",
+    "text": "Brathähnchen",
+    "aliases": [
+     "Grillhähnchen",
+     "Hendl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0507",
+    "text": "Kaffeefilter",
+    "aliases": [
+     "Filtertüten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0508",
+    "text": "Eiswürfel",
+    "aliases": [
+     "Crushed Ice"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0509",
+    "text": "Brennspiritus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0510",
+    "text": "Kaminholz",
+    "aliases": [
+     "Brennholz",
+     "Holz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0511",
+    "text": "Streusalz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0512",
+    "text": "Staubsaugerbeutel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0513",
+    "text": "Wäscheklammer",
+    "aliases": [
+     "Wäscheklammern"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0514",
+    "text": "Fleckentferner",
+    "aliases": [
+     "Fleckenentferner"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0515",
+    "text": "Insektenspray",
+    "aliases": [
+     "Mückenspray",
+     "Mückenschutz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0516",
+    "text": "Lufterfrischer",
+    "aliases": [
+     "Raumspray",
+     "Raumduft"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0517",
+    "text": "Desinfektionsmittel",
+    "aliases": [
+     "Desinfektionsspray"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0518",
+    "text": "Besen",
+    "aliases": [
+     "Handfeger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0519",
+    "text": "Eimer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0520",
+    "text": "Wischmopp",
+    "aliases": [
+     "Mopp"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0521",
+    "text": "Spülbürste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0522",
+    "text": "Gesichtscreme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0523",
+    "text": "Abschminktücher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0524",
+    "text": "Haarbürste",
+    "aliases": [
+     "Kamm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0525",
+    "text": "Haargummi",
+    "aliases": [
+     "Haargummis"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0526",
+    "text": "Lippenstift",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0527",
+    "text": "Wimperntusche",
+    "aliases": [
+     "Mascara"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0528",
+    "text": "Rasiergel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0529",
+    "text": "Aftershave",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0530",
+    "text": "Slipeinlage",
+    "aliases": [
+     "Slipeinlagen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0531",
+    "text": "Schnuller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0532",
+    "text": "Babyöl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0533",
+    "text": "Taschenlampe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0534",
+    "text": "Verlängerungskabel",
+    "aliases": [
+     "Mehrfachsteckdose"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0535",
+    "text": "Powerbank",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0536",
+    "text": "USB-Stick",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0537",
+    "text": "Grill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0538",
+    "text": "Luftmatratze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0539",
+    "text": "Gartenmöbel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0540",
+    "text": "Gartenschlauch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0541",
+    "text": "Samen",
+    "aliases": [
+     "Saatgut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0542",
+    "text": "Dünger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0543",
+    "text": "Weihnachtsbaum",
+    "aliases": [
+     "Tannenbaum",
+     "Christbaum"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0544",
+    "text": "Adventskranz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0545",
+    "text": "Feuerwerk",
+    "aliases": [
+     "Böller",
+     "Raketen",
+     "Silvesterfeuerwerk"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0546",
+    "text": "Wunderkerze",
+    "aliases": [
+     "Wunderkerzen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0547",
+    "text": "Luftballon",
+    "aliases": [
+     "Luftballons",
+     "Ballon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0548",
+    "text": "Spielkarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0549",
+    "text": "Puzzle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0550",
+    "text": "Brettspiel",
+    "aliases": [
+     "Gesellschaftsspiel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0551",
+    "text": "Knete",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0552",
+    "text": "Fischfutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0553",
+    "text": "Kaninchenfutter",
+    "aliases": [
+     "Nagerfutter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0554",
+    "text": "Kauknochen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0555",
+    "text": "Eiskratzer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0556",
+    "text": "Frostschutzmittel",
+    "aliases": [
+     "Scheibenfrostschutz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0557",
+    "text": "Motoröl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0558",
+    "text": "Kapern",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0559",
+    "text": "Antipasti",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0560",
+    "text": "Getrocknete Tomaten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0561",
+    "text": "Hirse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0562",
+    "text": "Graupen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0563",
+    "text": "Buchweizen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0564",
+    "text": "Amaranth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0565",
+    "text": "Currypaste",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0566",
+    "text": "Kuvertüre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0567",
+    "text": "Streusel",
+    "aliases": [
+     "Zuckerstreusel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0568",
+    "text": "Gelatine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0569",
+    "text": "Backaroma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0570",
+    "text": "Lebensmittelfarbe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0571",
+    "text": "Nougat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0572",
+    "text": "Dominosteine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0573",
+    "text": "Zuckerrübensirup",
+    "aliases": [
+     "Rübenkraut"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0574",
+    "text": "Obstler",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0575",
+    "text": "Portwein",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0576",
+    "text": "Sherry",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0577",
+    "text": "Wermut",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0578",
+    "text": "Kokoswasser",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0579",
+    "text": "Sülze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0580",
+    "text": "Obatzda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0581",
+    "text": "Ghee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0582",
+    "text": "Schupfnudeln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0583",
+    "text": "Kompott",
+    "aliases": [
+     "Dosenobst"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0584",
+    "text": "Baked Beans",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0585",
+    "text": "Chili con Carne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0586",
+    "text": "Gallseife",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0587",
+    "text": "Schuhcreme",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0588",
+    "text": "Mausefalle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0589",
+    "text": "Fliegenfänger",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0590",
+    "text": "Duftkerze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0591",
+    "text": "Nagelfeile",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0592",
+    "text": "Fußcreme",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0593",
+    "text": "Bartöl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0594",
+    "text": "Menstruationstasse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0595",
+    "text": "Inkontinenzeinlagen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0596",
+    "text": "Babypuder",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0597",
+    "text": "FFP2-Maske",
+    "aliases": [
+     "Maske",
+     "Mundschutz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0598",
+    "text": "Speicherkarte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0599",
+    "text": "Planschbecken",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0600",
+    "text": "Malbuch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0601",
+    "text": "Wasserpistole",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0602",
+    "text": "Sandspielzeug",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0603",
+    "text": "Schultüte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0604",
+    "text": "Grablicht",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0605",
+    "text": "Holzkohlebriketts",
+    "aliases": [
+     "Briketts"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "all-020-a0606",
+    "text": "Teig",
+    "aliases": [
+     "Blätterteig",
+     "Pizzateig",
+     "Hefeteig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "all-020-a0607",
+    "text": "Chicken Nuggets",
+    "aliases": [
+     "Nuggets"
+    ],
+    "tier": 4
+   }
+  ]
  }
 ]

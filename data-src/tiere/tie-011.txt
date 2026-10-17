@@ -1,0 +1,108 @@
+@id tie-011
+@text Nenne ein Fabelwesen
+# Fabel-, Misch- und Sagenwesen aus Mythologie, Sagen, Märchen, Volksglauben, Kryptozoologie und Fantasy (inkl. Tolkien/Harry Potter).
+# Nicht: Götter, Engel/Teufel (religiös), Menschen mit Zauberkräften (Hexe, Zauberer), einzelne Filmmonster (Godzilla, King Kong).
+# Mythologische Einzelwesen, die als Gattung genannt werden (Pegasus, Medusa, Kerberos, Nessie, Rübezahl), sind enthalten.
+
+1 Drache = Drachen
+1 Einhorn
+2 Phönix
+2 Meerjungfrau = Seejungfrau; Meerjungfrauen
+2 Vampir
+2 Werwolf
+2 Pegasus
+2 Greif = Vogel Greif
+2 Zentaur = Kentaur; Centaur
+2 Troll
+2 Elfe = Elf; Elben
+2 Zwerg
+2 Kobold
+2 Fee
+2 Yeti = Schneemensch
+3 Minotaurus
+3 Zyklop = Kyklop
+3 Basilisk
+3 Hydra
+3 Kraken
+3 Sphinx = Sphinge
+3 Chimäre = Chimära; Chimaira
+3 Wolpertinger
+3 Nessie = Ungeheuer von Loch Ness; Loch-Ness-Monster
+3 Golem
+3 Gnom
+3 Riese
+3 Ork
+3 Hobbit
+3 Zerberus = Kerberos; Cerberus; Höllenhund
+3 Medusa = Gorgone
+3 Bigfoot = Sasquatch
+3 Zombie
+3 Geist = Gespenst
+3 Dschinn = Flaschengeist; Djinn; Genie
+3 Harpyie
+3 Sirene
+3 Hippogreif = Hippogryph
+3 Heinzelmännchen
+4 Satyr
+4 Faun
+4 Nymphe
+4 Nixe = Nix
+4 Rübezahl
+4 Lindwurm
+4 Tatzelwurm
+4 Leviathan
+4 Mantikor = Manticore
+4 Banshee = Todesfee
+4 Wendigo
+4 Chupacabra
+4 Ghul = Ghoul
+4 Dryade
+4 Undine
+4 Seeschlange
+4 Seeungeheuer = Seemonster
+4 Fenrir = Fenriswolf
+4 Midgardschlange = Jörmungandr
+4 Sleipnir
+4 Walküre = Valkyrie
+4 Titan
+4 Ent
+4 Balrog
+4 Dementor
+4 Gremlin
+4 Poltergeist
+4 Wichtel = Wichtelmännchen
+4 Klabautermann
+4 Krampus
+4 Elwetritsch = Elwetritsche
+4 Leprechaun
+4 Gargoyle
+4 Dämon
+4 Werkatze
+5 Behemoth
+5 Kelpie
+5 Kappa
+5 Kitsune
+5 Tengu
+5 Oni
+5 Wyvern
+5 Sylphe
+5 Vogel Roch = Roch
+5 Typhon
+5 Skylla = Scylla
+5 Charybdis
+5 Warg
+5 Thestral
+5 Schrat = Waldschrat
+5 Alb = Nachtmahr; Mahr
+5 Rasselbock
+5 Jackalope
+5 Garuda
+5 Naga
+5 Wassermann
+5 Selkie
+5 Succubus = Sukkubus
+5 Lamia
+5 Homunkulus = Homunculus
+5 Mothman
+5 Irrlicht
+5 Drude

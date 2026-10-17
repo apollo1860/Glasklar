@@ -1196,5 +1196,2944 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mar-004",
+  "text": "Nenne einen Sportausrüster",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-004-a0001",
+    "text": "Adidas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-004-a0002",
+    "text": "Nike",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-004-a0003",
+    "text": "Puma",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-004-a0004",
+    "text": "Under Armour",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-004-a0005",
+    "text": "Asics",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0006",
+    "text": "New Balance",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0007",
+    "text": "Reebok",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0008",
+    "text": "Jako",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0009",
+    "text": "Erima",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0010",
+    "text": "Kappa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0011",
+    "text": "Umbro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0012",
+    "text": "Hummel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0013",
+    "text": "Fila",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0014",
+    "text": "Uhlsport",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0015",
+    "text": "The North Face",
+    "aliases": [
+     "North Face"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0016",
+    "text": "Jack Wolfskin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0017",
+    "text": "Decathlon",
+    "aliases": [
+     "Kipsta",
+     "Kalenji",
+     "Quechua",
+     "Artengo",
+     "Domyos"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0018",
+    "text": "Salomon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0019",
+    "text": "Wilson",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0020",
+    "text": "Head",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0021",
+    "text": "Lululemon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-004-a0022",
+    "text": "Joma",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0023",
+    "text": "Macron",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0024",
+    "text": "Mizuno",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0025",
+    "text": "Le Coq Sportif",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0026",
+    "text": "Lotto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0027",
+    "text": "Diadora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0028",
+    "text": "Errea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0029",
+    "text": "Castore",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0030",
+    "text": "Saucony",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0031",
+    "text": "Brooks",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0032",
+    "text": "Hoka",
+    "aliases": [
+     "Hoka One One"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0033",
+    "text": "On",
+    "aliases": [
+     "On Running"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0034",
+    "text": "Babolat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0035",
+    "text": "Yonex",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0036",
+    "text": "Prince",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0037",
+    "text": "Dunlop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0038",
+    "text": "Lacoste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0039",
+    "text": "Ellesse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0040",
+    "text": "Sergio Tacchini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0041",
+    "text": "Champion",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0042",
+    "text": "Russell Athletic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0043",
+    "text": "Converse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0044",
+    "text": "Vans",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0045",
+    "text": "Columbia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0046",
+    "text": "Patagonia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0047",
+    "text": "Mammut",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0048",
+    "text": "Vaude",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0049",
+    "text": "Schöffel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0050",
+    "text": "Arc'teryx",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0051",
+    "text": "Deuter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0052",
+    "text": "Ortovox",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0053",
+    "text": "Salewa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0054",
+    "text": "Dynafit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0055",
+    "text": "Odlo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0056",
+    "text": "Craft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0057",
+    "text": "Löffler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0058",
+    "text": "McKinley",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0059",
+    "text": "Atomic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0060",
+    "text": "Fischer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0061",
+    "text": "Völkl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0062",
+    "text": "Rossignol",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0063",
+    "text": "Elan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0064",
+    "text": "K2",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0065",
+    "text": "Burton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0066",
+    "text": "Ziener",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0067",
+    "text": "Reusch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0068",
+    "text": "Derbystar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0069",
+    "text": "Select",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0070",
+    "text": "Molten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0071",
+    "text": "Mikasa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0072",
+    "text": "Spalding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0073",
+    "text": "Gymshark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0074",
+    "text": "Stanno",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0075",
+    "text": "Kempa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0076",
+    "text": "Saller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0077",
+    "text": "Capelli Sport",
+    "aliases": [
+     "Capelli"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0078",
+    "text": "Kelme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0079",
+    "text": "Nordica",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0080",
+    "text": "Tecnica",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0081",
+    "text": "Lowa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0082",
+    "text": "Meindl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0083",
+    "text": "Hanwag",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0084",
+    "text": "Merrell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0085",
+    "text": "Mavic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0086",
+    "text": "Shimano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0087",
+    "text": "Speedo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0088",
+    "text": "Arena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0089",
+    "text": "Everlast",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0090",
+    "text": "Venum",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0091",
+    "text": "Kettler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0092",
+    "text": "Technogym",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0093",
+    "text": "Admiral",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0094",
+    "text": "Hi-Tec",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0095",
+    "text": "Slazenger",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0096",
+    "text": "Donnay",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0097",
+    "text": "Starter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0098",
+    "text": "Avia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0099",
+    "text": "Karhu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0100",
+    "text": "Mitre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0101",
+    "text": "Jordan",
+    "aliases": [
+     "Air Jordan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0102",
+    "text": "Tecnifibre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0103",
+    "text": "Haglöfs",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0104",
+    "text": "Bergans",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0105",
+    "text": "Fjällräven",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0106",
+    "text": "Norrøna",
+    "aliases": [
+     "Norrona"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0107",
+    "text": "Icebreaker",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0108",
+    "text": "Smartwool",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0109",
+    "text": "Falke",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0110",
+    "text": "2XU",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0111",
+    "text": "Compressport",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0112",
+    "text": "Gore Wear",
+    "aliases": [
+     "Gore"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0113",
+    "text": "Onitsuka Tiger",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0114",
+    "text": "Inov-8",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0115",
+    "text": "Altra",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0116",
+    "text": "Topo Athletic",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0117",
+    "text": "Newline",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0118",
+    "text": "Nakamura",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0119",
+    "text": "Energetics",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0120",
+    "text": "Firefly",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0121",
+    "text": "Crivit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0122",
+    "text": "Sondico",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0123",
+    "text": "Sells",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0124",
+    "text": "Scott",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0125",
+    "text": "Uvex",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0126",
+    "text": "Leki",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0127",
+    "text": "Oakley",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-004-a0128",
+    "text": "Black Diamond",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0129",
+    "text": "Petzl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0130",
+    "text": "Marmot",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0131",
+    "text": "Peak Performance",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0132",
+    "text": "Bogner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0133",
+    "text": "Spyder",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-004-a0134",
+    "text": "Kjus",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-005",
+  "text": "Nenne eine Energy-Drink-Marke",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-005-a0001",
+    "text": "Red Bull",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-005-a0002",
+    "text": "Monster",
+    "aliases": [
+     "Monster Energy"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-005-a0003",
+    "text": "Rockstar",
+    "aliases": [
+     "Rockstar Energy"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-005-a0004",
+    "text": "28 Black",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-005-a0005",
+    "text": "Effect",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0006",
+    "text": "Booster",
+    "aliases": [
+     "Booster Energy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0007",
+    "text": "Relentless",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0008",
+    "text": "Burn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0009",
+    "text": "Prime",
+    "aliases": [
+     "Prime Energy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0010",
+    "text": "Bullit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0011",
+    "text": "Flying Power",
+    "aliases": [
+     "Aldi Energy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0012",
+    "text": "Celsius",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0013",
+    "text": "Reign",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0014",
+    "text": "Mr. Energy",
+    "aliases": [
+     "Mister Energy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0015",
+    "text": "Gönrgy",
+    "aliases": [
+     "Gönergy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0016",
+    "text": "Holy",
+    "aliases": [
+     "Holy Energy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-005-a0017",
+    "text": "Power Horse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0018",
+    "text": "Gut & Günstig Energy",
+    "aliases": [
+     "Gut & Günstig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0019",
+    "text": "Ja! Energy",
+    "aliases": [
+     "Ja!"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0020",
+    "text": "K-Classic Energy",
+    "aliases": [
+     "K-Classic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0021",
+    "text": "XL Energy",
+    "aliases": [
+     "XL"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0022",
+    "text": "Bomb Energy",
+    "aliases": [
+     "Bomb"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0023",
+    "text": "Shark",
+    "aliases": [
+     "Shark Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0024",
+    "text": "Battery",
+    "aliases": [
+     "Battery Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0025",
+    "text": "Bang",
+    "aliases": [
+     "Bang Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0026",
+    "text": "Nocco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0027",
+    "text": "Hell",
+    "aliases": [
+     "Hell Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0028",
+    "text": "Pitbull",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0029",
+    "text": "Ghost",
+    "aliases": [
+     "Ghost Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0030",
+    "text": "C4",
+    "aliases": [
+     "C4 Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0031",
+    "text": "Emerge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0032",
+    "text": "Mixxed Up",
+    "aliases": [
+     "Lidl Energy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0033",
+    "text": "Freeway Energy",
+    "aliases": [
+     "Freeway"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0034",
+    "text": "Coca-Cola Energy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0035",
+    "text": "Dark Dog",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0036",
+    "text": "Playboy Energy",
+    "aliases": [
+     "Playboy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0037",
+    "text": "Gamer Supps",
+    "aliases": [
+     "GG"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-005-a0038",
+    "text": "Rhino's",
+    "aliases": [
+     "Rhinos Energy"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-006",
+  "text": "Nenne eine Hotelkette in Deutschland",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-006-a0001",
+    "text": "Motel One",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-006-a0002",
+    "text": "B&B Hotels",
+    "aliases": [
+     "B&B",
+     "B und B"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-006-a0003",
+    "text": "Ibis",
+    "aliases": [
+     "Ibis Budget",
+     "Ibis Styles"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-006-a0004",
+    "text": "Holiday Inn",
+    "aliases": [
+     "Holiday Inn Express"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-006-a0005",
+    "text": "Hilton",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-006-a0006",
+    "text": "Marriott",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-006-a0007",
+    "text": "Steigenberger",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-006-a0008",
+    "text": "Maritim",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0009",
+    "text": "NH Hotels",
+    "aliases": [
+     "NH",
+     "NH Collection"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0010",
+    "text": "Mercure",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0011",
+    "text": "Novotel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0012",
+    "text": "Radisson",
+    "aliases": [
+     "Radisson Blu"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0013",
+    "text": "Premier Inn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0014",
+    "text": "Meininger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0015",
+    "text": "A&O",
+    "aliases": [
+     "A&O Hostels"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0016",
+    "text": "Accor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0017",
+    "text": "Dorint",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0018",
+    "text": "Best Western",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0019",
+    "text": "Leonardo",
+    "aliases": [
+     "Leonardo Hotels"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0020",
+    "text": "Sheraton",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0021",
+    "text": "Hyatt",
+    "aliases": [
+     "Park Hyatt",
+     "Grand Hyatt",
+     "Hyatt Regency"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0022",
+    "text": "InterContinental",
+    "aliases": [
+     "IHG"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0023",
+    "text": "Kempinski",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0024",
+    "text": "Ritz-Carlton",
+    "aliases": [
+     "Ritz"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0025",
+    "text": "Westin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0026",
+    "text": "25hours",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0027",
+    "text": "Ruby",
+    "aliases": [
+     "Ruby Hotels"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0028",
+    "text": "Center Parcs",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0029",
+    "text": "Hampton by Hilton",
+    "aliases": [
+     "Hampton"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0030",
+    "text": "H-Hotels",
+    "aliases": [
+     "H-Hotel",
+     "H4 Hotel",
+     "H2 Hotel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0031",
+    "text": "Lindner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0032",
+    "text": "Achat",
+    "aliases": [
+     "Achat Hotels"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0033",
+    "text": "Arcotel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0034",
+    "text": "Prizeotel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0035",
+    "text": "Moxy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0036",
+    "text": "Courtyard by Marriott",
+    "aliases": [
+     "Courtyard"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0037",
+    "text": "Le Méridien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0038",
+    "text": "Renaissance",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0039",
+    "text": "Crowne Plaza",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0040",
+    "text": "Indigo",
+    "aliases": [
+     "Hotel Indigo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0041",
+    "text": "Four Seasons",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0042",
+    "text": "Mandarin Oriental",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0043",
+    "text": "Rocco Forte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0044",
+    "text": "Sofitel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0045",
+    "text": "Pullman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0046",
+    "text": "MGallery",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0047",
+    "text": "Mövenpick",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0048",
+    "text": "Adagio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0049",
+    "text": "Mama Shelter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0050",
+    "text": "Greet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0051",
+    "text": "Hotel F1",
+    "aliases": [
+     "Formule 1",
+     "F1"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0052",
+    "text": "Super 8",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0053",
+    "text": "Wyndham",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0054",
+    "text": "Travel Charme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0055",
+    "text": "Arabella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0056",
+    "text": "Seaside",
+    "aliases": [
+     "Seaside Hotels"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0057",
+    "text": "Atlantic Hotels",
+    "aliases": [
+     "Atlantic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0058",
+    "text": "Vienna House",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0059",
+    "text": "Park Inn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0060",
+    "text": "Scandic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0061",
+    "text": "Hilton Garden Inn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0062",
+    "text": "DoubleTree",
+    "aliases": [
+     "DoubleTree by Hilton"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0063",
+    "text": "Waldorf Astoria",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0064",
+    "text": "Andaz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0065",
+    "text": "Aloft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0066",
+    "text": "Autograph Collection",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0067",
+    "text": "AC Hotels",
+    "aliases": [
+     "AC Hotel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0068",
+    "text": "Residence Inn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0069",
+    "text": "Meliá",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0070",
+    "text": "Innside",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0071",
+    "text": "Barceló",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0072",
+    "text": "Soho House",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0073",
+    "text": "Nyx",
+    "aliases": [
+     "NYX Hotels"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0074",
+    "text": "Tryp",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0075",
+    "text": "Novum",
+    "aliases": [
+     "Novum Hotels"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0076",
+    "text": "GHotel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0077",
+    "text": "Explorer",
+    "aliases": [
+     "Explorer Hotels"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0078",
+    "text": "Romantik Hotels",
+    "aliases": [
+     "Romantik"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0079",
+    "text": "Ringhotels",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0080",
+    "text": "Akzent Hotels",
+    "aliases": [
+     "Akzent"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0081",
+    "text": "Van der Valk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0082",
+    "text": "Upstalsboom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0083",
+    "text": "Ahorn Hotels",
+    "aliases": [
+     "Ahorn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0084",
+    "text": "Dormero",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0085",
+    "text": "Welcome Hotels",
+    "aliases": [
+     "Welcome"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0086",
+    "text": "Pentahotels",
+    "aliases": [
+     "Penta"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0087",
+    "text": "Victor's",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0088",
+    "text": "Fairfield",
+    "aliases": [
+     "Fairfield by Marriott"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0089",
+    "text": "Four Points",
+    "aliases": [
+     "Four Points by Sheraton"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0090",
+    "text": "Element",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0091",
+    "text": "Tulip Inn",
+    "aliases": [
+     "Golden Tulip"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0092",
+    "text": "Jaz in the City",
+    "aliases": [
+     "Jaz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0093",
+    "text": "Wombat's",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0094",
+    "text": "Generator",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0095",
+    "text": "Jugendherberge",
+    "aliases": [
+     "DJH"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0096",
+    "text": "Select Hotels",
+    "aliases": [
+     "Select"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0097",
+    "text": "Ameron",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0098",
+    "text": "Living Hotels",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0099",
+    "text": "Adina",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0100",
+    "text": "Citadines",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0101",
+    "text": "Numa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0102",
+    "text": "Limehome",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0103",
+    "text": "The Niu",
+    "aliases": [
+     "Niu"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0104",
+    "text": "Sonnenhotels",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0105",
+    "text": "Ramada",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0106",
+    "text": "Days Inn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0107",
+    "text": "IntercityHotel",
+    "aliases": [
+     "Intercity"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-006-a0108",
+    "text": "Fairmont",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0109",
+    "text": "Althoff",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-006-a0110",
+    "text": "Oetker Collection",
+    "aliases": [
+     "Oetker"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0111",
+    "text": "Park Plaza",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0112",
+    "text": "Maxx by Steigenberger",
+    "aliases": [
+     "Maxx"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0113",
+    "text": "Amedia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0114",
+    "text": "Me and All",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-006-a0115",
+    "text": "Precise Hotels",
+    "aliases": [
+     "Precise"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-007",
+  "text": "Nenne eine Cola-Marke, die in Deutschland zu kaufen ist",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-007-a0001",
+    "text": "Coca-Cola",
+    "aliases": [
+     "Coke",
+     "Coca-Cola Zero",
+     "Coke Zero",
+     "Cola Zero",
+     "Coca-Cola Light",
+     "Cola Light",
+     "Diet Coke"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-007-a0002",
+    "text": "Pepsi",
+    "aliases": [
+     "Pepsi Max",
+     "Pepsi Cola",
+     "Pepsi Light"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-007-a0003",
+    "text": "Fritz-Kola",
+    "aliases": [
+     "Fritz"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-007-a0004",
+    "text": "Afri-Cola",
+    "aliases": [
+     "Afri"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-007-a0005",
+    "text": "Vita Cola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0006",
+    "text": "Club Cola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0007",
+    "text": "Premium Cola",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0008",
+    "text": "River Cola",
+    "aliases": [
+     "River",
+     "Aldi Cola"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0009",
+    "text": "Freeway Cola",
+    "aliases": [
+     "Freeway",
+     "Lidl Cola"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0010",
+    "text": "Sinalco Cola",
+    "aliases": [
+     "Sinalco"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0011",
+    "text": "Mezzo Mix",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0012",
+    "text": "Spezi",
+    "aliases": [
+     "Paulaner Spezi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-007-a0013",
+    "text": "Schwip Schwap",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0014",
+    "text": "K-Classic Cola",
+    "aliases": [
+     "K-Classic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0015",
+    "text": "Gut & Günstig Cola",
+    "aliases": [
+     "Gut & Günstig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0016",
+    "text": "Ja! Cola",
+    "aliases": [
+     "Ja!"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0017",
+    "text": "Karma Cola",
+    "aliases": [
+     "Karma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0018",
+    "text": "Red Bull Cola",
+    "aliases": [
+     "Red Bull Simply Cola"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0019",
+    "text": "Mio Mio Cola",
+    "aliases": [
+     "Mio Mio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0020",
+    "text": "Fentimans",
+    "aliases": [
+     "Fentimans Curiosity Cola"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-007-a0021",
+    "text": "Kofola",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-007-a0022",
+    "text": "Virgin Cola",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-008",
+  "text": "Nenne eine Tankstelle in Deutschland",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-008-a0001",
+    "text": "Aral",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-008-a0002",
+    "text": "Shell",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-008-a0003",
+    "text": "Esso",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-008-a0004",
+    "text": "Total",
+    "aliases": [
+     "TotalEnergies"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-008-a0005",
+    "text": "Jet",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-008-a0006",
+    "text": "Star",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0007",
+    "text": "Avia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0008",
+    "text": "Agip",
+    "aliases": [
+     "Eni"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0009",
+    "text": "BFT",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0010",
+    "text": "Westfalen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0011",
+    "text": "Raiffeisen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0012",
+    "text": "HEM",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0013",
+    "text": "OMV",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0014",
+    "text": "Orlen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0015",
+    "text": "BP",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0016",
+    "text": "Globus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0017",
+    "text": "Kaufland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-008-a0018",
+    "text": "Q1",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0019",
+    "text": "Hoyer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0020",
+    "text": "Classic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0021",
+    "text": "Score",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0022",
+    "text": "Sprint",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0023",
+    "text": "ED",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0024",
+    "text": "Tamoil",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0025",
+    "text": "Calpam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0026",
+    "text": "Team",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0027",
+    "text": "Elan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0028",
+    "text": "Supol",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0029",
+    "text": "Oil!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0030",
+    "text": "Gulf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0031",
+    "text": "BayWa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0032",
+    "text": "Allguth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0033",
+    "text": "Mr. Wash",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0034",
+    "text": "Tank & Rast",
+    "aliases": [
+     "Serways"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0035",
+    "text": "DEA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0036",
+    "text": "Texaco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0037",
+    "text": "Minol",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0038",
+    "text": "Mobil",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0039",
+    "text": "Fina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0040",
+    "text": "Elf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0041",
+    "text": "Freie Tankstelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0042",
+    "text": "Marktkauf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0043",
+    "text": "Costco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-008-a0044",
+    "text": "Gasolin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-008-a0045",
+    "text": "Conoco",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-008-a0046",
+    "text": "Markant",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-008-a0047",
+    "text": "Nordoel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-008-a0048",
+    "text": "Edeka",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-008-a0049",
+    "text": "Real",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-008-a0050",
+    "text": "Famila",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-009",
+  "text": "Nenne einen Sportwettenanbieter in Deutschland",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-009-a0001",
+    "text": "Tipico",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-009-a0002",
+    "text": "Bet365",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-009-a0003",
+    "text": "Bwin",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-009-a0004",
+    "text": "Interwetten",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-009-a0005",
+    "text": "Betano",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-009-a0006",
+    "text": "Oddset",
+    "aliases": [
+     "Lotto"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-009-a0007",
+    "text": "Betway",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0008",
+    "text": "Bet-at-home",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0009",
+    "text": "Sportwetten.de",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0010",
+    "text": "Admiral",
+    "aliases": [
+     "Admiralbet"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0011",
+    "text": "Happybet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0012",
+    "text": "Merkur",
+    "aliases": [
+     "Merkur Sports",
+     "Merkur Bets"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0013",
+    "text": "Neo.bet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0014",
+    "text": "Winamax",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0015",
+    "text": "Mybet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0016",
+    "text": "Unibet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0017",
+    "text": "BildBet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0018",
+    "text": "Stake",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-009-a0019",
+    "text": "BetVictor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0020",
+    "text": "Betfair",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0021",
+    "text": "William Hill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0022",
+    "text": "888sport",
+    "aliases": [
+     "888"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0023",
+    "text": "Cashpoint",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0024",
+    "text": "Xtip",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0025",
+    "text": "Tipwin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0026",
+    "text": "Bet3000",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0027",
+    "text": "NetBet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0028",
+    "text": "1xBet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0029",
+    "text": "Sportingbet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0030",
+    "text": "Wetten.com",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0031",
+    "text": "Betsson",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0032",
+    "text": "Lottoland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-009-a0033",
+    "text": "22Bet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0034",
+    "text": "Pinnacle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0035",
+    "text": "Vbet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0036",
+    "text": "Mr Green",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0037",
+    "text": "LeoVegas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0038",
+    "text": "Expekt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0039",
+    "text": "Bet90",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-009-a0040",
+    "text": "Rabona",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-010",
+  "text": "Nenne einen E-Mail-Provider in Deutschland",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-010-a0001",
+    "text": "Gmail",
+    "aliases": [
+     "Google Mail",
+     "Google"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-010-a0002",
+    "text": "GMX",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-010-a0003",
+    "text": "Web.de",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-010-a0004",
+    "text": "T-Online",
+    "aliases": [
+     "Telekom"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-010-a0005",
+    "text": "Outlook",
+    "aliases": [
+     "Hotmail",
+     "Live",
+     "MSN",
+     "Microsoft"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-010-a0006",
+    "text": "Yahoo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-010-a0007",
+    "text": "iCloud",
+    "aliases": [
+     "Apple",
+     "me.com"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0008",
+    "text": "Freenet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0009",
+    "text": "Posteo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0010",
+    "text": "Proton",
+    "aliases": [
+     "ProtonMail"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0011",
+    "text": "Mailbox.org",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0012",
+    "text": "IONOS",
+    "aliases": [
+     "1&1",
+     "1und1"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0013",
+    "text": "Arcor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0014",
+    "text": "AOL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0015",
+    "text": "Tuta",
+    "aliases": [
+     "Tutanota"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0016",
+    "text": "Mail.de",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0017",
+    "text": "Vodafone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0018",
+    "text": "Strato",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-010-a0019",
+    "text": "Mail.com",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0020",
+    "text": "Email.de",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0021",
+    "text": "Alice",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0022",
+    "text": "O2",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0023",
+    "text": "Lycos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0024",
+    "text": "Fastmail",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0025",
+    "text": "Zoho",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0026",
+    "text": "Yandex",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0027",
+    "text": "Mail.ru",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0028",
+    "text": "Startmail",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0029",
+    "text": "Mailfence",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0030",
+    "text": "Hushmail",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0031",
+    "text": "Kabel Deutschland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0032",
+    "text": "Unitymedia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0033",
+    "text": "NetCologne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0034",
+    "text": "EWE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0035",
+    "text": "Hey",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0036",
+    "text": "All-Inkl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0037",
+    "text": "Hetzner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0038",
+    "text": "Runbox",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0039",
+    "text": "Firemail",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-010-a0040",
+    "text": "Tiscali",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-010-a0041",
+    "text": "Versatel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-010-a0042",
+    "text": "Kabelmail",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-010-a0043",
+    "text": "Disroot",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

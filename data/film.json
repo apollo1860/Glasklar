@@ -7236,5 +7236,6516 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "fil-011",
+  "text": "Nenne ein Pokémon",
+  "kategorie": "film",
+  "answers": [
+   {
+    "id": "fil-011-a0001",
+    "text": "Glurak",
+    "aliases": [
+     "Charizard"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-011-a0002",
+    "text": "Pikachu",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-011-a0003",
+    "text": "Bisasam",
+    "aliases": [
+     "Bulbasaur"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0004",
+    "text": "Glumanda",
+    "aliases": [
+     "Charmander"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0005",
+    "text": "Schiggy",
+    "aliases": [
+     "Squirtle"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0006",
+    "text": "Raichu",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0007",
+    "text": "Pummeluff",
+    "aliases": [
+     "Jigglypuff"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0008",
+    "text": "Mauzi",
+    "aliases": [
+     "Meowth"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0009",
+    "text": "Enton",
+    "aliases": [
+     "Psyduck"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0010",
+    "text": "Gengar",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0011",
+    "text": "Karpador",
+    "aliases": [
+     "Magikarp"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0012",
+    "text": "Garados",
+    "aliases": [
+     "Gyarados"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0013",
+    "text": "Evoli",
+    "aliases": [
+     "Eevee"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0014",
+    "text": "Relaxo",
+    "aliases": [
+     "Snorlax"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0015",
+    "text": "Mewtu",
+    "aliases": [
+     "Mewtwo"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0016",
+    "text": "Mew",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-011-a0017",
+    "text": "Bisaknosp",
+    "aliases": [
+     "Ivysaur"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0018",
+    "text": "Bisaflor",
+    "aliases": [
+     "Venusaur"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0019",
+    "text": "Glutexo",
+    "aliases": [
+     "Charmeleon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0020",
+    "text": "Schillok",
+    "aliases": [
+     "Wartortle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0021",
+    "text": "Turtok",
+    "aliases": [
+     "Blastoise"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0022",
+    "text": "Raupy",
+    "aliases": [
+     "Caterpie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0023",
+    "text": "Safcon",
+    "aliases": [
+     "Metapod"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0024",
+    "text": "Smettbo",
+    "aliases": [
+     "Butterfree"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0025",
+    "text": "Hornliu",
+    "aliases": [
+     "Weedle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0026",
+    "text": "Kokuna",
+    "aliases": [
+     "Kakuna"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0027",
+    "text": "Taubsi",
+    "aliases": [
+     "Pidgey"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0028",
+    "text": "Tauboss",
+    "aliases": [
+     "Pidgeot"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0029",
+    "text": "Rattfratz",
+    "aliases": [
+     "Rattata"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0030",
+    "text": "Rettan",
+    "aliases": [
+     "Ekans"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0031",
+    "text": "Arbok",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0032",
+    "text": "Sandan",
+    "aliases": [
+     "Sandshrew"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0033",
+    "text": "Nidoran",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0034",
+    "text": "Piepi",
+    "aliases": [
+     "Clefairy"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0035",
+    "text": "Vulpix",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0036",
+    "text": "Zubat",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0037",
+    "text": "Myrapla",
+    "aliases": [
+     "Oddish"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0038",
+    "text": "Paras",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0039",
+    "text": "Digda",
+    "aliases": [
+     "Diglett"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0040",
+    "text": "Menki",
+    "aliases": [
+     "Mankey"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0041",
+    "text": "Fukano",
+    "aliases": [
+     "Growlithe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0042",
+    "text": "Arkani",
+    "aliases": [
+     "Arcanine"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0043",
+    "text": "Quapsel",
+    "aliases": [
+     "Poliwag"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0044",
+    "text": "Abra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0045",
+    "text": "Kadabra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0046",
+    "text": "Simsala",
+    "aliases": [
+     "Alakazam"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0047",
+    "text": "Machomei",
+    "aliases": [
+     "Machamp"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0048",
+    "text": "Knofensa",
+    "aliases": [
+     "Bellsprout"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0049",
+    "text": "Tentacha",
+    "aliases": [
+     "Tentacool"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0050",
+    "text": "Kleinstein",
+    "aliases": [
+     "Geodude"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0051",
+    "text": "Geowaz",
+    "aliases": [
+     "Golem"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0052",
+    "text": "Ponita",
+    "aliases": [
+     "Ponyta"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0053",
+    "text": "Flegmon",
+    "aliases": [
+     "Slowpoke"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0054",
+    "text": "Magnetilo",
+    "aliases": [
+     "Magnemite"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0055",
+    "text": "Dodu",
+    "aliases": [
+     "Doduo"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0056",
+    "text": "Sleima",
+    "aliases": [
+     "Grimer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0057",
+    "text": "Muschas",
+    "aliases": [
+     "Shellder"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0058",
+    "text": "Nebulak",
+    "aliases": [
+     "Gastly"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0059",
+    "text": "Alpollo",
+    "aliases": [
+     "Haunter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0060",
+    "text": "Onix",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0061",
+    "text": "Krabby",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0062",
+    "text": "Voltobal",
+    "aliases": [
+     "Voltorb"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0063",
+    "text": "Tragosso",
+    "aliases": [
+     "Cubone"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0064",
+    "text": "Smogon",
+    "aliases": [
+     "Koffing"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0065",
+    "text": "Chaneira",
+    "aliases": [
+     "Chansey"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0066",
+    "text": "Seeper",
+    "aliases": [
+     "Horsea"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0067",
+    "text": "Goldini",
+    "aliases": [
+     "Goldeen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0068",
+    "text": "Sterndu",
+    "aliases": [
+     "Staryu"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0069",
+    "text": "Pantimos",
+    "aliases": [
+     "Mr. Mime"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0070",
+    "text": "Sichlor",
+    "aliases": [
+     "Scyther"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0071",
+    "text": "Elektek",
+    "aliases": [
+     "Electabuzz"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0072",
+    "text": "Magmar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0073",
+    "text": "Tauros",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0074",
+    "text": "Lapras",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0075",
+    "text": "Ditto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0076",
+    "text": "Aquana",
+    "aliases": [
+     "Vaporeon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0077",
+    "text": "Blitza",
+    "aliases": [
+     "Jolteon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0078",
+    "text": "Flamara",
+    "aliases": [
+     "Flareon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0079",
+    "text": "Porygon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0080",
+    "text": "Amonitas",
+    "aliases": [
+     "Omanyte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0081",
+    "text": "Kabuto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0082",
+    "text": "Aerodactyl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0083",
+    "text": "Arktos",
+    "aliases": [
+     "Articuno"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0084",
+    "text": "Zapdos",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0085",
+    "text": "Lavados",
+    "aliases": [
+     "Moltres"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0086",
+    "text": "Dratini",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0087",
+    "text": "Dragoran",
+    "aliases": [
+     "Dragonite"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0088",
+    "text": "Endivie",
+    "aliases": [
+     "Chikorita"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0089",
+    "text": "Feurigel",
+    "aliases": [
+     "Cyndaquil"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0090",
+    "text": "Karnimani",
+    "aliases": [
+     "Totodile"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0091",
+    "text": "Pichu",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0092",
+    "text": "Togepi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0093",
+    "text": "Marill",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0094",
+    "text": "Psiana",
+    "aliases": [
+     "Espeon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0095",
+    "text": "Nachtara",
+    "aliases": [
+     "Umbreon"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0096",
+    "text": "Lugia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0097",
+    "text": "Ho-Oh",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0098",
+    "text": "Celebi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0099",
+    "text": "Geckarbor",
+    "aliases": [
+     "Treecko"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0100",
+    "text": "Flemmli",
+    "aliases": [
+     "Torchic"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0101",
+    "text": "Hydropi",
+    "aliases": [
+     "Mudkip"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0102",
+    "text": "Kyogre",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0103",
+    "text": "Groudon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0104",
+    "text": "Rayquaza",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0105",
+    "text": "Chelast",
+    "aliases": [
+     "Turtwig"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0106",
+    "text": "Panflam",
+    "aliases": [
+     "Chimchar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0107",
+    "text": "Plinfa",
+    "aliases": [
+     "Piplup"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0108",
+    "text": "Lucario",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-011-a0109",
+    "text": "Bibor",
+    "aliases": [
+     "Beedrill"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0110",
+    "text": "Tauboga",
+    "aliases": [
+     "Pidgeotto"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0111",
+    "text": "Rattikarl",
+    "aliases": [
+     "Raticate"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0112",
+    "text": "Habitak",
+    "aliases": [
+     "Spearow"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0113",
+    "text": "Ibitak",
+    "aliases": [
+     "Fearow"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0114",
+    "text": "Sandamer",
+    "aliases": [
+     "Sandslash"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0115",
+    "text": "Nidorina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0116",
+    "text": "Nidoqueen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0117",
+    "text": "Nidorino",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0118",
+    "text": "Nidoking",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0119",
+    "text": "Pixi",
+    "aliases": [
+     "Clefable"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0120",
+    "text": "Vulnona",
+    "aliases": [
+     "Ninetales"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0121",
+    "text": "Knuddeluff",
+    "aliases": [
+     "Wigglytuff"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0122",
+    "text": "Golbat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0123",
+    "text": "Duflor",
+    "aliases": [
+     "Gloom"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0124",
+    "text": "Giflor",
+    "aliases": [
+     "Vileplume"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0125",
+    "text": "Parasek",
+    "aliases": [
+     "Parasect"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0126",
+    "text": "Bluzuk",
+    "aliases": [
+     "Venonat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0127",
+    "text": "Omot",
+    "aliases": [
+     "Venomoth"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0128",
+    "text": "Digdri",
+    "aliases": [
+     "Dugtrio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0129",
+    "text": "Snobilikat",
+    "aliases": [
+     "Persian"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0130",
+    "text": "Entoron",
+    "aliases": [
+     "Golduck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0131",
+    "text": "Rasaff",
+    "aliases": [
+     "Primeape"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0132",
+    "text": "Quaputzi",
+    "aliases": [
+     "Poliwhirl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0133",
+    "text": "Quappo",
+    "aliases": [
+     "Poliwrath"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0134",
+    "text": "Machollo",
+    "aliases": [
+     "Machop"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0135",
+    "text": "Maschock",
+    "aliases": [
+     "Machoke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0136",
+    "text": "Ultrigaria",
+    "aliases": [
+     "Weepinbell"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0137",
+    "text": "Sarzenia",
+    "aliases": [
+     "Victreebel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0138",
+    "text": "Tentoxa",
+    "aliases": [
+     "Tentacruel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0139",
+    "text": "Georok",
+    "aliases": [
+     "Graveler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0140",
+    "text": "Gallopa",
+    "aliases": [
+     "Rapidash"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0141",
+    "text": "Lahmus",
+    "aliases": [
+     "Slowbro"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0142",
+    "text": "Magneton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0143",
+    "text": "Porenta",
+    "aliases": [
+     "Farfetch’d"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0144",
+    "text": "Dodri",
+    "aliases": [
+     "Dodrio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0145",
+    "text": "Jurob",
+    "aliases": [
+     "Seel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0146",
+    "text": "Jugong",
+    "aliases": [
+     "Dewgong"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0147",
+    "text": "Sleimok",
+    "aliases": [
+     "Muk"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0148",
+    "text": "Austos",
+    "aliases": [
+     "Cloyster"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0149",
+    "text": "Traumato",
+    "aliases": [
+     "Drowzee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0150",
+    "text": "Hypno",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0151",
+    "text": "Kingler",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0152",
+    "text": "Lektrobal",
+    "aliases": [
+     "Electrode"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0153",
+    "text": "Owei",
+    "aliases": [
+     "Exeggcute"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0154",
+    "text": "Kokowei",
+    "aliases": [
+     "Exeggutor"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0155",
+    "text": "Knogga",
+    "aliases": [
+     "Marowak"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0156",
+    "text": "Kicklee",
+    "aliases": [
+     "Hitmonlee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0157",
+    "text": "Nockchan",
+    "aliases": [
+     "Hitmonchan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0158",
+    "text": "Schlurp",
+    "aliases": [
+     "Lickitung"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0159",
+    "text": "Smogmog",
+    "aliases": [
+     "Weezing"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0160",
+    "text": "Rihorn",
+    "aliases": [
+     "Rhyhorn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0161",
+    "text": "Rizeros",
+    "aliases": [
+     "Rhydon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0162",
+    "text": "Tangela",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0163",
+    "text": "Kangama",
+    "aliases": [
+     "Kangaskhan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0164",
+    "text": "Seemon",
+    "aliases": [
+     "Seadra"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0165",
+    "text": "Golking",
+    "aliases": [
+     "Seaking"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0166",
+    "text": "Starmie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0167",
+    "text": "Rossana",
+    "aliases": [
+     "Jynx"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0168",
+    "text": "Pinsir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0169",
+    "text": "Amoroso",
+    "aliases": [
+     "Omastar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0170",
+    "text": "Kabutops",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0171",
+    "text": "Dragonir",
+    "aliases": [
+     "Dragonair"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0172",
+    "text": "Meganie",
+    "aliases": [
+     "Meganium"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0173",
+    "text": "Tornupto",
+    "aliases": [
+     "Typhlosion"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0174",
+    "text": "Impergator",
+    "aliases": [
+     "Feraligatr"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0175",
+    "text": "Hoothoot",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0176",
+    "text": "Iksbat",
+    "aliases": [
+     "Crobat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0177",
+    "text": "Voltilamm",
+    "aliases": [
+     "Mareep"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0178",
+    "text": "Ampharos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0179",
+    "text": "Icognito",
+    "aliases": [
+     "Unown"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0180",
+    "text": "Woingenau",
+    "aliases": [
+     "Wobbuffet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0181",
+    "text": "Stahlos",
+    "aliases": [
+     "Steelix"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0182",
+    "text": "Snubbull",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0183",
+    "text": "Scherox",
+    "aliases": [
+     "Scizor"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0184",
+    "text": "Porygon2",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0185",
+    "text": "Heiteira",
+    "aliases": [
+     "Blissey"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0186",
+    "text": "Raikou",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0187",
+    "text": "Entei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0188",
+    "text": "Suicune",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0189",
+    "text": "Larvitar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0190",
+    "text": "Despotar",
+    "aliases": [
+     "Tyranitar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0191",
+    "text": "Gewaldro",
+    "aliases": [
+     "Sceptile"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0192",
+    "text": "Lohgock",
+    "aliases": [
+     "Blaziken"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0193",
+    "text": "Sumpex",
+    "aliases": [
+     "Swampert"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0194",
+    "text": "Guardevoir",
+    "aliases": [
+     "Gardevoir"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0195",
+    "text": "Milotic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0196",
+    "text": "Kecleon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0197",
+    "text": "Absol",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0198",
+    "text": "Kindwurm",
+    "aliases": [
+     "Bagon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0199",
+    "text": "Brutalanda",
+    "aliases": [
+     "Salamence"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0200",
+    "text": "Tanhel",
+    "aliases": [
+     "Beldum"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0201",
+    "text": "Metagross",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0202",
+    "text": "Regirock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0203",
+    "text": "Regice",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0204",
+    "text": "Registeel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0205",
+    "text": "Latias",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0206",
+    "text": "Latios",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0207",
+    "text": "Jirachi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0208",
+    "text": "Deoxys",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0209",
+    "text": "Chelterrar",
+    "aliases": [
+     "Torterra"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0210",
+    "text": "Panferno",
+    "aliases": [
+     "Infernape"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0211",
+    "text": "Impoleon",
+    "aliases": [
+     "Empoleon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0212",
+    "text": "Staraptor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0213",
+    "text": "Bidiza",
+    "aliases": [
+     "Bidoof"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0214",
+    "text": "Sheinux",
+    "aliases": [
+     "Shinx"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0215",
+    "text": "Luxtra",
+    "aliases": [
+     "Luxray"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0216",
+    "text": "Pachirisu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0217",
+    "text": "Pantimimi",
+    "aliases": [
+     "Mime Jr."
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0218",
+    "text": "Wonneira",
+    "aliases": [
+     "Happiny"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0219",
+    "text": "Kaumalat",
+    "aliases": [
+     "Gible"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0220",
+    "text": "Knakrack",
+    "aliases": [
+     "Garchomp"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0221",
+    "text": "Mampfaxo",
+    "aliases": [
+     "Munchlax"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0222",
+    "text": "Riolu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0223",
+    "text": "Snibunna",
+    "aliases": [
+     "Weavile"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0224",
+    "text": "Rihornior",
+    "aliases": [
+     "Rhyperior"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0225",
+    "text": "Elevoltek",
+    "aliases": [
+     "Electivire"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0226",
+    "text": "Magbrant",
+    "aliases": [
+     "Magmortar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0227",
+    "text": "Togekiss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0228",
+    "text": "Folipurba",
+    "aliases": [
+     "Leafeon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0229",
+    "text": "Glaziola",
+    "aliases": [
+     "Glaceon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0230",
+    "text": "Porygon-Z",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0231",
+    "text": "Galagladi",
+    "aliases": [
+     "Gallade"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0232",
+    "text": "Dialga",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0233",
+    "text": "Palkia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0234",
+    "text": "Heatran",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0235",
+    "text": "Regigigas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0236",
+    "text": "Giratina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0237",
+    "text": "Cresselia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0238",
+    "text": "Manaphy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0239",
+    "text": "Darkrai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0240",
+    "text": "Shaymin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0241",
+    "text": "Arceus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0242",
+    "text": "Serpifeu",
+    "aliases": [
+     "Snivy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0243",
+    "text": "Floink",
+    "aliases": [
+     "Tepig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0244",
+    "text": "Ottaro",
+    "aliases": [
+     "Oshawott"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0245",
+    "text": "Reshiram",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0246",
+    "text": "Zekrom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0247",
+    "text": "Zorua",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0248",
+    "text": "Zoroark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0249",
+    "text": "Igamaro",
+    "aliases": [
+     "Chespin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0250",
+    "text": "Fynx",
+    "aliases": [
+     "Fennekin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0251",
+    "text": "Froxy",
+    "aliases": [
+     "Froakie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0252",
+    "text": "Quajutsu",
+    "aliases": [
+     "Greninja"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0253",
+    "text": "Xerneas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0254",
+    "text": "Yveltal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0255",
+    "text": "Feelinara",
+    "aliases": [
+     "Sylveon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0256",
+    "text": "Bauz",
+    "aliases": [
+     "Rowlet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0257",
+    "text": "Flamiau",
+    "aliases": [
+     "Litten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0258",
+    "text": "Fuegro",
+    "aliases": [
+     "Incineroar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0259",
+    "text": "Robball",
+    "aliases": [
+     "Popplio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0260",
+    "text": "Solgaleo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0261",
+    "text": "Lunala",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0262",
+    "text": "Meltan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0263",
+    "text": "Mimigma",
+    "aliases": [
+     "Mimikyu"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0264",
+    "text": "Chimpep",
+    "aliases": [
+     "Grookey"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0265",
+    "text": "Hopplo",
+    "aliases": [
+     "Scorbunny"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0266",
+    "text": "Liberlo",
+    "aliases": [
+     "Cinderace"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0267",
+    "text": "Memmeon",
+    "aliases": [
+     "Sobble"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0268",
+    "text": "Zacian",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0269",
+    "text": "Zamazenta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0270",
+    "text": "Felori",
+    "aliases": [
+     "Sprigatito"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0271",
+    "text": "Krokel",
+    "aliases": [
+     "Fuecoco"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0272",
+    "text": "Kwaks",
+    "aliases": [
+     "Quaxly"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0273",
+    "text": "Koraidon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0274",
+    "text": "Miraidon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-011-a0275",
+    "text": "Lorblatt",
+    "aliases": [
+     "Bayleef"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0276",
+    "text": "Igelavar",
+    "aliases": [
+     "Quilava"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0277",
+    "text": "Tyracroc",
+    "aliases": [
+     "Croconaw"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0278",
+    "text": "Wiesor",
+    "aliases": [
+     "Sentret"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0279",
+    "text": "Wiesenior",
+    "aliases": [
+     "Furret"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0280",
+    "text": "Noctuh",
+    "aliases": [
+     "Noctowl"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0281",
+    "text": "Ledyba",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0282",
+    "text": "Ledian",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0283",
+    "text": "Webarak",
+    "aliases": [
+     "Spinarak"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0284",
+    "text": "Ariados",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0285",
+    "text": "Lampi",
+    "aliases": [
+     "Chinchou"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0286",
+    "text": "Lanturn",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0287",
+    "text": "Pii",
+    "aliases": [
+     "Cleffa"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0288",
+    "text": "Fluffeluff",
+    "aliases": [
+     "Igglybuff"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0289",
+    "text": "Togetic",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0290",
+    "text": "Natu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0291",
+    "text": "Xatu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0292",
+    "text": "Waaty",
+    "aliases": [
+     "Flaaffy"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0293",
+    "text": "Blubella",
+    "aliases": [
+     "Bellossom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0294",
+    "text": "Azumarill",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0295",
+    "text": "Mogelbaum",
+    "aliases": [
+     "Sudowoodo"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0296",
+    "text": "Quaxo",
+    "aliases": [
+     "Politoed"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0297",
+    "text": "Hoppspross",
+    "aliases": [
+     "Hoppip"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0298",
+    "text": "Hubelupf",
+    "aliases": [
+     "Skiploom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0299",
+    "text": "Papungha",
+    "aliases": [
+     "Jumpluff"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0300",
+    "text": "Griffel",
+    "aliases": [
+     "Aipom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0301",
+    "text": "Sonnkern",
+    "aliases": [
+     "Sunkern"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0302",
+    "text": "Sonnflora",
+    "aliases": [
+     "Sunflora"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0303",
+    "text": "Yanma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0304",
+    "text": "Felino",
+    "aliases": [
+     "Wooper"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0305",
+    "text": "Morlord",
+    "aliases": [
+     "Quagsire"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0306",
+    "text": "Kramurx",
+    "aliases": [
+     "Murkrow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0307",
+    "text": "Laschoking",
+    "aliases": [
+     "Slowking"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0308",
+    "text": "Traunfugil",
+    "aliases": [
+     "Misdreavus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0309",
+    "text": "Girafarig",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0310",
+    "text": "Tannza",
+    "aliases": [
+     "Pineco"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0311",
+    "text": "Forstellka",
+    "aliases": [
+     "Forretress"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0312",
+    "text": "Dummisel",
+    "aliases": [
+     "Dunsparce"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0313",
+    "text": "Skorgla",
+    "aliases": [
+     "Gligar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0314",
+    "text": "Granbull",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0315",
+    "text": "Baldorfish",
+    "aliases": [
+     "Qwilfish"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0316",
+    "text": "Pottrott",
+    "aliases": [
+     "Shuckle"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0317",
+    "text": "Skaraborn",
+    "aliases": [
+     "Heracross"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0318",
+    "text": "Sniebel",
+    "aliases": [
+     "Sneasel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0319",
+    "text": "Teddiursa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0320",
+    "text": "Ursaring",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0321",
+    "text": "Schneckmag",
+    "aliases": [
+     "Slugma"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0322",
+    "text": "Magcargo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0323",
+    "text": "Quiekel",
+    "aliases": [
+     "Swinub"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0324",
+    "text": "Keifel",
+    "aliases": [
+     "Piloswine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0325",
+    "text": "Corasonn",
+    "aliases": [
+     "Corsola"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0326",
+    "text": "Remoraid",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0327",
+    "text": "Octillery",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0328",
+    "text": "Botogel",
+    "aliases": [
+     "Delibird"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0329",
+    "text": "Mantax",
+    "aliases": [
+     "Mantine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0330",
+    "text": "Panzaeron",
+    "aliases": [
+     "Skarmory"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0331",
+    "text": "Hunduster",
+    "aliases": [
+     "Houndour"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0332",
+    "text": "Hundemon",
+    "aliases": [
+     "Houndoom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0333",
+    "text": "Seedraking",
+    "aliases": [
+     "Kingdra"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0334",
+    "text": "Phanpy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0335",
+    "text": "Donphan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0336",
+    "text": "Damhirplex",
+    "aliases": [
+     "Stantler"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0337",
+    "text": "Farbeagle",
+    "aliases": [
+     "Smeargle"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0338",
+    "text": "Rabauz",
+    "aliases": [
+     "Tyrogue"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0339",
+    "text": "Kapoera",
+    "aliases": [
+     "Hitmontop"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0340",
+    "text": "Kussilla",
+    "aliases": [
+     "Smoochum"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0341",
+    "text": "Elekid",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0342",
+    "text": "Magby",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0343",
+    "text": "Miltank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0344",
+    "text": "Pupitar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0345",
+    "text": "Reptain",
+    "aliases": [
+     "Grovyle"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0346",
+    "text": "Jungglut",
+    "aliases": [
+     "Combusken"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0347",
+    "text": "Moorabbel",
+    "aliases": [
+     "Marshtomp"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0348",
+    "text": "Fiffyen",
+    "aliases": [
+     "Poochyena"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0349",
+    "text": "Magnayen",
+    "aliases": [
+     "Mightyena"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0350",
+    "text": "Zigzachs",
+    "aliases": [
+     "Zigzagoon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0351",
+    "text": "Geradaks",
+    "aliases": [
+     "Linoone"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0352",
+    "text": "Waumpel",
+    "aliases": [
+     "Wurmple"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0353",
+    "text": "Schaloko",
+    "aliases": [
+     "Silcoon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0354",
+    "text": "Papinella",
+    "aliases": [
+     "Beautifly"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0355",
+    "text": "Panekon",
+    "aliases": [
+     "Cascoon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0356",
+    "text": "Pudox",
+    "aliases": [
+     "Dustox"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0357",
+    "text": "Loturzel",
+    "aliases": [
+     "Lotad"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0358",
+    "text": "Lombrero",
+    "aliases": [
+     "Lombre"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0359",
+    "text": "Kappalores",
+    "aliases": [
+     "Ludicolo"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0360",
+    "text": "Samurzel",
+    "aliases": [
+     "Seedot"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0361",
+    "text": "Blanas",
+    "aliases": [
+     "Nuzleaf"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0362",
+    "text": "Tengulist",
+    "aliases": [
+     "Shiftry"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0363",
+    "text": "Schwalbini",
+    "aliases": [
+     "Taillow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0364",
+    "text": "Schwalboss",
+    "aliases": [
+     "Swellow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0365",
+    "text": "Wingull",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0366",
+    "text": "Pelipper",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0367",
+    "text": "Trasla",
+    "aliases": [
+     "Ralts"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0368",
+    "text": "Kirlia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0369",
+    "text": "Gehweiher",
+    "aliases": [
+     "Surskit"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0370",
+    "text": "Maskeregen",
+    "aliases": [
+     "Masquerain"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0371",
+    "text": "Knilz",
+    "aliases": [
+     "Shroomish"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0372",
+    "text": "Kapilz",
+    "aliases": [
+     "Breloom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0373",
+    "text": "Bummelz",
+    "aliases": [
+     "Slakoth"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0374",
+    "text": "Muntier",
+    "aliases": [
+     "Vigoroth"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0375",
+    "text": "Letarking",
+    "aliases": [
+     "Slaking"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0376",
+    "text": "Nincada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0377",
+    "text": "Ninjask",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0378",
+    "text": "Ninjatom",
+    "aliases": [
+     "Shedinja"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0379",
+    "text": "Flurmel",
+    "aliases": [
+     "Whismur"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0380",
+    "text": "Krakeelo",
+    "aliases": [
+     "Loudred"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0381",
+    "text": "Krawumms",
+    "aliases": [
+     "Exploud"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0382",
+    "text": "Makuhita",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0383",
+    "text": "Hariyama",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0384",
+    "text": "Azurill",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0385",
+    "text": "Nasgnet",
+    "aliases": [
+     "Nosepass"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0386",
+    "text": "Eneco",
+    "aliases": [
+     "Skitty"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0387",
+    "text": "Enekoro",
+    "aliases": [
+     "Delcatty"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0388",
+    "text": "Zobiris",
+    "aliases": [
+     "Sableye"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0389",
+    "text": "Flunkifer",
+    "aliases": [
+     "Mawile"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0390",
+    "text": "Stollunior",
+    "aliases": [
+     "Aron"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0391",
+    "text": "Stollrak",
+    "aliases": [
+     "Lairon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0392",
+    "text": "Stolloss",
+    "aliases": [
+     "Aggron"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0393",
+    "text": "Meditie",
+    "aliases": [
+     "Meditite"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0394",
+    "text": "Meditalis",
+    "aliases": [
+     "Medicham"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0395",
+    "text": "Frizelbliz",
+    "aliases": [
+     "Electrike"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0396",
+    "text": "Voltenso",
+    "aliases": [
+     "Manectric"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0397",
+    "text": "Plusle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0398",
+    "text": "Minun",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0399",
+    "text": "Volbeat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0400",
+    "text": "Illumise",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0401",
+    "text": "Roselia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0402",
+    "text": "Schluppuck",
+    "aliases": [
+     "Gulpin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0403",
+    "text": "Schlukwech",
+    "aliases": [
+     "Swalot"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0404",
+    "text": "Kanivanha",
+    "aliases": [
+     "Carvanha"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0405",
+    "text": "Tohaido",
+    "aliases": [
+     "Sharpedo"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0406",
+    "text": "Wailmer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0407",
+    "text": "Wailord",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0408",
+    "text": "Camaub",
+    "aliases": [
+     "Numel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0409",
+    "text": "Camerupt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0410",
+    "text": "Qurtel",
+    "aliases": [
+     "Torkoal"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0411",
+    "text": "Spoink",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0412",
+    "text": "Groink",
+    "aliases": [
+     "Grumpig"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0413",
+    "text": "Pandir",
+    "aliases": [
+     "Spinda"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0414",
+    "text": "Knacklion",
+    "aliases": [
+     "Trapinch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0415",
+    "text": "Vibrava",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0416",
+    "text": "Libelldra",
+    "aliases": [
+     "Flygon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0417",
+    "text": "Tuska",
+    "aliases": [
+     "Cacnea"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0418",
+    "text": "Noktuska",
+    "aliases": [
+     "Cacturne"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0419",
+    "text": "Wablu",
+    "aliases": [
+     "Swablu"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0420",
+    "text": "Altaria",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0421",
+    "text": "Sengo",
+    "aliases": [
+     "Zangoose"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0422",
+    "text": "Vipitis",
+    "aliases": [
+     "Seviper"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0423",
+    "text": "Lunastein",
+    "aliases": [
+     "Lunatone"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0424",
+    "text": "Sonnfel",
+    "aliases": [
+     "Solrock"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0425",
+    "text": "Schmerbe",
+    "aliases": [
+     "Barboach"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0426",
+    "text": "Welsar",
+    "aliases": [
+     "Whiscash"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0427",
+    "text": "Krebscorps",
+    "aliases": [
+     "Corphish"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0428",
+    "text": "Krebutack",
+    "aliases": [
+     "Crawdaunt"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0429",
+    "text": "Puppance",
+    "aliases": [
+     "Baltoy"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0430",
+    "text": "Lepumentas",
+    "aliases": [
+     "Claydol"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0431",
+    "text": "Liliep",
+    "aliases": [
+     "Lileep"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0432",
+    "text": "Wielie",
+    "aliases": [
+     "Cradily"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0433",
+    "text": "Anorith",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0434",
+    "text": "Armaldo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0435",
+    "text": "Barschwa",
+    "aliases": [
+     "Feebas"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0436",
+    "text": "Formeo",
+    "aliases": [
+     "Castform"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0437",
+    "text": "Shuppet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0438",
+    "text": "Banette",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0439",
+    "text": "Zwirrlicht",
+    "aliases": [
+     "Duskull"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0440",
+    "text": "Zwirrklop",
+    "aliases": [
+     "Dusclops"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0441",
+    "text": "Tropius",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0442",
+    "text": "Palimpalim",
+    "aliases": [
+     "Chimecho"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0443",
+    "text": "Isso",
+    "aliases": [
+     "Wynaut"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0444",
+    "text": "Schneppke",
+    "aliases": [
+     "Snorunt"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0445",
+    "text": "Firnontor",
+    "aliases": [
+     "Glalie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0446",
+    "text": "Seemops",
+    "aliases": [
+     "Spheal"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0447",
+    "text": "Seejong",
+    "aliases": [
+     "Sealeo"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0448",
+    "text": "Walraisa",
+    "aliases": [
+     "Walrein"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0449",
+    "text": "Perlu",
+    "aliases": [
+     "Clamperl"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0450",
+    "text": "Aalabyss",
+    "aliases": [
+     "Huntail"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0451",
+    "text": "Saganabyss",
+    "aliases": [
+     "Gorebyss"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0452",
+    "text": "Relicanth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0453",
+    "text": "Liebiskus",
+    "aliases": [
+     "Luvdisc"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0454",
+    "text": "Draschel",
+    "aliases": [
+     "Shelgon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0455",
+    "text": "Metang",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0456",
+    "text": "Chelcarain",
+    "aliases": [
+     "Grotle"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0457",
+    "text": "Panpyro",
+    "aliases": [
+     "Monferno"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0458",
+    "text": "Pliprin",
+    "aliases": [
+     "Prinplup"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0459",
+    "text": "Staralili",
+    "aliases": [
+     "Starly"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0460",
+    "text": "Staravia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0461",
+    "text": "Bidifas",
+    "aliases": [
+     "Bibarel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0462",
+    "text": "Zirpurze",
+    "aliases": [
+     "Kricketot"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0463",
+    "text": "Zirpeise",
+    "aliases": [
+     "Kricketune"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0464",
+    "text": "Luxio",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0465",
+    "text": "Knospi",
+    "aliases": [
+     "Budew"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0466",
+    "text": "Roserade",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0467",
+    "text": "Koknodon",
+    "aliases": [
+     "Cranidos"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0468",
+    "text": "Rameidon",
+    "aliases": [
+     "Rampardos"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0469",
+    "text": "Schilterus",
+    "aliases": [
+     "Shieldon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0470",
+    "text": "Bollterus",
+    "aliases": [
+     "Bastiodon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0471",
+    "text": "Burmy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0472",
+    "text": "Burmadame",
+    "aliases": [
+     "Wormadam"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0473",
+    "text": "Moterpel",
+    "aliases": [
+     "Mothim"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0474",
+    "text": "Wadribie",
+    "aliases": [
+     "Combee"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0475",
+    "text": "Honweisel",
+    "aliases": [
+     "Vespiquen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0476",
+    "text": "Bamelin",
+    "aliases": [
+     "Buizel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0477",
+    "text": "Bojelin",
+    "aliases": [
+     "Floatzel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0478",
+    "text": "Kikugi",
+    "aliases": [
+     "Cherubi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0479",
+    "text": "Kinoso",
+    "aliases": [
+     "Cherrim"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0480",
+    "text": "Schalellos",
+    "aliases": [
+     "Shellos"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0481",
+    "text": "Gastrodon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0482",
+    "text": "Ambidiffel",
+    "aliases": [
+     "Ambipom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0483",
+    "text": "Driftlon",
+    "aliases": [
+     "Drifloon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0484",
+    "text": "Drifzepeli",
+    "aliases": [
+     "Drifblim"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0485",
+    "text": "Haspiror",
+    "aliases": [
+     "Buneary"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0486",
+    "text": "Schlapor",
+    "aliases": [
+     "Lopunny"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0487",
+    "text": "Traunmagil",
+    "aliases": [
+     "Mismagius"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0488",
+    "text": "Kramshef",
+    "aliases": [
+     "Honchkrow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0489",
+    "text": "Charmian",
+    "aliases": [
+     "Glameow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0490",
+    "text": "Shnurgarst",
+    "aliases": [
+     "Purugly"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0491",
+    "text": "Klingplim",
+    "aliases": [
+     "Chingling"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0492",
+    "text": "Skunkapuh",
+    "aliases": [
+     "Stunky"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0493",
+    "text": "Skuntank",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0494",
+    "text": "Bronzel",
+    "aliases": [
+     "Bronzor"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0495",
+    "text": "Bronzong",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0496",
+    "text": "Mobai",
+    "aliases": [
+     "Bonsly"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0497",
+    "text": "Plaudagei",
+    "aliases": [
+     "Chatot"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0498",
+    "text": "Kryppuk",
+    "aliases": [
+     "Spiritomb"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0499",
+    "text": "Knarksel",
+    "aliases": [
+     "Gabite"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0500",
+    "text": "Hippopotas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0501",
+    "text": "Hippoterus",
+    "aliases": [
+     "Hippowdon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0502",
+    "text": "Pionskora",
+    "aliases": [
+     "Skorupi"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0503",
+    "text": "Piondragi",
+    "aliases": [
+     "Drapion"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0504",
+    "text": "Glibunkel",
+    "aliases": [
+     "Croagunk"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0505",
+    "text": "Toxiquak",
+    "aliases": [
+     "Toxicroak"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0506",
+    "text": "Venuflibis",
+    "aliases": [
+     "Carnivine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0507",
+    "text": "Finneon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0508",
+    "text": "Lumineon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0509",
+    "text": "Mantirps",
+    "aliases": [
+     "Mantyke"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0510",
+    "text": "Shnebedeck",
+    "aliases": [
+     "Snover"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0511",
+    "text": "Rexblisar",
+    "aliases": [
+     "Abomasnow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0512",
+    "text": "Magnezone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0513",
+    "text": "Schlurplek",
+    "aliases": [
+     "Lickilicky"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0514",
+    "text": "Tangoloss",
+    "aliases": [
+     "Tangrowth"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0515",
+    "text": "Yanmega",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0516",
+    "text": "Skorgro",
+    "aliases": [
+     "Gliscor"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0517",
+    "text": "Mamutel",
+    "aliases": [
+     "Mamoswine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0518",
+    "text": "Voluminas",
+    "aliases": [
+     "Probopass"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0519",
+    "text": "Zwirrfinst",
+    "aliases": [
+     "Dusknoir"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0520",
+    "text": "Frosdedje",
+    "aliases": [
+     "Froslass"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0521",
+    "text": "Rotom",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0522",
+    "text": "Selfe",
+    "aliases": [
+     "Uxie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0523",
+    "text": "Vesprit",
+    "aliases": [
+     "Mesprit"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0524",
+    "text": "Tobutz",
+    "aliases": [
+     "Azelf"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0525",
+    "text": "Phione",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0526",
+    "text": "Efoserp",
+    "aliases": [
+     "Servine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0527",
+    "text": "Serpiroyal",
+    "aliases": [
+     "Serperior"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0528",
+    "text": "Ferkokel",
+    "aliases": [
+     "Pignite"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0529",
+    "text": "Flambirex",
+    "aliases": [
+     "Emboar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0530",
+    "text": "Zwottronin",
+    "aliases": [
+     "Dewott"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0531",
+    "text": "Admurai",
+    "aliases": [
+     "Samurott"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0532",
+    "text": "Victini",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0533",
+    "text": "Kyurem",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0534",
+    "text": "Kobalium",
+    "aliases": [
+     "Cobalion"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0535",
+    "text": "Terrakium",
+    "aliases": [
+     "Terrakion"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0536",
+    "text": "Viridium",
+    "aliases": [
+     "Virizion"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0537",
+    "text": "Boreos",
+    "aliases": [
+     "Tornadus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0538",
+    "text": "Voltolos",
+    "aliases": [
+     "Thundurus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0539",
+    "text": "Demeteros",
+    "aliases": [
+     "Landorus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0540",
+    "text": "Keldeo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0541",
+    "text": "Meloetta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0542",
+    "text": "Genesect",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0543",
+    "text": "Kapuno",
+    "aliases": [
+     "Deino"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0544",
+    "text": "Trikephalo",
+    "aliases": [
+     "Hydreigon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0545",
+    "text": "Lichtel",
+    "aliases": [
+     "Litwick"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0546",
+    "text": "Skelabra",
+    "aliases": [
+     "Chandelure"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0547",
+    "text": "Washakwil",
+    "aliases": [
+     "Braviary"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0548",
+    "text": "Ohrdoch",
+    "aliases": [
+     "Audino"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0549",
+    "text": "Igastarnish",
+    "aliases": [
+     "Quilladin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0550",
+    "text": "Brigaron",
+    "aliases": [
+     "Chesnaught"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0551",
+    "text": "Rutena",
+    "aliases": [
+     "Braixen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0552",
+    "text": "Fennexis",
+    "aliases": [
+     "Delphox"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0553",
+    "text": "Amphizel",
+    "aliases": [
+     "Frogadier"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0554",
+    "text": "Zygarde",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0555",
+    "text": "Diancie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0556",
+    "text": "Hoopa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0557",
+    "text": "Volcanion",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0558",
+    "text": "Dedenne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0559",
+    "text": "Fiaro",
+    "aliases": [
+     "Talonflame"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0560",
+    "text": "Pam-Pam",
+    "aliases": [
+     "Pancham"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0561",
+    "text": "Pandagro",
+    "aliases": [
+     "Pangoro"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0562",
+    "text": "Durengard",
+    "aliases": [
+     "Aegislash"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0563",
+    "text": "Arboretoss",
+    "aliases": [
+     "Dartrix"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0564",
+    "text": "Silvarro",
+    "aliases": [
+     "Decidueye"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0565",
+    "text": "Miezunder",
+    "aliases": [
+     "Torracat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0566",
+    "text": "Marikeck",
+    "aliases": [
+     "Brionne"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0567",
+    "text": "Primarene",
+    "aliases": [
+     "Primarina"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0568",
+    "text": "Necrozma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0569",
+    "text": "Cosmog",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0570",
+    "text": "Kapu-Riki",
+    "aliases": [
+     "Tapu Koko"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0571",
+    "text": "Kapu-Fala",
+    "aliases": [
+     "Tapu Lele"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0572",
+    "text": "Kapu-Toro",
+    "aliases": [
+     "Tapu Bulu"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0573",
+    "text": "Kapu-Kime",
+    "aliases": [
+     "Tapu Fini"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0574",
+    "text": "Magearna",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0575",
+    "text": "Marshadow",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0576",
+    "text": "Zeraora",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0577",
+    "text": "Melmetal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0578",
+    "text": "Wuffels",
+    "aliases": [
+     "Rockruff"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0579",
+    "text": "Wolwerock",
+    "aliases": [
+     "Lycanroc"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0580",
+    "text": "Chimstix",
+    "aliases": [
+     "Thwackey"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0581",
+    "text": "Gortrom",
+    "aliases": [
+     "Rillaboom"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0582",
+    "text": "Kickerlo",
+    "aliases": [
+     "Raboot"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0583",
+    "text": "Phlegleon",
+    "aliases": [
+     "Drizzile"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0584",
+    "text": "Intelleon",
+    "aliases": [
+     "Inteleon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0585",
+    "text": "Endynalos",
+    "aliases": [
+     "Eternatus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0586",
+    "text": "Dakuma",
+    "aliases": [
+     "Kubfu"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0587",
+    "text": "Wulaosu",
+    "aliases": [
+     "Urshifu"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0588",
+    "text": "Zarude",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0589",
+    "text": "Coronospa",
+    "aliases": [
+     "Calyrex"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0590",
+    "text": "Regieleki",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0591",
+    "text": "Regidrago",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0592",
+    "text": "Feliospa",
+    "aliases": [
+     "Floragato"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0593",
+    "text": "Maskagato",
+    "aliases": [
+     "Meowscarada"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0594",
+    "text": "Lokroko",
+    "aliases": [
+     "Crocalor"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0595",
+    "text": "Skelokrok",
+    "aliases": [
+     "Skeledirge"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0596",
+    "text": "Fuentente",
+    "aliases": [
+     "Quaxwell"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0597",
+    "text": "Bailonda",
+    "aliases": [
+     "Quaquaval"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0598",
+    "text": "Ogerpon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0599",
+    "text": "Terapagos",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-011-a0600",
+    "text": "Pamo",
+    "aliases": [
+     "Pawmi"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "fil-012",
+  "text": "Nenne einen Anime",
+  "kategorie": "film",
+  "answers": [
+   {
+    "id": "fil-012-a0001",
+    "text": "One Piece",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-012-a0002",
+    "text": "Naruto",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-012-a0003",
+    "text": "Dragon Ball",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-012-a0004",
+    "text": "Pokémon",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-012-a0005",
+    "text": "Dragon Ball Z",
+    "aliases": [
+     "DBZ"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0006",
+    "text": "Attack on Titan",
+    "aliases": [
+     "Shingeki no Kyojin",
+     "AoT"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0007",
+    "text": "Death Note",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0008",
+    "text": "Sailor Moon",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0009",
+    "text": "Detektiv Conan",
+    "aliases": [
+     "Case Closed",
+     "Meitantei Conan"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0010",
+    "text": "Demon Slayer",
+    "aliases": [
+     "Kimetsu no Yaiba"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0011",
+    "text": "Jujutsu Kaisen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0012",
+    "text": "My Hero Academia",
+    "aliases": [
+     "Boku no Hero Academia"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0013",
+    "text": "Chihiros Reise ins Zauberland",
+    "aliases": [
+     "Spirited Away",
+     "Sen to Chihiro"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0014",
+    "text": "Yu-Gi-Oh!",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0015",
+    "text": "Digimon",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "fil-012-a0016",
+    "text": "Heidi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0017",
+    "text": "Die Biene Maja",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0018",
+    "text": "Captain Tsubasa",
+    "aliases": [
+     "Die tollen Fußballstars"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0019",
+    "text": "Hunter x Hunter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0020",
+    "text": "Fullmetal Alchemist",
+    "aliases": [
+     "Fullmetal Alchemist: Brotherhood",
+     "FMA"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0021",
+    "text": "Bleach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0022",
+    "text": "Tokyo Ghoul",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0023",
+    "text": "Spy x Family",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0024",
+    "text": "Chainsaw Man",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0025",
+    "text": "Neon Genesis Evangelion",
+    "aliases": [
+     "Evangelion"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0026",
+    "text": "Akira",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0027",
+    "text": "One-Punch Man",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0028",
+    "text": "Sword Art Online",
+    "aliases": [
+     "SAO"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0029",
+    "text": "Mein Nachbar Totoro",
+    "aliases": [
+     "Totoro",
+     "My Neighbor Totoro"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0030",
+    "text": "Prinzessin Mononoke",
+    "aliases": [
+     "Mononoke",
+     "Princess Mononoke"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0031",
+    "text": "Das wandelnde Schloss",
+    "aliases": [
+     "Howl’s Moving Castle",
+     "Howls wandelndes Schloss"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0032",
+    "text": "Dragon Ball Super",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0033",
+    "text": "Naruto Shippuden",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0034",
+    "text": "Cowboy Bebop",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0035",
+    "text": "Haikyu!!",
+    "aliases": [
+     "Haikyuu"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0036",
+    "text": "Black Clover",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0037",
+    "text": "Fairy Tail",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0038",
+    "text": "Inuyasha",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0039",
+    "text": "Doraemon",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0040",
+    "text": "Hamtaro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0041",
+    "text": "Beyblade",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0042",
+    "text": "Frieren",
+    "aliases": [
+     "Sousou no Frieren",
+     "Frieren – Nach dem Ende der Reise"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0043",
+    "text": "Dragon Ball GT",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0044",
+    "text": "Your Name",
+    "aliases": [
+     "Kimi no Na wa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0045",
+    "text": "Wickie und die starken Männer",
+    "aliases": [
+     "Wickie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0046",
+    "text": "Captain Future",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0047",
+    "text": "Ponyo",
+    "aliases": [
+     "Ponyo – Das große Abenteuer am Meer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0048",
+    "text": "Solo Leveling",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-012-a0049",
+    "text": "Ranma ½",
+    "aliases": [
+     "Ranma 1/2"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0050",
+    "text": "Nils Holgersson",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0051",
+    "text": "Alfred J. Kwak",
+    "aliases": [
+     "Alfred Jodocus Kwak"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0052",
+    "text": "Mila Superstar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0053",
+    "text": "Kickers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0054",
+    "text": "Tao Tao",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0055",
+    "text": "Kimba, der weiße Löwe",
+    "aliases": [
+     "Kimba"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0056",
+    "text": "Astro Boy",
+    "aliases": [
+     "Tetsuwan Atom"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0057",
+    "text": "Lady Oscar",
+    "aliases": [
+     "Die Rosen von Versailles"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0058",
+    "text": "Marco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0059",
+    "text": "Dr. Slump",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0060",
+    "text": "Saint Seiya",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0061",
+    "text": "Hellsing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0062",
+    "text": "Trigun",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0063",
+    "text": "Ghost in the Shell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0064",
+    "text": "Code Geass",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0065",
+    "text": "Steins;Gate",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0066",
+    "text": "Mob Psycho 100",
+    "aliases": [
+     "Mob Psycho"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0067",
+    "text": "Vinland Saga",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0068",
+    "text": "Dr. Stone",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0069",
+    "text": "The Promised Neverland",
+    "aliases": [
+     "Yakusoku no Neverland"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0070",
+    "text": "Made in Abyss",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0071",
+    "text": "Violet Evergarden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0072",
+    "text": "Re:Zero",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0073",
+    "text": "Konosuba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0074",
+    "text": "Overlord",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0075",
+    "text": "That Time I Got Reincarnated as a Slime",
+    "aliases": [
+     "Tensura"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0076",
+    "text": "Blue Lock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0077",
+    "text": "Oshi no Ko",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0078",
+    "text": "Kaiju No. 8",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0079",
+    "text": "Dandadan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0080",
+    "text": "Mashle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0081",
+    "text": "Hell’s Paradise",
+    "aliases": [
+     "Jigokuraku"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0082",
+    "text": "Tokyo Revengers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0083",
+    "text": "Bungo Stray Dogs",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0084",
+    "text": "Noragami",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0085",
+    "text": "Soul Eater",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0086",
+    "text": "Fire Force",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0087",
+    "text": "Parasyte",
+    "aliases": [
+     "Kiseijuu"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0088",
+    "text": "Erased",
+    "aliases": [
+     "Boku dake ga Inai Machi"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0089",
+    "text": "Elfen Lied",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0090",
+    "text": "Higurashi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0091",
+    "text": "Toradora!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0092",
+    "text": "Clannad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0093",
+    "text": "Angel Beats!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0094",
+    "text": "Your Lie in April",
+    "aliases": [
+     "Shigatsu wa Kimi no Uso"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0095",
+    "text": "A Silent Voice",
+    "aliases": [
+     "Koe no Katachi"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0096",
+    "text": "Weathering with You",
+    "aliases": [
+     "Tenki no Ko"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0097",
+    "text": "Suzume",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0098",
+    "text": "Der Junge und der Reiher",
+    "aliases": [
+     "The Boy and the Heron"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0099",
+    "text": "Nausicaä aus dem Tal der Winde",
+    "aliases": [
+     "Nausicaä"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0100",
+    "text": "Das Schloss im Himmel",
+    "aliases": [
+     "Laputa",
+     "Castle in the Sky"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0101",
+    "text": "Porco Rosso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0102",
+    "text": "Kikis kleiner Lieferservice",
+    "aliases": [
+     "Kiki’s Delivery Service"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0103",
+    "text": "Die letzten Glühwürmchen",
+    "aliases": [
+     "Grave of the Fireflies"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0104",
+    "text": "Arrietty",
+    "aliases": [
+     "Arrietty – Die wundersame Welt der Borger"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0105",
+    "text": "Das Königreich der Katzen",
+    "aliases": [
+     "The Cat Returns"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0106",
+    "text": "Paprika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0107",
+    "text": "Perfect Blue",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0108",
+    "text": "Ninja Scroll",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0109",
+    "text": "JoJo’s Bizarre Adventure",
+    "aliases": [
+     "JoJo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0110",
+    "text": "Fist of the North Star",
+    "aliases": [
+     "Hokuto no Ken"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0111",
+    "text": "Gintama",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0112",
+    "text": "Yu Yu Hakusho",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0113",
+    "text": "Rurouni Kenshin",
+    "aliases": [
+     "Kenshin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0114",
+    "text": "Slam Dunk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0115",
+    "text": "Kuroko’s Basketball",
+    "aliases": [
+     "Kuroko no Basket"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0116",
+    "text": "Initial D",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0117",
+    "text": "Shaman King",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0118",
+    "text": "Medabots",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0119",
+    "text": "Yo-kai Watch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0120",
+    "text": "Cardcaptor Sakura",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0121",
+    "text": "Tokyo Mew Mew",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0122",
+    "text": "Fruits Basket",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0123",
+    "text": "Ouran High School Host Club",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0124",
+    "text": "Nana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0125",
+    "text": "Kaguya-sama: Love is War",
+    "aliases": [
+     "Kaguya-sama"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0126",
+    "text": "Bocchi the Rock!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0127",
+    "text": "K-On!",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0128",
+    "text": "Die Melancholie der Haruhi Suzumiya",
+    "aliases": [
+     "Haruhi Suzumiya"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0129",
+    "text": "Cyberpunk: Edgerunners",
+    "aliases": [
+     "Edgerunners"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0130",
+    "text": "Devilman Crybaby",
+    "aliases": [
+     "Devilman"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0131",
+    "text": "Berserk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0132",
+    "text": "Psycho-Pass",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0133",
+    "text": "Mobile Suit Gundam",
+    "aliases": [
+     "Gundam"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0134",
+    "text": "Gurren Lagann",
+    "aliases": [
+     "Tengen Toppa Gurren Lagann"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0135",
+    "text": "Kill la Kill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0136",
+    "text": "Darling in the Franxx",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0137",
+    "text": "Akame ga Kill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0138",
+    "text": "No Game No Life",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0139",
+    "text": "The Rising of the Shield Hero",
+    "aliases": [
+     "Shield Hero"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0140",
+    "text": "Goblin Slayer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0141",
+    "text": "Beastars",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0142",
+    "text": "Assassination Classroom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0143",
+    "text": "The Seven Deadly Sins",
+    "aliases": [
+     "Nanatsu no Taizai"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0144",
+    "text": "Fate/Zero",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0145",
+    "text": "Fate/stay night",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0146",
+    "text": "Food Wars",
+    "aliases": [
+     "Shokugeki no Soma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0147",
+    "text": "Great Teacher Onizuka",
+    "aliases": [
+     "GTO"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0148",
+    "text": "Lupin III",
+    "aliases": [
+     "Lupin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0149",
+    "text": "City Hunter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0150",
+    "text": "Crayon Shin-chan",
+    "aliases": [
+     "Shin-chan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0151",
+    "text": "Boruto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0152",
+    "text": "5 Centimeters per Second",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0153",
+    "text": "Ame & Yuki – Die Wolfskinder",
+    "aliases": [
+     "Wolf Children"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0154",
+    "text": "Summer Wars",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0155",
+    "text": "Das Mädchen, das durch die Zeit sprang",
+    "aliases": [
+     "The Girl Who Leapt Through Time"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0156",
+    "text": "Samurai Champloo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0157",
+    "text": "Hajime no Ippo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0158",
+    "text": "Black Lagoon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0159",
+    "text": "Kakegurui",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0160",
+    "text": "Komi Can’t Communicate",
+    "aliases": [
+     "Komi-san"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0161",
+    "text": "Die Tagebücher der Apothekerin",
+    "aliases": [
+     "The Apothecary Diaries",
+     "Kusuriya no Hitorigoto"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0162",
+    "text": "Sakamoto Days",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0163",
+    "text": "Mushoku Tensei",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0164",
+    "text": "Blue Exorcist",
+    "aliases": [
+     "Ao no Exorcist"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0165",
+    "text": "Cells at Work!",
+    "aliases": [
+     "Hataraku Saibou"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0166",
+    "text": "Space Battleship Yamato",
+    "aliases": [
+     "Star Blazers"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0167",
+    "text": "Speed Racer",
+    "aliases": [
+     "Mach GoGoGo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0168",
+    "text": "Captain Harlock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-012-a0169",
+    "text": "Dragon Ball Daima",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0170",
+    "text": "Die Legende der Prinzessin Kaguya",
+    "aliases": [
+     "Kaguya"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0171",
+    "text": "Erinnerungen an Marnie",
+    "aliases": [
+     "When Marnie Was There"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0172",
+    "text": "Pom Poko",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0173",
+    "text": "Stimme des Herzens",
+    "aliases": [
+     "Whisper of the Heart"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0174",
+    "text": "Belle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0175",
+    "text": "Mirai",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0176",
+    "text": "Serial Experiments Lain",
+    "aliases": [
+     "Lain"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0177",
+    "text": "Afro Samurai",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0178",
+    "text": "Durarara!!",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0179",
+    "text": "Yuri!!! on Ice",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0180",
+    "text": "Claymore",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0181",
+    "text": "Mazinger Z",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0182",
+    "text": "Highschool DxD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0183",
+    "text": "High School of the Dead",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0184",
+    "text": "Dororo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0185",
+    "text": "Magi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0186",
+    "text": "Lucky Star",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0187",
+    "text": "Azumanga Daioh",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0188",
+    "text": "Horimiya",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0189",
+    "text": "My Dress-Up Darling",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0190",
+    "text": "Saber Rider und die Star Sheriffs",
+    "aliases": [
+     "Saber Rider"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0191",
+    "text": "Puschel, das Eichhorn",
+    "aliases": [
+     "Puschel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0192",
+    "text": "Jeanne, die Kamikaze-Diebin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0193",
+    "text": "Sara, die kleine Prinzessin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0194",
+    "text": "Anne mit den roten Haaren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0195",
+    "text": "Candy Candy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0196",
+    "text": "Monster",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0197",
+    "text": "Love Hina",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0198",
+    "text": "Spice and Wolf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0199",
+    "text": "D.Gray-man",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-012-a0200",
+    "text": "Bakugan",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "fil-013",
+  "text": "Nenne einen Oscar-Gewinner „Bester Hauptdarsteller“ (nur Nachname)",
+  "kategorie": "film",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "fil-013-a0001",
+    "text": "DiCaprio",
+    "aliases": [
+     "Leonardo DiCaprio"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-013-a0002",
+    "text": "Hanks",
+    "aliases": [
+     "Tom Hanks"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0003",
+    "text": "Hopkins",
+    "aliases": [
+     "Anthony Hopkins"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0004",
+    "text": "Brando",
+    "aliases": [
+     "Marlon Brando"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0005",
+    "text": "Nicholson",
+    "aliases": [
+     "Jack Nicholson"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0006",
+    "text": "De Niro",
+    "aliases": [
+     "Robert De Niro"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0007",
+    "text": "Pacino",
+    "aliases": [
+     "Al Pacino"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0008",
+    "text": "Smith",
+    "aliases": [
+     "Will Smith"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0009",
+    "text": "Phoenix",
+    "aliases": [
+     "Joaquin Phoenix"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0010",
+    "text": "Washington",
+    "aliases": [
+     "Denzel Washington"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0011",
+    "text": "Murphy",
+    "aliases": [
+     "Cillian Murphy"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-013-a0012",
+    "text": "Day-Lewis",
+    "aliases": [
+     "Daniel Day-Lewis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0013",
+    "text": "Hoffman",
+    "aliases": [
+     "Dustin Hoffman",
+     "Philip Seymour Hoffman"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0014",
+    "text": "Crowe",
+    "aliases": [
+     "Russell Crowe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0015",
+    "text": "Malek",
+    "aliases": [
+     "Rami Malek"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0016",
+    "text": "Penn",
+    "aliases": [
+     "Sean Penn"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0017",
+    "text": "Cage",
+    "aliases": [
+     "Nicolas Cage"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0018",
+    "text": "Spacey",
+    "aliases": [
+     "Kevin Spacey"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0019",
+    "text": "Foxx",
+    "aliases": [
+     "Jamie Foxx"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0020",
+    "text": "Firth",
+    "aliases": [
+     "Colin Firth"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0021",
+    "text": "McConaughey",
+    "aliases": [
+     "Matthew McConaughey"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0022",
+    "text": "Redmayne",
+    "aliases": [
+     "Eddie Redmayne"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0023",
+    "text": "Oldman",
+    "aliases": [
+     "Gary Oldman"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0024",
+    "text": "Fraser",
+    "aliases": [
+     "Brendan Fraser"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0025",
+    "text": "Brody",
+    "aliases": [
+     "Adrien Brody"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0026",
+    "text": "Douglas",
+    "aliases": [
+     "Michael Douglas"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0027",
+    "text": "Newman",
+    "aliases": [
+     "Paul Newman"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0028",
+    "text": "Hackman",
+    "aliases": [
+     "Gene Hackman"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0029",
+    "text": "Wayne",
+    "aliases": [
+     "John Wayne"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0030",
+    "text": "Gable",
+    "aliases": [
+     "Clark Gable"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0031",
+    "text": "Bogart",
+    "aliases": [
+     "Humphrey Bogart"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0032",
+    "text": "Stewart",
+    "aliases": [
+     "James Stewart"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0033",
+    "text": "Jordan",
+    "aliases": [
+     "Michael B. Jordan"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0034",
+    "text": "Benigni",
+    "aliases": [
+     "Roberto Benigni"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-013-a0035",
+    "text": "Peck",
+    "aliases": [
+     "Gregory Peck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0036",
+    "text": "Olivier",
+    "aliases": [
+     "Laurence Olivier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0037",
+    "text": "Heston",
+    "aliases": [
+     "Charlton Heston"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0038",
+    "text": "Kingsley",
+    "aliases": [
+     "Ben Kingsley"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0039",
+    "text": "Bridges",
+    "aliases": [
+     "Jeff Bridges"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0040",
+    "text": "Poitier",
+    "aliases": [
+     "Sidney Poitier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0041",
+    "text": "Whitaker",
+    "aliases": [
+     "Forest Whitaker"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0042",
+    "text": "Affleck",
+    "aliases": [
+     "Casey Affleck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0043",
+    "text": "Dreyfuss",
+    "aliases": [
+     "Richard Dreyfuss"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0044",
+    "text": "Lemmon",
+    "aliases": [
+     "Jack Lemmon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0045",
+    "text": "Fonda",
+    "aliases": [
+     "Henry Fonda"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0046",
+    "text": "Irons",
+    "aliases": [
+     "Jeremy Irons"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0047",
+    "text": "Rush",
+    "aliases": [
+     "Geoffrey Rush"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0048",
+    "text": "Duvall",
+    "aliases": [
+     "Robert Duvall"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0049",
+    "text": "Voight",
+    "aliases": [
+     "Jon Voight"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0050",
+    "text": "Dujardin",
+    "aliases": [
+     "Jean Dujardin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0051",
+    "text": "Guinness",
+    "aliases": [
+     "Alec Guinness"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0052",
+    "text": "Lancaster",
+    "aliases": [
+     "Burt Lancaster"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0053",
+    "text": "Niven",
+    "aliases": [
+     "David Niven"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0054",
+    "text": "Brynner",
+    "aliases": [
+     "Yul Brynner"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0055",
+    "text": "Cooper",
+    "aliases": [
+     "Gary Cooper"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0056",
+    "text": "Tracy",
+    "aliases": [
+     "Spencer Tracy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0057",
+    "text": "Cagney",
+    "aliases": [
+     "James Cagney"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0058",
+    "text": "Crosby",
+    "aliases": [
+     "Bing Crosby"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0059",
+    "text": "Marvin",
+    "aliases": [
+     "Lee Marvin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0060",
+    "text": "Scott",
+    "aliases": [
+     "George C. Scott"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0061",
+    "text": "Hurt",
+    "aliases": [
+     "William Hurt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0062",
+    "text": "Schell",
+    "aliases": [
+     "Maximilian Schell"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0063",
+    "text": "Holden",
+    "aliases": [
+     "William Holden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0064",
+    "text": "Jannings",
+    "aliases": [
+     "Emil Jannings"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-013-a0065",
+    "text": "Steiger",
+    "aliases": [
+     "Rod Steiger"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0066",
+    "text": "Laughton",
+    "aliases": [
+     "Charles Laughton"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0067",
+    "text": "Harrison",
+    "aliases": [
+     "Rex Harrison"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0068",
+    "text": "Finch",
+    "aliases": [
+     "Peter Finch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0069",
+    "text": "Borgnine",
+    "aliases": [
+     "Ernest Borgnine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0070",
+    "text": "Abraham",
+    "aliases": [
+     "F. Murray Abraham"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0071",
+    "text": "Barrymore",
+    "aliases": [
+     "Lionel Barrymore"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0072",
+    "text": "March",
+    "aliases": [
+     "Fredric March"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0073",
+    "text": "Milland",
+    "aliases": [
+     "Ray Milland"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0074",
+    "text": "Baxter",
+    "aliases": [
+     "Warner Baxter"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0075",
+    "text": "Arliss",
+    "aliases": [
+     "George Arliss"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0076",
+    "text": "Beery",
+    "aliases": [
+     "Wallace Beery"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0077",
+    "text": "McLaglen",
+    "aliases": [
+     "Victor McLaglen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0078",
+    "text": "Muni",
+    "aliases": [
+     "Paul Muni"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0079",
+    "text": "Donat",
+    "aliases": [
+     "Robert Donat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0080",
+    "text": "Lukas",
+    "aliases": [
+     "Paul Lukas"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0081",
+    "text": "Colman",
+    "aliases": [
+     "Ronald Colman"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0082",
+    "text": "Crawford",
+    "aliases": [
+     "Broderick Crawford"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0083",
+    "text": "Ferrer",
+    "aliases": [
+     "José Ferrer"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0084",
+    "text": "Scofield",
+    "aliases": [
+     "Paul Scofield"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0085",
+    "text": "Robertson",
+    "aliases": [
+     "Cliff Robertson"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-013-a0086",
+    "text": "Carney",
+    "aliases": [
+     "Art Carney"
+    ],
+    "tier": 5
+   }
+  ]
  }
 ]

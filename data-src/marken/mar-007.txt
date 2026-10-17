@@ -1,0 +1,28 @@
+@id mar-007
+@text Nenne eine Cola-Marke, die in Deutschland zu kaufen ist
+@typ geschlossen
+# Cola-Marken im deutschen Handel inkl. Handelsmarken; Sorten (Zero, Light, Max) zählen zur Marke.
+# Cola-Mischgetränke (Mezzo Mix, Spezi, Schwip Schwap) sind wohlwollend zugelassen, aber niedrig eingestuft.
+
+1 Coca-Cola = Coke; Coca-Cola Zero; Coke Zero; Cola Zero; Coca-Cola Light; Cola Light; Diet Coke
+1 Pepsi = Pepsi Max; Pepsi Cola; Pepsi Light
+2 Fritz-Kola = Fritz
+2 Afri-Cola = Afri
+3 Vita Cola
+3 Club Cola
+3 Premium Cola
+3 River Cola = River; Aldi Cola
+3 Freeway Cola = Freeway; Lidl Cola
+3 Sinalco Cola = Sinalco
+3 Mezzo Mix
+3 Spezi = Paulaner Spezi
+4 Schwip Schwap
+4 K-Classic Cola = K-Classic
+4 Gut & Günstig Cola = Gut & Günstig
+4 Ja! Cola = Ja!
+4 Karma Cola = Karma
+4 Red Bull Cola = Red Bull Simply Cola
+4 Mio Mio Cola = Mio Mio
+4 Fentimans = Fentimans Curiosity Cola
+5 Kofola
+5 Virgin Cola
