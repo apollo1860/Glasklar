@@ -1,0 +1,88 @@
+@id ess-015
+@text Nenne einen Brotaufstrich
+# Süße und herzhafte Aufstriche, die man aufs Brot oder Brötchen streicht: Butter/Fette, Marmeladen und Muse,
+# Nuss- und Schokocremes, Streichwurst, Streichkäse, Gemüse- und Hülsenfrucht-Aufstriche.
+# Nicht: Belag in Scheiben (Salami, Gouda), Saucen (Ketchup, Mayonnaise, Senf). Feinkostsalate (Fleischsalat, Eiersalat) sind enthalten.
+
+1 Butter
+1 Nutella = Nuss-Nougat-Creme; Nougatcreme; Nusscreme; Haselnusscreme
+1 Marmelade = Konfitüre; Konfi; Jam
+2 Honig
+2 Frischkäse = Cream Cheese; Philadelphia
+2 Leberwurst
+2 Margarine = Rama; Pflanzenbutter
+2 Erdnussbutter = Peanut Butter; Erdnusscreme
+3 Schokocreme = Schokoaufstrich; Schokoladencreme; Schokoladenaufstrich
+3 Teewurst
+3 Mett = Hackepeter; Zwiebelmett; Thüringer Mett
+3 Obatzda = Obazda; Obatzter; Obatzer
+3 Schmalz = Griebenschmalz; Schweineschmalz; Gänseschmalz; Zwiebelschmalz
+3 Kräuterbutter
+3 Hummus
+3 Quark = Kräuterquark; Speisequark
+3 Gelee
+3 Fruchtaufstrich
+3 Pflaumenmus = Zwetschgenmus; Powidl; Latwerge
+3 Pesto
+3 Ajvar
+3 Avocado = Avocadocreme
+3 Schmelzkäse = Streichkäse; Schmierkäse
+3 Rübenkraut = Zuckerrübensirup; Rübensirup; Goldsaft
+3 Leberpastete = Pastete; Pâté
+4 Apfelkraut
+4 Birnenkraut
+4 Mettwurst = Streichmettwurst; Zwiebelmettwurst; Braunschweiger
+4 Streichwurst
+4 Knoblauchbutter
+4 Guacamole
+4 Tapenade = Olivenpaste; Olivencreme
+4 Kräuteraufstrich
+4 Paprikaaufstrich = Paprikacreme
+4 Tomatenaufstrich = Tomatencreme
+4 Fleischsalat
+4 Eiersalat
+4 Hüttenkäse = Cottage Cheese; Körniger Frischkäse
+4 Liptauer
+4 Kochkäse
+4 Lemon Curd = Zitronencreme; Zitronencurd
+4 Spekulatiuscreme = Biscoff; Lotus Creme; Keksaufstrich
+4 Mandelmus
+4 Nussmus = Haselnussmus
+4 Tahini = Tahin; Sesammus; Sesampaste
+4 Marmite = Hefeextrakt; Hefeaufstrich
+4 Tzatziki = Zaziki
+4 Kräuterschmalz
+4 Bärlauchaufstrich = Bärlauchbutter; Bärlauchpesto
+5 Vegemite
+5 Cashewmus
+5 Linsenaufstrich
+5 Möhrenaufstrich = Karottenaufstrich
+5 Auberginenaufstrich = Baba Ganoush; Baba Ghanoush; Auberginencreme
+5 Muhammara
+5 Zacusca
+5 Rillettes
+5 Thunfischcreme = Thunfischaufstrich; Thunfischsalat
+5 Lachscreme = Lachsaufstrich
+5 Sardellenpaste = Sardellenbutter; Anchovispaste
+5 Ricotta
+5 Mascarpone
+5 Labneh = Labne
+5 Dulce de Leche = Milchkaramell
+5 Karamellcreme = Salted Caramel; Karamellaufstrich
+5 Kokoscreme = Kokosaufstrich
+5 Tofuaufstrich = Tofucreme
+5 Bohnenaufstrich = Bohnencreme
+5 Sonnenblumenkernaufstrich
+5 Ghee
+5 Butterschmalz
+5 Orangenmarmelade = Orangenkonfitüre; Marmalade
+5 Senfbutter
+5 Sardinencreme
+5 Hagebuttenmark
+5 Pastinakenaufstrich
+5 Kürbiskernaufstrich
+5 Rote-Bete-Aufstrich = Rote-Bete-Creme
+4 Gemüseaufstrich
+5 Pistaziencreme
+5 Honigbutter
+5 Taramosalata = Tarama

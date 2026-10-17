@@ -1,0 +1,46 @@
+@id ess-016
+@text Nenne eine Zutat für einen Zitronenkuchen
+@typ geschlossen
+# Zutaten gängiger Rezepte für Zitronenkuchen (Rührkuchen, Blechkuchen, Gugelhupf) inkl. Guss/Glasur und häufiger Varianten
+# (Joghurt-, Quark-, Mohn-, Buttermilch-, Mandel-Zitronenkuchen). Nicht: Hawaii-artige Exoten, die in keinem üblichen Rezept vorkommen.
+
+1 Zitrone = Zitronen; Bio-Zitrone; Bio-Zitronen
+1 Mehl = Weizenmehl; Weißmehl
+1 Zucker = Weißer Zucker; Kristallzucker; Feinzucker; Rohrzucker; Brauner Zucker
+1 Ei = Eier; Eigelb; Eiweiß; Eiklar
+2 Butter
+2 Zitronensaft = Saft
+2 Backpulver
+3 Zitronenschale = Zitronenabrieb; Zitronenzesten; Zesten; Abrieb; Schale
+3 Puderzucker = Staubzucker
+3 Zuckerguss = Guss; Glasur; Zitronenglasur; Zitronenguss
+3 Milch
+3 Salz = Prise Salz
+3 Vanillezucker = Vanillinzucker
+3 Margarine
+4 Öl = Sonnenblumenöl; Rapsöl; Pflanzenöl
+4 Quark = Magerquark
+4 Joghurt = Naturjoghurt; Griechischer Joghurt
+4 Speisestärke = Stärke; Maisstärke; Mondamin
+4 Mohn = Blaumohn
+4 Buttermilch
+4 Sahne = Schlagsahne
+4 Mandeln = Mandel; Gemahlene Mandeln
+4 Vanille = Vanilleextrakt; Vanilleschote; Vanillemark
+4 Zitronenaroma = Backaroma; Zitronenöl
+4 Limoncello
+4 Wasser
+5 Schmand
+5 Saure Sahne = Sauerrahm
+5 Crème fraîche
+5 Natron
+5 Zitronat = Sukkade
+5 Frischkäse
+5 Lemon Curd = Zitronencurd
+5 Puddingpulver = Vanillepuddingpulver
+5 Mineralwasser = Sprudel; Sprudelwasser
+5 Grieß = Hartweizengrieß; Weichweizengrieß
+5 Kokosraspeln = Kokos
+5 Mascarpone
+5 Dinkelmehl
+5 Limette = Limetten

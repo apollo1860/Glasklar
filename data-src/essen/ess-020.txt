@@ -1,0 +1,55 @@
+@id ess-020
+@text Nenne eine italienische Pizza
+@typ geschlossen
+# Pizzasorten mit italienischem Namen aus Italien und deutschen Pizzerien (Speisekarten-Klassiker); deutsche Bezeichnungen als Aliase.
+# Jede Sorte ist zusätzlich mit vorangestelltem „Pizza“ eintippbar.
+# Nicht aufgenommen: Hawaii (kanadische Erfindung), Pizza Döner/Sucuk/Bolognese-Fantasienamen ohne italienische Tradition.
+
+1 Margherita = Margarita; Pizza Margherita; Pizza Margarita; Pizza Margharita
+1 Salami = Salame; Pizza Salami; Pizza Salame
+2 Funghi = Pilze; Champignons; Pilz; Pizza Funghi; Pizza Pilze; Pizza Champignons
+2 Tonno = Thunfisch; Pizza Tonno; Pizza Thunfisch
+2 Prosciutto = Schinken; Prosciutto Cotto; Cotto; Pizza Prosciutto; Pizza Schinken
+2 Quattro Formaggi = Vier Käse; 4 Formaggi; Vier Käsesorten; 4 Käse; Pizza Quattro Formaggi
+2 Quattro Stagioni = Vier Jahreszeiten; 4 Stagioni; 4 Jahreszeiten; Pizza Quattro Stagioni
+3 Calzone = Pizza Calzone
+3 Diavola = Diavolo; Salame Piccante; Scharfe Salami; Pizza Diavola; Pizza Diavolo
+3 Capricciosa = Capriciosa; Pizza Capricciosa; Pizza Capriciosa
+3 Frutti di Mare = Meeresfrüchte; Pizza Frutti di Mare; Pizza Meeresfrüchte
+3 Marinara = Pizza Marinara
+3 Napoletana = Napoli; Neapolitana; Neapolitanische; Pizza Napoletana; Pizza Napoli; Pizza Neapolitana; Pizza Napolitana
+3 Vegetariana = Vegetaria; Vegetarisch; Verdure; Gemüse; Pizza Vegetariana; Pizza Vegetaria
+3 Prosciutto e Funghi = Schinken und Pilze; Schinken Pilze; Prosciutto Funghi; Pizza Prosciutto e Funghi
+3 Salame e Funghi = Salami und Pilze; Salami Pilze; Salami Funghi; Pizza Salame e Funghi
+4 Parma = Prosciutto Crudo; Parmaschinken; Crudo; Pizza Parma; Pizza Parmaschinken
+4 Rucola = Rucola e Grana; Rucola Parmesan; Pizza Rucola
+4 Spinaci = Spinat; Pizza Spinaci; Pizza Spinat
+4 Bufalina = Bufala; Büffelmozzarella; Pizza Bufalina; Pizza Büffelmozzarella
+4 Tonno e Cipolla = Thunfisch und Zwiebeln; Thunfisch Zwiebel; Tonno Cipolla; Pizza Tonno e Cipolla
+4 Romana = Römische; Pizza Romana
+4 Bianca = Pizza Bianca
+4 Primavera = Pizza Primavera
+4 Carbonara = Pizza Carbonara
+4 Salsiccia = Salsiccia e Friarielli; Pizza Salsiccia
+4 Siciliana = Sizilianische; Pizza Siciliana
+4 Gorgonzola = Pizza Gorgonzola
+5 Pugliese = Pizza Pugliese
+5 Boscaiola = Pizza Boscaiola
+5 Ortolana = Pizza Ortolana
+5 Contadina = Pizza Contadina
+5 Mari e Monti = Pizza Mari e Monti
+5 Bismarck = Pizza Bismarck
+5 Tartufo = Trüffel; Tartufata; Pizza Tartufo; Pizza Trüffel; Pizza Tartufata
+5 Speck = Pizza Speck
+5 Regina = Pizza Regina
+5 Cardinale = Pizza Cardinale
+5 Patate = Pizza Patate; Kartoffel
+5 Nduja = Pizza Nduja
+5 Mortadella = Mortadella e Pistacchio; Pizza Mortadella
+5 Quattro Gusti = Pizza Quattro Gusti
+5 Mista = Pizza Mista
+5 Fritta = Pizza Fritta
+5 Burrata = Pizza Burrata
+5 Caprese = Pizza Caprese
+5 Al Taglio = Pizza al Taglio
+5 Montanara = Pizza Montanara

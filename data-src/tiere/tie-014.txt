@@ -1,0 +1,139 @@
+@id tie-014
+@text Nenne ein Tier, das man in Deutschland essen kann
+# Tiere, deren Fleisch bzw. die als Lebensmittel in Deutschland legal angeboten werden: Nutztiere, Geflügel, Wild (Jagd),
+# Speisefische, Meeresfrüchte, Weichtiere, in der EU zugelassene Insekten sowie Exotenfleisch aus dem Fachhandel (Känguru, Strauß, Krokodil, Zebra, Springbock).
+# Nicht: Hund, Katze (Verbot), streng geschützte Arten (Wal, Delfin, Singvögel, Biber).
+
+1 Schwein = Hausschwein; Sau
+1 Kuh = Kühe
+1 Huhn = Hühner; Henne
+2 Rind = Rinder; Rindvieh
+2 Hähnchen = Hühnchen; Broiler; Hendl; Poularde
+2 Pute = Truthahn; Puter; Truthenne
+2 Lachs
+2 Fisch
+2 Schaf
+2 Ente
+2 Gans
+2 Reh
+2 Hirsch = Rothirsch
+2 Wildschwein
+2 Kaninchen
+2 Pferd
+3 Kalb
+3 Lamm
+3 Ziege = Zicklein; Geiß
+3 Hase = Feldhase
+3 Forelle
+3 Karpfen
+3 Hering = Matjes
+3 Thunfisch = Thun
+3 Kabeljau = Dorsch
+3 Garnele = Shrimp; Shrimps; Krabbe; Scampi; Gamba; Gambas; Prawn; Hummerkrabbe
+3 Tintenfisch = Kalmar; Calamari; Calamares
+3 Muschel = Miesmuschel; Muscheln
+3 Hummer
+3 Strauß = Vogel Strauß
+3 Känguru
+3 Krokodil
+3 Wachtel
+3 Fasan
+3 Heuschrecke = Wanderheuschrecke; Grashüpfer
+3 Grille = Hausgrille; Heimchen
+3 Mehlwurm = Mehlwürmer
+3 Schnecke = Weinbergschnecke; Escargot
+3 Frosch = Froschschenkel
+3 Auster
+3 Oktopus = Krake; Pulpo; Octopus
+3 Hahn
+3 Ochse
+3 Zander
+3 Seelachs = Köhler; Alaska-Seelachs; Pollack
+3 Bison = Büffel; Amerikanischer Bison
+3 Wasserbüffel
+3 Elch
+3 Rentier = Ren
+3 Taube = Ringeltaube; Stadttaube
+3 Geflügel
+4 Bulle = Stier
+4 Ferkel = Spanferkel
+4 Damhirsch = Damwild
+4 Gämse = Gams; Gemse
+4 Mufflon
+4 Sikahirsch
+4 Rebhuhn
+4 Wildente = Stockente
+4 Wildgans = Graugans
+4 Perlhuhn
+4 Hecht
+4 Barsch = Flussbarsch
+4 Aal
+4 Makrele
+4 Sardine = Sardinen
+4 Sardelle = Anchovis; Sardellen
+4 Sprotte = Sprotten; Kieler Sprotte
+4 Scholle
+4 Rotbarsch
+4 Seezunge
+4 Steinbutt
+4 Heilbutt
+4 Dorade = Goldbrasse
+4 Wolfsbarsch = Loup de Mer; Seebarsch
+4 Schellfisch
+4 Seehecht
+4 Saibling
+4 Renke = Felchen; Maräne
+4 Wels = Waller
+4 Pangasius
+4 Tilapia = Buntbarsch
+4 Schwertfisch
+4 Stör
+4 Seeteufel = Lotte
+4 Hai = Dornhai; Schillerlocke
+4 Rochen
+4 Krebs = Flusskrebs; Edelkrebs
+4 Taschenkrebs
+4 Languste
+4 Kaisergranat = Langustine; Norwegischer Hummer
+4 Königskrabbe = King Crab
+4 Jakobsmuschel = Kammmuschel
+4 Venusmuschel = Vongole
+4 Sepia = Sepie
+4 Lachsforelle
+5 Emu
+5 Zebra
+5 Kamel
+5 Yak
+4 Antilope = Springbock; Springbok
+4 Wildkaninchen
+5 Esel
+5 Alpaka
+5 Lama
+5 Waschbär
+5 Nutria = Sumpfbiber
+5 Nilgans
+5 Kanadagans
+5 Waldschnepfe = Schnepfe
+5 Kudu
+5 Gnu
+5 Alligator
+5 Buffalowurm = Getreideschimmelkäfer
+5 Seeigel
+5 Seegurke
+5 Herzmuschel
+5 Wellhornschnecke
+5 Rotbarbe
+5 Brasse = Brachse; Blei
+5 Schleie
+5 Rotauge = Plötze
+5 Äsche
+5 Huchen
+5 Stint
+5 Wittling = Merlan
+5 Butterfisch
+5 Zackenbarsch
+5 Red Snapper = Schnapper
+5 Goldmakrele = Mahi-Mahi
+5 Barramundi
+5 Hornhecht
+5 Petersfisch = Heringskönig

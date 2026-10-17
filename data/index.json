@@ -87,8 +87,8 @@
       "id": "essen",
       "name": "Essen & Trinken",
       "icon": "🍕",
-      "count": 13,
-      "v": "d482221cd4",
+      "count": 18,
+      "v": "3560ceab45",
       "questions": [
         "ess-002",
         "ess-003",
@@ -102,15 +102,20 @@
         "ess-011",
         "ess-012",
         "ess-013",
-        "ess-014"
+        "ess-014",
+        "ess-015",
+        "ess-016",
+        "ess-017",
+        "ess-019",
+        "ess-020"
       ]
     },
     {
       "id": "tiere",
       "name": "Tiere",
       "icon": "🐟",
-      "count": 11,
-      "v": "c527207545",
+      "count": 12,
+      "v": "05744f9580",
       "questions": [
         "tie-003",
         "tie-004",
@@ -122,7 +127,8 @@
         "tie-010",
         "tie-011",
         "tie-012",
-        "tie-013"
+        "tie-013",
+        "tie-014"
       ]
     },
     {

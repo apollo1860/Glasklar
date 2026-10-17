@@ -1,0 +1,78 @@
+@id ess-017
+@text Nenne etwas, das man im Fußballstadion bestellen kann
+# Speisen und Getränke an Kiosken/Ständen deutscher (und österreichischer/Schweizer) Fußballstadien inkl. regionaler Klassiker.
+# Nur Essen und Trinken – Fanartikel, Tickets oder Stadionheft zählen nicht als „bestellen“.
+
+1 Bier = Stadionbier
+1 Bratwurst = Rostbratwurst; Roster
+2 Wurst = Würstchen
+2 Currywurst
+2 Pommes = Pommes frites; Fritten
+2 Cola = Coca-Cola; Coke
+2 Brezel = Breze; Brezn; Pretzel
+2 Radler = Alsterwasser
+3 Wasser = Mineralwasser; Sprudel
+3 Glühwein
+3 Kaffee
+3 Spezi = Mezzo Mix; Cola-Mix
+3 Alkoholfreies Bier = Alkoholfrei
+3 Limonade = Limo
+3 Fanta = Orangenlimonade
+3 Bockwurst
+3 Steakbrötchen = Steaksemmel; Steak; Steak im Brötchen
+3 Frikadelle = Bulette; Fleischpflanzerl; Frikadellenbrötchen
+3 Hot Dog
+3 Burger = Hamburger; Cheeseburger
+3 Nachos
+3 Pizza
+3 Leberkäse = Leberkässemmel; Leberkäsesemmel; Fleischkäse
+3 Apfelschorle = Schorle
+3 Tee
+3 Kakao = Heiße Schokolade; Schokolade
+4 Fischbrötchen
+4 Popcorn
+4 Pils = Pilsener
+4 Weißbier = Weizen; Weizenbier; Hefeweizen
+4 Kölsch
+4 Sprite
+4 Eistee
+4 Saft = Orangensaft; Apfelsaft
+4 Energy Drink = Red Bull
+4 Chips
+4 Erdnüsse
+4 Süßigkeiten
+4 Schokoriegel
+4 Laugenstange
+4 Krakauer
+4 Thüringer = Thüringer Rostbratwurst
+4 Weißwurst
+4 Käsekrainer
+4 Veggie-Wurst = Vegane Wurst; Vegetarische Bratwurst; Tofuwurst
+4 Wiener = Wiener Würstchen; Frankfurter
+4 Erbsensuppe = Erbseneintopf
+4 Gulaschsuppe = Gulasch
+4 Schnitzelbrötchen = Schnitzel; Schnitzelsemmel
+4 Pulled Pork
+4 Döner
+4 Brötchen = Semmel; Wecken
+4 Wein
+4 Sekt
+4 Kinderpunsch = Punsch
+4 Waffel = Waffeln
+5 Altbier = Alt
+5 Helles
+5 Falafel
+5 Flammkuchen
+5 Crêpes = Crêpe
+5 Eis
+5 Gebrannte Mandeln
+5 Sonnenblumenkerne
+5 Chili con Carne
+5 Chicken Nuggets = Nuggets
+5 Mettbrötchen
+5 Rote Wurst
+5 Schwenkbraten = Schwenker
+5 Gummibärchen
+5 Spritz = Aperol Spritz
+5 Gyros
+5 Hähnchen = Chicken; Chicken Wings

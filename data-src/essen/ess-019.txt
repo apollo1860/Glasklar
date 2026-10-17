@@ -1,0 +1,49 @@
+@id ess-019
+@text Nenne etwas, das auf einem Döner landen kann
+@typ geschlossen
+# Füllungen und Toppings eines Döners/Dürüms an deutschen Imbissen inkl. Varianten (Hähnchen-, Gemüse-, Falafel-, Halloumi-Döner, überbacken).
+# Das Brot selbst (Fladenbrot, Yufka) zählt nicht. Ayran wird getrunken, nicht draufgelegt.
+
+1 Fleisch = Dönerfleisch; Kebab
+1 Salat = Eisbergsalat; Blattsalat; Kopfsalat; Grünzeug
+1 Tomate = Tomaten
+1 Zwiebel = Zwiebeln; Rote Zwiebeln; Rote Zwiebel; Zwiebelringe
+2 Rotkohl = Rotkraut; Blaukraut; Rotkohlsalat
+2 Soße = Sauce; Soßen; Saucen
+2 Knoblauchsoße = Knoblauchsauce; Knoblauch; Knofi
+2 Kräutersoße = Kräutersauce; Kräuter
+2 Scharfe Soße = Scharfe Sauce; Scharf; Chilisoße; Chilisauce; Scharfsoße
+2 Gurke = Gurken; Salatgurke
+2 Feta = Schafskäse; Hirtenkäse; Weißkäse
+3 Kalbfleisch = Kalb
+3 Hähnchen = Hähnchenfleisch; Hühnchen; Huhn; Chicken; Geflügel; Hühnerfleisch
+3 Joghurtsoße = Joghurtsauce; Joghurt; Yoghurt
+3 Tzatziki = Zaziki
+3 Weißkohl = Weißkraut; Krautsalat
+3 Peperoni = Pfefferoni; Peperoncini
+3 Käse = Reibekäse; Gouda; Überbacken
+3 Chiliflocken = Chili; Pul Biber; Paprikaflocken
+4 Pute = Putenfleisch; Truthahn
+4 Lamm = Lammfleisch
+4 Rind = Rindfleisch
+4 Falafel
+4 Halloumi = Hellim; Grillkäse
+4 Gemüse = Grillgemüse
+4 Cocktailsoße = Cocktailsauce
+4 Pommes = Pommes frites
+4 Mais
+4 Petersilie
+4 Möhren = Möhre; Karotten; Karotte; Möhrensalat; Karottensalat
+4 Jalapeños = Jalapeño
+4 Zitrone = Zitronensaft
+5 Sumach = Sumak
+5 Paprika
+5 Aubergine = Auberginen
+5 Zucchini
+5 Oliven = Olive
+5 Rucola
+5 Minze
+5 Granatapfel = Granatapfelkerne
+5 Currysoße = Currysauce
+5 Hackfleisch = Hack
+5 Sucuk
