@@ -123,7 +123,20 @@ export function revealKind(sub, base, typ = 'normal') {
   if (!sub || sub.type === 'timeout') return 'timeout';
   if (sub.type === 'nothing') return 'nothing';
   if (typ === 'rangliste') return base === 0 ? 'hit' : base === 1 ? 'close' : base === 2 ? 'off' : 'far';
-  return base === 0 ? 'rare' : base === 1 ? 'low' : base === 2 ? 'mid' : 'top';
+  return base < 1 ? 'rare' : base < 2 ? 'low' : base < 3 ? 'mid' : 'top';
+}
+
+const TIER_LABELS = { 1: 'Sehr naheliegend', 2: 'Naheliegend', 3: 'Solide', 4: 'Selten', 5: 'Sehr selten' };
+const RANK_LABELS = { 5: 'Volltreffer', 3: 'Knapp dran', 2: 'Daneben', 1: 'Weit daneben' };
+
+/** Einschätzung des Spiels zu einer Abgabe – für den Rundenrückblick. */
+export function assessment(question, sub) {
+  if (!sub || sub.type === 'timeout') return { label: 'Keine Antwort', kind: 'timeout', text: '–' };
+  if (sub.type === 'nothing') return { label: 'Nichts passt', kind: 'nothing', text: 'Nichts passt' };
+  const a = question.answers.find((x) => x.id === sub.answerId);
+  if (!a) return { label: 'Unbekannt', kind: 'nothing', text: '?' };
+  const label = question.typ === 'rangliste' ? (RANK_LABELS[a.tier] ?? '') : TIER_LABELS[a.tier];
+  return { label, kind: `t${a.tier}`, text: a.text };
 }
 
 /** Lösung (bei Ranglisten) unter den Antworten anzeigen. */
