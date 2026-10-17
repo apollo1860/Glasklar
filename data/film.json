@@ -13747,5 +13747,519 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "fil-014",
+  "text": "Nenne einen Charakter aus „SpongeBob Schwammkopf“",
+  "kategorie": "film",
+  "answers": [
+   {
+    "id": "fil-014-a0001",
+    "text": "SpongeBob Schwammkopf",
+    "aliases": [
+     "SpongeBob",
+     "SpongeBob SquarePants",
+     "Schwammkopf"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-014-a0002",
+    "text": "Patrick Star",
+    "aliases": [
+     "Patrick"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-014-a0003",
+    "text": "Thaddäus Tentakel",
+    "aliases": [
+     "Thaddäus",
+     "Squidward",
+     "Squidward Tentacles",
+     "Taddäus"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-014-a0004",
+    "text": "Mr. Krabs",
+    "aliases": [
+     "Krabs",
+     "Eugene Krabs",
+     "Eugen Krabs",
+     "Mister Krabs",
+     "Herr Krabs"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-014-a0005",
+    "text": "Plankton",
+    "aliases": [
+     "Sheldon Plankton"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-014-a0006",
+    "text": "Sandy Cheeks",
+    "aliases": [
+     "Sandy",
+     "Sandy Eichhorn",
+     "Sandy Backenzahn",
+     "Sandy Eichhörnchen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-014-a0007",
+    "text": "Gary",
+    "aliases": [
+     "Gary die Schnecke",
+     "Gary the Snail"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-014-a0008",
+    "text": "Mrs. Puff",
+    "aliases": [
+     "Frau Puff",
+     "Misses Puff"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-014-a0009",
+    "text": "Perla",
+    "aliases": [
+     "Pearl",
+     "Perla Krabs",
+     "Pearl Krabs"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-014-a0010",
+    "text": "Karen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-014-a0011",
+    "text": "Meerjungfraumann",
+    "aliases": [
+     "Mermaid Man"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-014-a0012",
+    "text": "Blaubarschbube",
+    "aliases": [
+     "Barnacle Boy",
+     "Blaubarsch-Junge"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-014-a0013",
+    "text": "Fliegender Holländer",
+    "aliases": [
+     "Flying Dutchman",
+     "Der fliegende Holländer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-014-a0014",
+    "text": "Larry der Hummer",
+    "aliases": [
+     "Larry",
+     "Larry the Lobster",
+     "Larry von Lobster"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-014-a0015",
+    "text": "König Neptun",
+    "aliases": [
+     "King Neptune",
+     "Neptun"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0016",
+    "text": "Patchy der Pirat",
+    "aliases": [
+     "Patchy",
+     "Patchy the Pirate"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0017",
+    "text": "Siegbert Schnösel",
+    "aliases": [
+     "Squilliam",
+     "Squilliam Fancyson"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0018",
+    "text": "KritzelBob",
+    "aliases": [
+     "DoodleBob"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0019",
+    "text": "Prinzessin Mindy",
+    "aliases": [
+     "Mindy",
+     "Princess Mindy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0020",
+    "text": "Potty der Papagei",
+    "aliases": [
+     "Potty",
+     "Potty the Parrot"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0021",
+    "text": "Mantarochen",
+    "aliases": [
+     "Man Ray",
+     "Manta-Rochenmann"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0022",
+    "text": "Blubberbernd",
+    "aliases": [
+     "Bubble Bass",
+     "Blasenbarsch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0023",
+    "text": "Drecksackblase",
+    "aliases": [
+     "Dirty Bubble"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0024",
+    "text": "David Hasselhoff",
+    "aliases": [
+     "Hasselhoff"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0025",
+    "text": "Burger-Bart",
+    "aliases": [
+     "Burger Beard"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0026",
+    "text": "Fred (Mein Bein!)",
+    "aliases": [
+     "Fred",
+     "Fred der Fisch",
+     "Mein Bein"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0027",
+    "text": "Kevin die Seegurke",
+    "aliases": [
+     "Kevin",
+     "Kevin C. Cucumber",
+     "Seegurke Kevin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0028",
+    "text": "Squidina Star",
+    "aliases": [
+     "Squidina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0029",
+    "text": "Opa Schwammkopf",
+    "aliases": [
+     "Opa SquarePants"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0030",
+    "text": "Oma Schwammkopf",
+    "aliases": [
+     "Grandma SquarePants",
+     "SpongeBobs Oma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0031",
+    "text": "Harald Schwammkopf",
+    "aliases": [
+     "Harold SquarePants",
+     "Harold Schwammkopf",
+     "SpongeBobs Vater"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0032",
+    "text": "Margarethe Schwammkopf",
+    "aliases": [
+     "Margaret SquarePants",
+     "Margaret Schwammkopf",
+     "SpongeBobs Mutter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-014-a0033",
+    "text": "Fred die Flunder",
+    "aliases": [
+     "Flats",
+     "Flats the Flounder"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0034",
+    "text": "Dennis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0035",
+    "text": "Bubbles der Delfin",
+    "aliases": [
+     "Bubbles"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0036",
+    "text": "Goofy Goober",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0037",
+    "text": "Cecil Star",
+    "aliases": [
+     "Cecil"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0038",
+    "text": "Bunny Star",
+    "aliases": [
+     "Bunny"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0039",
+    "text": "Opapat Star",
+    "aliases": [
+     "GrandPat",
+     "GrandPat Star"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0040",
+    "text": "Samantha Star",
+    "aliases": [
+     "Sam Star",
+     "Big Sister Sam"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0041",
+    "text": "Herb Star",
+    "aliases": [
+     "Herbert Star"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0042",
+    "text": "Margie Star",
+    "aliases": [
+     "Margene Star"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0043",
+    "text": "Stanley Schwammkopf",
+    "aliases": [
+     "Stanley SquarePants",
+     "Cousin Stanley"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0044",
+    "text": "Blackjack Schwammkopf",
+    "aliases": [
+     "BlackJack SquarePants"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0045",
+    "text": "Mama Krabs",
+    "aliases": [
+     "Betsy Krabs",
+     "Mrs. Krabs"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0046",
+    "text": "Nat Peterson",
+    "aliases": [
+     "Nat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0047",
+    "text": "Bubble Buddy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0048",
+    "text": "Hans (die Hand)",
+    "aliases": [
+     "Hans"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0049",
+    "text": "Painty der Pirat",
+    "aliases": [
+     "Painty",
+     "Painty the Pirate"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0050",
+    "text": "Snellie",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0051",
+    "text": "Mystery (Seepferdchen)",
+    "aliases": [
+     "Mystery"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0052",
+    "text": "König Poseidon",
+    "aliases": [
+     "King Poseidon",
+     "Poseidon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0053",
+    "text": "Otto (Roboter)",
+    "aliases": [
+     "Otto"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0054",
+    "text": "Nobby Plankton",
+    "aliases": [
+     "Nobby"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0055",
+    "text": "Narlene Plankton",
+    "aliases": [
+     "Narlene"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0056",
+    "text": "Jim (Ex-Koch der Krossen Krabbe)",
+    "aliases": [
+     "Jim"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0057",
+    "text": "Rocky (Garys Stein)",
+    "aliases": [
+     "Rocky"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0058",
+    "text": "SpongeGar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0059",
+    "text": "Patar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-014-a0060",
+    "text": "Squog",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

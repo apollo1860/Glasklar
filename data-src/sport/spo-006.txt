@@ -1,0 +1,44 @@
+@id spo-006
+@text Nenne einen englischen Fußballer, der in der Bundesliga gespielt hat
+@typ geschlossen
+# Englische Spieler (England als Nationalität bzw. englische Herkunft mit England-Auswahl, auch wenn später für andere Verbände) mit mind. einem
+# Einsatz in der 1. Bundesliga seit 1963, Stand 17.10.2026 (inkl. Saison 2026/27: Nwaneri, Mikey Moore, Reigan Heskey, Simpson-Pusey, Quansah, Jobe Bellingham).
+# Aufgenommen trotz Doppelbezug: Hargreaves (in Kanada geboren, England-Nationalspieler), Lookman, Hudson-Odoi, Demarai Gray, Tella, Chukwuemeka
+# (in Österreich geboren, England-Juniorenauswahl). Emile Smith Rowe: 1 Bundesliga-Einsatz für Leipzig (April 2019), daher drin.
+# Nicht: Japhet Tanganga (Augsburg, 0 Einsätze), Mandela Egbo (nur Gladbach II), Xavier Amaechi (HSV, nur 2. Liga), Waliser (Ampadu, Matondo, Wayne Thomas),
+# Schotten (Murdo MacLeod, Alan McInally, Scott Booth), Felix/Lukas Nmecha und Jamal Musiala (spielen für Deutschland), Chris Richards (USA).
+
+1 Harry Kane = Kane
+1 Jude Bellingham
+1 Jadon Sancho = Sancho
+2 Kevin Keegan = Keegan
+2 Owen Hargreaves = Hargreaves
+2 Eric Dier = Dier
+3 Jamie Bynoe-Gittens = Jamie Gittens; Bynoe-Gittens; Gittens
+3 Jobe Bellingham
+3 Ademola Lookman = Lookman
+3 Tony Woodcock = Woodcock
+3 Reiss Nelson = Nelson
+3 Callum Hudson-Odoi = Hudson-Odoi
+3 Jarell Quansah = Quansah
+3 Ethan Nwaneri = Nwaneri
+4 Omar Richards
+4 Demarai Gray
+4 Ryan Sessegnon = Sessegnon
+4 Jonjoe Kenny
+4 Reece Oxford = Oxford
+4 Michael Mancienne = Mancienne
+4 Carney Chukwuemeka = Chukwuemeka
+4 Nathan Tella = Tella
+4 Mikey Moore
+4 Emile Smith Rowe = Smith Rowe
+4 Ryan Kent
+4 Oladapo Afolayan = Afolayan; Dapo Afolayan
+5 Reigan Heskey = Heskey
+5 Jahmai Simpson-Pusey = Simpson-Pusey
+5 Keanan Bennetts = Bennetts
+5 Kaylen Hinds = Hinds
+5 Dave Watson
+5 Dean Thomas
+5 Peter Hobday = Hobday
+5 Mark Farrington = Farrington

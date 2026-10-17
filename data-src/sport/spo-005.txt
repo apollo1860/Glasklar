@@ -1,0 +1,99 @@
+@id spo-005
+@text Nenne einen deutschen Fußballer, der in der englischen Premier League gespielt hat
+@typ geschlossen
+# Spieler mit mind. einem Premier-League-Einsatz seit 1992/93 bis Saison 2025/26 und laufender Saison 2026/27 (Stand 17.10.2026).
+# Deutsche Staatsbürger inkl. Doppelstaatler, die für DFB-Auswahlteams (auch Jugend) spielten, z. B. Kevin-Prince Boateng, Joel Matip,
+# Choupo-Moting, Kolašinac, Dejagah, Töre, Vrančić; Alberto Méndez (in Nürnberg geboren) laut StatMuse als Deutscher geführt.
+# Sommer 2026 neu: Goretzka (Aston Villa, Debüt nach Verletzung ab Oktober erwartet), Ilyas Ansah (Hull City) – aufgenommen, Einsatz nicht sicher belegt.
+# Nicht: Michael Zetterer (Leeds, bisher 0 PL-Spiele), Keven Schlotterbeck (Southampton, Championship), Bert Trautmann (vor 1992),
+# Tanganga-artige Leihen ohne Einsatz, Spieler nur in Pokal/Championship (Thomas Eisfeld, Uwe Fuchs), Maik Taylor (Nordirland), Trainer (Klopp, Farke, Wagner, Hürzeler).
+
+1 Michael Ballack = Ballack
+1 Mesut Özil = Özil
+1 Bastian Schweinsteiger = Schweinsteiger
+1 Florian Wirtz = Wirtz
+1 Kai Havertz = Havertz
+2 Leroy Sané = Sané
+2 İlkay Gündoğan = Gündoğan
+2 Timo Werner = Werner
+2 Antonio Rüdiger = Rüdiger
+2 Jürgen Klinsmann = Klinsmann
+2 Jens Lehmann = Lehmann
+2 Per Mertesacker = Mertesacker
+2 Lukas Podolski = Podolski
+2 Bernd Leno = Leno
+2 Nick Woltemade = Woltemade
+2 Jérôme Boateng = Boateng
+3 André Schürrle = Schürrle
+3 Emre Can
+3 Loris Karius = Karius
+3 Dietmar Hamann = Hamann; Didi Hamann
+3 Robert Huth = Huth
+3 Leon Goretzka = Goretzka
+3 Niclas Füllkrug = Füllkrug
+3 Serge Gnabry = Gnabry
+3 Thilo Kehrer = Kehrer
+3 Shkodran Mustafi = Mustafi
+3 Joel Matip = Matip
+3 Stefan Ortega = Ortega; Stefan Ortega Moreno
+3 Pascal Groß = Groß
+3 Marko Marin = Marin
+3 Thomas Hitzlsperger = Hitzlsperger
+3 Markus Babbel = Babbel
+3 Christian Ziege = Ziege
+3 Deniz Undav = Undav
+3 Robin Koch = Koch
+3 Max Meyer
+3 Malick Thiaw = Thiaw
+3 Kevin-Prince Boateng = Prince Boateng
+3 Eric Maxim Choupo-Moting = Choupo-Moting
+3 Ron-Robert Zieler = Zieler
+3 Kevin Schade = Schade
+4 Karl-Heinz Riedle = Riedle; Kalle Riedle
+4 Uwe Rösler = Rösler
+4 Steffen Freund = Freund
+4 Lewis Holtby = Holtby
+4 Moritz Volz = Volz
+4 Jan Kirchhoff = Kirchhoff
+4 Anton Stach = Stach
+4 Lukas Nmecha = Nmecha
+4 Vitaly Janelt = Janelt
+4 Mahmoud Dahoud = Dahoud; Mo Dahoud
+4 Brajan Gruda = Gruda
+4 Sead Kolašinac = Kolasinac
+4 Gerhard Tremmel = Tremmel
+4 Merlin Röhl = Röhl
+4 Luca Netz = Netz
+4 Erik Durm = Durm
+4 Maurizio Gaudino = Gaudino
+4 Eike Immel = Immel
+4 Michael Tarnat = Tarnat
+4 Fredi Bobic = Bobic
+4 Thomas Helmer = Helmer
+4 Ilyas Ansah = Ansah
+4 Christopher Schindler = Schindler
+4 Moritz Leitner = Leitner
+5 Lars Leese = Leese
+5 Sean Dundee = Dundee
+5 Stefan Schnoor = Schnoor
+5 Stefan Malz = Malz
+5 Stefan Beinlich = Beinlich
+5 Matthias Breitkreutz = Breitkreutz
+5 Michael Frontzeck = Frontzeck
+5 Steffen Karl
+5 Alberto Méndez
+5 Sascha Riether = Riether
+5 Ashkan Dejagah = Dejagah
+5 Gökhan Töre = Töre
+5 Philipp Wollscheid = Wollscheid
+5 Chris Löwe = Löwe
+5 Michael Hefele = Hefele
+5 Elias Kachunga = Kachunga
+5 Collin Quaner = Quaner
+5 Tom Trybull = Trybull
+5 Christoph Zimmermann
+5 Marco Stiepermann = Stiepermann
+5 Ralf Fährmann = Fährmann
+5 Mario Vrančić = Vrancic
+5 Lukas Rupp = Rupp
+5 Eric da Silva Moreira = da Silva Moreira

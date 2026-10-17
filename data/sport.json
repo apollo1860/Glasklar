@@ -3001,5 +3001,984 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "spo-005",
+  "text": "Nenne einen deutschen Fußballer, der in der englischen Premier League gespielt hat",
+  "kategorie": "sport",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "spo-005-a0001",
+    "text": "Michael Ballack",
+    "aliases": [
+     "Ballack"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-005-a0002",
+    "text": "Mesut Özil",
+    "aliases": [
+     "Özil"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-005-a0003",
+    "text": "Bastian Schweinsteiger",
+    "aliases": [
+     "Schweinsteiger"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-005-a0004",
+    "text": "Florian Wirtz",
+    "aliases": [
+     "Wirtz"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-005-a0005",
+    "text": "Kai Havertz",
+    "aliases": [
+     "Havertz"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-005-a0006",
+    "text": "Leroy Sané",
+    "aliases": [
+     "Sané"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0007",
+    "text": "İlkay Gündoğan",
+    "aliases": [
+     "Gündoğan"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0008",
+    "text": "Timo Werner",
+    "aliases": [
+     "Werner"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0009",
+    "text": "Antonio Rüdiger",
+    "aliases": [
+     "Rüdiger"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0010",
+    "text": "Jürgen Klinsmann",
+    "aliases": [
+     "Klinsmann"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0011",
+    "text": "Jens Lehmann",
+    "aliases": [
+     "Lehmann"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0012",
+    "text": "Per Mertesacker",
+    "aliases": [
+     "Mertesacker"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0013",
+    "text": "Lukas Podolski",
+    "aliases": [
+     "Podolski"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0014",
+    "text": "Bernd Leno",
+    "aliases": [
+     "Leno"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0015",
+    "text": "Nick Woltemade",
+    "aliases": [
+     "Woltemade"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0016",
+    "text": "Jérôme Boateng",
+    "aliases": [
+     "Boateng"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-005-a0017",
+    "text": "André Schürrle",
+    "aliases": [
+     "Schürrle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0018",
+    "text": "Emre Can",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0019",
+    "text": "Loris Karius",
+    "aliases": [
+     "Karius"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0020",
+    "text": "Dietmar Hamann",
+    "aliases": [
+     "Hamann",
+     "Didi Hamann"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0021",
+    "text": "Robert Huth",
+    "aliases": [
+     "Huth"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0022",
+    "text": "Leon Goretzka",
+    "aliases": [
+     "Goretzka"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0023",
+    "text": "Niclas Füllkrug",
+    "aliases": [
+     "Füllkrug"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0024",
+    "text": "Serge Gnabry",
+    "aliases": [
+     "Gnabry"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0025",
+    "text": "Thilo Kehrer",
+    "aliases": [
+     "Kehrer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0026",
+    "text": "Shkodran Mustafi",
+    "aliases": [
+     "Mustafi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0027",
+    "text": "Joel Matip",
+    "aliases": [
+     "Matip"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0028",
+    "text": "Stefan Ortega",
+    "aliases": [
+     "Ortega",
+     "Stefan Ortega Moreno"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0029",
+    "text": "Pascal Groß",
+    "aliases": [
+     "Groß"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0030",
+    "text": "Marko Marin",
+    "aliases": [
+     "Marin"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0031",
+    "text": "Thomas Hitzlsperger",
+    "aliases": [
+     "Hitzlsperger"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0032",
+    "text": "Markus Babbel",
+    "aliases": [
+     "Babbel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0033",
+    "text": "Christian Ziege",
+    "aliases": [
+     "Ziege"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0034",
+    "text": "Deniz Undav",
+    "aliases": [
+     "Undav"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0035",
+    "text": "Robin Koch",
+    "aliases": [
+     "Koch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0036",
+    "text": "Max Meyer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0037",
+    "text": "Malick Thiaw",
+    "aliases": [
+     "Thiaw"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0038",
+    "text": "Kevin-Prince Boateng",
+    "aliases": [
+     "Prince Boateng"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0039",
+    "text": "Eric Maxim Choupo-Moting",
+    "aliases": [
+     "Choupo-Moting"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0040",
+    "text": "Ron-Robert Zieler",
+    "aliases": [
+     "Zieler"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0041",
+    "text": "Kevin Schade",
+    "aliases": [
+     "Schade"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-005-a0042",
+    "text": "Karl-Heinz Riedle",
+    "aliases": [
+     "Riedle",
+     "Kalle Riedle"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0043",
+    "text": "Uwe Rösler",
+    "aliases": [
+     "Rösler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0044",
+    "text": "Steffen Freund",
+    "aliases": [
+     "Freund"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0045",
+    "text": "Lewis Holtby",
+    "aliases": [
+     "Holtby"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0046",
+    "text": "Moritz Volz",
+    "aliases": [
+     "Volz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0047",
+    "text": "Jan Kirchhoff",
+    "aliases": [
+     "Kirchhoff"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0048",
+    "text": "Anton Stach",
+    "aliases": [
+     "Stach"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0049",
+    "text": "Lukas Nmecha",
+    "aliases": [
+     "Nmecha"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0050",
+    "text": "Vitaly Janelt",
+    "aliases": [
+     "Janelt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0051",
+    "text": "Mahmoud Dahoud",
+    "aliases": [
+     "Dahoud",
+     "Mo Dahoud"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0052",
+    "text": "Brajan Gruda",
+    "aliases": [
+     "Gruda"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0053",
+    "text": "Sead Kolašinac",
+    "aliases": [
+     "Kolasinac"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0054",
+    "text": "Gerhard Tremmel",
+    "aliases": [
+     "Tremmel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0055",
+    "text": "Merlin Röhl",
+    "aliases": [
+     "Röhl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0056",
+    "text": "Luca Netz",
+    "aliases": [
+     "Netz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0057",
+    "text": "Erik Durm",
+    "aliases": [
+     "Durm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0058",
+    "text": "Maurizio Gaudino",
+    "aliases": [
+     "Gaudino"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0059",
+    "text": "Eike Immel",
+    "aliases": [
+     "Immel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0060",
+    "text": "Michael Tarnat",
+    "aliases": [
+     "Tarnat"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0061",
+    "text": "Fredi Bobic",
+    "aliases": [
+     "Bobic"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0062",
+    "text": "Thomas Helmer",
+    "aliases": [
+     "Helmer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0063",
+    "text": "Ilyas Ansah",
+    "aliases": [
+     "Ansah"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0064",
+    "text": "Christopher Schindler",
+    "aliases": [
+     "Schindler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0065",
+    "text": "Moritz Leitner",
+    "aliases": [
+     "Leitner"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-005-a0066",
+    "text": "Lars Leese",
+    "aliases": [
+     "Leese"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0067",
+    "text": "Sean Dundee",
+    "aliases": [
+     "Dundee"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0068",
+    "text": "Stefan Schnoor",
+    "aliases": [
+     "Schnoor"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0069",
+    "text": "Stefan Malz",
+    "aliases": [
+     "Malz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0070",
+    "text": "Stefan Beinlich",
+    "aliases": [
+     "Beinlich"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0071",
+    "text": "Matthias Breitkreutz",
+    "aliases": [
+     "Breitkreutz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0072",
+    "text": "Michael Frontzeck",
+    "aliases": [
+     "Frontzeck"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0073",
+    "text": "Steffen Karl",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0074",
+    "text": "Alberto Méndez",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0075",
+    "text": "Sascha Riether",
+    "aliases": [
+     "Riether"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0076",
+    "text": "Ashkan Dejagah",
+    "aliases": [
+     "Dejagah"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0077",
+    "text": "Gökhan Töre",
+    "aliases": [
+     "Töre"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0078",
+    "text": "Philipp Wollscheid",
+    "aliases": [
+     "Wollscheid"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0079",
+    "text": "Chris Löwe",
+    "aliases": [
+     "Löwe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0080",
+    "text": "Michael Hefele",
+    "aliases": [
+     "Hefele"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0081",
+    "text": "Elias Kachunga",
+    "aliases": [
+     "Kachunga"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0082",
+    "text": "Collin Quaner",
+    "aliases": [
+     "Quaner"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0083",
+    "text": "Tom Trybull",
+    "aliases": [
+     "Trybull"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0084",
+    "text": "Christoph Zimmermann",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0085",
+    "text": "Marco Stiepermann",
+    "aliases": [
+     "Stiepermann"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0086",
+    "text": "Ralf Fährmann",
+    "aliases": [
+     "Fährmann"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0087",
+    "text": "Mario Vrančić",
+    "aliases": [
+     "Vrancic"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0088",
+    "text": "Lukas Rupp",
+    "aliases": [
+     "Rupp"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-005-a0089",
+    "text": "Eric da Silva Moreira",
+    "aliases": [
+     "da Silva Moreira"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "spo-006",
+  "text": "Nenne einen englischen Fußballer, der in der Bundesliga gespielt hat",
+  "kategorie": "sport",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "spo-006-a0001",
+    "text": "Harry Kane",
+    "aliases": [
+     "Kane"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-006-a0002",
+    "text": "Jude Bellingham",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "spo-006-a0003",
+    "text": "Jadon Sancho",
+    "aliases": [
+     "Sancho"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-006-a0004",
+    "text": "Kevin Keegan",
+    "aliases": [
+     "Keegan"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-006-a0005",
+    "text": "Owen Hargreaves",
+    "aliases": [
+     "Hargreaves"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-006-a0006",
+    "text": "Eric Dier",
+    "aliases": [
+     "Dier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-006-a0007",
+    "text": "Jamie Bynoe-Gittens",
+    "aliases": [
+     "Jamie Gittens",
+     "Bynoe-Gittens",
+     "Gittens"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0008",
+    "text": "Jobe Bellingham",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0009",
+    "text": "Ademola Lookman",
+    "aliases": [
+     "Lookman"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0010",
+    "text": "Tony Woodcock",
+    "aliases": [
+     "Woodcock"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0011",
+    "text": "Reiss Nelson",
+    "aliases": [
+     "Nelson"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0012",
+    "text": "Callum Hudson-Odoi",
+    "aliases": [
+     "Hudson-Odoi"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0013",
+    "text": "Jarell Quansah",
+    "aliases": [
+     "Quansah"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0014",
+    "text": "Ethan Nwaneri",
+    "aliases": [
+     "Nwaneri"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-006-a0015",
+    "text": "Omar Richards",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0016",
+    "text": "Demarai Gray",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0017",
+    "text": "Ryan Sessegnon",
+    "aliases": [
+     "Sessegnon"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0018",
+    "text": "Jonjoe Kenny",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0019",
+    "text": "Reece Oxford",
+    "aliases": [
+     "Oxford"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0020",
+    "text": "Michael Mancienne",
+    "aliases": [
+     "Mancienne"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0021",
+    "text": "Carney Chukwuemeka",
+    "aliases": [
+     "Chukwuemeka"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0022",
+    "text": "Nathan Tella",
+    "aliases": [
+     "Tella"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0023",
+    "text": "Mikey Moore",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0024",
+    "text": "Emile Smith Rowe",
+    "aliases": [
+     "Smith Rowe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0025",
+    "text": "Ryan Kent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0026",
+    "text": "Oladapo Afolayan",
+    "aliases": [
+     "Afolayan",
+     "Dapo Afolayan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-006-a0027",
+    "text": "Reigan Heskey",
+    "aliases": [
+     "Heskey"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0028",
+    "text": "Jahmai Simpson-Pusey",
+    "aliases": [
+     "Simpson-Pusey"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0029",
+    "text": "Keanan Bennetts",
+    "aliases": [
+     "Bennetts"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0030",
+    "text": "Kaylen Hinds",
+    "aliases": [
+     "Hinds"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0031",
+    "text": "Dave Watson",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0032",
+    "text": "Dean Thomas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0033",
+    "text": "Peter Hobday",
+    "aliases": [
+     "Hobday"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-006-a0034",
+    "text": "Mark Farrington",
+    "aliases": [
+     "Farrington"
+    ],
+    "tier": 5
+   }
+  ]
  }
 ]

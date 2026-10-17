@@ -136,21 +136,23 @@
       "id": "sport",
       "name": "Sport",
       "icon": "⚽",
-      "count": 4,
-      "v": "448eb149c8",
+      "count": 6,
+      "v": "992c062c49",
       "questions": [
         "spo-001",
         "spo-002",
         "spo-003",
-        "spo-004"
+        "spo-004",
+        "spo-005",
+        "spo-006"
       ]
     },
     {
       "id": "film",
       "name": "Film & Serien",
       "icon": "🎬",
-      "count": 13,
-      "v": "4ee36413eb",
+      "count": 14,
+      "v": "74653c4e47",
       "questions": [
         "fil-001",
         "fil-002",
@@ -164,7 +166,8 @@
         "fil-010",
         "fil-011",
         "fil-012",
-        "fil-013"
+        "fil-013",
+        "fil-014"
       ]
     },
     {

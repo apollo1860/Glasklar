@@ -1,0 +1,67 @@
+@id fil-014
+@text Nenne einen Charakter aus „SpongeBob Schwammkopf“
+# Figuren aus der Serie (1999–), den Kinofilmen, „Camp Koral“ und „Die Patrick Star Show“. Deutsche Synchronnamen als Haupttext,
+# englische Originalnamen als Alias. Quellen: deutsche SpongePedia/Fandom (per Suche, Seiten selbst geblockt), Synchronkartei, Stand 10/2026.
+# Unsicher: einige Nebenfiguren ohne belegten deutschen Namen stehen mit Originalnamen (Herb/Margie Star, Bubble Buddy, Painty).
+# Nicht: reine Gegenstände/Orte (Krabbenburger, Krosse Krabbe), Gruppen (Quallen).
+
+1 SpongeBob Schwammkopf = SpongeBob; SpongeBob SquarePants; Schwammkopf
+1 Patrick Star = Patrick
+1 Thaddäus Tentakel = Thaddäus; Squidward; Squidward Tentacles; Taddäus
+1 Mr. Krabs = Krabs; Eugene Krabs; Eugen Krabs; Mister Krabs; Herr Krabs
+1 Plankton = Sheldon Plankton
+1 Sandy Cheeks = Sandy; Sandy Eichhorn; Sandy Backenzahn; Sandy Eichhörnchen
+2 Gary = Gary die Schnecke; Gary the Snail
+2 Mrs. Puff = Frau Puff; Misses Puff
+3 Perla = Pearl; Perla Krabs; Pearl Krabs
+3 Karen
+3 Meerjungfraumann = Mermaid Man
+3 Blaubarschbube = Barnacle Boy; Blaubarsch-Junge
+3 Fliegender Holländer = Flying Dutchman; Der fliegende Holländer
+3 Larry der Hummer = Larry; Larry the Lobster; Larry von Lobster
+4 König Neptun = King Neptune; Neptun
+4 Patchy der Pirat = Patchy; Patchy the Pirate
+4 Siegbert Schnösel = Squilliam; Squilliam Fancyson
+4 KritzelBob = DoodleBob
+4 Prinzessin Mindy = Mindy; Princess Mindy
+4 Potty der Papagei = Potty; Potty the Parrot
+4 Mantarochen = Man Ray; Manta-Rochenmann
+4 Blubberbernd = Bubble Bass; Blasenbarsch
+4 Drecksackblase = Dirty Bubble
+4 David Hasselhoff = Hasselhoff
+4 Burger-Bart = Burger Beard
+4 Fred (Mein Bein!) = Fred; Fred der Fisch; Mein Bein
+4 Kevin die Seegurke = Kevin; Kevin C. Cucumber; Seegurke Kevin
+4 Squidina Star = Squidina
+4 Opa Schwammkopf = Opa SquarePants
+4 Oma Schwammkopf = Grandma SquarePants; SpongeBobs Oma
+4 Harald Schwammkopf = Harold SquarePants; Harold Schwammkopf; SpongeBobs Vater
+4 Margarethe Schwammkopf = Margaret SquarePants; Margaret Schwammkopf; SpongeBobs Mutter
+5 Fred die Flunder = Flats; Flats the Flounder
+5 Dennis
+5 Bubbles der Delfin = Bubbles
+5 Goofy Goober
+5 Cecil Star = Cecil
+5 Bunny Star = Bunny
+5 Opapat Star = GrandPat; GrandPat Star
+5 Samantha Star = Sam Star; Big Sister Sam
+5 Herb Star = Herbert Star
+5 Margie Star = Margene Star
+5 Stanley Schwammkopf = Stanley SquarePants; Cousin Stanley
+5 Blackjack Schwammkopf = BlackJack SquarePants
+5 Mama Krabs = Betsy Krabs; Mrs. Krabs
+5 Nat Peterson = Nat
+5 Bubble Buddy
+5 Hans (die Hand) = Hans
+5 Painty der Pirat = Painty; Painty the Pirate
+5 Snellie
+5 Mystery (Seepferdchen) = Mystery
+5 König Poseidon = King Poseidon; Poseidon
+5 Otto (Roboter) = Otto
+5 Nobby Plankton = Nobby
+5 Narlene Plankton = Narlene
+5 Jim (Ex-Koch der Krossen Krabbe) = Jim
+5 Rocky (Garys Stein) = Rocky
+5 SpongeGar
+5 Patar
+5 Squog
