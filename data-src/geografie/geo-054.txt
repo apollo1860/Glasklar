@@ -1,0 +1,16 @@
+@id geo-054
+@text Nenne ein Land, das über eigene Atomwaffen verfügt
+@typ geschlossen
+# Die neun Atommächte (SIPRI): fünf offizielle laut Atomwaffensperrvertrag + Indien, Pakistan, Nordkorea, Israel (inoffiziell).
+# NICHT: Länder mit nuklearer Teilhabe (Deutschland, Belgien, Niederlande, Italien, Türkei) – die Waffen gehören den USA.
+# NICHT: Iran (kein Atomwaffenbesitz), Südafrika (Programm 1989–91 aufgegeben), Ukraine/Belarus/Kasachstan (an Russland abgegeben).
+
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+1 Russland = Russische Föderation
+2 China = Volksrepublik China
+2 Nordkorea = Demokratische Volksrepublik Korea
+2 Frankreich
+2 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+3 Indien
+3 Pakistan
+3 Israel

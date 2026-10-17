@@ -1,0 +1,81 @@
+@id wor-039
+@text Nenne einen gängigen deutschen weiblichen Vornamen, der mit „M“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Maria
+1 Marie
+1 Mia
+2 Melanie
+2 Michelle
+2 Monika = Monica
+2 Martina
+2 Maja = Maya
+2 Miriam = Mirjam; Myriam
+2 Marlene
+2 Magdalena
+2 Margarete = Margarethe; Margareta
+2 Michaela
+3 Mila
+3 Mira
+3 Margit
+3 Margot
+3 Marion
+3 Marianne
+3 Marina
+3 Marta = Martha
+3 Mathilda = Matilda
+3 Mathilde
+3 Melissa
+3 Merle
+3 Mareike
+3 Maren
+3 Melina
+3 Milena
+3 Mona
+3 Manuela
+3 Mandy
+3 Maike = Meike
+3 Madeleine = Madlen; Madeline
+3 Marlies = Marlis
+3 Mariella
+3 Mina
+4 Marla
+4 Malia
+4 Malin
+4 Marit
+4 Marika
+4 Marga
+4 Magda
+4 Maxi
+4 Mechthild
+4 Mascha
+4 Milla
+4 Merve
+4 Mariam = Maryam
+4 Marisa
+4 Malena
+4 Marieke
+4 Margitta
+4 Mirella
+4 Manja
+4 Minna
+4 Maxima
+4 Mathea = Matea
+4 Melek
+4 Marleen = Marlen
+5 Marietta
+5 Margarita
+5 Maximiliane
+5 Meta
+5 Mirja
+5 Maite
+5 Meryem
+5 Milana
+5 Melinda
+5 Mercedes
+5 Melitta
+5 Malwine
+5 Mareen

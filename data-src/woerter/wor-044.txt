@@ -1,0 +1,36 @@
+@id wor-044
+@text Nenne einen gängigen deutschen männlichen Vornamen, der mit „P“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Paul
+1 Peter
+1 Philipp = Phillip; Philip
+1 Patrick = Patrik
+2 Pascal
+3 Piet
+3 Pius
+3 Phil
+3 Pierre
+3 Paulo
+3 Per
+3 Peer
+4 Pablo
+4 Pedro
+4 Paolo
+4 Pelle
+4 Pirmin
+4 Pawel
+4 Piotr
+4 Pepe
+4 Paulus
+4 Philippe
+4 Pit
+4 Patrice
+5 Pankraz = Pankratius
+5 Philemon
+5 Pieter
+5 Pino
+5 Primus

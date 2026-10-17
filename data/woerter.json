@@ -11682,5 +11682,2550 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "wor-038",
+  "text": "Nenne einen gängigen deutschen weiblichen Vornamen, der mit „L“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-038-a0001",
+    "text": "Laura",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-038-a0002",
+    "text": "Lisa",
+    "aliases": [
+     "Liza"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-038-a0003",
+    "text": "Lena",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-038-a0004",
+    "text": "Lea",
+    "aliases": [
+     "Leah"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0005",
+    "text": "Luisa",
+    "aliases": [
+     "Louisa"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0006",
+    "text": "Lara",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0007",
+    "text": "Lina",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0008",
+    "text": "Leonie",
+    "aliases": [
+     "Leoni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0009",
+    "text": "Lilly",
+    "aliases": [
+     "Lilli",
+     "Lili",
+     "Lily"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0010",
+    "text": "Luna",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0011",
+    "text": "Linda",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-038-a0012",
+    "text": "Lotta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0013",
+    "text": "Lotte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0014",
+    "text": "Luise",
+    "aliases": [
+     "Louise"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0015",
+    "text": "Lucie",
+    "aliases": [
+     "Lucy",
+     "Luzie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0016",
+    "text": "Lia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0017",
+    "text": "Leila",
+    "aliases": [
+     "Laila",
+     "Layla",
+     "Leyla"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0018",
+    "text": "Lieselotte",
+    "aliases": [
+     "Liselotte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0019",
+    "text": "Lydia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0020",
+    "text": "Larissa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0021",
+    "text": "Lana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0022",
+    "text": "Leni",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0023",
+    "text": "Liv",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0024",
+    "text": "Lucia",
+    "aliases": [
+     "Luzia"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0025",
+    "text": "Lilith",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0026",
+    "text": "Lotti",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-038-a0027",
+    "text": "Liesel",
+    "aliases": [
+     "Lisl"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0028",
+    "text": "Liesbeth",
+    "aliases": [
+     "Lisbeth"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0029",
+    "text": "Lavinia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0030",
+    "text": "Lenja",
+    "aliases": [
+     "Lenya"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0031",
+    "text": "Lorena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0032",
+    "text": "Lore",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0033",
+    "text": "Ludmilla",
+    "aliases": [
+     "Ludmila"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0034",
+    "text": "Lilian",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0035",
+    "text": "Liliana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0036",
+    "text": "Lilo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0037",
+    "text": "Linnea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0038",
+    "text": "Lisann",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0039",
+    "text": "Lisanne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0040",
+    "text": "Lenia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0041",
+    "text": "Lene",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0042",
+    "text": "Leandra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0043",
+    "text": "Liane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0044",
+    "text": "Livia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0045",
+    "text": "Luana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0046",
+    "text": "Lynn",
+    "aliases": [
+     "Linn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0047",
+    "text": "Leonora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0048",
+    "text": "Leonore",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0049",
+    "text": "Lou",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0050",
+    "text": "Lola",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0051",
+    "text": "Lisette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0052",
+    "text": "Laureen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0053",
+    "text": "Lucienne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0054",
+    "text": "Lieselore",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-038-a0055",
+    "text": "Lorelei",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0056",
+    "text": "Leokadia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0057",
+    "text": "Lioba",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0058",
+    "text": "Loretta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0059",
+    "text": "Laetitia",
+    "aliases": [
+     "Letizia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0060",
+    "text": "Lissy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0061",
+    "text": "Larina",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0062",
+    "text": "Leopoldine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0063",
+    "text": "Lucinda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0064",
+    "text": "Luitgard",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-038-a0065",
+    "text": "Lisbet",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-039",
+  "text": "Nenne einen gängigen deutschen weiblichen Vornamen, der mit „M“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-039-a0001",
+    "text": "Maria",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-039-a0002",
+    "text": "Marie",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-039-a0003",
+    "text": "Mia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-039-a0004",
+    "text": "Melanie",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0005",
+    "text": "Michelle",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0006",
+    "text": "Monika",
+    "aliases": [
+     "Monica"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0007",
+    "text": "Martina",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0008",
+    "text": "Maja",
+    "aliases": [
+     "Maya"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0009",
+    "text": "Miriam",
+    "aliases": [
+     "Mirjam",
+     "Myriam"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0010",
+    "text": "Marlene",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0011",
+    "text": "Magdalena",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0012",
+    "text": "Margarete",
+    "aliases": [
+     "Margarethe",
+     "Margareta"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0013",
+    "text": "Michaela",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-039-a0014",
+    "text": "Mila",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0015",
+    "text": "Mira",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0016",
+    "text": "Margit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0017",
+    "text": "Margot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0018",
+    "text": "Marion",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0019",
+    "text": "Marianne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0020",
+    "text": "Marina",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0021",
+    "text": "Marta",
+    "aliases": [
+     "Martha"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0022",
+    "text": "Mathilda",
+    "aliases": [
+     "Matilda"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0023",
+    "text": "Mathilde",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0024",
+    "text": "Melissa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0025",
+    "text": "Merle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0026",
+    "text": "Mareike",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0027",
+    "text": "Maren",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0028",
+    "text": "Melina",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0029",
+    "text": "Milena",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0030",
+    "text": "Mona",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0031",
+    "text": "Manuela",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0032",
+    "text": "Mandy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0033",
+    "text": "Maike",
+    "aliases": [
+     "Meike"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0034",
+    "text": "Madeleine",
+    "aliases": [
+     "Madlen",
+     "Madeline"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0035",
+    "text": "Marlies",
+    "aliases": [
+     "Marlis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0036",
+    "text": "Mariella",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0037",
+    "text": "Mina",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-039-a0038",
+    "text": "Marla",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0039",
+    "text": "Malia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0040",
+    "text": "Malin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0041",
+    "text": "Marit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0042",
+    "text": "Marika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0043",
+    "text": "Marga",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0044",
+    "text": "Magda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0045",
+    "text": "Maxi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0046",
+    "text": "Mechthild",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0047",
+    "text": "Mascha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0048",
+    "text": "Milla",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0049",
+    "text": "Merve",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0050",
+    "text": "Mariam",
+    "aliases": [
+     "Maryam"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0051",
+    "text": "Marisa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0052",
+    "text": "Malena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0053",
+    "text": "Marieke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0054",
+    "text": "Margitta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0055",
+    "text": "Mirella",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0056",
+    "text": "Manja",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0057",
+    "text": "Minna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0058",
+    "text": "Maxima",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0059",
+    "text": "Mathea",
+    "aliases": [
+     "Matea"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0060",
+    "text": "Melek",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0061",
+    "text": "Marleen",
+    "aliases": [
+     "Marlen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-039-a0062",
+    "text": "Marietta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0063",
+    "text": "Margarita",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0064",
+    "text": "Maximiliane",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0065",
+    "text": "Meta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0066",
+    "text": "Mirja",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0067",
+    "text": "Maite",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0068",
+    "text": "Meryem",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0069",
+    "text": "Milana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0070",
+    "text": "Melinda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0071",
+    "text": "Mercedes",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0072",
+    "text": "Melitta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0073",
+    "text": "Malwine",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-039-a0074",
+    "text": "Mareen",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-040",
+  "text": "Nenne einen gängigen deutschen weiblichen Vornamen, der mit „T“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-040-a0001",
+    "text": "Tanja",
+    "aliases": [
+     "Tania"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-040-a0002",
+    "text": "Tina",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-040-a0003",
+    "text": "Theresa",
+    "aliases": [
+     "Teresa"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-040-a0004",
+    "text": "Tamara",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-040-a0005",
+    "text": "Tabea",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-040-a0006",
+    "text": "Tatjana",
+    "aliases": [
+     "Tatiana"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-040-a0007",
+    "text": "Thea",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-040-a0008",
+    "text": "Tessa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0009",
+    "text": "Tamina",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0010",
+    "text": "Tilda",
+    "aliases": [
+     "Tilde"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0011",
+    "text": "Tara",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0012",
+    "text": "Therese",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0013",
+    "text": "Tamia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0014",
+    "text": "Talia",
+    "aliases": [
+     "Thalia"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0015",
+    "text": "Tilly",
+    "aliases": [
+     "Tilli"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-040-a0016",
+    "text": "Toni",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0017",
+    "text": "Theodora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0018",
+    "text": "Tine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0019",
+    "text": "Trude",
+    "aliases": [
+     "Trudi"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0020",
+    "text": "Tiana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0021",
+    "text": "Tia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0022",
+    "text": "Thekla",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0023",
+    "text": "Tabitha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0024",
+    "text": "Tanita",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0025",
+    "text": "Tiziana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0026",
+    "text": "Theresia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0027",
+    "text": "Tjorven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0028",
+    "text": "Tuba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0029",
+    "text": "Tülay",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-040-a0030",
+    "text": "Traudl",
+    "aliases": [
+     "Traudel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0031",
+    "text": "Thora",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0032",
+    "text": "Trixi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0033",
+    "text": "Theda",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0034",
+    "text": "Tomke",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0035",
+    "text": "Thyra",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0036",
+    "text": "Timea",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0037",
+    "text": "Tonja",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0038",
+    "text": "Tamy",
+    "aliases": [
+     "Tammy"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-040-a0039",
+    "text": "Teodora",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-041",
+  "text": "Nenne einen gängigen deutschen weiblichen Vornamen, der mit „J“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-041-a0001",
+    "text": "Julia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-041-a0002",
+    "text": "Jana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-041-a0003",
+    "text": "Johanna",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-041-a0004",
+    "text": "Jessica",
+    "aliases": [
+     "Jessika"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0005",
+    "text": "Jasmin",
+    "aliases": [
+     "Jasmine"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0006",
+    "text": "Jennifer",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0007",
+    "text": "Josephine",
+    "aliases": [
+     "Josefine"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0008",
+    "text": "Jule",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0009",
+    "text": "Janina",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0010",
+    "text": "Jacqueline",
+    "aliases": [
+     "Jaqueline"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-041-a0011",
+    "text": "Julie",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0012",
+    "text": "Juliane",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0013",
+    "text": "Jenny",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0014",
+    "text": "Judith",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0015",
+    "text": "Jutta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0016",
+    "text": "Jolina",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0017",
+    "text": "Jette",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0018",
+    "text": "Juna",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0019",
+    "text": "Jella",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0020",
+    "text": "Janne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0021",
+    "text": "Janna",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0022",
+    "text": "Joanna",
+    "aliases": [
+     "Joana"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0023",
+    "text": "Juliana",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0024",
+    "text": "Jil",
+    "aliases": [
+     "Jill"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0025",
+    "text": "Joy",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0026",
+    "text": "Jasmina",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-041-a0027",
+    "text": "Julika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0028",
+    "text": "Joelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0029",
+    "text": "Josefa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0030",
+    "text": "Jeanette",
+    "aliases": [
+     "Jeannette"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0031",
+    "text": "Jenna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0032",
+    "text": "Justine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0033",
+    "text": "Jolanthe",
+    "aliases": [
+     "Jolanda"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0034",
+    "text": "Jördis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0035",
+    "text": "Josie",
+    "aliases": [
+     "Josy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0036",
+    "text": "Jarah",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0037",
+    "text": "Jamila",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0038",
+    "text": "Julietta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0039",
+    "text": "Juliette",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0040",
+    "text": "Jovana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0041",
+    "text": "Jannika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0042",
+    "text": "Johanne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-041-a0043",
+    "text": "Jeanne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-041-a0044",
+    "text": "Judit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-041-a0045",
+    "text": "Jacinta",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-041-a0046",
+    "text": "Jolie",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-042",
+  "text": "Nenne einen gängigen deutschen männlichen Vornamen, der mit „F“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-042-a0001",
+    "text": "Felix",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-042-a0002",
+    "text": "Florian",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-042-a0003",
+    "text": "Frank",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-042-a0004",
+    "text": "Fabian",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-042-a0005",
+    "text": "Finn",
+    "aliases": [
+     "Fynn",
+     "Fin"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-042-a0006",
+    "text": "Friedrich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-042-a0007",
+    "text": "Franz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-042-a0008",
+    "text": "Fritz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-042-a0009",
+    "text": "Frederik",
+    "aliases": [
+     "Frederick",
+     "Frederic",
+     "Friedrik"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0010",
+    "text": "Ferdinand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0011",
+    "text": "Fiete",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0012",
+    "text": "Fabio",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0013",
+    "text": "Falk",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0014",
+    "text": "Frieder",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0015",
+    "text": "Friedhelm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0016",
+    "text": "Fridolin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0017",
+    "text": "Fred",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0018",
+    "text": "Frido",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-042-a0019",
+    "text": "Falko",
+    "aliases": [
+     "Falco"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0020",
+    "text": "Freddy",
+    "aliases": [
+     "Freddie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0021",
+    "text": "Finley",
+    "aliases": [
+     "Finlay"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0022",
+    "text": "Filip",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0023",
+    "text": "Fatih",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0024",
+    "text": "Furkan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0025",
+    "text": "Florin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0026",
+    "text": "Friedemann",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0027",
+    "text": "Frithjof",
+    "aliases": [
+     "Fritjof",
+     "Fridtjof"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0028",
+    "text": "Felian",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0029",
+    "text": "Friedel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0030",
+    "text": "Francesco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0031",
+    "text": "Franko",
+    "aliases": [
+     "Franco"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0032",
+    "text": "Ferhat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0033",
+    "text": "Flynn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-042-a0034",
+    "text": "Fernando",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-042-a0035",
+    "text": "Folkert",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-042-a0036",
+    "text": "Fynnian",
+    "aliases": [
+     "Finnian"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-042-a0037",
+    "text": "Franziskus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-042-a0038",
+    "text": "Frerk",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-042-a0039",
+    "text": "Fredo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-042-a0040",
+    "text": "Fiddi",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-043",
+  "text": "Nenne einen gängigen deutschen männlichen Vornamen, der mit „J“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-043-a0001",
+    "text": "Jonas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-043-a0002",
+    "text": "Jan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-043-a0003",
+    "text": "Julian",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-043-a0004",
+    "text": "Jakob",
+    "aliases": [
+     "Jacob"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0005",
+    "text": "Johannes",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0006",
+    "text": "Jens",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0007",
+    "text": "Jürgen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0008",
+    "text": "Jörg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0009",
+    "text": "Joachim",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0010",
+    "text": "Josef",
+    "aliases": [
+     "Joseph"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0011",
+    "text": "Jonathan",
+    "aliases": [
+     "Jonatan"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0012",
+    "text": "Julius",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-043-a0013",
+    "text": "Justus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0014",
+    "text": "Joel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0015",
+    "text": "Jannik",
+    "aliases": [
+     "Jannick",
+     "Janik"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0016",
+    "text": "Jannis",
+    "aliases": [
+     "Janis"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0017",
+    "text": "Jona",
+    "aliases": [
+     "Jonah"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0018",
+    "text": "Johann",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0019",
+    "text": "Jochen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0020",
+    "text": "Joshua",
+    "aliases": [
+     "Josua"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0021",
+    "text": "Jasper",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0022",
+    "text": "Janosch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0023",
+    "text": "Jaron",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0024",
+    "text": "Jonte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0025",
+    "text": "Jörn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0026",
+    "text": "Jascha",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-043-a0027",
+    "text": "Joschka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0028",
+    "text": "Juri",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0029",
+    "text": "Janek",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0030",
+    "text": "Jarne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0031",
+    "text": "Jesper",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0032",
+    "text": "Joscha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0033",
+    "text": "Joris",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0034",
+    "text": "Jamie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0035",
+    "text": "Jendrik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0036",
+    "text": "Jeremias",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0037",
+    "text": "Jeremy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0038",
+    "text": "Jayden",
+    "aliases": [
+     "Jaden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0039",
+    "text": "Jost",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0040",
+    "text": "Jupp",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0041",
+    "text": "Jakub",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0042",
+    "text": "Jimmy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0043",
+    "text": "Jannes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0044",
+    "text": "Jano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-043-a0045",
+    "text": "Jerome",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-043-a0046",
+    "text": "Juan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-043-a0047",
+    "text": "Joost",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-043-a0048",
+    "text": "Jorge",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-044",
+  "text": "Nenne einen gängigen deutschen männlichen Vornamen, der mit „P“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-044-a0001",
+    "text": "Paul",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-044-a0002",
+    "text": "Peter",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-044-a0003",
+    "text": "Philipp",
+    "aliases": [
+     "Phillip",
+     "Philip"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-044-a0004",
+    "text": "Patrick",
+    "aliases": [
+     "Patrik"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-044-a0005",
+    "text": "Pascal",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-044-a0006",
+    "text": "Piet",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0007",
+    "text": "Pius",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0008",
+    "text": "Phil",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0009",
+    "text": "Pierre",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0010",
+    "text": "Paulo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0011",
+    "text": "Per",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0012",
+    "text": "Peer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-044-a0013",
+    "text": "Pablo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0014",
+    "text": "Pedro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0015",
+    "text": "Paolo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0016",
+    "text": "Pelle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0017",
+    "text": "Pirmin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0018",
+    "text": "Pawel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0019",
+    "text": "Piotr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0020",
+    "text": "Pepe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0021",
+    "text": "Paulus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0022",
+    "text": "Philippe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0023",
+    "text": "Pit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0024",
+    "text": "Patrice",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-044-a0025",
+    "text": "Pankraz",
+    "aliases": [
+     "Pankratius"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-044-a0026",
+    "text": "Philemon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-044-a0027",
+    "text": "Pieter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-044-a0028",
+    "text": "Pino",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-044-a0029",
+    "text": "Primus",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "wor-045",
+  "text": "Nenne einen gängigen deutschen männlichen Vornamen, der mit „R“ beginnt",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-045-a0001",
+    "text": "Robert",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-045-a0002",
+    "text": "Ralf",
+    "aliases": [
+     "Ralph"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-045-a0003",
+    "text": "Rainer",
+    "aliases": [
+     "Reiner"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0004",
+    "text": "René",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0005",
+    "text": "Richard",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0006",
+    "text": "Roland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0007",
+    "text": "Rudolf",
+    "aliases": [
+     "Rudolph"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0008",
+    "text": "Reinhard",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0009",
+    "text": "Rüdiger",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0010",
+    "text": "Robin",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0011",
+    "text": "Raphael",
+    "aliases": [
+     "Rafael",
+     "Raffael"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0012",
+    "text": "Rolf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-045-a0013",
+    "text": "Ruben",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0014",
+    "text": "Roman",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0015",
+    "text": "Ronny",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0016",
+    "text": "Ron",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0017",
+    "text": "Ronald",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0018",
+    "text": "Rico",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0019",
+    "text": "Reinhold",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0020",
+    "text": "Rudi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0021",
+    "text": "Rasmus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0022",
+    "text": "Rick",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-045-a0023",
+    "text": "Ruprecht",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0024",
+    "text": "Rupert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0025",
+    "text": "Raik",
+    "aliases": [
+     "Rayk"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0026",
+    "text": "Raimund",
+    "aliases": [
+     "Reimund"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0027",
+    "text": "Rio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0028",
+    "text": "Rouven",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0029",
+    "text": "Rune",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0030",
+    "text": "Romeo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0031",
+    "text": "Roberto",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0032",
+    "text": "Ricardo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0033",
+    "text": "Ragnar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0034",
+    "text": "Raoul",
+    "aliases": [
+     "Raul"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0035",
+    "text": "Rocco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0036",
+    "text": "Remo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0037",
+    "text": "Roy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0038",
+    "text": "Ralle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-045-a0039",
+    "text": "Rochus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0040",
+    "text": "Randolf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0041",
+    "text": "Reimar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0042",
+    "text": "Reinald",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0043",
+    "text": "Roderich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0044",
+    "text": "Rainald",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0045",
+    "text": "Romuald",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-045-a0046",
+    "text": "Reto",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

@@ -1610,5 +1610,2941 @@
     "tier": 1
    }
   ]
+ },
+ {
+  "id": "sta-009",
+  "text": "Nenne deinen Geburtstag (TT.MM.) – je seltener, desto leerer das Glas",
+  "kategorie": "statistik",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "sta-009-a0001",
+    "text": "01.01.",
+    "aliases": [
+     "1. Januar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0002",
+    "text": "02.01.",
+    "aliases": [
+     "2. Januar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0003",
+    "text": "03.01.",
+    "aliases": [
+     "3. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0004",
+    "text": "04.01.",
+    "aliases": [
+     "4. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0005",
+    "text": "05.01.",
+    "aliases": [
+     "5. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0006",
+    "text": "06.01.",
+    "aliases": [
+     "6. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0007",
+    "text": "07.01.",
+    "aliases": [
+     "7. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0008",
+    "text": "08.01.",
+    "aliases": [
+     "8. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0009",
+    "text": "09.01.",
+    "aliases": [
+     "9. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0010",
+    "text": "10.01.",
+    "aliases": [
+     "10. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0011",
+    "text": "11.01.",
+    "aliases": [
+     "11. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0012",
+    "text": "12.01.",
+    "aliases": [
+     "12. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0013",
+    "text": "13.01.",
+    "aliases": [
+     "13. Januar"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0014",
+    "text": "14.01.",
+    "aliases": [
+     "14. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0015",
+    "text": "15.01.",
+    "aliases": [
+     "15. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0016",
+    "text": "16.01.",
+    "aliases": [
+     "16. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0017",
+    "text": "17.01.",
+    "aliases": [
+     "17. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0018",
+    "text": "18.01.",
+    "aliases": [
+     "18. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0019",
+    "text": "19.01.",
+    "aliases": [
+     "19. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0020",
+    "text": "20.01.",
+    "aliases": [
+     "20. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0021",
+    "text": "21.01.",
+    "aliases": [
+     "21. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0022",
+    "text": "22.01.",
+    "aliases": [
+     "22. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0023",
+    "text": "23.01.",
+    "aliases": [
+     "23. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0024",
+    "text": "24.01.",
+    "aliases": [
+     "24. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0025",
+    "text": "25.01.",
+    "aliases": [
+     "25. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0026",
+    "text": "26.01.",
+    "aliases": [
+     "26. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0027",
+    "text": "27.01.",
+    "aliases": [
+     "27. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0028",
+    "text": "28.01.",
+    "aliases": [
+     "28. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0029",
+    "text": "29.01.",
+    "aliases": [
+     "29. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0030",
+    "text": "30.01.",
+    "aliases": [
+     "30. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0031",
+    "text": "31.01.",
+    "aliases": [
+     "31. Januar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0032",
+    "text": "01.02.",
+    "aliases": [
+     "1. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0033",
+    "text": "02.02.",
+    "aliases": [
+     "2. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0034",
+    "text": "03.02.",
+    "aliases": [
+     "3. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0035",
+    "text": "04.02.",
+    "aliases": [
+     "4. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0036",
+    "text": "05.02.",
+    "aliases": [
+     "5. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0037",
+    "text": "06.02.",
+    "aliases": [
+     "6. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0038",
+    "text": "07.02.",
+    "aliases": [
+     "7. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0039",
+    "text": "08.02.",
+    "aliases": [
+     "8. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0040",
+    "text": "09.02.",
+    "aliases": [
+     "9. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0041",
+    "text": "10.02.",
+    "aliases": [
+     "10. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0042",
+    "text": "11.02.",
+    "aliases": [
+     "11. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0043",
+    "text": "12.02.",
+    "aliases": [
+     "12. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0044",
+    "text": "13.02.",
+    "aliases": [
+     "13. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0045",
+    "text": "14.02.",
+    "aliases": [
+     "14. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0046",
+    "text": "15.02.",
+    "aliases": [
+     "15. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0047",
+    "text": "16.02.",
+    "aliases": [
+     "16. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0048",
+    "text": "17.02.",
+    "aliases": [
+     "17. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0049",
+    "text": "18.02.",
+    "aliases": [
+     "18. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0050",
+    "text": "19.02.",
+    "aliases": [
+     "19. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0051",
+    "text": "20.02.",
+    "aliases": [
+     "20. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0052",
+    "text": "21.02.",
+    "aliases": [
+     "21. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0053",
+    "text": "22.02.",
+    "aliases": [
+     "22. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0054",
+    "text": "23.02.",
+    "aliases": [
+     "23. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0055",
+    "text": "24.02.",
+    "aliases": [
+     "24. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0056",
+    "text": "25.02.",
+    "aliases": [
+     "25. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0057",
+    "text": "26.02.",
+    "aliases": [
+     "26. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0058",
+    "text": "27.02.",
+    "aliases": [
+     "27. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0059",
+    "text": "28.02.",
+    "aliases": [
+     "28. Februar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0060",
+    "text": "29.02.",
+    "aliases": [
+     "29. Februar"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0061",
+    "text": "01.03.",
+    "aliases": [
+     "1. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0062",
+    "text": "02.03.",
+    "aliases": [
+     "2. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0063",
+    "text": "03.03.",
+    "aliases": [
+     "3. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0064",
+    "text": "04.03.",
+    "aliases": [
+     "4. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0065",
+    "text": "05.03.",
+    "aliases": [
+     "5. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0066",
+    "text": "06.03.",
+    "aliases": [
+     "6. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0067",
+    "text": "07.03.",
+    "aliases": [
+     "7. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0068",
+    "text": "08.03.",
+    "aliases": [
+     "8. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0069",
+    "text": "09.03.",
+    "aliases": [
+     "9. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0070",
+    "text": "10.03.",
+    "aliases": [
+     "10. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0071",
+    "text": "11.03.",
+    "aliases": [
+     "11. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0072",
+    "text": "12.03.",
+    "aliases": [
+     "12. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0073",
+    "text": "13.03.",
+    "aliases": [
+     "13. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0074",
+    "text": "14.03.",
+    "aliases": [
+     "14. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0075",
+    "text": "15.03.",
+    "aliases": [
+     "15. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0076",
+    "text": "16.03.",
+    "aliases": [
+     "16. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0077",
+    "text": "17.03.",
+    "aliases": [
+     "17. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0078",
+    "text": "18.03.",
+    "aliases": [
+     "18. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0079",
+    "text": "19.03.",
+    "aliases": [
+     "19. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0080",
+    "text": "20.03.",
+    "aliases": [
+     "20. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0081",
+    "text": "21.03.",
+    "aliases": [
+     "21. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0082",
+    "text": "22.03.",
+    "aliases": [
+     "22. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0083",
+    "text": "23.03.",
+    "aliases": [
+     "23. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0084",
+    "text": "24.03.",
+    "aliases": [
+     "24. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0085",
+    "text": "25.03.",
+    "aliases": [
+     "25. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0086",
+    "text": "26.03.",
+    "aliases": [
+     "26. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0087",
+    "text": "27.03.",
+    "aliases": [
+     "27. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0088",
+    "text": "28.03.",
+    "aliases": [
+     "28. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0089",
+    "text": "29.03.",
+    "aliases": [
+     "29. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0090",
+    "text": "30.03.",
+    "aliases": [
+     "30. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0091",
+    "text": "31.03.",
+    "aliases": [
+     "31. März"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0092",
+    "text": "01.04.",
+    "aliases": [
+     "1. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0093",
+    "text": "02.04.",
+    "aliases": [
+     "2. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0094",
+    "text": "03.04.",
+    "aliases": [
+     "3. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0095",
+    "text": "04.04.",
+    "aliases": [
+     "4. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0096",
+    "text": "05.04.",
+    "aliases": [
+     "5. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0097",
+    "text": "06.04.",
+    "aliases": [
+     "6. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0098",
+    "text": "07.04.",
+    "aliases": [
+     "7. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0099",
+    "text": "08.04.",
+    "aliases": [
+     "8. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0100",
+    "text": "09.04.",
+    "aliases": [
+     "9. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0101",
+    "text": "10.04.",
+    "aliases": [
+     "10. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0102",
+    "text": "11.04.",
+    "aliases": [
+     "11. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0103",
+    "text": "12.04.",
+    "aliases": [
+     "12. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0104",
+    "text": "13.04.",
+    "aliases": [
+     "13. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0105",
+    "text": "14.04.",
+    "aliases": [
+     "14. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0106",
+    "text": "15.04.",
+    "aliases": [
+     "15. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0107",
+    "text": "16.04.",
+    "aliases": [
+     "16. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0108",
+    "text": "17.04.",
+    "aliases": [
+     "17. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0109",
+    "text": "18.04.",
+    "aliases": [
+     "18. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0110",
+    "text": "19.04.",
+    "aliases": [
+     "19. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0111",
+    "text": "20.04.",
+    "aliases": [
+     "20. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0112",
+    "text": "21.04.",
+    "aliases": [
+     "21. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0113",
+    "text": "22.04.",
+    "aliases": [
+     "22. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0114",
+    "text": "23.04.",
+    "aliases": [
+     "23. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0115",
+    "text": "24.04.",
+    "aliases": [
+     "24. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0116",
+    "text": "25.04.",
+    "aliases": [
+     "25. April"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0117",
+    "text": "26.04.",
+    "aliases": [
+     "26. April"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0118",
+    "text": "27.04.",
+    "aliases": [
+     "27. April"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0119",
+    "text": "28.04.",
+    "aliases": [
+     "28. April"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0120",
+    "text": "29.04.",
+    "aliases": [
+     "29. April"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0121",
+    "text": "30.04.",
+    "aliases": [
+     "30. April"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0122",
+    "text": "01.05.",
+    "aliases": [
+     "1. Mai"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0123",
+    "text": "02.05.",
+    "aliases": [
+     "2. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0124",
+    "text": "03.05.",
+    "aliases": [
+     "3. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0125",
+    "text": "04.05.",
+    "aliases": [
+     "4. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0126",
+    "text": "05.05.",
+    "aliases": [
+     "5. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0127",
+    "text": "06.05.",
+    "aliases": [
+     "6. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0128",
+    "text": "07.05.",
+    "aliases": [
+     "7. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0129",
+    "text": "08.05.",
+    "aliases": [
+     "8. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0130",
+    "text": "09.05.",
+    "aliases": [
+     "9. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0131",
+    "text": "10.05.",
+    "aliases": [
+     "10. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0132",
+    "text": "11.05.",
+    "aliases": [
+     "11. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0133",
+    "text": "12.05.",
+    "aliases": [
+     "12. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0134",
+    "text": "13.05.",
+    "aliases": [
+     "13. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0135",
+    "text": "14.05.",
+    "aliases": [
+     "14. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0136",
+    "text": "15.05.",
+    "aliases": [
+     "15. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0137",
+    "text": "16.05.",
+    "aliases": [
+     "16. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0138",
+    "text": "17.05.",
+    "aliases": [
+     "17. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0139",
+    "text": "18.05.",
+    "aliases": [
+     "18. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0140",
+    "text": "19.05.",
+    "aliases": [
+     "19. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0141",
+    "text": "20.05.",
+    "aliases": [
+     "20. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0142",
+    "text": "21.05.",
+    "aliases": [
+     "21. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0143",
+    "text": "22.05.",
+    "aliases": [
+     "22. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0144",
+    "text": "23.05.",
+    "aliases": [
+     "23. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0145",
+    "text": "24.05.",
+    "aliases": [
+     "24. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0146",
+    "text": "25.05.",
+    "aliases": [
+     "25. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0147",
+    "text": "26.05.",
+    "aliases": [
+     "26. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0148",
+    "text": "27.05.",
+    "aliases": [
+     "27. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0149",
+    "text": "28.05.",
+    "aliases": [
+     "28. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0150",
+    "text": "29.05.",
+    "aliases": [
+     "29. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0151",
+    "text": "30.05.",
+    "aliases": [
+     "30. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0152",
+    "text": "31.05.",
+    "aliases": [
+     "31. Mai"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0153",
+    "text": "01.06.",
+    "aliases": [
+     "1. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0154",
+    "text": "02.06.",
+    "aliases": [
+     "2. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0155",
+    "text": "03.06.",
+    "aliases": [
+     "3. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0156",
+    "text": "04.06.",
+    "aliases": [
+     "4. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0157",
+    "text": "05.06.",
+    "aliases": [
+     "5. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0158",
+    "text": "06.06.",
+    "aliases": [
+     "6. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0159",
+    "text": "07.06.",
+    "aliases": [
+     "7. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0160",
+    "text": "08.06.",
+    "aliases": [
+     "8. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0161",
+    "text": "09.06.",
+    "aliases": [
+     "9. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0162",
+    "text": "10.06.",
+    "aliases": [
+     "10. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0163",
+    "text": "11.06.",
+    "aliases": [
+     "11. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0164",
+    "text": "12.06.",
+    "aliases": [
+     "12. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0165",
+    "text": "13.06.",
+    "aliases": [
+     "13. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0166",
+    "text": "14.06.",
+    "aliases": [
+     "14. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0167",
+    "text": "15.06.",
+    "aliases": [
+     "15. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0168",
+    "text": "16.06.",
+    "aliases": [
+     "16. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0169",
+    "text": "17.06.",
+    "aliases": [
+     "17. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0170",
+    "text": "18.06.",
+    "aliases": [
+     "18. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0171",
+    "text": "19.06.",
+    "aliases": [
+     "19. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0172",
+    "text": "20.06.",
+    "aliases": [
+     "20. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0173",
+    "text": "21.06.",
+    "aliases": [
+     "21. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0174",
+    "text": "22.06.",
+    "aliases": [
+     "22. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0175",
+    "text": "23.06.",
+    "aliases": [
+     "23. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0176",
+    "text": "24.06.",
+    "aliases": [
+     "24. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0177",
+    "text": "25.06.",
+    "aliases": [
+     "25. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0178",
+    "text": "26.06.",
+    "aliases": [
+     "26. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0179",
+    "text": "27.06.",
+    "aliases": [
+     "27. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0180",
+    "text": "28.06.",
+    "aliases": [
+     "28. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0181",
+    "text": "29.06.",
+    "aliases": [
+     "29. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0182",
+    "text": "30.06.",
+    "aliases": [
+     "30. Juni"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0183",
+    "text": "01.07.",
+    "aliases": [
+     "1. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0184",
+    "text": "02.07.",
+    "aliases": [
+     "2. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0185",
+    "text": "03.07.",
+    "aliases": [
+     "3. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0186",
+    "text": "04.07.",
+    "aliases": [
+     "4. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0187",
+    "text": "05.07.",
+    "aliases": [
+     "5. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0188",
+    "text": "06.07.",
+    "aliases": [
+     "6. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0189",
+    "text": "07.07.",
+    "aliases": [
+     "7. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0190",
+    "text": "08.07.",
+    "aliases": [
+     "8. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0191",
+    "text": "09.07.",
+    "aliases": [
+     "9. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0192",
+    "text": "10.07.",
+    "aliases": [
+     "10. Juli"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0193",
+    "text": "11.07.",
+    "aliases": [
+     "11. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0194",
+    "text": "12.07.",
+    "aliases": [
+     "12. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0195",
+    "text": "13.07.",
+    "aliases": [
+     "13. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0196",
+    "text": "14.07.",
+    "aliases": [
+     "14. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0197",
+    "text": "15.07.",
+    "aliases": [
+     "15. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0198",
+    "text": "16.07.",
+    "aliases": [
+     "16. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0199",
+    "text": "17.07.",
+    "aliases": [
+     "17. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0200",
+    "text": "18.07.",
+    "aliases": [
+     "18. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0201",
+    "text": "19.07.",
+    "aliases": [
+     "19. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0202",
+    "text": "20.07.",
+    "aliases": [
+     "20. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0203",
+    "text": "21.07.",
+    "aliases": [
+     "21. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0204",
+    "text": "22.07.",
+    "aliases": [
+     "22. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0205",
+    "text": "23.07.",
+    "aliases": [
+     "23. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0206",
+    "text": "24.07.",
+    "aliases": [
+     "24. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0207",
+    "text": "25.07.",
+    "aliases": [
+     "25. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0208",
+    "text": "26.07.",
+    "aliases": [
+     "26. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0209",
+    "text": "27.07.",
+    "aliases": [
+     "27. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0210",
+    "text": "28.07.",
+    "aliases": [
+     "28. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0211",
+    "text": "29.07.",
+    "aliases": [
+     "29. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0212",
+    "text": "30.07.",
+    "aliases": [
+     "30. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0213",
+    "text": "31.07.",
+    "aliases": [
+     "31. Juli"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0214",
+    "text": "01.08.",
+    "aliases": [
+     "1. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0215",
+    "text": "02.08.",
+    "aliases": [
+     "2. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0216",
+    "text": "03.08.",
+    "aliases": [
+     "3. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0217",
+    "text": "04.08.",
+    "aliases": [
+     "4. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0218",
+    "text": "05.08.",
+    "aliases": [
+     "5. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0219",
+    "text": "06.08.",
+    "aliases": [
+     "6. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0220",
+    "text": "07.08.",
+    "aliases": [
+     "7. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0221",
+    "text": "08.08.",
+    "aliases": [
+     "8. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0222",
+    "text": "09.08.",
+    "aliases": [
+     "9. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0223",
+    "text": "10.08.",
+    "aliases": [
+     "10. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0224",
+    "text": "11.08.",
+    "aliases": [
+     "11. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0225",
+    "text": "12.08.",
+    "aliases": [
+     "12. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0226",
+    "text": "13.08.",
+    "aliases": [
+     "13. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0227",
+    "text": "14.08.",
+    "aliases": [
+     "14. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0228",
+    "text": "15.08.",
+    "aliases": [
+     "15. August"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0229",
+    "text": "16.08.",
+    "aliases": [
+     "16. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0230",
+    "text": "17.08.",
+    "aliases": [
+     "17. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0231",
+    "text": "18.08.",
+    "aliases": [
+     "18. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0232",
+    "text": "19.08.",
+    "aliases": [
+     "19. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0233",
+    "text": "20.08.",
+    "aliases": [
+     "20. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0234",
+    "text": "21.08.",
+    "aliases": [
+     "21. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0235",
+    "text": "22.08.",
+    "aliases": [
+     "22. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0236",
+    "text": "23.08.",
+    "aliases": [
+     "23. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0237",
+    "text": "24.08.",
+    "aliases": [
+     "24. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0238",
+    "text": "25.08.",
+    "aliases": [
+     "25. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0239",
+    "text": "26.08.",
+    "aliases": [
+     "26. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0240",
+    "text": "27.08.",
+    "aliases": [
+     "27. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0241",
+    "text": "28.08.",
+    "aliases": [
+     "28. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0242",
+    "text": "29.08.",
+    "aliases": [
+     "29. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0243",
+    "text": "30.08.",
+    "aliases": [
+     "30. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0244",
+    "text": "31.08.",
+    "aliases": [
+     "31. August"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0245",
+    "text": "01.09.",
+    "aliases": [
+     "1. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0246",
+    "text": "02.09.",
+    "aliases": [
+     "2. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0247",
+    "text": "03.09.",
+    "aliases": [
+     "3. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0248",
+    "text": "04.09.",
+    "aliases": [
+     "4. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0249",
+    "text": "05.09.",
+    "aliases": [
+     "5. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0250",
+    "text": "06.09.",
+    "aliases": [
+     "6. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0251",
+    "text": "07.09.",
+    "aliases": [
+     "7. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0252",
+    "text": "08.09.",
+    "aliases": [
+     "8. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0253",
+    "text": "09.09.",
+    "aliases": [
+     "9. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0254",
+    "text": "10.09.",
+    "aliases": [
+     "10. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0255",
+    "text": "11.09.",
+    "aliases": [
+     "11. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0256",
+    "text": "12.09.",
+    "aliases": [
+     "12. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0257",
+    "text": "13.09.",
+    "aliases": [
+     "13. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0258",
+    "text": "14.09.",
+    "aliases": [
+     "14. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0259",
+    "text": "15.09.",
+    "aliases": [
+     "15. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0260",
+    "text": "16.09.",
+    "aliases": [
+     "16. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0261",
+    "text": "17.09.",
+    "aliases": [
+     "17. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0262",
+    "text": "18.09.",
+    "aliases": [
+     "18. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0263",
+    "text": "19.09.",
+    "aliases": [
+     "19. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0264",
+    "text": "20.09.",
+    "aliases": [
+     "20. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0265",
+    "text": "21.09.",
+    "aliases": [
+     "21. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0266",
+    "text": "22.09.",
+    "aliases": [
+     "22. September"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-009-a0267",
+    "text": "23.09.",
+    "aliases": [
+     "23. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0268",
+    "text": "24.09.",
+    "aliases": [
+     "24. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0269",
+    "text": "25.09.",
+    "aliases": [
+     "25. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0270",
+    "text": "26.09.",
+    "aliases": [
+     "26. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0271",
+    "text": "27.09.",
+    "aliases": [
+     "27. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0272",
+    "text": "28.09.",
+    "aliases": [
+     "28. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0273",
+    "text": "29.09.",
+    "aliases": [
+     "29. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0274",
+    "text": "30.09.",
+    "aliases": [
+     "30. September"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0275",
+    "text": "01.10.",
+    "aliases": [
+     "1. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0276",
+    "text": "02.10.",
+    "aliases": [
+     "2. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0277",
+    "text": "03.10.",
+    "aliases": [
+     "3. Oktober"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0278",
+    "text": "04.10.",
+    "aliases": [
+     "4. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0279",
+    "text": "05.10.",
+    "aliases": [
+     "5. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0280",
+    "text": "06.10.",
+    "aliases": [
+     "6. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0281",
+    "text": "07.10.",
+    "aliases": [
+     "7. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0282",
+    "text": "08.10.",
+    "aliases": [
+     "8. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0283",
+    "text": "09.10.",
+    "aliases": [
+     "9. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0284",
+    "text": "10.10.",
+    "aliases": [
+     "10. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0285",
+    "text": "11.10.",
+    "aliases": [
+     "11. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0286",
+    "text": "12.10.",
+    "aliases": [
+     "12. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0287",
+    "text": "13.10.",
+    "aliases": [
+     "13. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0288",
+    "text": "14.10.",
+    "aliases": [
+     "14. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0289",
+    "text": "15.10.",
+    "aliases": [
+     "15. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0290",
+    "text": "16.10.",
+    "aliases": [
+     "16. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0291",
+    "text": "17.10.",
+    "aliases": [
+     "17. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0292",
+    "text": "18.10.",
+    "aliases": [
+     "18. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0293",
+    "text": "19.10.",
+    "aliases": [
+     "19. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0294",
+    "text": "20.10.",
+    "aliases": [
+     "20. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0295",
+    "text": "21.10.",
+    "aliases": [
+     "21. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0296",
+    "text": "22.10.",
+    "aliases": [
+     "22. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0297",
+    "text": "23.10.",
+    "aliases": [
+     "23. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0298",
+    "text": "24.10.",
+    "aliases": [
+     "24. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0299",
+    "text": "25.10.",
+    "aliases": [
+     "25. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0300",
+    "text": "26.10.",
+    "aliases": [
+     "26. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0301",
+    "text": "27.10.",
+    "aliases": [
+     "27. Oktober"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-009-a0302",
+    "text": "28.10.",
+    "aliases": [
+     "28. Oktober"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0303",
+    "text": "29.10.",
+    "aliases": [
+     "29. Oktober"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0304",
+    "text": "30.10.",
+    "aliases": [
+     "30. Oktober"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0305",
+    "text": "31.10.",
+    "aliases": [
+     "31. Oktober"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0306",
+    "text": "01.11.",
+    "aliases": [
+     "1. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0307",
+    "text": "02.11.",
+    "aliases": [
+     "2. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0308",
+    "text": "03.11.",
+    "aliases": [
+     "3. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0309",
+    "text": "04.11.",
+    "aliases": [
+     "4. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0310",
+    "text": "05.11.",
+    "aliases": [
+     "5. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0311",
+    "text": "06.11.",
+    "aliases": [
+     "6. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0312",
+    "text": "07.11.",
+    "aliases": [
+     "7. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0313",
+    "text": "08.11.",
+    "aliases": [
+     "8. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0314",
+    "text": "09.11.",
+    "aliases": [
+     "9. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0315",
+    "text": "10.11.",
+    "aliases": [
+     "10. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0316",
+    "text": "11.11.",
+    "aliases": [
+     "11. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0317",
+    "text": "12.11.",
+    "aliases": [
+     "12. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0318",
+    "text": "13.11.",
+    "aliases": [
+     "13. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0319",
+    "text": "14.11.",
+    "aliases": [
+     "14. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0320",
+    "text": "15.11.",
+    "aliases": [
+     "15. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0321",
+    "text": "16.11.",
+    "aliases": [
+     "16. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0322",
+    "text": "17.11.",
+    "aliases": [
+     "17. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0323",
+    "text": "18.11.",
+    "aliases": [
+     "18. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0324",
+    "text": "19.11.",
+    "aliases": [
+     "19. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0325",
+    "text": "20.11.",
+    "aliases": [
+     "20. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0326",
+    "text": "21.11.",
+    "aliases": [
+     "21. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0327",
+    "text": "22.11.",
+    "aliases": [
+     "22. November"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-009-a0328",
+    "text": "23.11.",
+    "aliases": [
+     "23. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0329",
+    "text": "24.11.",
+    "aliases": [
+     "24. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0330",
+    "text": "25.11.",
+    "aliases": [
+     "25. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0331",
+    "text": "26.11.",
+    "aliases": [
+     "26. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0332",
+    "text": "27.11.",
+    "aliases": [
+     "27. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0333",
+    "text": "28.11.",
+    "aliases": [
+     "28. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0334",
+    "text": "29.11.",
+    "aliases": [
+     "29. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0335",
+    "text": "30.11.",
+    "aliases": [
+     "30. November"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0336",
+    "text": "01.12.",
+    "aliases": [
+     "1. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0337",
+    "text": "02.12.",
+    "aliases": [
+     "2. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0338",
+    "text": "03.12.",
+    "aliases": [
+     "3. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0339",
+    "text": "04.12.",
+    "aliases": [
+     "4. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0340",
+    "text": "05.12.",
+    "aliases": [
+     "5. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0341",
+    "text": "06.12.",
+    "aliases": [
+     "6. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0342",
+    "text": "07.12.",
+    "aliases": [
+     "7. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0343",
+    "text": "08.12.",
+    "aliases": [
+     "8. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0344",
+    "text": "09.12.",
+    "aliases": [
+     "9. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0345",
+    "text": "10.12.",
+    "aliases": [
+     "10. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0346",
+    "text": "11.12.",
+    "aliases": [
+     "11. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0347",
+    "text": "12.12.",
+    "aliases": [
+     "12. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0348",
+    "text": "13.12.",
+    "aliases": [
+     "13. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0349",
+    "text": "14.12.",
+    "aliases": [
+     "14. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0350",
+    "text": "15.12.",
+    "aliases": [
+     "15. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0351",
+    "text": "16.12.",
+    "aliases": [
+     "16. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0352",
+    "text": "17.12.",
+    "aliases": [
+     "17. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0353",
+    "text": "18.12.",
+    "aliases": [
+     "18. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0354",
+    "text": "19.12.",
+    "aliases": [
+     "19. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0355",
+    "text": "20.12.",
+    "aliases": [
+     "20. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0356",
+    "text": "21.12.",
+    "aliases": [
+     "21. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0357",
+    "text": "22.12.",
+    "aliases": [
+     "22. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0358",
+    "text": "23.12.",
+    "aliases": [
+     "23. Dezember"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0359",
+    "text": "24.12.",
+    "aliases": [
+     "24. Dezember"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0360",
+    "text": "25.12.",
+    "aliases": [
+     "25. Dezember"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0361",
+    "text": "26.12.",
+    "aliases": [
+     "26. Dezember"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0362",
+    "text": "27.12.",
+    "aliases": [
+     "27. Dezember"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0363",
+    "text": "28.12.",
+    "aliases": [
+     "28. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0364",
+    "text": "29.12.",
+    "aliases": [
+     "29. Dezember"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "sta-009-a0365",
+    "text": "30.12.",
+    "aliases": [
+     "30. Dezember"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "sta-009-a0366",
+    "text": "31.12.",
+    "aliases": [
+     "31. Dezember"
+    ],
+    "tier": 5
+   }
+  ]
  }
 ]

@@ -1,0 +1,55 @@
+@id wor-043
+@text Nenne einen gängigen deutschen männlichen Vornamen, der mit „J“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Jonas
+1 Jan
+1 Julian
+2 Jakob = Jacob
+2 Johannes
+2 Jens
+2 Jürgen
+2 Jörg
+2 Joachim
+2 Josef = Joseph
+2 Jonathan = Jonatan
+2 Julius
+3 Justus
+3 Joel
+3 Jannik = Jannick; Janik
+3 Jannis = Janis
+3 Jona = Jonah
+3 Johann
+3 Jochen
+3 Joshua = Josua
+3 Jasper
+3 Janosch
+3 Jaron
+3 Jonte
+3 Jörn
+3 Jascha
+4 Joschka
+4 Juri
+4 Janek
+4 Jarne
+4 Jesper
+4 Joscha
+4 Joris
+4 Jamie
+4 Jendrik
+4 Jeremias
+4 Jeremy
+4 Jayden = Jaden
+4 Jost
+4 Jupp
+4 Jakub
+4 Jimmy
+4 Jannes
+4 Jano
+5 Jerome
+5 Juan
+5 Joost
+5 Jorge

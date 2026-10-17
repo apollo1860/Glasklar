@@ -1,0 +1,229 @@
+@id pol-005
+@text Nenne eine Person, die in der Bibel erwähnt wird
+# Altes und Neues Testament inkl. der Spätschriften der Einheitsübersetzung (Tobit, Judit, Makkabäer, Daniel-Zusätze).
+# Namen nach Lutherbibel/Einheitsübersetzung, andere gängige Schreibweisen als Alias.
+# Aufgenommen: namentlich genannte Engel (Gabriel, Michael, Rafael), Gott (tier3) und Satan/Teufel (tier4).
+# Titel-Personen mit klarer Identität (Pharao, Königin von Saba) aufgenommen.
+# NICHT: Kaspar, Melchior, Balthasar (Namen der Weisen stehen nicht in der Bibel), Lilith, Longinus, Veronika.
+
+# --- Hauptfiguren
+1 Jesus = Jesus Christus; Christus; Jesus von Nazareth
+1 Maria = Jungfrau Maria; Mutter Gottes
+1 Adam
+1 Eva
+1 Mose = Moses
+2 Josef = Joseph
+2 Noah = Noach
+2 Abraham = Abram
+2 David = König David
+2 Petrus = Simon Petrus; Kephas
+2 Judas = Judas Iskariot; Judas Ischariot
+2 Paulus = Saulus; Apostel Paulus
+2 Johannes = Apostel Johannes; Evangelist Johannes
+2 Kain
+2 Abel
+2 Goliat = Goliath
+3 Johannes der Täufer = Täufer
+3 Gott = Jahwe; Jehova
+3 Isaak
+3 Jakob = Israel
+3 Salomo = Salomon; König Salomo
+3 Pontius Pilatus = Pilatus
+3 Maria Magdalena = Magdalena; Maria von Magdala
+3 Simson = Samson
+3 Delila = Dalila
+3 Herodes = König Herodes; Herodes Antipas
+3 Lazarus
+3 Thomas = ungläubiger Thomas
+3 Matthäus
+3 Markus
+3 Lukas
+3 Daniel
+3 Jona = Jonas
+3 Hiob = Ijob
+3 Lot
+3 Sara = Sarah; Sarai
+3 Esau
+3 Samuel
+3 Saul = König Saul
+3 Elia = Elias; Elija
+3 Andreas
+3 Barabbas
+3 Rahel = Rachel
+3 Lea
+3 Rut = Ruth
+3 Ester = Esther
+3 Martha = Marta
+3 Elisabeth
+3 Jakobus
+3 Benjamin
+3 Metuschelach = Methusalem; Methusalah; Methuschelach
+3 Gabriel = Erzengel Gabriel
+3 Philippus
+3 Bartholomäus
+3 Nikodemus
+3 Zachäus
+3 Aaron
+3 Josua
+3 Jesaja
+3 Jeremia = Jeremias
+3 Nebukadnezar
+3 Pharao
+4 Satan = Teufel; Luzifer
+4 Michael = Erzengel Michael
+4 Rafael = Raphael; Erzengel Rafael
+4 Simon der Zelot = Simon Zelotes
+4 Thaddäus = Judas Thaddäus
+4 Matthias
+4 Stephanus
+4 Timotheus
+4 Titus
+4 Barnabas
+4 Silas
+4 Josef von Arimathäa
+4 Simon von Kyrene
+4 Kaiphas = Kajaphas
+4 Hannas
+4 Herodias
+4 Salome
+4 Zacharias
+4 Simeon
+4 Hanna
+4 Jairus
+4 Bartimäus
+4 Malchus
+4 Lydia
+4 Priszilla = Priscilla; Priska
+4 Aquila
+4 Apollos
+4 Tabita = Tabea; Dorkas
+4 Kornelius = Cornelius
+4 Hananias = Ananias
+4 Saphira
+4 Gamaliel
+4 Augustus = Kaiser Augustus
+4 Tiberius
+4 Quirinius
+4 Philemon
+4 Onesimus
+4 Kleopas = Kleophas
+4 Nathanael = Natanael
+4 Levi
+4 Ruben
+4 Juda
+4 Hagar
+4 Ismael
+4 Rebekka
+4 Laban
+4 Dina
+4 Set = Seth
+4 Henoch
+4 Lamech
+4 Sem
+4 Ham
+4 Jafet = Japhet
+4 Nimrod
+4 Melchisedek = Melchisedech
+4 Potifar
+4 Mirjam
+4 Zippora
+4 Kaleb
+4 Bileam
+4 Rahab
+4 Gideon
+4 Debora
+4 Boas
+4 Noomi
+4 Eli
+4 Jonatan = Jonathan
+4 Batseba = Bathseba
+4 Urija = Uria
+4 Natan = Nathan
+4 Absalom
+4 Michal
+4 Königin von Saba
+4 Ahab
+4 Isebel
+4 Elischa = Elisa; Elisäus
+4 Hesekiel = Ezechiel
+4 Belsazar
+4 Darius
+4 Kyrus = Kyros
+4 Esra
+4 Nehemia
+4 Mordechai
+4 Haman
+4 Hosea
+4 Joel
+4 Amos
+4 Micha
+4 Sacharja
+4 Judit = Judith
+4 Tobias
+4 Holofernes
+4 Susanna
+4 Judas Makkabäus = Makkabäus
+4 Joab
+4 Isai = Jesse
+4 Tamar
+4 Ephraim
+4 Manasse
+4 Felix
+4 Festus
+4 Agrippa
+4 Beelzebul = Beelzebub
+# --- seltener genannt
+5 Naftali = Naphtali
+5 Gad
+5 Asser
+5 Dan
+5 Issachar
+5 Sebulon
+5 Jitro = Jethro
+5 Jiftach = Jephta
+5 Hiram
+5 Sanherib
+5 Abner
+5 Amnon
+5 Adonija
+5 Abigajil = Abigail
+5 Rehabeam
+5 Jerobeam
+5 Naaman
+5 Hiskia
+5 Josia
+5 Jehu
+5 Joschafat
+5 Schadrach
+5 Meschach
+5 Abed-Nego
+5 Ahasveros = Ahasverus; Xerxes
+5 Obadja
+5 Nahum
+5 Habakuk
+5 Zefanja
+5 Haggai
+5 Maleachi
+5 Tobit
+5 Obed
+5 Hur
+5 Korach
+5 Pinhas = Pinehas
+5 Enosch
+5 Methusael
+5 Jubal
+5 Tubal-Kain
+5 Phöbe
+5 Theophilus
+5 Eutychus
+5 Claudius
+5 Simon der Magier = Simon Magus
+5 Sergius Paulus
+5 Dionysius
+5 Demas
+5 Epaphras
+5 Tychikus
+5 Elymas
+5 Eunike
+5 Lois
+5 Rhode

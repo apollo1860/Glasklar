@@ -1,0 +1,53 @@
+@id wor-045
+@text Nenne einen gängigen deutschen männlichen Vornamen, der mit „R“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Robert
+1 Ralf = Ralph
+2 Rainer = Reiner
+2 René
+2 Richard
+2 Roland
+2 Rudolf = Rudolph
+2 Reinhard
+2 Rüdiger
+2 Robin
+2 Raphael = Rafael; Raffael
+2 Rolf
+3 Ruben
+3 Roman
+3 Ronny
+3 Ron
+3 Ronald
+3 Rico
+3 Reinhold
+3 Rudi
+3 Rasmus
+3 Rick
+4 Ruprecht
+4 Rupert
+4 Raik = Rayk
+4 Raimund = Reimund
+4 Rio
+4 Rouven
+4 Rune
+4 Romeo
+4 Roberto
+4 Ricardo
+4 Ragnar
+4 Raoul = Raul
+4 Rocco
+4 Remo
+4 Roy
+4 Ralle
+5 Rochus
+5 Randolf
+5 Reimar
+5 Reinald
+5 Roderich
+5 Rainald
+5 Romuald
+5 Reto

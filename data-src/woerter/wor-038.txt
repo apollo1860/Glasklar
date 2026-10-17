@@ -1,0 +1,72 @@
+@id wor-038
+@text Nenne einen gängigen deutschen weiblichen Vornamen, der mit „L“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Laura
+1 Lisa = Liza
+1 Lena
+2 Lea = Leah
+2 Luisa = Louisa
+2 Lara
+2 Lina
+2 Leonie = Leoni
+2 Lilly = Lilli; Lili; Lily
+2 Luna
+2 Linda
+3 Lotta
+3 Lotte
+3 Luise = Louise
+3 Lucie = Lucy; Luzie
+3 Lia
+3 Leila = Laila; Layla; Leyla
+3 Lieselotte = Liselotte
+3 Lydia
+3 Larissa
+3 Lana
+3 Leni
+3 Liv
+3 Lucia = Luzia
+3 Lilith
+3 Lotti
+4 Liesel = Lisl
+4 Liesbeth = Lisbeth
+4 Lavinia
+4 Lenja = Lenya
+4 Lorena
+4 Lore
+4 Ludmilla = Ludmila
+4 Lilian
+4 Liliana
+4 Lilo
+4 Linnea
+4 Lisann
+4 Lisanne
+4 Lenia
+4 Lene
+4 Leandra
+4 Liane
+4 Livia
+4 Luana
+4 Lynn = Linn
+4 Leonora
+4 Leonore
+4 Lou
+4 Lola
+4 Lisette
+4 Laureen
+4 Lucienne
+4 Lieselore
+5 Lorelei
+5 Leokadia
+5 Lioba
+5 Loretta
+5 Laetitia = Letizia
+5 Lissy
+5 Larina
+5 Leopoldine
+5 Lucinda
+5 Luitgard
+5 Lisbet

@@ -1727,5 +1727,1483 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "pol-005",
+  "text": "Nenne eine Person, die in der Bibel erwähnt wird",
+  "kategorie": "politik",
+  "answers": [
+   {
+    "id": "pol-005-a0001",
+    "text": "Jesus",
+    "aliases": [
+     "Jesus Christus",
+     "Christus",
+     "Jesus von Nazareth"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-005-a0002",
+    "text": "Maria",
+    "aliases": [
+     "Jungfrau Maria",
+     "Mutter Gottes"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-005-a0003",
+    "text": "Adam",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "pol-005-a0004",
+    "text": "Eva",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "pol-005-a0005",
+    "text": "Mose",
+    "aliases": [
+     "Moses"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "pol-005-a0006",
+    "text": "Josef",
+    "aliases": [
+     "Joseph"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0007",
+    "text": "Noah",
+    "aliases": [
+     "Noach"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0008",
+    "text": "Abraham",
+    "aliases": [
+     "Abram"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0009",
+    "text": "David",
+    "aliases": [
+     "König David"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0010",
+    "text": "Petrus",
+    "aliases": [
+     "Simon Petrus",
+     "Kephas"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0011",
+    "text": "Judas",
+    "aliases": [
+     "Judas Iskariot",
+     "Judas Ischariot"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0012",
+    "text": "Paulus",
+    "aliases": [
+     "Saulus",
+     "Apostel Paulus"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0013",
+    "text": "Johannes",
+    "aliases": [
+     "Apostel Johannes",
+     "Evangelist Johannes"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0014",
+    "text": "Kain",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0015",
+    "text": "Abel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0016",
+    "text": "Goliat",
+    "aliases": [
+     "Goliath"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "pol-005-a0017",
+    "text": "Johannes der Täufer",
+    "aliases": [
+     "Täufer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0018",
+    "text": "Gott",
+    "aliases": [
+     "Jahwe",
+     "Jehova"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0019",
+    "text": "Isaak",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0020",
+    "text": "Jakob",
+    "aliases": [
+     "Israel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0021",
+    "text": "Salomo",
+    "aliases": [
+     "Salomon",
+     "König Salomo"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0022",
+    "text": "Pontius Pilatus",
+    "aliases": [
+     "Pilatus"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0023",
+    "text": "Maria Magdalena",
+    "aliases": [
+     "Magdalena",
+     "Maria von Magdala"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0024",
+    "text": "Simson",
+    "aliases": [
+     "Samson"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0025",
+    "text": "Delila",
+    "aliases": [
+     "Dalila"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0026",
+    "text": "Herodes",
+    "aliases": [
+     "König Herodes",
+     "Herodes Antipas"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0027",
+    "text": "Lazarus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0028",
+    "text": "Thomas",
+    "aliases": [
+     "ungläubiger Thomas"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0029",
+    "text": "Matthäus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0030",
+    "text": "Markus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0031",
+    "text": "Lukas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0032",
+    "text": "Daniel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0033",
+    "text": "Jona",
+    "aliases": [
+     "Jonas"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0034",
+    "text": "Hiob",
+    "aliases": [
+     "Ijob"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0035",
+    "text": "Lot",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0036",
+    "text": "Sara",
+    "aliases": [
+     "Sarah",
+     "Sarai"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0037",
+    "text": "Esau",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0038",
+    "text": "Samuel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0039",
+    "text": "Saul",
+    "aliases": [
+     "König Saul"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0040",
+    "text": "Elia",
+    "aliases": [
+     "Elias",
+     "Elija"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0041",
+    "text": "Andreas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0042",
+    "text": "Barabbas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0043",
+    "text": "Rahel",
+    "aliases": [
+     "Rachel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0044",
+    "text": "Lea",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0045",
+    "text": "Rut",
+    "aliases": [
+     "Ruth"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0046",
+    "text": "Ester",
+    "aliases": [
+     "Esther"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0047",
+    "text": "Martha",
+    "aliases": [
+     "Marta"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0048",
+    "text": "Elisabeth",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0049",
+    "text": "Jakobus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0050",
+    "text": "Benjamin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0051",
+    "text": "Metuschelach",
+    "aliases": [
+     "Methusalem",
+     "Methusalah",
+     "Methuschelach"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0052",
+    "text": "Gabriel",
+    "aliases": [
+     "Erzengel Gabriel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0053",
+    "text": "Philippus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0054",
+    "text": "Bartholomäus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0055",
+    "text": "Nikodemus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0056",
+    "text": "Zachäus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0057",
+    "text": "Aaron",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0058",
+    "text": "Josua",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0059",
+    "text": "Jesaja",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0060",
+    "text": "Jeremia",
+    "aliases": [
+     "Jeremias"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0061",
+    "text": "Nebukadnezar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0062",
+    "text": "Pharao",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "pol-005-a0063",
+    "text": "Satan",
+    "aliases": [
+     "Teufel",
+     "Luzifer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0064",
+    "text": "Michael",
+    "aliases": [
+     "Erzengel Michael"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0065",
+    "text": "Rafael",
+    "aliases": [
+     "Raphael",
+     "Erzengel Rafael"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0066",
+    "text": "Simon der Zelot",
+    "aliases": [
+     "Simon Zelotes"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0067",
+    "text": "Thaddäus",
+    "aliases": [
+     "Judas Thaddäus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0068",
+    "text": "Matthias",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0069",
+    "text": "Stephanus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0070",
+    "text": "Timotheus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0071",
+    "text": "Titus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0072",
+    "text": "Barnabas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0073",
+    "text": "Silas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0074",
+    "text": "Josef von Arimathäa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0075",
+    "text": "Simon von Kyrene",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0076",
+    "text": "Kaiphas",
+    "aliases": [
+     "Kajaphas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0077",
+    "text": "Hannas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0078",
+    "text": "Herodias",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0079",
+    "text": "Salome",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0080",
+    "text": "Zacharias",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0081",
+    "text": "Simeon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0082",
+    "text": "Hanna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0083",
+    "text": "Jairus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0084",
+    "text": "Bartimäus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0085",
+    "text": "Malchus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0086",
+    "text": "Lydia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0087",
+    "text": "Priszilla",
+    "aliases": [
+     "Priscilla",
+     "Priska"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0088",
+    "text": "Aquila",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0089",
+    "text": "Apollos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0090",
+    "text": "Tabita",
+    "aliases": [
+     "Tabea",
+     "Dorkas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0091",
+    "text": "Kornelius",
+    "aliases": [
+     "Cornelius"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0092",
+    "text": "Hananias",
+    "aliases": [
+     "Ananias"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0093",
+    "text": "Saphira",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0094",
+    "text": "Gamaliel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0095",
+    "text": "Augustus",
+    "aliases": [
+     "Kaiser Augustus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0096",
+    "text": "Tiberius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0097",
+    "text": "Quirinius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0098",
+    "text": "Philemon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0099",
+    "text": "Onesimus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0100",
+    "text": "Kleopas",
+    "aliases": [
+     "Kleophas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0101",
+    "text": "Nathanael",
+    "aliases": [
+     "Natanael"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0102",
+    "text": "Levi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0103",
+    "text": "Ruben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0104",
+    "text": "Juda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0105",
+    "text": "Hagar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0106",
+    "text": "Ismael",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0107",
+    "text": "Rebekka",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0108",
+    "text": "Laban",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0109",
+    "text": "Dina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0110",
+    "text": "Set",
+    "aliases": [
+     "Seth"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0111",
+    "text": "Henoch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0112",
+    "text": "Lamech",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0113",
+    "text": "Sem",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0114",
+    "text": "Ham",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0115",
+    "text": "Jafet",
+    "aliases": [
+     "Japhet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0116",
+    "text": "Nimrod",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0117",
+    "text": "Melchisedek",
+    "aliases": [
+     "Melchisedech"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0118",
+    "text": "Potifar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0119",
+    "text": "Mirjam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0120",
+    "text": "Zippora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0121",
+    "text": "Kaleb",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0122",
+    "text": "Bileam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0123",
+    "text": "Rahab",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0124",
+    "text": "Gideon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0125",
+    "text": "Debora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0126",
+    "text": "Boas",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0127",
+    "text": "Noomi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0128",
+    "text": "Eli",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0129",
+    "text": "Jonatan",
+    "aliases": [
+     "Jonathan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0130",
+    "text": "Batseba",
+    "aliases": [
+     "Bathseba"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0131",
+    "text": "Urija",
+    "aliases": [
+     "Uria"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0132",
+    "text": "Natan",
+    "aliases": [
+     "Nathan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0133",
+    "text": "Absalom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0134",
+    "text": "Michal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0135",
+    "text": "Königin von Saba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0136",
+    "text": "Ahab",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0137",
+    "text": "Isebel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0138",
+    "text": "Elischa",
+    "aliases": [
+     "Elisa",
+     "Elisäus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0139",
+    "text": "Hesekiel",
+    "aliases": [
+     "Ezechiel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0140",
+    "text": "Belsazar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0141",
+    "text": "Darius",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0142",
+    "text": "Kyrus",
+    "aliases": [
+     "Kyros"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0143",
+    "text": "Esra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0144",
+    "text": "Nehemia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0145",
+    "text": "Mordechai",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0146",
+    "text": "Haman",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0147",
+    "text": "Hosea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0148",
+    "text": "Joel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0149",
+    "text": "Amos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0150",
+    "text": "Micha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0151",
+    "text": "Sacharja",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0152",
+    "text": "Judit",
+    "aliases": [
+     "Judith"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0153",
+    "text": "Tobias",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0154",
+    "text": "Holofernes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0155",
+    "text": "Susanna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0156",
+    "text": "Judas Makkabäus",
+    "aliases": [
+     "Makkabäus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0157",
+    "text": "Joab",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0158",
+    "text": "Isai",
+    "aliases": [
+     "Jesse"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0159",
+    "text": "Tamar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0160",
+    "text": "Ephraim",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0161",
+    "text": "Manasse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0162",
+    "text": "Felix",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0163",
+    "text": "Festus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0164",
+    "text": "Agrippa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0165",
+    "text": "Beelzebul",
+    "aliases": [
+     "Beelzebub"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "pol-005-a0166",
+    "text": "Naftali",
+    "aliases": [
+     "Naphtali"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0167",
+    "text": "Gad",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0168",
+    "text": "Asser",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0169",
+    "text": "Dan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0170",
+    "text": "Issachar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0171",
+    "text": "Sebulon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0172",
+    "text": "Jitro",
+    "aliases": [
+     "Jethro"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0173",
+    "text": "Jiftach",
+    "aliases": [
+     "Jephta"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0174",
+    "text": "Hiram",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0175",
+    "text": "Sanherib",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0176",
+    "text": "Abner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0177",
+    "text": "Amnon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0178",
+    "text": "Adonija",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0179",
+    "text": "Abigajil",
+    "aliases": [
+     "Abigail"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0180",
+    "text": "Rehabeam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0181",
+    "text": "Jerobeam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0182",
+    "text": "Naaman",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0183",
+    "text": "Hiskia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0184",
+    "text": "Josia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0185",
+    "text": "Jehu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0186",
+    "text": "Joschafat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0187",
+    "text": "Schadrach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0188",
+    "text": "Meschach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0189",
+    "text": "Abed-Nego",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0190",
+    "text": "Ahasveros",
+    "aliases": [
+     "Ahasverus",
+     "Xerxes"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0191",
+    "text": "Obadja",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0192",
+    "text": "Nahum",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0193",
+    "text": "Habakuk",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0194",
+    "text": "Zefanja",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0195",
+    "text": "Haggai",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0196",
+    "text": "Maleachi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0197",
+    "text": "Tobit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0198",
+    "text": "Obed",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0199",
+    "text": "Hur",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0200",
+    "text": "Korach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0201",
+    "text": "Pinhas",
+    "aliases": [
+     "Pinehas"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0202",
+    "text": "Enosch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0203",
+    "text": "Methusael",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0204",
+    "text": "Jubal",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0205",
+    "text": "Tubal-Kain",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0206",
+    "text": "Phöbe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0207",
+    "text": "Theophilus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0208",
+    "text": "Eutychus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0209",
+    "text": "Claudius",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0210",
+    "text": "Simon der Magier",
+    "aliases": [
+     "Simon Magus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0211",
+    "text": "Sergius Paulus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0212",
+    "text": "Dionysius",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0213",
+    "text": "Demas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0214",
+    "text": "Epaphras",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0215",
+    "text": "Tychikus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0216",
+    "text": "Elymas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0217",
+    "text": "Eunike",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0218",
+    "text": "Lois",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "pol-005-a0219",
+    "text": "Rhode",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

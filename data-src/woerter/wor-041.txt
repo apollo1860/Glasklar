@@ -1,0 +1,53 @@
+@id wor-041
+@text Nenne einen gängigen deutschen weiblichen Vornamen, der mit „J“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Julia
+1 Jana
+1 Johanna
+2 Jessica = Jessika
+2 Jasmin = Jasmine
+2 Jennifer
+2 Josephine = Josefine
+2 Jule
+2 Janina
+2 Jacqueline = Jaqueline
+3 Julie
+3 Juliane
+3 Jenny
+3 Judith
+3 Jutta
+3 Jolina
+3 Jette
+3 Juna
+3 Jella
+3 Janne
+3 Janna
+3 Joanna = Joana
+3 Juliana
+3 Jil = Jill
+3 Joy
+3 Jasmina
+4 Julika
+4 Joelle
+4 Josefa
+4 Jeanette = Jeannette
+4 Jenna
+4 Justine
+4 Jolanthe = Jolanda
+4 Jördis
+4 Josie = Josy
+4 Jarah
+4 Jamila
+4 Julietta
+4 Juliette
+4 Jovana
+4 Jannika
+4 Johanne
+5 Jeanne
+5 Judit
+5 Jacinta
+5 Jolie

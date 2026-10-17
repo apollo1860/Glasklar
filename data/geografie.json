@@ -18559,5 +18559,82 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "geo-054",
+  "text": "Nenne ein Land, das über eigene Atomwaffen verfügt",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-054-a0001",
+    "text": "USA",
+    "aliases": [
+     "Vereinigte Staaten",
+     "Vereinigte Staaten von Amerika",
+     "Amerika",
+     "United States"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-054-a0002",
+    "text": "Russland",
+    "aliases": [
+     "Russische Föderation"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-054-a0003",
+    "text": "China",
+    "aliases": [
+     "Volksrepublik China"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-054-a0004",
+    "text": "Nordkorea",
+    "aliases": [
+     "Demokratische Volksrepublik Korea"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-054-a0005",
+    "text": "Frankreich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-054-a0006",
+    "text": "Vereinigtes Königreich",
+    "aliases": [
+     "Großbritannien",
+     "UK",
+     "United Kingdom"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-054-a0007",
+    "text": "Indien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-054-a0008",
+    "text": "Pakistan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-054-a0009",
+    "text": "Israel",
+    "aliases": [],
+    "tier": 3
+   }
+  ]
  }
 ]

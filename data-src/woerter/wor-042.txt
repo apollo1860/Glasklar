@@ -1,0 +1,47 @@
+@id wor-042
+@text Nenne einen gängigen deutschen männlichen Vornamen, der mit „F“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Felix
+1 Florian
+1 Frank
+1 Fabian
+2 Finn = Fynn; Fin
+2 Friedrich
+2 Franz
+2 Fritz
+3 Frederik = Frederick; Frederic; Friedrik
+3 Ferdinand
+3 Fiete
+3 Fabio
+3 Falk
+3 Frieder
+3 Friedhelm
+3 Fridolin
+3 Fred
+3 Frido
+4 Falko = Falco
+4 Freddy = Freddie
+4 Finley = Finlay
+4 Filip
+4 Fatih
+4 Furkan
+4 Florin
+4 Friedemann
+4 Frithjof = Fritjof; Fridtjof
+4 Felian
+4 Friedel
+4 Francesco
+4 Franko = Franco
+4 Ferhat
+4 Flynn
+5 Fernando
+5 Folkert
+5 Fynnian = Finnian
+5 Franziskus
+5 Frerk
+5 Fredo
+5 Fiddi

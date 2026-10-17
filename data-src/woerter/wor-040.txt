@@ -1,0 +1,46 @@
+@id wor-040
+@text Nenne einen gängigen deutschen weiblichen Vornamen, der mit „T“ beginnt
+@typ geschlossen
+# „Gängig“ = in Deutschland real verbreitet (Vornamensstatistiken GfdS/knowd/beliebte-vornamen.de über alle Jahrgänge),
+# inkl. älterer Namen und eingedeutschter internationaler Namen. Schreibvarianten als Alias, Doppelnamen nicht.
+# tier = geschätzte Wahrscheinlichkeit, genannt zu werden.
+
+1 Tanja = Tania
+1 Tina
+1 Theresa = Teresa
+2 Tamara
+2 Tabea
+2 Tatjana = Tatiana
+2 Thea
+3 Tessa
+3 Tamina
+3 Tilda = Tilde
+3 Tara
+3 Therese
+3 Tamia
+3 Talia = Thalia
+3 Tilly = Tilli
+4 Toni
+4 Theodora
+4 Tine
+4 Trude = Trudi
+4 Tiana
+4 Tia
+4 Thekla
+4 Tabitha
+4 Tanita
+4 Tiziana
+4 Theresia
+4 Tjorven
+4 Tuba
+4 Tülay
+5 Traudl = Traudel
+5 Thora
+5 Trixi
+5 Theda
+5 Tomke
+5 Thyra
+5 Timea
+5 Tonja
+5 Tamy = Tammy
+5 Teodora
