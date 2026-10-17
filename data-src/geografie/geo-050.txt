@@ -1,0 +1,25 @@
+@id geo-050
+@text Nenne ein Land, das mit „B“ beginnt
+@typ geschlossen
+# Regel: Ein Land zählt, wenn sein gängiger deutscher Name (Haupttext laut geo-001 ODER ein gängiger deutscher Alias) die Bedingung erfüllt. Die übrigen Aliase des Landes bleiben erhalten (führen zum selben Land).
+# Per Skript aus geo-001 gefiltert, manuell geprüft. Über Alias aufgenommen: Myanmar (Birma/Burma, im Deutschen weiterhin gebräuchlich).
+# NICHT: Deutschland (BRD/Bundesrepublik Deutschland ist Abkürzung bzw. Amtsname, kein gängiger Ländername), Vereinigtes Königreich (Großbritannien/Britannien beginnt nicht mit B).
+
+1 Belgien
+1 Brasilien
+2 Bulgarien
+2 Bolivien
+2 Bosnien und Herzegowina = Bosnien
+2 Bahamas
+2 Bangladesch
+3 Belarus = Weißrussland
+3 Barbados
+3 Bhutan
+3 Botswana
+3 Burkina Faso
+3 Bahrain
+3 Benin
+3 Belize
+4 Burundi
+4 Brunei
+4 Myanmar = Birma; Burma

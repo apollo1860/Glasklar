@@ -1,0 +1,45 @@
+@id geo-047
+@text Nenne ein Land, dessen Name auf „-stan“ oder „-ien“ endet
+@typ geschlossen
+# Regel: Ein Land zählt, wenn sein gängiger deutscher Name (Haupttext laut geo-001 ODER ein gängiger deutscher Alias) die Bedingung erfüllt. Die übrigen Aliase des Landes bleiben erhalten (führen zum selben Land).
+# Per Skript aus geo-001 gefiltert (Haupttext + Aliase), danach manuell geprüft. Über Alias aufgenommen: Vereinigtes Königreich (Großbritannien), Bosnien und Herzegowina (Bosnien), Moldau (Moldawien).
+# NICHT: Libyen (-yen), Philippinen (-inen), Kenia/Tansania/Gambia/Malaysia (-ia), Litauen, Salomonen. Kirgisistan zusätzlich mit Alias Kirgistan.
+
+1 Spanien
+1 Italien
+1 Afghanistan
+1 Pakistan
+2 Indien
+2 Belgien
+2 Kasachstan
+2 Brasilien
+2 Australien
+2 Kroatien
+2 Usbekistan
+3 Tschechien = Tschechische Republik; Tschechei
+3 Argentinien
+3 Tadschikistan
+3 Turkmenistan
+3 Kirgisistan = Kirgistan
+3 Rumänien
+3 Bulgarien
+3 Serbien
+3 Slowenien
+3 Albanien
+3 Bosnien und Herzegowina = Bosnien
+3 Indonesien
+3 Kolumbien
+3 Bolivien
+3 Syrien
+3 Saudi-Arabien
+3 Tunesien
+3 Algerien
+3 Georgien
+3 Armenien
+3 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+4 Nordmazedonien = Mazedonien
+4 Jordanien
+4 Äthiopien
+4 Moldau = Moldawien; Republik Moldau
+4 Mauretanien
+4 Mikronesien = Föderierte Staaten von Mikronesien

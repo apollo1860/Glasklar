@@ -1,0 +1,134 @@
+@id geo-048
+@text Nenne ein Land, in dem das Christentum die vorherrschende Religion ist
+@typ geschlossen
+# Regel: Christentum (alle Konfessionen zusammen) ist die größte Gruppe der Bevölkerung – Konfessionslose zählen als eigene Gruppe mit. Quellen: Pew Research „Global Religious Landscape“ (Stand 2020, veröffentlicht 2025), ergänzt um aktuelle Zensusdaten.
+# Aufgenommen trotz < 50 %: Deutschland (Kirchenmitglieder + Orthodoxe/Freikirchen knapp vor Konfessionslosen, ca. 48 % vs. 47 %, Stand 2024), Frankreich (Pew 46 %), Vereinigtes Königreich (Pew 49 %), England (Zensus 2021: 46 % vs. 37 %), Australien (Pew 47 %), Ungarn (Zensus 2022), Togo, Benin, Suriname (relative Mehrheit).
+# NICHT aufgenommen (Konfessionslose größte Gruppe): Tschechien, Niederlande (Pew 54 %), Estland, Uruguay (Pew 52 %), Neuseeland (Pew 51 %), Südkorea, Schottland (Zensus 2022: 51 %), Wales (Zensus 2021: 47 % vs. 44 %). Kuba bleibt drin (Christen klar vorn).
+# NICHT aufgenommen (Muslime/andere vorn): Nigeria (Pew 2020: 56 % Muslime), Eritrea (52 % Muslime), Bosnien und Herzegowina (ca. 51 % Muslime vs. 46 % Christen), Libanon, Albanien, Kosovo, Elfenbeinküste (Zensus 2021: 42 % Muslime vs. 40 % Christen), Tschad, Guinea-Bissau, Burkina Faso, Sierra Leone, Kasachstan, Kirgisistan, Mauritius (Hindus), Singapur (Buddhisten), Israel, Palästina.
+# Grönland (lutherische Mehrheit) als geo-001-Land mit tier5 aufgenommen.
+
+1 Italien
+1 Deutschland = BRD; Bundesrepublik Deutschland
+1 Polen
+2 Spanien
+2 Vatikanstadt = Vatikan; Heiliger Stuhl
+2 Österreich
+2 Frankreich
+2 Irland
+2 Griechenland
+2 Russland = Russische Föderation
+3 Portugal
+3 Schweiz
+3 Kroatien
+3 Vereinigtes Königreich = Großbritannien; UK; United Kingdom
+3 England
+3 Belgien
+3 Ukraine
+3 Malta
+4 Schweden
+4 Norwegen
+4 Dänemark
+4 Finnland
+4 Island
+4 Ungarn
+4 Slowakei
+4 Slowenien
+4 Rumänien
+4 Bulgarien
+4 Serbien
+4 Luxemburg
+4 Litauen
+4 Lettland
+4 Belarus = Weißrussland
+4 Moldau = Moldawien; Republik Moldau
+4 Montenegro
+4 Nordmazedonien = Mazedonien
+4 Liechtenstein
+4 Monaco
+4 San Marino
+4 Andorra
+4 Zypern
+4 Nordirland
+5 Grönland
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+2 Brasilien
+2 Mexiko
+3 Argentinien
+3 Kanada
+3 Kolumbien
+3 Chile
+3 Peru
+4 Venezuela
+4 Kuba
+4 Ecuador
+4 Bolivien
+4 Paraguay
+4 Jamaika
+4 Costa Rica
+4 Panama
+4 Dominikanische Republik
+4 Haiti
+4 Bahamas
+5 Guatemala
+5 Honduras
+5 El Salvador
+5 Nicaragua
+5 Belize
+5 Guyana
+5 Suriname
+5 Barbados
+5 Trinidad und Tobago
+5 Grenada
+5 St. Lucia = Saint Lucia; Sankt Lucia
+5 St. Vincent und die Grenadinen = Saint Vincent und die Grenadinen; Sankt Vincent und die Grenadinen
+5 St. Kitts und Nevis = Saint Kitts und Nevis; Sankt Kitts und Nevis
+5 Antigua und Barbuda
+5 Dominica
+3 Philippinen
+4 Armenien
+4 Georgien
+5 Osttimor = Timor-Leste
+3 Australien
+4 Papua-Neuguinea
+5 Fidschi
+5 Samoa
+5 Tonga
+5 Vanuatu
+5 Salomonen
+5 Kiribati
+5 Tuvalu
+5 Nauru
+5 Palau
+5 Marshallinseln
+5 Mikronesien = Föderierte Staaten von Mikronesien
+3 Südafrika
+4 Kenia
+4 Äthiopien
+4 Ghana
+4 Uganda
+4 Angola
+4 Ruanda
+4 Namibia
+4 Kamerun
+4 Tansania
+4 Madagaskar
+4 Simbabwe
+4 Seychellen
+5 Südsudan
+5 Botswana
+5 Sambia
+5 Malawi
+5 Mosambik
+5 Lesotho
+5 Eswatini = Swasiland
+5 Liberia
+5 Togo
+5 Benin
+5 Gabun
+5 Äquatorialguinea
+5 Zentralafrikanische Republik
+5 Republik Kongo = Kongo-Brazzaville
+5 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+5 Burundi
+5 Kap Verde = Cabo Verde
+5 São Tomé und Príncipe

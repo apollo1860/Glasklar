@@ -1,0 +1,26 @@
+@id geo-049
+@text Nenne ein Land, das mit „M“ beginnt
+@typ geschlossen
+# Regel: Ein Land zählt, wenn sein gängiger deutscher Name (Haupttext laut geo-001 ODER ein gängiger deutscher Alias) die Bedingung erfüllt. Die übrigen Aliase des Landes bleiben erhalten (führen zum selben Land).
+# Per Skript aus geo-001 gefiltert, manuell geprüft. Über Alias aufgenommen: Nordmazedonien (Mazedonien). Moldau = Moldawien beide M.
+# NICHT: Föderierte Staaten von Mikronesien als Langform irrelevant (Mikronesien zählt ohnehin).
+
+1 Mexiko
+1 Marokko
+2 Malta
+2 Monaco
+2 Madagaskar
+2 Malediven
+2 Mongolei
+3 Montenegro
+3 Malaysia
+3 Mali
+3 Mauritius
+3 Moldau = Moldawien; Republik Moldau
+3 Mosambik
+3 Myanmar = Birma; Burma
+3 Nordmazedonien = Mazedonien
+4 Malawi
+4 Mauretanien
+4 Mikronesien = Föderierte Staaten von Mikronesien
+4 Marshallinseln

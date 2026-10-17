@@ -1,0 +1,25 @@
+@id geo-051
+@text Nenne ein Land, das mit „K“ beginnt
+@typ geschlossen
+# Regel: Ein Land zählt, wenn sein gängiger deutscher Name (Haupttext laut geo-001 ODER ein gängiger deutscher Alias) die Bedingung erfüllt. Die übrigen Aliase des Landes bleiben erhalten (führen zum selben Land).
+# Per Skript aus geo-001 gefiltert, manuell geprüft. Über Alias aufgenommen: Republik Kongo (Kongo, Kongo-Brazzaville; deutsche Kurzform laut Auswärtigem Amt ist „Kongo“), DR Kongo (Kongo-Kinshasa), Südkorea (Korea).
+# NICHT: Nordkorea (gängiger Name beginnt mit N; „Korea“ führt zu Südkorea), Elfenbeinküste/Côte d'Ivoire, Cabo Verde zählt über Kap Verde. Katar mit Alias Qatar, Kirgisistan mit Alias Kirgistan.
+
+1 Kanada
+1 Kroatien
+1 Kenia
+1 Kuba
+2 Kolumbien
+2 Kambodscha
+2 Kamerun
+2 Katar = Qatar
+2 Kasachstan
+2 Kosovo
+2 Kuwait
+3 Kirgisistan = Kirgistan
+3 Republik Kongo = Kongo; Kongo-Brazzaville
+3 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+3 Kap Verde = Cabo Verde
+3 Südkorea = Korea; Republik Korea
+4 Komoren
+4 Kiribati

@@ -6,8 +6,8 @@
       "id": "geografie",
       "name": "Geografie",
       "icon": "🌍",
-      "count": 46,
-      "v": "ceeb2887b6",
+      "count": 52,
+      "v": "f0a82513fa",
       "questions": [
         "geo-001",
         "geo-002",
@@ -54,7 +54,13 @@
         "geo-043",
         "geo-044",
         "geo-045",
-        "geo-046"
+        "geo-046",
+        "geo-047",
+        "geo-048",
+        "geo-049",
+        "geo-050",
+        "geo-051",
+        "geo-052"
       ]
     },
     {

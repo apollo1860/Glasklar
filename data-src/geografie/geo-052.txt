@@ -1,0 +1,71 @@
+@id geo-052
+@text Nenne ein Land, das flächenmäßig größer als Deutschland ist
+@typ geschlossen
+# Deutschland: 357.588 km². Gesamtfläche (inkl. Binnengewässer) laut CIA World Factbook/Wikipedia. Kleinstes aufgenommenes: Japan (377.975 km²).
+# Norwegen: 385.207 km² inkl. Svalbard und Jan Mayen (Festland allein 323.802 km² wäre kleiner) – aufgenommen, da offizielle Gesamtfläche. Frankreich auch ohne Überseegebiete (551.695 km²) größer.
+# Grönland (2,17 Mio. km²): kein unabhängiger Staat, steht aber als Land in geo-001 und wird oft genannt -> aufgenommen (tier3). Dänemark selbst (43.000 km²) NICHT.
+# Knapp NICHT größer: Republik Kongo (342.000), Finnland (338.000), Vietnam (331.000), Malaysia (330.000), Elfenbeinküste (322.000), Polen (313.000), Italien (301.000), Philippinen (300.000).
+
+1 Russland = Russische Föderation
+1 USA = Vereinigte Staaten; Vereinigte Staaten von Amerika; Amerika; United States
+1 Kanada
+1 China = Volksrepublik China
+2 Brasilien
+2 Australien
+2 Indien
+2 Frankreich
+2 Argentinien
+2 Mexiko
+2 Spanien
+3 Kasachstan
+3 Grönland
+3 Saudi-Arabien
+3 Algerien
+3 Ägypten
+3 Türkei = Türkiye
+3 Schweden
+3 Ukraine
+3 Mongolei
+3 Südafrika
+3 Indonesien
+3 Iran
+3 Japan
+3 Norwegen
+3 Demokratische Republik Kongo = DR Kongo; Kongo-Kinshasa
+3 Peru
+3 Chile
+3 Kolumbien
+3 Libyen
+3 Pakistan
+3 Nigeria
+3 Thailand
+3 Afghanistan
+3 Äthiopien
+4 Sudan
+4 Tschad
+4 Niger
+4 Angola
+4 Mali
+4 Bolivien
+4 Mauretanien
+4 Tansania
+4 Venezuela
+4 Namibia
+4 Mosambik
+4 Sambia
+4 Myanmar = Birma; Burma
+4 Südsudan
+4 Somalia
+4 Zentralafrikanische Republik
+4 Madagaskar
+4 Botswana
+4 Kenia
+4 Jemen
+4 Turkmenistan
+4 Kamerun
+4 Papua-Neuguinea
+4 Usbekistan
+4 Marokko
+4 Irak
+4 Paraguay
+4 Simbabwe
