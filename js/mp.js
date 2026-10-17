@@ -648,11 +648,10 @@ export function createMultiplayer(ctx) {
       .sort((a, b) => (fills[a]?.fill ?? 0) - (fills[b]?.fill ?? 0) || compareDe(nameOf(a), nameOf(b)))
       .map((pid) => {
         const as = assessment(q, subs[pid]);
-        const f = fills[pid] || { fill: 0, bonus: 0 };
         return `<li class="${pid === uid() ? 'me' : ''}">
           <span class="rv-name">${esc(pid === uid() ? 'Du' : nameOf(pid))}</span>
           <span class="rv-answer">${esc(as.text)}</span>
-          <span class="rv-tag ${as.kind}">${esc(as.label)}${f.bonus ? ` +${f.bonus}` : ''}</span>
+          <span class="rv-tag ${as.kind}">${esc(as.label)}</span>
         </li>`;
       });
     $('#q-review-body').innerHTML = `<p class="rv-text">${esc(q.text)}</p><ol class="rv-list">${rows.join('')}</ol>`;
