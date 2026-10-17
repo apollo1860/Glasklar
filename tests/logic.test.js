@@ -1,14 +1,14 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
-  normalize, searchKey, levenshtein, buildSearchIndex, searchAnswers,
+  normalize, searchKey, levenshtein, buildSearchIndex, searchAnswers, stem,
   baseFill, sameAnswerBonus, computeQuestionFills, roundSips,
   answerFrequencies, rankBySips, roundWinners, drawQuestion,
 } from '../js/logic.js';
 import { CONFIG } from '../js/config.js';
 
 const Q = {
-  id: 'geo-001', text: 'Nenne ein Land der Erde', kategorie: 'geografie',
+  id: 'geo-002', text: 'Nenne ein Land', kategorie: 'geografie', typ: 'geschlossen', // strenge Suche
   answers: [
     { id: 'a1', text: 'Deutschland', aliases: ['BRD', 'Bundesrepublik Deutschland'], tier: 1 },
     { id: 'a2', text: 'Dänemark', aliases: [], tier: 3 },
@@ -94,6 +94,42 @@ test('Suche: Tippfehler nur bei ganzem Wort ab 5 Buchstaben, als Vorschlag marki
   assert.deepEqual(searchAnswers(IDX, 'Deutc'), []); // kein Wortanfang-Fuzzy
   assert.deepEqual(searchAnswers(IDX, 'UX'), []); // zu kurz für Tippfehler
   assert.deepEqual(ids(searchAnswers(IDX, 'Dschbuti')), ['a10']);
+});
+
+const OPEN = buildSearchIndex({
+  id: 'all-004', text: 'Nenne etwas, das man in einem Badezimmer findet', kategorie: 'alltag',
+  answers: [
+    { id: 'b1', text: 'Zahnbürste', aliases: [], tier: 1 },
+    { id: 'b2', text: 'Handtuch', aliases: [], tier: 1 },
+    { id: 'b3', text: 'Spiegel', aliases: [], tier: 1 },
+    { id: 'b4', text: 'Kerze', aliases: [], tier: 3 },
+    { id: 'b5', text: 'Badewanne', aliases: [], tier: 2 },
+    { id: 'b6', text: 'Duschgel', aliases: [], tier: 2 },
+  ],
+});
+
+test('Suche offene Fragen: Plural/Grundform, mehr Tippfehler, Wortteile', () => {
+  assert.equal(OPEN.tolerant, true);
+  assert.equal(IDX.tolerant, false);
+  assert.equal(stem('kerzen'), 'kerz');
+  const pl = searchAnswers(OPEN, 'Handtücher');
+  assert.deepEqual(ids(pl), ['b2']);
+  assert.equal(pl[0].fuzzy, false); // Plural gilt als Treffer
+  assert.deepEqual(ids(searchAnswers(OPEN, 'Kerzen')), ['b4']);
+  assert.deepEqual(ids(searchAnswers(OPEN, 'Kerz')), ['b4']); // 4 Buchstaben, 1 Fehler
+  assert.deepEqual(ids(searchAnswers(OPEN, 'Zahnbrüste')), ['b1']); // vertauscht
+  assert.deepEqual(ids(searchAnswers(OPEN, 'Zanbürstte')), ['b1']); // 2 Fehler ab 8 Buchstaben
+  const part = searchAnswers(OPEN, 'Badezimmerspiegel');
+  assert.deepEqual(ids(part), ['b3']);
+  assert.equal(part[0].fuzzy, true);
+  assert.deepEqual(ids(searchAnswers(OPEN, 'elektrische Zahnbürste')), ['b1']);
+  assert.deepEqual(ids(searchAnswers(OPEN, 'Bürste')), ['b1']); // 6 von 10 Buchstaben
+  assert.deepEqual(ids(searchAnswers(OPEN, 'Badewannenrand')), ['b5']); // 9 von 14 Buchstaben
+  // Anfangsbuchstaben und kurze Teile zeigen weiterhin nichts
+  assert.deepEqual(searchAnswers(OPEN, 'Z'), []);
+  assert.deepEqual(searchAnswers(OPEN, 'Zahn'), []);
+  assert.deepEqual(searchAnswers(OPEN, 'Bade'), []);
+  assert.deepEqual(searchAnswers(OPEN, 'gel'), []);
 });
 
 test('Suche: exakter Treffer verdrängt Tippfehler-Vorschläge', () => {

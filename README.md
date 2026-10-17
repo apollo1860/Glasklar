@@ -122,6 +122,14 @@ tier1 > 15 · tier2 5–15 · tier3 1–5 · tier4 0,2–1 · tier5 < 0,2 (aber 
 
 Vorschläge erscheinen erst, wenn das **ganze Wort** getippt ist – exakt (Groß-/Kleinschreibung, ä/ae/a, ß/ss, Akzente, Satzzeichen und Artikel egal) oder ab 5 Buchstaben mit einem Tippfehler („Meintest du?"). Anfangsbuchstaben oder Wortteile zeigen nichts an, damit man sich die Antworten nicht aus der Liste aussuchen kann. Alternative Schreibweisen gehören deshalb als Alias in die Daten.
 
+Offene Fragen (ohne `@typ`, z. B. „Etwas, das man im Badezimmer findet") bekommen mehr Spielraum (`CONFIG.search.tolerant`):
+
+- Plural und Endungen zählen als Treffer („Handtücher" → Handtuch, „Kerzen" → Kerze).
+- 1 Tippfehler schon ab 4 Buchstaben, 2 Tippfehler ab 8 Buchstaben.
+- Wortteile ganzer Wörter werden als „Meintest du?" vorgeschlagen („Badezimmerspiegel" → Spiegel, „elektrische Zahnbürste" → Zahnbürste, „Bürste" → Haarbürste, wenn das Getippte mindestens 60 % der Antwort ausmacht).
+
+Die Vorschläge erscheinen immer über dem Eingabefeld.
+
 ## Fehlende Antworten ergänzen
 
 Im Spiel werden getippte Texte ohne Treffer und jedes „Nichts passt" lokal gespeichert. Export unter **Einstellungen → Fehlende Antworten → Als JSON exportieren**.

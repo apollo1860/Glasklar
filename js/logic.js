@@ -68,13 +68,31 @@ export function levenshtein(a, b) {
 
 /** Baut den Suchindex einer Frage (einmal pro Frage). */
 export function buildSearchIndex(question) {
-  return question.answers.map((answer) => ({
+  const index = question.answers.map((answer) => ({
     answer,
     keys: [
       { label: answer.text, isAlias: false, forms: keyForms(answer.text) },
       ...(answer.aliases || []).map((al) => ({ label: al, isAlias: true, forms: keyForms(al) })),
     ],
   }));
+  index.tolerant = !question.typ; // offene Fragen: Plural, Wortteile, mehr Tippfehler
+  return index;
+}
+
+const STEM_SUFFIXES = ['nen', 'en', 'er', 'es', 'e', 'n', 's'];
+/** Grobe Grundform: Plural-/Flexionsendung ab (Äpfel/Apfel, Handtücher/Handtuch, Kerzen/Kerze). */
+export function stem(key) {
+  for (const suf of STEM_SUFFIXES) {
+    if (key.endsWith(suf) && key.length - suf.length >= 3) return key.slice(0, -suf.length);
+  }
+  return key;
+}
+
+/** Wörter des Getippten (normalisiert, beide Umlautformen). */
+function queryWords(query) {
+  const out = new Set();
+  for (const u of ['ae', 'a']) for (const w of normalize(query, u).split(' ')) if (w) out.add(w);
+  return [...out];
 }
 
 const collator = typeof Intl !== 'undefined' ? new Intl.Collator('de', { sensitivity: 'base' }) : null;
@@ -111,17 +129,32 @@ export function searchAnswers(index, query, opts = {}) {
   }
   if (exact.length) return sortAlpha(exact);
 
+  const tol = (opts.tolerant ?? index.tolerant) ? CONFIG.search.tolerant : null;
+
+  // 1b. Offene Fragen: gleiche Grundform (Plural, Endungen) gilt als Treffer
+  if (tol) {
+    const qStems = qForms.map(stem);
+    const same = [];
+    for (const entry of index) {
+      const key = entry.keys.find((k) => k.forms.some((f) => qStems.includes(stem(f))));
+      if (key) same.push(toResult(entry, key, false));
+    }
+    if (same.length) return sortAlpha(same);
+  }
+
   // 2. Ganzes Wort mit Tippfehler
-  if (Math.max(...qForms.map((q) => q.length)) < fuzzyMin) return [];
+  const minLen = tol ? tol.fuzzyMinLength : fuzzyMin;
+  const maxDistFor = (len) => (tol && len >= tol.fuzzy2MinLength ? Math.max(2, fuzzyDist) : fuzzyDist);
   const fuzzy = [];
   for (const entry of index) {
     let best = null;
     for (const key of entry.keys) {
       for (const f of key.forms) {
         for (const q of qForms) {
-          if (q.length < fuzzyMin || Math.abs(f.length - q.length) > fuzzyDist) continue;
+          const maxDist = maxDistFor(q.length);
+          if (q.length < minLen || Math.abs(f.length - q.length) > maxDist) continue;
           const dist = levenshtein(q, f);
-          if (dist <= fuzzyDist && (!best || dist < best.dist || (dist === best.dist && best.key.isAlias && !key.isAlias))) {
+          if (dist <= maxDist && (!best || dist < best.dist || (dist === best.dist && best.key.isAlias && !key.isAlias))) {
             best = { dist, key };
           }
         }
@@ -129,8 +162,35 @@ export function searchAnswers(index, query, opts = {}) {
     }
     if (best) fuzzy.push({ ...toResult(entry, best.key, true), dist: best.dist });
   }
-  fuzzy.sort((a, b) => a.dist - b.dist || compareDe(a.text, b.text));
-  return sortAlpha(fuzzy.slice(0, max).map(({ dist, ...r }) => r));
+  if (fuzzy.length || !tol) {
+    fuzzy.sort((a, b) => a.dist - b.dist || compareDe(a.text, b.text));
+    return sortAlpha(fuzzy.slice(0, max).map(({ dist, ...r }) => r));
+  }
+
+  // 3. Offene Fragen: Wortteile – nur ganze getippte Wörter, nie Anfangsbuchstaben
+  const words = queryWords(query).filter((w) => w.length >= tol.partMinLength);
+  const parts = [];
+  for (const entry of index) {
+    let best = null;
+    for (const key of entry.keys) {
+      for (const f of key.forms) {
+        if (f.length < tol.partMinLength) continue;
+        for (const q of qForms) {
+          let score = 0;
+          if (q !== f && q.endsWith(f)) score = f.length / q.length; // Badezimmerspiegel → Spiegel
+          else if (q !== f && f.endsWith(q) && q.length / f.length >= tol.partMinShare) score = q.length / f.length; // Bürste → Zahnbürste
+          else if (q !== f && q.startsWith(f) && f.length / q.length >= tol.partMinShare) score = f.length / q.length; // Toilettenpapierrolle → Toilettenpapier
+          if (score && (!best || score > best.score)) best = { score, key };
+        }
+        if (words.length > 1 && words.some((w) => w === f || stem(w) === stem(f))) {
+          if (!best || best.score < 1) best = { score: 1, key }; // elektrische Zahnbürste → Zahnbürste
+        }
+      }
+    }
+    if (best) parts.push({ ...toResult(entry, best.key, true), score: best.score });
+  }
+  parts.sort((a, b) => b.score - a.score || compareDe(a.text, b.text));
+  return sortAlpha(parts.slice(0, max).map(({ score, ...r }) => r));
 }
 
 /* ------------------------------------------------------------------ */

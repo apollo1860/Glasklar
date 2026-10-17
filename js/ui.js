@@ -271,19 +271,14 @@ export class AnswerInput {
     this.place();
   }
 
-  /** Dropdown nach oben öffnen, wenn unten (Tastatur) kein Platz ist. */
+  /** Vorschläge immer über dem Eingabefeld (unten liegen Buttons bzw. die Tastatur). */
   place() {
     const vv = window.visualViewport;
     const rect = this.input.getBoundingClientRect();
     const top = vv ? vv.offsetTop : 0;
-    const bottom = vv ? vv.offsetTop + vv.height : window.innerHeight;
-    const below = bottom - rect.bottom - 8;
     const above = rect.top - top - 8;
-    const want = Math.min(this.list.scrollHeight || 300, 320);
-    // Bevorzugt nach oben: unter dem Feld liegen die Buttons bzw. die Tastatur
-    const up = above >= Math.min(want, 160) || above > below;
-    this.list.classList.toggle('up', up);
-    this.list.style.maxHeight = `${Math.max(120, Math.min(320, up ? above : below))}px`;
+    this.list.classList.add('up');
+    this.list.style.maxHeight = `${Math.max(96, Math.min(320, above))}px`;
   }
 
   isOpen() { return !this.list.hidden; }
