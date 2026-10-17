@@ -1,0 +1,234 @@
+@id all-027
+@text Nenne eine Blume
+# Garten-, Balkon-, Wild-, Zimmer- und Schnittblumen sowie blühende Sträucher, die umgangssprachlich als Blumen gelten
+# (z. B. Flieder, Hortensie). Gattungsnamen als Haupttext, gebräuchliche Zweitnamen und botanische Namen als Alias.
+
+1 Rose = Rosen
+1 Tulpe = Tulpen
+1 Sonnenblume
+2 Gänseblümchen = Maßliebchen; Tausendschön
+2 Lilie
+2 Orchidee = Phalaenopsis; Schmetterlingsorchidee
+2 Löwenzahn = Pusteblume; Butterblume; Kuhblume
+2 Nelke = Gartennelke
+3 Narzisse = Osterglocke; Gelbe Narzisse
+3 Vergissmeinnicht
+3 Mohnblume = Mohn; Klatschmohn
+3 Lavendel
+3 Veilchen = Duftveilchen
+3 Stiefmütterchen
+3 Gerbera
+3 Krokus = Krokusse
+3 Margerite = Wiesen-Margerite
+3 Hortensie
+3 Kornblume
+3 Schneeglöckchen
+3 Dahlie = Georgine
+3 Chrysantheme = Chrysanthemen
+3 Hyazinthe
+3 Flieder
+3 Pfingstrose = Päonie
+3 Edelweiß
+3 Geranie = Pelargonie
+3 Seerose
+3 Lotus = Lotusblume; Lotosblume
+3 Kamille = Echte Kamille
+3 Glockenblume
+3 Klee = Kleeblatt; Rotklee; Weißklee
+3 Ringelblume = Calendula
+3 Iris = Schwertlilie
+3 Amaryllis = Ritterstern
+3 Weihnachtsstern = Poinsettie
+3 Kaktusblüte = Kaktus
+3 Petunie
+3 Begonie
+3 Alpenveilchen = Cyclamen
+3 Magnolie
+3 Kirschblüte = Sakura
+3 Hibiskus = Eibisch
+3 Jasmin
+3 Akelei
+3 Fingerhut
+3 Maiglöckchen
+3 Ranunkel = Hahnenfuß
+3 Freesie
+3 Gladiole
+3 Strelitzie = Paradiesvogelblume
+3 Calla = Zantedeschia
+3 Anemone = Buschwindröschen; Windröschen
+3 Azalee
+3 Rhododendron
+3 Primel = Schlüsselblume; Himmelsschlüssel
+3 Kapuzinerkresse
+3 Löwenmäulchen
+3 Zinnie
+3 Aster = Herbstaster
+3 Distel = Silberdistel; Kratzdistel
+4 Brennnessel
+3 Bougainvillea
+3 Oleander
+3 Mimose
+4 Sumpfdotterblume
+4 Wiesenschaumkraut
+4 Scharbockskraut
+4 Leberblümchen
+4 Küchenschelle = Kuhschelle
+4 Huflattich
+4 Wegwarte = Zichorie
+4 Schafgarbe
+4 Johanniskraut
+4 Wiesensalbei = Salbei
+4 Taubnessel
+4 Storchschnabel = Geranium
+4 Malve = Stockrose; Wilde Malve
+4 Wicke = Duftwicke; Platterbse
+4 Lupine
+4 Natternkopf
+4 Nachtkerze
+4 Wilde Möhre
+4 Kuckuckslichtnelke = Lichtnelke
+4 Enzian
+4 Alpenrose
+4 Arnika
+4 Trollblume
+4 Frauenschuh
+4 Knabenkraut
+4 Seidelbast
+4 Winterling
+4 Märzenbecher = Frühlingsknotenblume
+4 Blaustern = Scilla
+4 Traubenhyazinthe = Muscari; Perlhyazinthe
+4 Schachbrettblume
+4 Kaiserkrone
+4 Allium = Zierlauch
+4 Christrose = Schneerose; Nieswurz
+4 Lenzrose
+4 Tränendes Herz
+4 Rittersporn
+4 Eisenhut
+4 Phlox = Flammenblume
+4 Sonnenhut = Echinacea; Rudbeckia
+4 Fetthenne = Sedum
+4 Funkie = Hosta
+4 Taglilie
+4 Montbretie
+4 Prachtkerze = Gaura
+4 Schmuckkörbchen = Cosmea; Kosmee
+4 Studentenblume = Tagetes
+4 Männertreu = Lobelie
+4 Fleißiges Lieschen
+4 Elfenspiegel
+4 Zauberglöckchen = Calibrachoa
+4 Verbene = Eisenkraut
+4 Fuchsie
+4 Kornrade
+4 Ehrenpreis
+4 Vanilleblume = Heliotrop
+4 Kamelie
+4 Gardenie
+4 Passionsblume
+4 Clematis = Waldrebe
+4 Glyzinie = Blauregen; Wisteria
+4 Goldregen
+4 Forsythie
+4 Ginster
+4 Heide = Heidekraut; Erika; Besenheide
+4 Lein = Flachs
+4 Borretsch = Gurkenkraut
+4 Ackerwinde = Winde; Prunkwinde
+4 Trichterwinde
+4 Mittagsblume
+4 Portulakröschen
+4 Strohblume
+4 Schleierkraut
+4 Statice = Strandflieder
+4 Protea = Königsprotea
+4 Anthurie = Flamingoblume
+4 Usambaraveilchen
+4 Kalanchoe = Flammendes Käthchen
+4 Gloxinie
+4 Bromelie
+4 Clivia = Klivie
+4 Zimmercalla
+4 Einblatt = Spathiphyllum
+4 Hoya = Wachsblume
+4 Osterkaktus
+4 Weihnachtskaktus = Schlumbergera
+4 Elefantenohr
+4 Tuberose
+4 Frangipani = Plumeria
+4 Wunderblume
+4 Mohn-Anemone
+4 Steinbrech
+4 Blaukissen
+4 Schleifenblume = Iberis
+4 Gemswurz
+4 Ochsenauge
+4 Wiesenknopf
+4 Teufelskralle
+4 Herbstzeitlose
+4 Hundsrose = Heckenrose; Wildrose
+4 Duftrose
+4 Kletterrose
+4 Engelstrompete
+4 Lantana = Wandelröschen
+4 Mandevilla = Dipladenia
+4 Strauchmargerite
+4 Federnelke
+4 Bartnelke
+4 Hornveilchen
+4 Agapanthus = Schmucklilie
+4 Kniphofia = Fackellilie
+4 Inkalilie = Alstroemerie
+4 Tigerlilie = Feuerlilie
+4 Madonnenlilie
+4 Türkenbund
+5 Gauklerblume
+5 Kugeldistel
+5 Mannstreu
+5 Edeldistel
+5 Kokardenblume = Gaillardia
+5 Mädchenauge = Coreopsis
+5 Sterndolde = Astrantia
+5 Frauenmantel
+5 Akanthus = Bärenklau
+5 Seifenkraut
+5 Pechnelke
+5 Teufelsabbiss
+5 Skabiose = Witwenblume
+5 Leinkraut
+5 Schöllkraut
+5 Lerchensporn
+5 Bärlauch
+5 Waldmeister
+5 Sauerklee
+5 Immergrün = Vinca
+5 Lungenkraut
+5 Beinwell
+5 Wiesenkerbel
+5 Hirtentäschel
+5 Ackersenf
+5 Rainfarn
+5 Rose von Jericho
+5 Moosrose
+5 Nachtviole
+5 Goldlack
+5 Levkoje
+5 Ziertabak
+5 Spinnenblume = Cleome
+5 Sommeraster
+5 Ageratum = Leberbalsam
+5 Salvie = Feuersalbei
+5 Gazanie = Mittagsgold
+5 Bidens = Zweizahn
+5 Husarenknopf
+5 Lisianthus = Eustoma
+5 Ixia
+5 Sparaxis
+5 Nerine
+5 Zephyranthes = Windblume
+5 Kaplilie
+5 Hippeastrum
+5 Victoria = Riesenseerose
+5 Titanenwurz
+5 Rafflesia = Riesenrafflesie

@@ -1,0 +1,478 @@
+@id all-028
+@text Nenne etwas, das man in einem Baumarkt kaufen kann
+# Typisches Sortiment deutscher Baumärkte (OBI, Hornbach, Bauhaus, toom …): Werkzeug, Maschinen, Befestigung, Baustoffe, Holz,
+# Farben/Lacke, Tapeten, Bodenbeläge, Sanitär, Elektro, Beleuchtung, Garten, Pflanzen, Grill, Tierbedarf, Auto, Haushalt.
+# Generische Begriffe, Marken nur als Alias; Singular als Haupttext.
+
+1 Hammer
+1 Schraube = Schrauben
+1 Nagel
+1 Farbe = Wandfarbe; Wandfarben
+1 Holz
+2 Bohrmaschine = Schlagbohrmaschine
+2 Akkuschrauber = Schrauber
+2 Werkzeug
+2 Säge = Handsäge; Fuchsschwanz
+2 Schraubenzieher = Schraubendreher
+2 Dübel
+2 Pflanze = Pflanzen
+2 Blume = Blumen
+2 Erde = Blumenerde; Pflanzerde
+2 Bohrer = Holzbohrer; Steinbohrer; Metallbohrer
+2 Zange = Kombizange
+3 Pinsel
+3 Farbrolle = Malerrolle; Rolle
+3 Tapete
+3 Kleister = Tapetenkleister
+3 Lack = Holzlack
+3 Schleifpapier = Sandpapier
+3 Leiter = Stehleiter; Trittleiter
+3 Schubkarre
+3 Schaufel
+3 Spaten
+3 Rechen = Harke
+3 Gießkanne
+3 Gartenschlauch = Schlauch
+3 Rasenmäher
+3 Rasensamen = Grassamen; Saatgut; Samen
+3 Dünger = Rasendünger
+3 Blumentopf = Topf; Pflanztopf; Übertopf
+3 Grill = Holzkohlegrill; Gasgrill
+3 Holzkohle = Grillkohle; Briketts
+3 Zement
+3 Beton = Fertigbeton
+3 Mörtel
+3 Gips = Spachtelmasse
+3 Fliese = Fliesen; Kacheln
+3 Fliesenkleber
+3 Fugenmasse = Fugenmörtel
+3 Silikon = Silikonfuge
+3 Kabel = Elektrokabel; Stromkabel
+3 Steckdose
+3 Lichtschalter = Schalter
+3 Glühbirne = Leuchtmittel; LED-Lampe
+3 Lampe = Leuchte; Deckenlampe
+3 Verlängerungskabel = Verlängerung
+3 Mehrfachsteckdose = Steckdosenleiste
+3 Kabeltrommel
+3 Batterie = Batterien
+3 Klebeband = Kreppband; Malerkrepp; Gewebeband; Panzertape
+3 Kleber = Klebstoff; Sekundenkleber; Holzleim; Leim
+3 Wasserwaage
+3 Zollstock = Meterstab; Gliedermaßstab
+3 Maßband = Rollmaß; Bandmaß
+3 Cuttermesser = Teppichmesser; Cutter
+3 Schraubenschlüssel = Gabelschlüssel; Maulschlüssel
+3 Inbusschlüssel = Innensechskantschlüssel; Inbus
+3 Ratsche = Knarre; Steckschlüssel
+3 Werkzeugkasten = Werkzeugkoffer; Werkzeugkiste
+3 Stichsäge
+3 Kreissäge = Handkreissäge
+3 Flex = Winkelschleifer
+3 Schleifmaschine = Schleifer; Exzenterschleifer
+3 Kettensäge = Motorsäge
+3 Heckenschere
+3 Gartenschere = Rosenschere
+3 Laubbläser = Laubsauger
+3 Rasentrimmer = Freischneider; Motorsense
+3 Hochdruckreiniger = Kärcher
+3 Werkbank
+3 Brett = Bretter
+3 Latte = Dachlatte; Holzlatte
+3 Balken = Kantholz
+3 Spanplatte = Holzplatte; Platte
+3 Sperrholz
+3 OSB-Platte = OSB
+3 MDF-Platte = MDF
+3 Laminat
+3 Parkett
+3 Vinylboden = Vinyl; Klickvinyl
+3 Teppich = Teppichboden
+3 Trittschalldämmung
+3 Sockelleiste = Fußleiste
+3 Tür = Zimmertür; Innentür
+3 Fenster
+3 Türklinke = Türgriff; Drücker
+3 Schloss = Vorhängeschloss; Türschloss
+3 Schlüssel = Schlüsseldienst
+3 Briefkasten
+3 Toilette = WC; Klo
+3 Waschbecken
+3 Wasserhahn = Armatur
+3 Duschkopf = Brause
+3 Duschvorhang
+3 Klobrille = WC-Sitz; Toilettensitz
+3 Rohr = Rohre; Abflussrohr
+3 Gartenmöbel = Gartenstuhl; Gartentisch
+3 Sonnenschirm
+3 Zaun = Gartenzaun; Maschendraht
+3 Gartenhaus = Gerätehaus
+3 Pflasterstein = Pflastersteine; Pflaster
+3 Kies
+3 Sand = Spielsand; Quarzsand
+3 Rindenmulch = Mulch
+3 Pflanzkübel = Kübel
+3 Eimer = Baueimer; Mörteleimer
+3 Arbeitshandschuhe = Handschuhe
+3 Schutzbrille
+3 Gehörschutz
+3 Staubmaske = Atemschutzmaske; FFP2-Maske
+3 Arbeitskleidung = Arbeitshose; Latzhose
+3 Sicherheitsschuhe = Arbeitsschuhe
+3 Malerfolie = Abdeckfolie; Abdeckvlies
+3 Spachtel
+3 Kelle = Maurerkelle; Glättkelle
+3 Tacker = Handtacker; Elektrotacker
+3 Heißklebepistole = Heißkleber; Klebepistole
+3 Schraubzwinge = Zwinge
+3 Feile
+3 Meißel = Stemmeisen
+3 Hobel
+3 Axt = Beil
+3 Vorschlaghammer
+3 Gummihammer
+3 Rauchmelder
+3 Regal = Schwerlastregal; Wandregal
+3 Aufbewahrungsbox = Kiste; Box
+3 Kaminholz = Brennholz
+3 Streusalz = Auftausalz
+3 Schneeschieber = Schneeschaufel
+3 Weihnachtsbaum = Tannenbaum; Christbaum
+3 Lichterkette
+3 Rasenkante
+3 Hochbeet
+3 Gewächshaus
+3 Vogelhaus = Vogelhäuschen; Futterhaus
+3 Vogelfutter = Meisenknödel
+3 Teichfolie = Teich
+3 Pool = Planschbecken
+4 Tischkreissäge
+4 Kappsäge = Kapp- und Gehrungssäge
+4 Bandsäge
+4 Säbelsäge
+4 Oberfräse = Fräse
+4 Bohrhammer = Stemmhammer
+4 Multitool = Oszillierer; Multifunktionswerkzeug
+4 Bohrständer
+4 Schweißgerät
+4 Kompressor
+4 Druckluftnagler = Nagler
+4 Lötkolben
+4 Heißluftfön = Heißluftpistole
+4 Tapetenablöser = Dampftapetenablöser
+4 Farbsprühsystem = Farbsprühgerät; Spritzpistole
+4 Rührquirl = Rührwerk; Farbrührer
+4 Betonmischer = Mischmaschine
+4 Fliesenschneider
+4 Nass- und Trockensauger = Werkstattsauger; Industriesauger; Nasssauger
+4 Bit = Bits; Bitset
+4 Lochsäge = Bohrkrone
+4 Sägeblatt
+4 Trennscheibe
+4 Schleifscheibe
+4 Akku = Ersatzakku
+4 Ladegerät
+4 Laser-Entfernungsmesser = Entfernungsmesser
+4 Kreuzlinienlaser = Linienlaser
+4 Leitungssucher = Ortungsgerät
+4 Spannungsprüfer = Phasenprüfer; Duspol
+4 Multimeter = Messgerät
+4 Abisolierzange
+4 Seitenschneider
+4 Wasserpumpenzange = Rohrzange
+4 Spitzzange
+4 Kneifzange = Beißzange
+4 Crimpzange
+4 Popnietzange = Nietzange
+4 Niete = Popniete
+4 Blechschere
+4 Bügelsäge = Metallsäge
+4 Japansäge
+4 Gehrungslade
+4 Winkel = Anschlagwinkel; Schreinerwinkel
+4 Bleistift = Zimmermannsbleistift
+4 Schlagschnur = Kreideschnur
+4 Lot = Senklot
+4 Stechbeitel
+4 Brecheisen = Kuhfuß; Nageleisen; Brechstange
+4 Kartuschenpresse = Kartuschenpistole
+4 Montagekleber
+4 Bauschaum = PU-Schaum; Montageschaum
+4 Acryl = Acrylfugenmasse
+4 Holzschutzlasur = Lasur
+4 Holzöl = Leinöl
+4 Grundierung = Tiefengrund; Haftgrund
+4 Abbeizer
+4 Verdünnung = Terpentin; Pinselreiniger
+4 Sprühlack = Sprühfarbe; Spraydose
+4 Rostschutzfarbe = Rostschutz
+4 Fassadenfarbe
+4 Abtönfarbe = Abtönpaste
+4 Farbmischung = Farbmischanlage
+4 Kreidefarbe
+4 Tafelfarbe
+4 Schimmelentferner = Schimmelspray
+4 Raufaser = Raufasertapete
+4 Vliestapete
+4 Fototapete
+4 Tapeziertisch
+4 Tapezierbürste = Andrückwalze
+4 Farbwanne = Abstreifgitter
+4 Teleskopstange = Verlängerungsstange
+4 Wandputz = Putz; Innenputz
+4 Estrich
+4 Ausgleichsmasse = Nivelliermasse
+4 Fliesenspiegel
+4 Fliesenkreuz = Fugenkreuze
+4 Kalksandstein
+4 Ziegel = Ziegelstein; Backstein
+4 Porenbeton = Ytong; Gasbeton
+4 Gipskarton = Rigips; Gipskartonplatte; Trockenbauplatte
+4 Ständerwerk = CW-Profil; UW-Profil
+4 Dämmung = Dämmwolle; Glaswolle; Steinwolle; Mineralwolle
+4 Styropor = Styroporplatte; EPS
+4 Dachpappe = Bitumenbahn
+4 Dachziegel
+4 Dachrinne = Regenrinne
+4 Fallrohr
+4 Regentonne = Regenwassertonne
+4 Wellplatte = Doppelstegplatte
+4 Plexiglas = Acrylglas
+4 Glasscheibe = Glas
+4 Spiegel
+4 Duschkabine = Duschabtrennung; Duschwand
+4 Duschwanne
+4 Badewanne
+4 Badmöbel = Badschrank; Spiegelschrank; Waschtischunterschrank
+4 Spülkasten = Unterputzspülkasten; Drückerplatte
+4 Siphon = Geruchsverschluss
+4 Abflussreiniger = Rohrreiniger; Pümpel; Saugglocke
+4 Dichtung = Dichtungsring; Dichtungsband
+4 Hanf = Teflonband
+4 Eckventil
+4 Kugelhahn = Absperrhahn
+4 Fitting = Fittings; Rohrverbinder
+4 Kupferrohr
+4 Abwasserrohr = KG-Rohr; HT-Rohr
+4 Durchlauferhitzer = Boiler; Warmwasserspeicher
+4 Heizkörper = Radiator; Heizung
+4 Thermostat = Heizkörperthermostat; Thermostatkopf
+4 Handtuchheizkörper
+4 Küchenarmatur = Spültischarmatur
+4 Spüle = Spülbecken
+4 Küche = Einbauküche; Küchenzeile
+4 Arbeitsplatte
+4 Dunstabzugshaube
+4 Elektroinstallationsmaterial = Elektromaterial
+4 Unterputzdose = Hohlwanddose; Schalterdose
+4 Abzweigdose
+4 Lüsterklemme = Wago-Klemme; Verbindungsklemme
+4 Sicherung = Sicherungsautomat; FI-Schalter
+4 Verteilerkasten = Sicherungskasten
+4 Leerrohr = Wellrohr
+4 Kabelkanal
+4 Kabelbinder
+4 Isolierband
+4 Schrumpfschlauch
+4 Bewegungsmelder
+4 Türklingel = Klingel; Gong
+4 Türsprechanlage = Sprechanlage
+4 Zeitschaltuhr
+4 Dimmer
+4 Smart-Home-Zubehör = Smart Home
+4 Außenleuchte = Außenlampe; Gartenleuchte
+4 Solarleuchte = Solarlampe
+4 Strahler = Baustrahler; LED-Strahler
+4 Taschenlampe = Stirnlampe
+4 Ventilator
+4 Klimagerät = Klimaanlage
+4 Heizlüfter = Elektroheizung
+4 Ofen = Kaminofen; Holzofen
+4 Ofenrohr
+4 Feuerlöscher
+4 Tresor = Safe
+4 Überwachungskamera = Kamera
+4 Alarmanlage
+4 Hausnummer
+4 Türstopper = Türpuffer
+4 Scharnier = Türband
+4 Schublade = Schubladenschiene; Vollauszug
+4 Möbelgriff = Griff; Knauf
+4 Möbelfüße = Möbelrollen; Rollen
+4 Filzgleiter = Filz
+4 Winkelverbinder = Lochband; Metallwinkel
+4 Gewindestange
+4 Mutter = Muttern; Schraubenmutter
+4 Unterlegscheibe = Beilagscheibe
+4 Holzschraube = Spax
+4 Spanplattenschraube
+4 Schlüsselschraube
+4 Maschinenschraube = Gewindeschraube
+4 Hakenschraube = Haken
+4 Ösenschraube = Öse
+4 Kette = Eisenkette
+4 Seil = Tau; Spanngurt; Spanngurte
+4 Karabiner = Karabinerhaken
+4 Draht = Bindedraht
+4 Stahlseil = Drahtseil
+4 Profil = Aluprofil; Metallprofil
+4 Blech = Lochblech
+4 Rundstab = Holzstab; Rundholz
+4 Leiste = Holzleiste
+4 Leimholz = Leimholzplatte
+4 Siebdruckplatte
+4 Konstruktionsvollholz = KVH
+4 Terrassendiele = Terrassendielen; Diele; WPC
+4 Holzfliese
+4 Rasengitter
+4 Randstein = Bordstein; Rasenkantenstein
+4 Gehwegplatte = Terrassenplatte; Steinplatte
+4 Natursteinmauer = Mauerstein; Gabione
+4 Splitt = Schotter
+4 Rollrasen = Fertigrasen
+4 Pflanzenschutzmittel = Schädlingsbekämpfung; Unkrautvernichter
+4 Schneckenkorn
+4 Unkrautstecher
+4 Grubber = Kultivator
+4 Pflanzschaufel = Handschaufel
+4 Laubrechen = Fächerbesen
+4 Kehrbesen = Besen; Straßenbesen
+4 Gartenhandschuhe
+4 Gartenschlauchwagen = Schlauchtrommel; Schlauchwagen
+4 Rasensprenger = Regner
+4 Bewässerungssystem = Tropfbewässerung
+4 Gartenpumpe = Tauchpumpe; Pumpe
+4 Teichpumpe
+4 Springbrunnen = Gartenbrunnen
+4 Gartenzwerg
+4 Gartendeko = Dekoration
+4 Rankhilfe = Rankgitter; Spalier
+4 Pflanzstab = Stab; Bambusstab
+4 Vlies = Gartenvlies; Unkrautvlies
+4 Kompostbehälter = Komposter
+4 Mülltonne = Mülleimer; Abfalleimer
+4 Sichtschutz = Sichtschutzzaun; Sichtschutzmatte
+4 Markise
+4 Pavillon
+4 Hängematte
+4 Liegestuhl = Gartenliege; Sonnenliege
+4 Auflage = Polster; Kissen
+4 Feuerschale
+4 Gartenfackel = Fackel
+4 Grillzubehör = Grillzange; Grillrost
+4 Gasflasche = Propangas
+4 Anzünder = Grillanzünder; Kaminanzünder
+4 Zimmerpflanze = Grünpflanze
+4 Orchidee
+4 Kaktus = Sukkulente
+4 Rose
+4 Obstbaum = Apfelbaum
+4 Strauch = Hecke; Heckenpflanze
+4 Thuja = Lebensbaum
+4 Kräuter = Kräuterpflanze; Basilikum
+4 Gemüsepflanze = Tomatenpflanze; Jungpflanze
+4 Blumenzwiebel = Zwiebeln
+4 Balkonpflanze = Geranie
+4 Balkonkasten = Blumenkasten
+4 Hydrokultur = Seramis; Blähton
+4 Tierfutter = Katzenfutter; Hundefutter
+4 Aquarium
+4 Katzenstreu = Streu
+4 Kleintierstall = Hasenstall; Hühnerstall
+4 Insektenschutz = Fliegengitter; Insektenschutzgitter
+4 Mausefalle = Rattenfalle; Köder
+4 Autozubehör = Scheibenwischer; Motoröl
+4 Fahrradzubehör = Fahrradschlauch; Fahrradschloss
+4 Sackkarre = Transportkarre
+4 Bauzaun
+4 Gerüst = Rollgerüst
+4 Schutzhelm = Bauhelm; Helm
+4 Knieschoner = Knieschützer
+4 Erste-Hilfe-Set = Verbandskasten
+4 Reinigungsmittel = Putzmittel; Allzweckreiniger
+4 Entkalker
+4 Mikrofasertuch = Putzlappen; Lappen
+4 Wischmopp = Mopp
+4 Wäscheständer = Wäschespinne; Wäscheleine
+4 Bügelbrett
+4 Gardinenstange = Vorhangstange; Gardinenschiene
+4 Rollo = Jalousie; Plissee; Rollladen
+4 Vorhang = Gardine
+4 Bilderrahmen
+4 Bilderhaken = Nagelhaken
+4 Schuhregal
+4 Kleiderstange = Garderobe
+4 Matratze
+4 Werkzeugwand = Lochwand
+4 Ordnungssystem = Sortimentskasten; Sortierkasten
+4 Schlüsselkasten
+4 Kerze
+5 Schweißdraht = Schweißelektrode
+5 Lötzinn
+5 Schleifvlies = Stahlwolle
+5 Polierpaste
+5 Druckluftschlauch
+5 Hebebühne = Wagenheber
+5 Spanngurtratsche
+5 Holzspalter
+5 Häcksler = Gartenhäcksler
+5 Vertikutierer
+5 Rasenwalze
+5 Streuwagen
+5 Bodenfräse = Motorhacke
+5 Erdbohrer = Pflanzlochbohrer
+5 Pfostenträger = Einschlaghülse; H-Anker
+5 Zaunpfosten = Pfosten
+5 Torpfosten
+5 Gartentor = Tor
+5 Carport
+5 Holzschutzimprägnierung = Imprägnierung
+5 Bitumenanstrich = Bitumen
+5 Dichtschlämme
+5 Sperrgrund
+5 Fliesenlack
+5 Fugenbürste
+5 Fugenkratzer
+5 Silikonentferner
+5 Fugenglätter
+5 Zahnspachtel
+5 Glättscheibe = Reibebrett
+5 Kartusche
+5 Mörtelkübel = Maurerkübel
+5 Richtlatte = Richtscheit
+5 Fäustel
+5 Körner
+5 Gewindeschneider
+5 Schraubstock
+5 Drehmomentschlüssel
+5 Hammerbohrer = SDS-Bohrer
+5 Forstnerbohrer
+5 Senker = Kegelsenker
+5 Magnetband
+5 Klettband
+5 Doppelseitiges Klebeband
+5 Montageband
+5 Zugluftstopper = Dichtband
+5 Fensterfolie
+5 Anti-Rutsch-Matte
+5 Fußmatte = Fußabtreter
+5 Briefschlitz
+5 Rohrschelle
+5 Wasserfilter
+5 Wasserenthärter
+5 Toilettendeckel
+5 Badewannenstöpsel = Stöpsel
+5 Duschstange
+5 Brausehalter
+5 Luftsprudler = Perlator
+5 Spiegelleuchte
+5 Lichtband
+5 Glimmlampe
+5 Schuko-Stecker = Stecker
+5 Kupplung = Kabelkupplung
+5 CEE-Stecker = Starkstromstecker
+5 Erdkabel
+5 Starkstromkabel
+5 Klingeltrafo
+5 Schneefräse
+5 Eiskratzer

@@ -1,0 +1,311 @@
+@id all-026
+@text Nenne etwas, das man in einem Elektrofachmarkt kaufen kann
+# Sortiment wie bei MediaMarkt/Saturn: Unterhaltungselektronik, Computer, Telefonie, Foto, Haushaltsgroß- und -kleingeräte,
+# Zubehör, Kabel, Batterien, Spiele, Software, Filme/Musik, Smart Home, E-Mobilität. Generische Begriffe, Marken nur als Alias.
+
+1 Fernseher = TV; Fernsehgerät; Flachbildfernseher; Smart-TV
+1 Handy = Smartphone; iPhone; Mobiltelefon
+1 Laptop = Notebook; MacBook
+1 Computer = PC; Rechner; Desktop-PC
+2 Kopfhörer = Headphones
+2 Spielekonsole = Konsole; Playstation; PS5; Xbox; Nintendo Switch; Switch
+2 Tablet = iPad
+2 Kabel
+2 Waschmaschine
+2 Kühlschrank
+2 Batterie = Batterien
+2 Lautsprecher = Boxen; Bluetooth-Lautsprecher; Speaker
+3 Videospiel = Computerspiel; Konsolenspiel; Game; Games; Spiel
+3 Kamera = Fotokamera; Digitalkamera; Fotoapparat
+3 Monitor = Bildschirm
+3 Drucker = Tintenstrahldrucker; Laserdrucker
+3 Maus = Computermaus
+3 Tastatur = Keyboard
+3 Ladekabel = Ladegerät; Charger
+3 Powerbank = Akkupack
+3 Staubsauger
+3 Saugroboter = Staubsaugerroboter; Roomba
+3 Kaffeemaschine = Kaffeevollautomat; Kaffeeautomat
+3 Mikrowelle
+3 Spülmaschine = Geschirrspüler; Geschirrspülmaschine
+3 Trockner = Wäschetrockner
+3 Herd = Elektroherd; Backofen; Ofen
+3 Gefrierschrank = Gefriertruhe; Tiefkühltruhe
+3 Wasserkocher
+3 Toaster
+3 Föhn = Haartrockner; Fön
+3 Rasierer = Rasierapparat; Elektrorasierer
+3 Elektrische Zahnbürste = Zahnbürste
+3 Smartwatch = Apple Watch; Uhr
+3 Fitnesstracker = Fitnessarmband
+3 Earbuds = In-Ear-Kopfhörer; AirPods; Bluetooth-Kopfhörer
+3 Headset = Gaming-Headset
+3 Festplatte = externe Festplatte; HDD
+3 SSD
+3 USB-Stick = Stick
+3 Speicherkarte = SD-Karte; microSD
+3 HDMI-Kabel = HDMI
+3 USB-Kabel = USB-C-Kabel
+3 Handyhülle = Hülle; Case; Schutzhülle
+3 Displayschutzfolie = Panzerglas; Schutzfolie
+3 DVD
+3 Blu-ray
+3 CD = Musik-CD
+3 Film = Filme
+3 Schallplatte = Vinyl; Platte; LP
+3 Plattenspieler = Schallplattenspieler
+3 Soundbar
+3 Stereoanlage = Musikanlage; HiFi-Anlage
+3 Radio
+3 Beamer = Projektor
+3 Router = WLAN-Router; Fritzbox
+3 Drohne
+3 E-Scooter = Scooter; Elektroroller
+3 E-Bike = Pedelec
+3 Mixer = Standmixer; Smoothie-Maker
+3 Küchenmaschine = Thermomix; Kitchenaid
+3 Heißluftfritteuse = Airfryer; Fritteuse
+3 Bügeleisen = Dampfbügeleisen
+3 Glühbirne = Leuchtmittel; LED-Lampe; Birne
+3 Mehrfachsteckdose = Steckdosenleiste; Verteilersteckdose
+3 Verlängerungskabel = Verlängerung
+3 Software = Programm
+3 Antivirenprogramm = Virenschutz; Antivirus
+3 Office-Paket = Microsoft Office; Office
+3 Akku
+3 Grafikkarte = GPU
+3 Controller = Gamecontroller; Gamepad
+3 Webcam
+3 Mikrofon
+3 Navi = Navigationsgerät; Navigationssystem
+3 E-Reader = E-Book-Reader; Kindle; Tolino
+3 Gutschein = Geschenkkarte; Guthabenkarte
+3 Prepaid-Karte = SIM-Karte; Handykarte
+3 Handyvertrag = Vertrag; Mobilfunkvertrag
+3 Gaming-Stuhl = Gamingsessel
+3 Klimaanlage = Klimagerät
+3 Ventilator
+3 Heizlüfter = Heizung
+4 Mainboard = Motherboard
+4 Prozessor = CPU
+4 Arbeitsspeicher = RAM
+4 Netzteil = PC-Netzteil; Steckernetzteil
+4 PC-Gehäuse = Gehäuse
+4 Lüfter = CPU-Kühler
+4 Wärmeleitpaste
+4 Laufwerk = DVD-Laufwerk; Brenner
+4 Rohling = DVD-Rohling; CD-Rohling
+4 NAS = Netzwerkspeicher
+4 Repeater = WLAN-Repeater
+4 Mesh-System = Mesh
+4 Powerline-Adapter = Powerline; dLAN
+4 Netzwerk-Switch = Netzwerkverteiler
+4 Netzwerkkabel = LAN-Kabel; Ethernet-Kabel
+4 Antennenkabel
+4 Klinkenkabel = Aux-Kabel; AUX
+4 Lightning-Kabel
+4 DisplayPort-Kabel = DisplayPort
+4 Adapter = USB-Adapter; Dongle
+4 USB-Hub = Hub; Dockingstation
+4 Kartenleser = Cardreader
+4 Mauspad = Mousepad
+4 Grafiktablett = Zeichentablett
+4 Scanner
+4 Druckerpatrone = Patrone; Tintenpatrone
+4 Toner
+4 Druckerpapier = Kopierpapier
+4 Fotopapier
+4 Laminiergerät
+4 Aktenvernichter = Schredder
+4 Taschenrechner
+4 Telefon = Festnetztelefon; Schnurlostelefon; DECT
+4 Seniorenhandy
+4 Handyhalterung = Autohalterung; Halterung
+4 Ladestation = Wireless Charger; Induktionsladegerät
+4 Smart Speaker = Alexa; Echo; Google Home
+4 Smart-Home-Gerät = Smart Home
+4 Smarte Steckdose = WLAN-Steckdose; Zwischenstecker
+4 Smarte Glühbirne = Philips Hue; Hue
+4 Überwachungskamera = Sicherheitskamera; IP-Kamera
+4 Video-Türklingel = Ring; Türklingel
+4 Rauchmelder
+4 Streaming-Stick = Fire TV Stick; Chromecast; Apple TV
+4 Receiver = Satellitenreceiver; Sat-Receiver
+4 Satellitenschüssel = Satschüssel
+4 Antenne = DVB-T-Antenne; Zimmerantenne
+4 TV-Wandhalterung = Wandhalterung
+4 Fernbedienung = Universalfernbedienung
+4 AV-Receiver = Verstärker
+4 Subwoofer
+4 Heimkinosystem = Heimkino; Surround-System
+4 Hi-Fi-Box = Regallautsprecher; Standlautsprecher
+4 Kassettenrekorder = Kassette
+4 Wecker = Radiowecker
+4 Digitalradio = DAB-Radio
+4 Musikbox = Tonie; Toniebox
+4 MP3-Player = iPod
+4 Diktiergerät
+4 Walkie-Talkie = Funkgerät
+4 VR-Brille = Virtual Reality; Meta Quest
+4 Handheld = Steam Deck; Nintendo DS; Gameboy
+4 Retro-Konsole = Mini-Konsole
+4 Lenkrad = Gaming-Lenkrad
+4 Joystick
+4 Gaming-Maus
+4 Gaming-Tastatur = mechanische Tastatur
+4 Spielguthaben = PSN-Karte; Steam-Guthaben; Xbox-Karte
+4 Abonnement = Game Pass; PlayStation Plus
+4 Sammelfigur = Amiibo
+4 Merchandise = Fanartikel
+4 Brettspiel
+4 Spielzeug = Elektronikspielzeug
+4 Ferngesteuertes Auto = RC-Auto
+4 Objektiv
+4 Stativ
+4 Actioncam = GoPro; Actionkamera
+4 Sofortbildkamera = Polaroid; Instax
+4 Spiegelreflexkamera = DSLR
+4 Systemkamera
+4 Camcorder = Videokamera
+4 Kameratasche
+4 Blitzgerät = Blitz
+4 Gimbal = Selfie-Stick
+4 Ringlicht
+4 Fotodruck = Fotoservice; Fotobuch
+4 Fernglas
+4 Digitaler Bilderrahmen = Bilderrahmen
+4 Dunstabzugshaube = Abzugshaube
+4 Kochfeld = Induktionskochfeld; Ceranfeld
+4 Einbaubackofen
+4 Weinkühlschrank = Weinkühler
+4 Minikühlschrank = Minibar
+4 Kühl-Gefrier-Kombination
+4 Waschtrockner
+4 Nass- und Trockensauger = Nasssauger; Industriesauger
+4 Akkusauger = Handstaubsauger
+4 Wischroboter = Wischsauger
+4 Dampfreiniger
+4 Fensterputzroboter = Fenstersauger
+4 Staubsaugerbeutel = Beutel
+4 Luftreiniger
+4 Luftbefeuchter
+4 Luftentfeuchter
+4 Radiator = Ölradiator
+4 Infrarotheizung
+4 Espressomaschine = Siebträger
+4 Kapselmaschine = Nespresso; Senseo; Padmaschine; Dolce Gusto
+4 Kaffeekapsel = Kapseln
+4 Kaffeemühle
+4 Milchaufschäumer
+4 Entkalker
+4 Wasserfilter = Brita; Filterkartusche
+4 Wassersprudler = Sodastream
+4 Eierkocher
+4 Sandwichmaker = Sandwichtoaster
+4 Waffeleisen
+4 Raclette = Raclette-Grill
+4 Fondue
+4 Elektrogrill = Tischgrill; Kontaktgrill
+4 Reiskocher
+4 Slow Cooker = Schongarer
+4 Multikocher = Dampfgarer; Instant Pot
+4 Pürierstab = Stabmixer
+4 Handmixer = Rührgerät
+4 Zerkleinerer = Multizerkleinerer
+4 Entsafter = Saftpresse
+4 Brotbackautomat
+4 Popcornmaschine
+4 Eismaschine
+4 Joghurtbereiter
+4 Vakuumierer
+4 Küchenwaage
+4 Elektromesser
+4 Allesschneider = Brotschneidemaschine
+4 Personenwaage = Waage
+4 Haarglätter = Glätteisen
+4 Lockenstab
+4 Warmluftbürste
+4 Haarschneider = Haarschneidemaschine
+4 Bartschneider = Trimmer
+4 Epilierer
+4 Ladyshave
+4 IPL-Gerät = Haarentferner
+4 Munddusche
+4 Ersatzbürste = Aufsteckbürste
+4 Massagegerät = Massagepistole
+4 Blutdruckmessgerät
+4 Fieberthermometer = Thermometer
+4 Heizdecke = Wärmekissen
+4 Nähmaschine
+4 Bügelstation
+4 Taschenlampe
+4 Akkuladegerät = Batterieladegerät
+4 Knopfzelle
+4 Steckdosenadapter = Reiseadapter
+4 Zeitschaltuhr
+4 Kabelbinder
+4 Kabelkanal
+4 Lichterkette
+4 LED-Streifen = LED-Strip
+4 Schreibtischlampe
+4 Bildschirmreiniger = Reinigungsset
+4 Laptoptasche = Notebooktasche
+4 Tablethülle
+4 Eingabestift = Stylus; Apple Pencil
+4 Handy-Reparatur = Reparatur
+4 Garantieverlängerung = Versicherung; Garantie
+4 Lieferung = Aufbauservice
+4 Hörbuch
+4 Serie = Staffel
+4 Zeitschrift = Magazin
+4 Buch
+4 Kinderkamera
+4 Kindersmartwatch
+4 Babyphone
+4 Kinderspielkonsole = Lernspielzeug
+4 E-Gitarre
+4 E-Piano = Digitalpiano
+4 Gesichtsbürste = Gesichtsreinigungsbürste
+4 Rasenmähroboter = Mähroboter
+4 Hochdruckreiniger = Kärcher
+4 Akkuschrauber = Bohrmaschine
+4 Wallbox
+4 Dashcam
+4 Autoradio
+4 Kühlbox = elektrische Kühlbox
+4 Thermostat = Heizkörperthermostat
+5 Mikrowellen-Grill
+5 Heißwassergerät = Heißwasserspender
+5 Wärmepumpentrockner
+5 Wäscheschleuder
+5 Teppichreiniger
+5 Fusselrasierer = Fusselentferner
+5 Schuhtrockner
+5 Insektenvernichter = Mückenlampe
+5 Ultraschallreiniger
+5 Sous-Vide-Garer = Sous-Vide
+5 Pizzaofen
+5 Crêpesmaker
+5 Schokobrunnen
+5 Zuckerwattemaschine
+5 Milchpumpe
+5 Flaschenwärmer
+5 Sterilisator
+5 Karaoke-Mikrofon = Karaoke
+5 Plattenspielernadel = Tonabnehmer
+5 Plattenbürste
+5 Kabeltrommel
+5 Gaming-Tisch = Gaming-Schreibtisch
+5 Monitorhalterung = Monitorarm
+5 Laptopständer
+5 Kühlpad
+5 USV = Notstromversorgung
+5 Balkonkraftwerk = Solarmodul; Solarpanel
+5 Powerstation
+5 3D-Drucker
+5 Filament
+5 Mikrocontroller = Raspberry Pi; Arduino
+5 Lötkolben
+5 Smart Ring
+5 Elektronische Lupe = Leselupe
+5 Übersetzungsgerät

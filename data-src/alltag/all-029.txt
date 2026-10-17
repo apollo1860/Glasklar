@@ -1,0 +1,515 @@
+@id all-029
+@text Nenne etwas, das man bei Müller (Drogerie) kaufen kann
+# Sortiment der Müller-Drogeriemärkte: Drogerie, Kosmetik, Parfümerie, Gesundheit, Baby, Haushalt, Spielwaren, Schreibwaren,
+# Multimedia (CDs, DVDs, Games), Strumpfwaren, Süßwaren, Lebensmittel/Bio, Tiernahrung, Fotoservice, Saisonartikel.
+# Generische Begriffe, Marken nur als Alias; Singular als Haupttext.
+
+1 Shampoo
+1 Duschgel
+1 Parfüm = Parfum; Duft; Eau de Parfum; Eau de Toilette
+1 Zahnpasta = Zahncreme
+2 Deo = Deodorant; Deospray; Deoroller
+2 Make-up = Foundation; Schminke
+2 Spielzeug = Spielwaren; Spielsachen
+2 Klopapier = Toilettenpapier
+2 Creme = Hautcreme; Nivea
+2 Zahnbürste
+2 Wimperntusche = Mascara
+2 Lippenstift
+2 Nagellack
+2 Seife = Handseife; Flüssigseife
+2 Süßigkeit = Süßigkeiten; Süßes
+3 Spülung = Haarspülung; Conditioner
+3 Haarkur = Haarmaske
+3 Haarspray
+3 Haargel = Gel
+3 Haarwachs = Wachs; Pomade
+3 Haarfarbe = Haartönung; Färbemittel; Tönung
+3 Haargummi = Zopfgummi
+3 Haarspange = Haarklammer
+3 Haarbürste = Bürste
+3 Kamm
+3 Bodylotion = Körperlotion; Körpermilch
+3 Gesichtscreme = Tagescreme; Nachtcreme
+3 Sonnencreme = Sonnenschutz; Sonnenspray
+3 Handcreme
+3 Lippenpflege = Labello; Lippenbalsam
+3 Gesichtsmaske = Tuchmaske; Maske
+3 Peeling
+3 Serum = Gesichtsserum
+3 Abschminktücher = Make-up-Entferner
+3 Mizellenwasser
+3 Wattepads = Wattepad
+3 Wattestäbchen
+3 Puder
+3 Concealer = Abdeckstift
+3 Rouge = Blush
+3 Lidschatten = Lidschattenpalette
+3 Eyeliner = Kajal
+3 Augenbrauenstift = Augenbrauengel
+3 Lipgloss
+3 Bronzer
+3 Highlighter
+3 Make-up-Pinsel = Kosmetikpinsel
+3 Beautyblender = Schwämmchen
+3 Künstliche Wimpern = Wimpern
+3 Nagelfeile
+3 Nagellackentferner
+3 Nagelschere
+3 Pinzette
+3 Rasierer = Nassrasierer; Rasierklinge
+3 Rasierschaum = Rasiergel
+3 Aftershave
+3 Rasierpinsel
+3 Bartöl
+3 Damenbinde = Binden; Slipeinlage
+3 Tampon = Tampons; o.b.
+3 Kondom = Kondome; Präservativ
+3 Schwangerschaftstest
+3 Windel = Windeln; Pampers
+3 Feuchttücher
+3 Babynahrung = Babybrei; Gläschen
+3 Babyflasche = Fläschchen
+3 Schnuller
+3 Taschentücher = Taschentuch; Tempo
+3 Küchenrolle = Küchenpapier; Zewa
+3 Waschmittel = Waschpulver
+3 Weichspüler
+3 Spülmittel
+3 Spülmaschinentabs = Tabs
+3 Putzmittel = Reiniger; Allzweckreiniger
+3 Badreiniger
+3 WC-Reiniger = Klostein
+3 Glasreiniger
+3 Müllbeutel = Müllsack
+3 Schwamm = Spülschwamm
+3 Kerze = Duftkerze; Teelicht
+3 Raumduft = Raumspray; Duftstäbchen
+3 Vitamintabletten = Vitamine; Nahrungsergänzungsmittel
+3 Magnesium
+3 Pflaster
+3 Kopfschmerztabletten = Schmerzmittel
+3 Tee = Kräutertee
+3 Kaffee
+3 Schokolade
+3 Gummibärchen = Fruchtgummi; Haribo
+3 Bonbon = Bonbons
+3 Kaugummi
+3 Chips
+3 Müsliriegel = Riegel
+3 Nüsse = Nuss
+3 Müsli
+3 Getränk = Getränke
+3 Energydrink = Red Bull
+3 Wasser = Mineralwasser
+3 Bioprodukt = Bio
+3 Glutenfreie Lebensmittel = Glutenfrei
+3 Proteinriegel = Protein; Proteinpulver
+3 Katzenfutter
+3 Hundefutter
+3 Leckerli = Hundesnack; Katzensnack
+3 Tierfutter = Tiernahrung
+3 CD = Musik-CD
+3 DVD
+3 Blu-ray
+3 Videospiel = Computerspiel; Konsolenspiel; Game; Games
+3 Film = Filme
+3 Hörspiel = Hörbuch
+3 Spielekonsole = Konsole; Nintendo Switch; Playstation
+3 Kopfhörer
+3 Ladekabel = Ladegerät
+3 Batterie = Batterien
+3 Speicherkarte = SD-Karte
+3 USB-Stick
+3 Lego = Lego-Set; Bausteine
+3 Playmobil
+3 Puppe = Barbie
+3 Kuscheltier = Plüschtier; Stofftier
+3 Puzzle
+3 Brettspiel = Gesellschaftsspiel
+3 Kartenspiel = Spielkarten; Uno
+3 Modellauto = Spielzeugauto; Matchbox; Hot Wheels
+3 Sammelkarten = Pokémon-Karten; Panini; Sammelbilder
+3 Tonie = Toniebox; Tonies
+3 Knete = Knetmasse; Play-Doh
+3 Malbuch
+3 Bastelset = Bastelzeug; Bastelbedarf
+3 Buntstift = Buntstifte; Farbstifte
+3 Stift = Kugelschreiber; Kuli
+3 Bleistift
+3 Füller = Füllfederhalter
+3 Filzstift = Filzstifte; Edding
+3 Textmarker
+3 Radiergummi
+3 Heft = Schulheft
+3 Block = Schreibblock; Collegeblock
+3 Notizbuch = Notizblock
+3 Kalender = Terminkalender
+3 Ordner
+3 Briefumschlag = Umschlag
+3 Geschenkpapier
+3 Geburtstagskarte = Glückwunschkarte; Karte; Grußkarte
+3 Geschenktüte
+3 Schleife = Geschenkband
+3 Strumpfhose
+3 Socke = Socken; Strümpfe
+3 Kniestrümpfe
+3 Fotoabzug = Foto; Fotos; Bilder; Fotoservice
+3 Fotobuch
+3 Bilderrahmen
+3 Fotoalbum
+3 Gutschein = Geschenkkarte; Guthabenkarte
+3 Handyguthaben = Prepaid-Karte; Aufladekarte
+3 Spielguthaben = PSN-Karte; Steam-Karte
+3 Badezusatz = Badesalz; Badekugel; Schaumbad; Badeöl
+3 Duftöl = Ätherisches Öl
+3 Geschenkset = Geschenkbox; Pflegeset
+3 Adventskalender
+3 Osterhase = Schokohase
+3 Schultüte
+3 Halloween-Kostüm = Kostüm; Verkleidung
+3 Luftballon = Ballons
+3 Partydeko = Partyzubehör; Girlande
+3 Haushaltswaren = Haushaltsartikel
+4 Trockenshampoo
+4 Hitzeschutzspray = Hitzeschutz
+4 Haaröl
+4 Glätteisen = Haarglätter
+4 Lockenstab
+4 Föhn = Haartrockner; Fön
+4 Elektrische Zahnbürste = Oral-B
+4 Aufsteckbürste = Ersatzbürste
+4 Zahnseide
+4 Interdentalbürste = Zahnzwischenraumbürste
+4 Mundwasser = Mundspülung
+4 Zungenreiniger
+4 Zahnaufhellung = Bleaching
+4 Haftcreme = Prothesenreiniger; Kukident
+4 Kontaktlinsen = Kontaktlinsenflüssigkeit; Linsenmittel
+4 Augentropfen
+4 Nasenspray
+4 Halsbonbons = Hustenbonbons; Lutschtabletten
+4 Erkältungsbalsam = Erkältungsbad
+4 Wärmepflaster = Wärmekissen
+4 Kühlpack = Kühlkompresse
+4 Fieberthermometer = Thermometer
+4 Blutdruckmessgerät
+4 Verband = Mullbinde; Verbandszeug
+4 Desinfektionsmittel = Handdesinfektion
+4 Mundschutz = FFP2-Maske; OP-Maske
+4 Corona-Test = Schnelltest; Selbsttest
+4 Ovulationstest = Eisprungtest
+4 Gleitgel = Gleitmittel
+4 Menstruationstasse
+4 Periodenunterwäsche
+4 Inkontinenzeinlagen = Inkontinenz
+4 Einlegesohlen = Schuheinlagen
+4 Hühneraugenpflaster
+4 Fußcreme
+4 Hornhautraspel = Hornhautentferner
+4 Fußbad
+4 Blasenpflaster = Compeed
+4 Zeckenzange
+4 Mückenschutz = Insektenschutz; Autan
+4 Ohrstöpsel = Ohropax
+4 Schlafmaske
+4 Kompressionsstrümpfe = Stützstrümpfe
+4 Selbstbräuner
+4 After-Sun = After-Sun-Lotion
+4 Enthaarungscreme
+4 Wachsstreifen = Kaltwachsstreifen
+4 Epilierer
+4 Rasierhobel = Rasiermesser
+4 Bartschneider = Barttrimmer
+4 Haarschneidemaschine
+4 Nagelknipser
+4 Nagelhautentferner = Nagelhautschieber
+4 Nageldesign = Gelnägel; Kunstnägel
+4 Unterlack = Überlack
+4 Nagelpflege = Nagelöl
+4 Augencreme
+4 Augenpads
+4 Gesichtswasser = Toner
+4 Reinigungsgel = Waschgel
+4 BB-Cream = CC-Cream
+4 Primer
+4 Fixierspray = Setting Spray
+4 Augenbrauenpalette
+4 Wimpernserum
+4 Wimpernzange
+4 Spiegel = Kosmetikspiegel; Taschenspiegel
+4 Kosmetiktasche = Kulturbeutel; Schminktasche
+4 Haarband = Stirnband
+4 Haarreif
+4 Haarnetz = Duschhaube
+4 Lockenwickler
+4 Dutt-Kissen = Donut
+4 Zopfband
+4 Bodyspray = Körperspray
+4 Duschschaum
+4 Duschöl
+4 Körperpeeling
+4 Massageöl
+4 Körperbutter = Body Butter
+4 Waschlappen
+4 Handtuch
+4 Bademantel
+4 Badeschlappen = Badelatschen
+4 Eau de Cologne = Kölnisch Wasser
+4 Herrenparfüm = Herrenduft
+4 Damenparfüm = Damenduft
+4 Parfümprobe = Probe
+4 Duftset
+4 Reisegröße = Reiseset; Miniatur
+4 Babyöl
+4 Babypuder
+4 Babycreme = Wundschutzcreme; Penaten
+4 Babyshampoo
+4 Babybadewanne
+4 Lätzchen
+4 Beißring
+4 Babyspielzeug = Rassel
+4 Kinderzahnbürste
+4 Spielzeugautos = Ferngesteuertes Auto
+4 Actionfigur = Figur
+4 Schleich-Figur = Schleich; Spielfigur
+4 Holzspielzeug
+4 Kinderbuch = Bilderbuch
+4 Buch = Roman
+4 Zeitschrift = Magazin; Zeitung
+4 Rätselheft = Kreuzworträtsel
+4 Stickeralbum = Sticker; Aufkleber
+4 Seifenblasen
+4 Wasserpistole
+4 Sandspielzeug = Sandförmchen
+4 Planschbecken
+4 Schwimmflügel = Schwimmring
+4 Ball = Fußball; Wasserball
+4 Springseil
+4 Kreide = Straßenkreide
+4 Jo-Jo
+4 Kreisel
+4 Experimentierkasten
+4 Bastelpapier = Tonpapier; Buntpapier
+4 Wasserfarben = Farbkasten; Tuschkasten
+4 Acrylfarbe
+4 Pinsel
+4 Leinwand
+4 Wachsmalstifte = Wachsmalkreide
+4 Schere = Bastelschere
+4 Kleber = Klebestift; Pritt; Klebstoff
+4 Klebeband = Tesafilm; Tesa
+4 Locher
+4 Tacker
+4 Büroklammer
+4 Post-it = Haftnotizen; Klebezettel
+4 Lineal
+4 Geodreieck
+4 Zirkel
+4 Taschenrechner
+4 Federmäppchen = Mäppchen
+4 Schulranzen = Ranzen
+4 Rucksack
+4 Brotdose = Brotbox
+4 Trinkflasche = Wasserflasche
+4 Thermobecher = Coffee-to-go-Becher
+4 Tasse = Becher
+4 Glas = Trinkglas
+4 Teller
+4 Besteck
+4 Frischhaltedose = Vorratsdose; Tupperdose
+4 Frischhaltefolie = Alufolie; Backpapier
+4 Gefrierbeutel = Zipbeutel
+4 Backzutaten = Backmischung; Backpulver
+4 Tortendeko = Streusel
+4 Lebensmittelfarbe
+4 Gewürz = Gewürze
+4 Honig
+4 Marmelade = Aufstrich
+4 Nudel = Pasta
+4 Reiswaffeln
+4 Trockenobst = Datteln
+4 Smoothie
+4 Saft
+4 Milchalternative = Hafermilch; Sojamilch
+4 Babymilch = Pre-Milch; Säuglingsmilch
+4 Kindertee
+4 Duschvorhang
+4 Badematte
+4 Toilettenbürste = Klobürste
+4 Wäscheklammer = Wäscheklammern
+4 Fleckenentferner = Gallseife
+4 Entkalker
+4 Spülmaschinensalz
+4 Klarspüler
+4 Hygienespüler
+4 Wäschenetz
+4 Bügelwasser
+4 Fusselrolle = Fusselbürste
+4 Schuhcreme = Schuhpflege; Imprägnierspray
+4 Lederpflege
+4 Staubtuch = Mikrofasertuch; Putztuch
+4 Gummihandschuhe = Putzhandschuhe
+4 Einweghandschuhe
+4 Feuerzeug
+4 Streichhölzer = Streichholz
+4 Glühbirne = Leuchtmittel
+4 Lichterkette
+4 Dekoration = Deko; Wohndeko
+4 Kunstblume = Kunstblumen
+4 Vase
+4 Weihnachtsdeko = Christbaumkugeln
+4 Osterdeko = Ostereierfarbe
+4 Wunderkerzen
+4 Konfetti
+4 Kerzenhalter
+4 Duftlampe = Aromadiffuser
+4 Räucherstäbchen
+4 Tierspielzeug = Katzenspielzeug; Hundespielzeug
+4 Katzenstreu = Streu
+4 Kauknochen = Kausnack
+4 Vogelfutter
+4 Fischfutter
+4 Nagerfutter = Kaninchenfutter; Heu
+4 Hundekotbeutel = Kotbeutel
+4 Nylonstrumpf = Feinstrumpfhose; Nylons
+4 Leggings
+4 Halterlose Strümpfe = Halterlose
+4 Füßlinge = Sneakersocken; Ballerinasocken
+4 Sportsocken
+4 Kuschelsocken = Stoppersocken
+4 Unterwäsche = Unterhose; Slip; Boxershorts
+4 Unterhemd
+4 Sonnenbrille
+4 Lesebrille
+4 Regenschirm = Schirm
+4 Modeschmuck = Schmuck; Ohrringe; Kette; Armband
+4 Uhr = Armbanduhr
+4 Haarschmuck
+4 Handyhülle = Hülle
+4 Displayschutzfolie = Panzerglas
+4 Powerbank
+4 Bluetooth-Lautsprecher = Lautsprecher
+4 Smartwatch
+4 Kamera = Sofortbildkamera; Polaroid; Instax
+4 Fotopapier = Instax-Film; Sofortbildfilm
+4 Passbild = Passfoto
+4 Fotoleinwand = Wandbild; Poster
+4 Fototasse
+4 Fotokalender
+4 Vinyl = Schallplatte
+4 Serie = Staffel
+4 Software
+4 Konsolenzubehör = Controller
+5 Henna
+5 Rasierwasser
+5 Bartwachs
+5 Bartbalsam
+5 Bartshampoo
+5 Haarpuder
+5 Silbershampoo
+5 Kopfhautpeeling
+5 Haarvitamine
+5 Haarwuchsmittel = Koffein-Shampoo
+5 Haarteil = Haarverlängerung; Extensions
+5 Perücke
+5 Faschingsschminke = Kinderschminke
+5 Glitzer
+5 Tattoo-Pflege
+5 Klebetattoo = Tattoo
+5 Augenbrauenschablone
+5 Wimpernkleber
+5 Pickelpatch = Pimple Patch
+5 Mitesserstreifen = Porenstreifen
+5 Jaderoller = Gua Sha
+5 Gesichtsbürste = Reinigungsbürste
+5 Fußpflegeset = Maniküre-Set; Pediküre-Set
+5 Nagellampe = UV-Lampe
+5 Strasssteine
+5 Bachblüten
+5 Globuli = Homöopathie
+5 Schüßler-Salze
+5 Kräuterbonbons = Ricola
+5 Traubenzucker = Dextro Energy
+5 Isotonisches Getränk = Sportgetränk
+5 Superfood = Chiasamen
+5 Kokosöl
+5 Apfelessig
+5 Ingwershot
+5 Kombucha
+5 Matcha
+5 Kakao = Kakaopulver
+5 Zuckerfreie Süßigkeiten = Xylit
+5 Erythrit = Süßungsmittel
+5 Diät-Shake = Abnehmshake
+5 Kollagen
+5 Probiotikum = Probiotika
+5 Melatonin = Schlafhilfe
+5 Baldrian
+5 Johanniskraut
+5 Eisen = Eisentabletten
+5 Zink
+5 Omega-3 = Fischöl
+5 Kinderpflaster
+5 Brillenputztücher = Brillenreiniger
+5 Schnullerkette
+5 Stilleinlagen
+5 Brustwarzensalbe
+5 Wickelunterlage
+5 Babyfon = Babyphone
+5 Kinderwagenkette
+5 Mobile
+5 Spieluhr
+5 Kreativset = Diamond Painting; Malen nach Zahlen
+5 Stickerbuch
+5 Freundebuch
+5 Tagebuch
+5 Briefpapier
+5 Füllerpatrone = Tintenpatrone; Patronen
+5 Tintenkiller
+5 Korrekturroller = Tipp-Ex
+5 Spitzer = Anspitzer
+5 Washi-Tape
+5 Stempel
+5 Glitzerkleber
+5 Modelliermasse = Fimo
+5 Bügelperlen
+5 Strickgarn = Wolle
+5 Nähzeug = Nähset
+5 Wollknäuel
+5 Puzzlekleber
+5 Zauberwürfel
+5 Fidget Spinner = Fidget-Toy; Pop-it
+5 Squishy
+5 Slime = Schleim
+5 Kinderkosmetik
+5 Kinderuhr
+5 Spielzeugküche
+5 Puppenwagen
+5 Bobby-Car = Rutschauto
+5 Laufrad
+5 Holzeisenbahn = Brio
+5 Rennbahn = Carrera
+5 Modellbausatz = Bausatz
+5 Drachen
+5 Frisbee
+5 Federball = Badminton
+5 Murmeln
+5 Kaleidoskop
+5 Taschenlampe
+5 Zahnputzbecher
+5 Seifenspender
+5 Seifenschale
+5 Toilettenpapierhalter
+5 Duftbaum = Autoduft; Wunderbaum
+5 Mottenschutz
+5 Kalkreiniger = Essigreiniger
+5 Abflussreiniger = Rohrfrei
+5 Ofenreiniger
+5 Edelstahlpflege
+5 Möbelpolitur
+5 Teppichreiniger
+5 Fensterleder
+5 Wischmopp = Mopp
+5 Wäschesack
+5 Kleiderbürste

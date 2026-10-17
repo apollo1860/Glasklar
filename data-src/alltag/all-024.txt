@@ -1,0 +1,266 @@
+@id all-024
+@text Nenne etwas, das man in einem Klassenzimmer findet
+# Einrichtung, Tafel- und Medientechnik, Schulsachen der Schüler, Lehrmittel, Wanddekoration und Personen.
+# Generische Begriffe statt Marken; Singular als Haupttext.
+
+1 Tafel = Schultafel; Kreidetafel
+1 Tisch = Schultisch; Schulbank
+1 Stuhl = Stühle
+1 Lehrer = Lehrerin; Lehrkraft
+1 Schüler = Schülerin; Kinder
+2 Kreide
+2 Pult = Lehrerpult; Lehrertisch; Katheder
+2 Schwamm = Tafelschwamm
+2 Fenster
+2 Uhr = Wanduhr
+2 Mülleimer = Papierkorb; Abfalleimer
+2 Buch = Schulbuch; Lehrbuch
+2 Heft = Schulheft
+3 Stift
+3 Kugelschreiber = Kuli
+3 Bleistift
+3 Füller = Füllfederhalter; Füllhalter
+3 Radiergummi = Radierer
+3 Lineal
+3 Schere
+3 Kleber = Klebstoff; Klebestift; Pritt
+3 Spitzer = Anspitzer
+3 Federmäppchen = Mäppchen; Federtasche; Etui
+3 Schulranzen = Ranzen; Tornister; Schulrucksack
+3 Rucksack
+3 Tasche = Schultasche
+3 Whiteboard
+3 Smartboard = interaktive Tafel; digitale Tafel; Activboard
+3 Beamer = Projektor
+3 Overheadprojektor = Tageslichtprojektor; Polylux
+3 Overheadfolie = Folie
+3 Leinwand
+3 Landkarte = Karte; Wandkarte
+3 Weltkarte
+3 Globus
+3 Computer = PC; Rechner
+3 Laptop = Notebook
+3 Tablet = iPad
+3 Schrank
+3 Regal = Bücherregal
+3 Tür
+3 Waschbecken
+3 Heizung = Heizkörper
+3 Lampe = Deckenlampe; Leuchte
+3 Pinnwand = Korkwand; Pinnbrett
+3 Plakat = Poster
+3 Stundenplan
+3 Klassenbuch
+3 Tafellappen = Tafeltuch; Lappen
+3 Block = Schreibblock
+3 Papier
+3 Arbeitsblatt = Arbeitsblätter; Blatt; Zettel
+3 Ordner = Aktenordner
+3 Mappe = Sammelmappe
+3 Taschenrechner
+3 Geodreieck
+3 Zirkel
+3 Buntstift = Buntstifte; Farbstifte
+3 Filzstift = Filzer; Filzstifte
+3 Textmarker = Marker; Leuchtstift
+3 Wasserflasche = Trinkflasche; Flasche
+3 Brotdose = Brotbox; Pausenbrot
+3 Jacke
+3 Garderobe = Kleiderhaken; Haken
+3 Kaugummi
+3 Pflanze = Topfpflanze; Zimmerpflanze; Blumen
+3 Vorhang = Gardine; Gardinen
+3 Rollladen = Rollo; Jalousie
+3 Kreuz = Kruzifix
+3 Lautsprecher = Boxen
+3 Fernseher = TV; Bildschirm
+3 Wörterbuch = Duden
+3 Atlas
+3 Klassenfoto
+3 Klassenregeln
+3 Periodensystem
+3 Skelett
+4 Kreidehalter
+4 Tafelwischer
+4 Whiteboardmarker = Boardmarker; Whiteboardstift
+4 Magnet = Magnete; Tafelmagnet
+4 Zeigestock = Zeiger
+4 Laserpointer
+4 Dokumentenkamera = Visualizer
+4 Kabel = HDMI-Kabel
+4 Steckdose
+4 Lichtschalter = Schalter
+4 Rauchmelder
+4 Feuerlöscher
+4 Fluchtplan = Fluchtwegplan; Notausgang
+4 Lautsprecheranlage = Durchsage
+4 Klingel = Schulglocke; Gong
+4 Sitzkreis
+4 Teppich
+4 Leseecke
+4 Kuschelecke
+4 Sofa = Couch
+4 Kissen = Sitzkissen
+4 Klapptafel
+4 Flipchart
+4 Moderationskoffer
+4 Stellwand
+4 Kalender
+4 Geburtstagskalender
+4 Alphabet = ABC-Leiste; Buchstabenleiste
+4 Einmaleins = Einmaleinstafel
+4 Zahlenstrahl
+4 Hundertertafel
+4 Rechenschieber
+4 Abakus = Rechenrahmen
+4 Würfel
+4 Lernspiel
+4 Puzzle
+4 Spiel = Gesellschaftsspiel
+4 Modell = Anschauungsmodell
+4 Torso = Anatomiemodell
+4 Mikroskop
+4 Reagenzglas
+4 Bunsenbrenner
+4 Lupe
+4 Thermometer
+4 Waage
+4 Pendel
+4 Musikinstrument = Instrument
+4 Klavier = Piano
+4 Keyboard
+4 Gitarre
+4 Flöte = Blockflöte
+4 Triangel
+4 Tamburin
+4 Pinsel
+4 Farbkasten = Wasserfarben; Tuschkasten
+4 Wachsmalstift = Wachsmalkreide
+4 Knete = Knetmasse; Plastilin
+4 Tonpapier = Bastelpapier; Buntpapier
+4 Bastelarbeit = Basteleien
+4 Kunstwerk = Bild; Zeichnung; Gemälde
+4 Wasserbecher = Becher
+4 Tesafilm = Klebeband; Tesa; Klebefilm
+4 Locher
+4 Tacker = Hefter; Heftgerät
+4 Büroklammer
+4 Reißzwecke = Reißnagel; Pinnnadel; Pin
+4 Gummiband = Gummi
+4 Post-it = Haftnotiz; Klebezettel
+4 Briefumschlag = Umschlag
+4 Klassenarbeit = Klausur; Test; Prüfung
+4 Hausaufgaben = Hausaufgabe; Hausaufgabenheft
+4 Zeugnis
+4 Heftumschlag = Hefteinband
+4 Schnellhefter
+4 Collegeblock
+4 Karteikarte = Karteikarten
+4 Lernkartei
+4 Vokabelheft
+4 Lektüre = Roman; Lesebuch
+4 Zeitschrift = Zeitung
+4 Lexikon = Enzyklopädie
+4 Liederbuch
+4 Bibel
+4 Klassensprecher
+4 Referendar = Praktikant
+4 Schulbegleiter = Integrationshelfer
+4 Hausmeister
+4 Klassenkasse
+4 Fundkiste = Fundsachen
+4 Schlüssel
+4 Schloss
+4 Spind = Schließfach; Locker
+4 Mülltrennung = Gelber Sack; Wertstoffeimer
+4 Kompost
+4 Besen
+4 Kehrblech = Handfeger; Schaufel
+4 Eimer
+4 Putzmittel
+4 Seife = Seifenspender
+4 Papierhandtuch = Papiertücher; Papierhandtuchspender
+4 Handtuch
+4 Taschentuch = Taschentücher; Tempo
+4 Desinfektionsmittel
+4 Erste-Hilfe-Kasten = Verbandskasten
+4 Pflaster
+4 Klimaanlage
+4 Ventilator
+4 Luftreiniger = Luftfilter
+4 CO2-Ampel = CO2-Messgerät
+4 Fensterbank = Fensterbrett
+4 Wand
+4 Decke
+4 Boden = Fußboden; Linoleum
+4 Fliesen
+4 Gießkanne
+4 Aquarium
+4 Terrarium
+4 Kaktus
+4 Klassentier = Hamster; Meerschweinchen
+4 Handy = Smartphone
+4 Kopfhörer
+4 Mikrofon
+4 Kamera = Webcam
+4 Drucker
+4 Kopierer = Kopiergerät
+4 Router = WLAN
+4 Maus = Computermaus
+4 Tastatur
+4 Monitor
+4 Verlängerungskabel = Mehrfachsteckdose
+4 Pausenhof
+4 Brille
+4 Mütze
+4 Schal
+4 Turnbeutel = Sportbeutel
+4 Sportsachen
+4 Hausschuhe = Pantoffeln
+4 Regenschirm = Schirm
+4 Pausensnack = Snack
+4 Apfel
+4 Obst
+4 Süßigkeiten
+4 Essensreste = Krümel
+4 Schmierzettel
+4 Spickzettel = Spicker
+4 Papierflieger
+4 Kritzelei = Gekritzel
+4 Graffiti = Schmiererei
+4 Ecke = Strafecke
+4 Hocker
+5 Türschild = Raumnummer
+5 Lehrerkalender
+5 Notenbuch
+5 Sitzplan
+5 Ämterplan = Dienstplan; Tafeldienst
+5 Belohnungssystem = Sticker; Stempel
+5 Stempelkissen
+5 Glocke = Klangschale
+5 Sanduhr
+5 Ampel = Lärmampel
+5 Wimpel
+5 Fahne = Flagge
+5 Wappen
+5 Schulordnung
+5 Wochenplan
+5 Lerntheke
+5 Gruppentisch
+5 Zeichendreieck
+5 Winkelmesser
+5 Kurvenlineal = Schablone
+5 Füllerpatrone = Patrone; Tintenpatrone
+5 Tintenkiller = Tintenlöscher
+5 Tinte
+5 Korrekturroller = Tipp-Ex; Korrekturstift
+5 Kreidestaub
+5 Kreideschachtel
+5 Kreidespitzer
+5 Tafellineal
+5 Tafelzirkel
+5 Tafelgeodreieck
+5 Tafelbeleuchtung
+5 Spinne = Spinnennetz
+5 Fliege
+5 Staub
