@@ -1,0 +1,69 @@
+@id mar-013
+@text Nenne eine Luxus-Uhrenmarke
+@typ geschlossen
+# Uhrenmarken des Luxus- und gehobenen Segments (typische Preise ab ca. 1.500 €) inkl. unabhängiger Manufakturen sowie Schmuck-/Modehäuser mit eigener Luxusuhren-Linie.
+# Grenzfälle aufgenommen (tier 4–5): Nomos, Sinn, Oris, Rado, Tudor, Longines, Montblanc.
+# Nicht (Mittelklasse/Mode): Tissot, Hamilton, Seiko (nur Grand Seiko/Credor), Swatch, Fossil, Casio/G-Shock, Junghans, Mido, Certina, Michael Kors, Armani, Gucci, Daniel Wellington.
+# „Glashütte“ allein → Glashütte Original (Nomos/Lange haben eigene Namen).
+1 Rolex
+1 Omega
+2 Patek Philippe = Patek
+2 Audemars Piguet = AP
+2 Cartier
+2 TAG Heuer = Heuer
+2 Breitling
+2 Hublot
+3 IWC = IWC Schaffhausen
+3 A. Lange & Söhne = Lange & Söhne; Lange
+3 Glashütte Original = Glashütte
+3 Richard Mille
+3 Tudor
+3 Longines
+4 Jaeger-LeCoultre = JLC
+4 Vacheron Constantin = Vacheron
+4 Panerai = Officine Panerai
+4 Zenith
+4 Chopard
+4 Breguet
+4 Blancpain
+4 Piaget
+4 Montblanc
+4 Nomos = Nomos Glashütte
+4 Bulgari = Bvlgari
+4 Grand Seiko
+5 Ulysse Nardin
+5 Girard-Perregaux
+5 Bell & Ross
+5 Sinn
+5 H. Moser & Cie. = H. Moser; Moser
+5 F.P. Journe = Journe
+5 MB&F
+5 Jacob & Co.
+5 Roger Dubuis
+5 Franck Muller
+5 Harry Winston
+5 Tiffany & Co. = Tiffany
+5 Van Cleef & Arpels
+5 Chanel
+5 Hermès
+5 Louis Vuitton
+5 Oris
+5 Rado
+5 Baume & Mercier
+5 Parmigiani Fleurier = Parmigiani
+5 Greubel Forsey
+5 Laurent Ferrier
+5 Arnold & Son
+5 Czapek
+5 De Bethune
+5 Urwerk
+5 Corum
+5 Bovet
+5 Carl F. Bucherer = Bucherer
+5 Moritz Grossmann
+5 Wempe Glashütte = Wempe
+5 Tutima
+5 Credor
+5 Jaquet Droz
+5 Philippe Dufour
+5 Kari Voutilainen = Voutilainen

@@ -1,0 +1,119 @@
+@id mar-012
+@text Nenne ein Google-Produkt
+# Dienste, Apps, Software, KI-Modelle und Hardware der Marke Google, inkl. eingestellter Produkte (Google+, Picasa, Stadia, Hangouts, Reader …) und Zukäufe,
+# die unter Google laufen (YouTube, Android, Fitbit seit 2021, Nest, Waze, Blogger). Nicht: Waymo, Verily, Wing, Calico (eigene Alphabet-Firmen), DeepMind als Firma.
+# „Google+“ steht als „Google Plus“ (sonst Kollision mit „Google“ → Suche). Haupttext ohne „Google“-Präfix, wo üblich (Maps, Drive, Docs …); Alias mit Präfix.
+1 YouTube
+1 Maps = Google Maps
+1 Chrome = Google Chrome
+1 Gmail = Google Mail
+1 Android
+1 Google Suche = Google Search; Google
+2 Drive = Google Drive
+2 Pixel = Google Pixel
+2 Google Übersetzer = Google Translate; Translate; Übersetzer
+2 Gemini = Google Gemini
+2 Docs = Google Docs; Google Dokumente
+2 Google Fotos = Google Photos; Fotos
+2 Google Earth
+2 Play Store = Google Play Store; Google Play
+2 Google Assistant
+3 Meet = Google Meet
+3 Sheets = Google Sheets; Google Tabellen
+3 Slides = Google Slides; Google Präsentationen
+3 Google Kalender = Google Calendar
+3 Nest = Google Nest
+3 Chromecast
+3 Google Home
+3 Street View
+3 Google Lens
+3 Google Pay
+3 Google Scholar
+3 Google Ads = AdWords
+3 Google Analytics
+3 Google Cloud
+3 Hangouts = Google Hangouts
+3 Google Plus
+3 Stadia = Google Stadia
+3 Google Glass
+3 Chromebook
+3 Android Auto
+3 YouTube Music
+3 Bard = Google Bard
+4 Fitbit
+4 Waze
+4 Google Wallet
+4 Google Workspace = G Suite
+4 Google Keep = Keep
+4 Google Forms = Google Formulare
+4 Google Classroom
+4 Google Books = Google Bücher
+4 Google News
+4 Google Trends
+4 Google Alerts
+4 Google Flights
+4 Google Shopping
+4 Google Sites
+4 Google Groups
+4 Google Chat
+4 Picasa
+4 Google Duo
+4 Google Reader
+4 ChromeOS
+4 Wear OS
+4 Google TV = Android TV
+4 YouTube Kids
+4 YouTube Premium
+4 Google Play Music
+4 NotebookLM
+4 Nano Banana
+4 TensorFlow
+4 Flutter
+4 Firebase
+4 Google Fonts
+4 Google Authenticator
+4 Google Cardboard
+4 Pixel Buds
+4 Pixel Watch
+4 Nexus = Google Nexus
+4 Gboard
+4 Google Fit
+4 Google One
+4 Blogger
+4 AdSense = Google AdSense
+4 Search Console = Google Search Console
+5 Allo
+5 Orkut
+5 Google Wave
+5 Google Buzz
+5 Inbox by Gmail = Inbox
+5 YouTube TV
+5 Google Podcasts
+5 Google AI Studio
+5 Gemma
+5 Veo
+5 Imagen
+5 Antigravity = Google Antigravity
+5 Go = Golang
+5 Google Colab = Colab
+5 Family Link = Google Family Link
+5 Google Fi
+5 Google Voice
+5 Google Takeout
+5 Google Arts & Culture
+5 Daydream
+5 Tilt Brush
+5 Pixel Tablet
+5 Google Messages
+5 Google Domains
+5 FeedBurner
+5 DoubleClick
+5 Google Tasks
+5 Jamboard
+5 Google Currents
+5 Google Desktop
+5 Google Toolbar
+5 Google Video
+5 Google Finance
+5 Tag Manager = Google Tag Manager
+5 Google Sky

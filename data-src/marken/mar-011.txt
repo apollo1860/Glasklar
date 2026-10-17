@@ -1,0 +1,62 @@
+@id mar-011
+@text Nenne eine Dating-App
+@typ geschlossen
+# Dating-Apps und Online-Partnerbörsen mit App (international und deutschsprachig), inkl. LGBTQ-, Casual- und Nischen-Apps. Stand Okt. 2026 (Nischen-Apps nicht einzeln auf Fortbestand geprüft).
+# Nicht: allgemeine soziale Netzwerke (Instagram, Snapchat, Yubo), Freundschafts-Apps ohne Dating (Bumble BFF zählt unter Bumble).
+1 Tinder
+2 Bumble
+2 Hinge
+2 Lovoo
+2 Parship
+3 ElitePartner
+3 Badoo
+3 Grindr
+3 OkCupid
+3 Happn
+4 Feeld
+4 Raya
+4 Her
+4 Joyclub
+4 Once
+4 Inner Circle = The Inner Circle
+4 eDarling
+4 Match = Match.com
+4 Plenty of Fish = POF
+4 Facebook Dating
+4 LoveScout24 = FriendScout24
+4 Planetromeo = Romeo
+4 C-Date
+5 Lemonswan
+5 Coffee Meets Bagel
+5 Jaumo
+5 Finya
+5 Neu.de
+5 Bildkontakte
+5 Tantan
+5 Boo
+5 Hily
+5 Taimi
+5 Scruff
+5 Zoosk
+5 Meetic
+5 Mamba
+5 eHarmony
+5 Luxy
+5 The League
+5 Muzz
+5 Jdate
+5 Christian Mingle
+5 Zweisam
+5 50plus-Treff
+5 Secret.de
+5 Ashley Madison
+5 First Affair
+5 Gleichklang
+5 Dil Mil
+5 Lex
+5 Poppen.de = Poppen
+5 Seeking = Seeking Arrangement
+5 Skout
+5 MeetMe
+5 Pure
+5 Archer

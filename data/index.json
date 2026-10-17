@@ -127,12 +127,13 @@
       "id": "sport",
       "name": "Sport",
       "icon": "⚽",
-      "count": 3,
-      "v": "e86a850974",
+      "count": 4,
+      "v": "448eb149c8",
       "questions": [
         "spo-001",
         "spo-002",
-        "spo-003"
+        "spo-003",
+        "spo-004"
       ]
     },
     {
@@ -161,8 +162,8 @@
       "id": "musik",
       "name": "Musik",
       "icon": "🎸",
-      "count": 10,
-      "v": "a049310a70",
+      "count": 11,
+      "v": "bd5c7a7510",
       "questions": [
         "mus-003",
         "mus-004",
@@ -173,7 +174,8 @@
         "mus-009",
         "mus-010",
         "mus-011",
-        "mus-012"
+        "mus-012",
+        "mus-013"
       ]
     },
     {
@@ -211,8 +213,8 @@
       "id": "marken",
       "name": "Marken & Firmen",
       "icon": "🏷️",
-      "count": 10,
-      "v": "97220fb27d",
+      "count": 14,
+      "v": "750066c863",
       "questions": [
         "mar-001",
         "mar-002",
@@ -223,7 +225,11 @@
         "mar-007",
         "mar-008",
         "mar-009",
-        "mar-010"
+        "mar-010",
+        "mar-011",
+        "mar-012",
+        "mar-013",
+        "mar-014"
       ]
     },
     {

@@ -1,0 +1,38 @@
+@id mar-014
+@text Nenne eine deutsche Fitnessstudio-Kette
+@typ geschlossen
+# Fitnessstudio-Ketten mit (mehreren) Studios in Deutschland, inkl. ausländischer Ketten (Basic-Fit, Holmes Place, Aspria) und EMS-/Zirkel-Ketten. Stand Okt. 2026.
+# Clever Fit gehört seit Nov. 2025 zu Basic-Fit (Marke besteht), Fitness First/Smile X/FIT/One zur LifeFit Group, Ai Fitness/Jumpers zur BestFit-Gruppe, Fit Star zu all inclusive Fitness.
+# Nicht: Urban Sports Club, EGYM Wellpass (Mitgliedschafts-Plattformen), Life Fitness, Technogym (Gerätehersteller), RSG Group/LifeFit (Konzerne, kein Studioname).
+# Nicht aufgenommen, da nicht als Kette in Deutschland belegt: Basefit (Schweiz), Kraftwerk, Vivo, Easy Gym. „EasyFit“ → EasyFitness.
+1 McFit
+2 FitX
+2 Clever Fit
+2 Fitness First
+3 John Reed
+3 EasyFitness = EasyFit
+3 Kieser Training = Kieser
+3 Mrs. Sporty
+3 Basic-Fit
+4 Injoy
+4 Holmes Place
+4 Elements
+4 Jumpers = Jumpers Fitness
+4 Ai Fitness
+4 Fit Star
+4 Gold’s Gym
+4 Bodystreet
+4 Fit+ = Fitplus
+4 FIT/One
+4 Wellyou
+4 Pfitzenmeier
+5 Smile X
+5 Superfit
+5 Fitbox
+5 Körperformen
+5 All Inclusive Fitness
+5 Aspria
+5 Meridian Spa & Fitness = Meridian
+5 Viva Fitness
+5 Prime Time Fitness = Prime Time
+5 Fitseveneleven

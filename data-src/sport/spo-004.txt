@@ -1,0 +1,154 @@
+@id spo-004
+@text Nenne einen Sportler, der den Ballon d’Or, den NBA-MVP oder den NFL-MVP gewonnen hat
+@typ geschlossen
+# Alle Gewinner: Ballon d’Or (France Football) 1956–2025 inkl. FIFA Ballon d’Or 2010–2015, 2020 nicht vergeben; Ballon d’Or Féminin 2018–2025;
+# NBA MVP (Maurice Podoloff Trophy) 1955/56–2025/26; NFL MVP der Associated Press 1957–Saison 2025 (Matthew Stafford, Feb. 2026).
+# Stand 17.10.2026. Ballon d’Or 2026 wird am 26.10.2026 in London vergeben – danach Gewinner ergänzen!
+# Nicht: Pelé und Maradona (nur Ehren-/Sonderpreise, vor 1995 waren Nicht-Europäer nicht wählbar), Lewandowski (2020 ausgefallen),
+# Neuer, Iniesta, Xavi, Kroos (nie gewonnen), Eli Manning (nie NFL-MVP), Luis Suárez aus Uruguay (der Gewinner 1960 ist der Spanier Luis Suárez).
+# Mehrdeutige Nachnamen ohne Alias: Malone (Moses/Karl), Brown (Jim/Larry), Taylor (Jim/Lawrence), Allen (Marcus/Josh), Russell (Bill/Westbrook),
+# Alexander (Shaun/Gilgeous-Alexander). „Ronaldo“ = Ronaldo Nazário, Cristiano Ronaldo eigener Eintrag (CR7). „Manning“ → Peyton, „Johnson“ → Magic, „Müller“ → Gerd.
+# Ballon d’Or (Männer)
+1 Lionel Messi = Messi; Leo Messi
+1 Cristiano Ronaldo = CR7
+2 Ronaldo = Ronaldo Nazário; Ronaldo Luís Nazário de Lima
+3 Zinédine Zidane = Zidane; Zizou
+3 Ronaldinho
+3 Kaká
+2 Franz Beckenbauer = Beckenbauer; Kaiser Franz
+3 Gerd Müller = Müller
+3 Lothar Matthäus = Matthäus
+4 Karl-Heinz Rummenigge = Rummenigge
+4 Matthias Sammer = Sammer
+3 Luka Modrić = Modrić
+3 Karim Benzema = Benzema
+3 Ousmane Dembélé = Dembélé
+4 Rodri = Rodrigo Hernández
+3 Johan Cruyff = Cruyff; Johan Cruijff; Cruijff
+4 Marco van Basten = van Basten
+4 Michel Platini = Platini
+4 Ruud Gullit = Gullit
+4 Luís Figo = Figo
+4 Michael Owen = Owen
+4 Pavel Nedvěd = Nedvěd
+4 Andriy Shevchenko = Shevchenko; Andrij Schewtschenko; Schewtschenko
+4 Fabio Cannavaro = Cannavaro
+4 Rivaldo
+4 George Weah = Weah
+4 Roberto Baggio = Baggio
+4 Eusébio
+4 George Best
+4 Bobby Charlton
+4 Alfredo Di Stéfano = Di Stéfano
+5 Hristo Stoichkov = Stoichkov; Christo Stoitschkow; Stoitschkow
+5 Jean-Pierre Papin = Papin
+5 Igor Belanov = Belanov; Igor Belanow
+5 Paolo Rossi
+5 Kevin Keegan = Keegan
+5 Allan Simonsen = Simonsen
+5 Oleg Blokhin = Blokhin; Oleg Blochin; Blochin
+5 Gianni Rivera = Rivera
+5 Denis Law
+4 Lev Yashin = Yashin; Lew Jaschin; Jaschin
+5 Josef Masopust = Masopust
+5 Omar Sívori = Sívori
+5 Luis Suárez
+5 Raymond Kopa = Kopa
+5 Stanley Matthews
+5 Flórián Albert
+# Ballon d’Or Féminin
+4 Aitana Bonmatí = Bonmatí; Aitana
+4 Alexia Putellas = Putellas
+4 Megan Rapinoe = Rapinoe
+5 Ada Hegerberg = Hegerberg
+# NBA MVP
+2 Michael Jordan = Jordan; MJ
+2 LeBron James = LeBron
+2 Dirk Nowitzki = Nowitzki; Dirk
+3 Kobe Bryant = Kobe; Bryant
+3 Shaquille O’Neal = Shaq; O’Neal
+3 Stephen Curry = Steph Curry; Curry
+3 Magic Johnson = Magic; Earvin Johnson; Johnson
+3 Kevin Durant = Durant; KD
+4 Larry Bird = Bird
+4 Kareem Abdul-Jabbar = Kareem; Abdul-Jabbar; Lew Alcindor
+4 Giannis Antetokounmpo = Giannis; Antetokounmpo
+4 Nikola Jokić = Jokić
+4 Shai Gilgeous-Alexander = SGA; Gilgeous-Alexander
+4 Wilt Chamberlain = Chamberlain; Wilt
+4 Charles Barkley = Barkley
+4 Tim Duncan = Duncan
+4 Allen Iverson = Iverson
+4 James Harden = Harden
+4 Russell Westbrook = Westbrook
+4 Joel Embiid = Embiid
+4 Kevin Garnett = Garnett
+4 Steve Nash = Nash
+4 Derrick Rose
+4 Hakeem Olajuwon = Olajuwon; Hakeem
+5 Karl Malone
+5 Bill Russell
+5 David Robinson
+5 Moses Malone
+5 Julius Erving = Dr. J; Erving
+5 Oscar Robertson = Big O
+5 Bill Walton = Walton
+5 Bob McAdoo = McAdoo
+5 Dave Cowens = Cowens
+5 Willis Reed
+5 Wes Unseld = Unseld
+5 Bob Cousy = Cousy
+5 Bob Pettit = Pettit
+# NFL MVP (AP)
+2 Tom Brady = Brady
+3 Patrick Mahomes = Mahomes
+3 Peyton Manning = Manning
+4 Aaron Rodgers = Rodgers
+4 Josh Allen
+4 Lamar Jackson
+4 Joe Montana = Montana
+4 Dan Marino = Marino
+4 Brett Favre = Favre
+4 John Elway = Elway
+5 Matthew Stafford = Stafford
+5 Cam Newton = Newton
+5 Matt Ryan
+5 Adrian Peterson
+5 LaDainian Tomlinson = Tomlinson
+5 Shaun Alexander
+5 Steve McNair = McNair
+5 Rich Gannon = Gannon
+5 Kurt Warner = Warner
+5 Marshall Faulk = Faulk
+5 Terrell Davis
+5 Barry Sanders
+5 Emmitt Smith
+5 Steve Young
+5 Thurman Thomas
+5 Boomer Esiason = Esiason
+5 Lawrence Taylor
+5 Marcus Allen
+5 Joe Theismann = Theismann
+5 Mark Moseley = Moseley
+5 Ken Anderson
+5 Brian Sipe = Sipe
+5 Earl Campbell
+5 Terry Bradshaw = Bradshaw
+5 Walter Payton = Payton
+5 Bert Jones
+5 Fran Tarkenton = Tarkenton
+5 Ken Stabler = Stabler
+5 O. J. Simpson = Simpson; Orenthal James Simpson
+5 Larry Brown
+5 Alan Page
+5 John Brodie = Brodie
+5 Roman Gabriel
+5 Earl Morrall = Morrall
+5 Bart Starr = Starr
+5 Johnny Unitas = Unitas
+5 Y. A. Tittle = Tittle
+5 Jim Taylor
+5 Paul Hornung = Hornung
+5 Norm Van Brocklin = Van Brocklin
+5 Charlie Conerly = Conerly
+5 Jim Brown

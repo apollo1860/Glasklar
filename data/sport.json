@@ -1915,5 +1915,1091 @@
     "tier": 4
    }
   ]
+ },
+ {
+  "id": "spo-004",
+  "text": "Nenne einen Sportler, der den Ballon d’Or, den NBA-MVP oder den NFL-MVP gewonnen hat",
+  "kategorie": "sport",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "spo-004-a0001",
+    "text": "Lionel Messi",
+    "aliases": [
+     "Messi",
+     "Leo Messi"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-004-a0002",
+    "text": "Cristiano Ronaldo",
+    "aliases": [
+     "CR7"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-004-a0003",
+    "text": "Ronaldo",
+    "aliases": [
+     "Ronaldo Nazário",
+     "Ronaldo Luís Nazário de Lima"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-004-a0004",
+    "text": "Zinédine Zidane",
+    "aliases": [
+     "Zidane",
+     "Zizou"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0005",
+    "text": "Ronaldinho",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0006",
+    "text": "Kaká",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0007",
+    "text": "Franz Beckenbauer",
+    "aliases": [
+     "Beckenbauer",
+     "Kaiser Franz"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-004-a0008",
+    "text": "Gerd Müller",
+    "aliases": [
+     "Müller"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0009",
+    "text": "Lothar Matthäus",
+    "aliases": [
+     "Matthäus"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0010",
+    "text": "Karl-Heinz Rummenigge",
+    "aliases": [
+     "Rummenigge"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0011",
+    "text": "Matthias Sammer",
+    "aliases": [
+     "Sammer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0012",
+    "text": "Luka Modrić",
+    "aliases": [
+     "Modrić"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0013",
+    "text": "Karim Benzema",
+    "aliases": [
+     "Benzema"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0014",
+    "text": "Ousmane Dembélé",
+    "aliases": [
+     "Dembélé"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0015",
+    "text": "Rodri",
+    "aliases": [
+     "Rodrigo Hernández"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0016",
+    "text": "Johan Cruyff",
+    "aliases": [
+     "Cruyff",
+     "Johan Cruijff",
+     "Cruijff"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0017",
+    "text": "Marco van Basten",
+    "aliases": [
+     "van Basten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0018",
+    "text": "Michel Platini",
+    "aliases": [
+     "Platini"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0019",
+    "text": "Ruud Gullit",
+    "aliases": [
+     "Gullit"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0020",
+    "text": "Luís Figo",
+    "aliases": [
+     "Figo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0021",
+    "text": "Michael Owen",
+    "aliases": [
+     "Owen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0022",
+    "text": "Pavel Nedvěd",
+    "aliases": [
+     "Nedvěd"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0023",
+    "text": "Andriy Shevchenko",
+    "aliases": [
+     "Shevchenko",
+     "Andrij Schewtschenko",
+     "Schewtschenko"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0024",
+    "text": "Fabio Cannavaro",
+    "aliases": [
+     "Cannavaro"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0025",
+    "text": "Rivaldo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0026",
+    "text": "George Weah",
+    "aliases": [
+     "Weah"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0027",
+    "text": "Roberto Baggio",
+    "aliases": [
+     "Baggio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0028",
+    "text": "Eusébio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0029",
+    "text": "George Best",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0030",
+    "text": "Bobby Charlton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0031",
+    "text": "Alfredo Di Stéfano",
+    "aliases": [
+     "Di Stéfano"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0032",
+    "text": "Hristo Stoichkov",
+    "aliases": [
+     "Stoichkov",
+     "Christo Stoitschkow",
+     "Stoitschkow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0033",
+    "text": "Jean-Pierre Papin",
+    "aliases": [
+     "Papin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0034",
+    "text": "Igor Belanov",
+    "aliases": [
+     "Belanov",
+     "Igor Belanow"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0035",
+    "text": "Paolo Rossi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0036",
+    "text": "Kevin Keegan",
+    "aliases": [
+     "Keegan"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0037",
+    "text": "Allan Simonsen",
+    "aliases": [
+     "Simonsen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0038",
+    "text": "Oleg Blokhin",
+    "aliases": [
+     "Blokhin",
+     "Oleg Blochin",
+     "Blochin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0039",
+    "text": "Gianni Rivera",
+    "aliases": [
+     "Rivera"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0040",
+    "text": "Denis Law",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0041",
+    "text": "Lev Yashin",
+    "aliases": [
+     "Yashin",
+     "Lew Jaschin",
+     "Jaschin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0042",
+    "text": "Josef Masopust",
+    "aliases": [
+     "Masopust"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0043",
+    "text": "Omar Sívori",
+    "aliases": [
+     "Sívori"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0044",
+    "text": "Luis Suárez",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0045",
+    "text": "Raymond Kopa",
+    "aliases": [
+     "Kopa"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0046",
+    "text": "Stanley Matthews",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0047",
+    "text": "Flórián Albert",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0048",
+    "text": "Aitana Bonmatí",
+    "aliases": [
+     "Bonmatí",
+     "Aitana"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0049",
+    "text": "Alexia Putellas",
+    "aliases": [
+     "Putellas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0050",
+    "text": "Megan Rapinoe",
+    "aliases": [
+     "Rapinoe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0051",
+    "text": "Ada Hegerberg",
+    "aliases": [
+     "Hegerberg"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0052",
+    "text": "Michael Jordan",
+    "aliases": [
+     "Jordan",
+     "MJ"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-004-a0053",
+    "text": "LeBron James",
+    "aliases": [
+     "LeBron"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-004-a0054",
+    "text": "Dirk Nowitzki",
+    "aliases": [
+     "Nowitzki",
+     "Dirk"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-004-a0055",
+    "text": "Kobe Bryant",
+    "aliases": [
+     "Kobe",
+     "Bryant"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0056",
+    "text": "Shaquille O’Neal",
+    "aliases": [
+     "Shaq",
+     "O’Neal"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0057",
+    "text": "Stephen Curry",
+    "aliases": [
+     "Steph Curry",
+     "Curry"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0058",
+    "text": "Magic Johnson",
+    "aliases": [
+     "Magic",
+     "Earvin Johnson",
+     "Johnson"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0059",
+    "text": "Kevin Durant",
+    "aliases": [
+     "Durant",
+     "KD"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0060",
+    "text": "Larry Bird",
+    "aliases": [
+     "Bird"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0061",
+    "text": "Kareem Abdul-Jabbar",
+    "aliases": [
+     "Kareem",
+     "Abdul-Jabbar",
+     "Lew Alcindor"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0062",
+    "text": "Giannis Antetokounmpo",
+    "aliases": [
+     "Giannis",
+     "Antetokounmpo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0063",
+    "text": "Nikola Jokić",
+    "aliases": [
+     "Jokić"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0064",
+    "text": "Shai Gilgeous-Alexander",
+    "aliases": [
+     "SGA",
+     "Gilgeous-Alexander"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0065",
+    "text": "Wilt Chamberlain",
+    "aliases": [
+     "Chamberlain",
+     "Wilt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0066",
+    "text": "Charles Barkley",
+    "aliases": [
+     "Barkley"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0067",
+    "text": "Tim Duncan",
+    "aliases": [
+     "Duncan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0068",
+    "text": "Allen Iverson",
+    "aliases": [
+     "Iverson"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0069",
+    "text": "James Harden",
+    "aliases": [
+     "Harden"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0070",
+    "text": "Russell Westbrook",
+    "aliases": [
+     "Westbrook"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0071",
+    "text": "Joel Embiid",
+    "aliases": [
+     "Embiid"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0072",
+    "text": "Kevin Garnett",
+    "aliases": [
+     "Garnett"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0073",
+    "text": "Steve Nash",
+    "aliases": [
+     "Nash"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0074",
+    "text": "Derrick Rose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0075",
+    "text": "Hakeem Olajuwon",
+    "aliases": [
+     "Olajuwon",
+     "Hakeem"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0076",
+    "text": "Karl Malone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0077",
+    "text": "Bill Russell",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0078",
+    "text": "David Robinson",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0079",
+    "text": "Moses Malone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0080",
+    "text": "Julius Erving",
+    "aliases": [
+     "Dr. J",
+     "Erving"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0081",
+    "text": "Oscar Robertson",
+    "aliases": [
+     "Big O"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0082",
+    "text": "Bill Walton",
+    "aliases": [
+     "Walton"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0083",
+    "text": "Bob McAdoo",
+    "aliases": [
+     "McAdoo"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0084",
+    "text": "Dave Cowens",
+    "aliases": [
+     "Cowens"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0085",
+    "text": "Willis Reed",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0086",
+    "text": "Wes Unseld",
+    "aliases": [
+     "Unseld"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0087",
+    "text": "Bob Cousy",
+    "aliases": [
+     "Cousy"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0088",
+    "text": "Bob Pettit",
+    "aliases": [
+     "Pettit"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0089",
+    "text": "Tom Brady",
+    "aliases": [
+     "Brady"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-004-a0090",
+    "text": "Patrick Mahomes",
+    "aliases": [
+     "Mahomes"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0091",
+    "text": "Peyton Manning",
+    "aliases": [
+     "Manning"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-004-a0092",
+    "text": "Aaron Rodgers",
+    "aliases": [
+     "Rodgers"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0093",
+    "text": "Josh Allen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0094",
+    "text": "Lamar Jackson",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0095",
+    "text": "Joe Montana",
+    "aliases": [
+     "Montana"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0096",
+    "text": "Dan Marino",
+    "aliases": [
+     "Marino"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0097",
+    "text": "Brett Favre",
+    "aliases": [
+     "Favre"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0098",
+    "text": "John Elway",
+    "aliases": [
+     "Elway"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-004-a0099",
+    "text": "Matthew Stafford",
+    "aliases": [
+     "Stafford"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0100",
+    "text": "Cam Newton",
+    "aliases": [
+     "Newton"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0101",
+    "text": "Matt Ryan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0102",
+    "text": "Adrian Peterson",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0103",
+    "text": "LaDainian Tomlinson",
+    "aliases": [
+     "Tomlinson"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0104",
+    "text": "Shaun Alexander",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0105",
+    "text": "Steve McNair",
+    "aliases": [
+     "McNair"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0106",
+    "text": "Rich Gannon",
+    "aliases": [
+     "Gannon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0107",
+    "text": "Kurt Warner",
+    "aliases": [
+     "Warner"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0108",
+    "text": "Marshall Faulk",
+    "aliases": [
+     "Faulk"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0109",
+    "text": "Terrell Davis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0110",
+    "text": "Barry Sanders",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0111",
+    "text": "Emmitt Smith",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0112",
+    "text": "Steve Young",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0113",
+    "text": "Thurman Thomas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0114",
+    "text": "Boomer Esiason",
+    "aliases": [
+     "Esiason"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0115",
+    "text": "Lawrence Taylor",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0116",
+    "text": "Marcus Allen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0117",
+    "text": "Joe Theismann",
+    "aliases": [
+     "Theismann"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0118",
+    "text": "Mark Moseley",
+    "aliases": [
+     "Moseley"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0119",
+    "text": "Ken Anderson",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0120",
+    "text": "Brian Sipe",
+    "aliases": [
+     "Sipe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0121",
+    "text": "Earl Campbell",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0122",
+    "text": "Terry Bradshaw",
+    "aliases": [
+     "Bradshaw"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0123",
+    "text": "Walter Payton",
+    "aliases": [
+     "Payton"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0124",
+    "text": "Bert Jones",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0125",
+    "text": "Fran Tarkenton",
+    "aliases": [
+     "Tarkenton"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0126",
+    "text": "Ken Stabler",
+    "aliases": [
+     "Stabler"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0127",
+    "text": "O. J. Simpson",
+    "aliases": [
+     "Simpson",
+     "Orenthal James Simpson"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0128",
+    "text": "Larry Brown",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0129",
+    "text": "Alan Page",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0130",
+    "text": "John Brodie",
+    "aliases": [
+     "Brodie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0131",
+    "text": "Roman Gabriel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0132",
+    "text": "Earl Morrall",
+    "aliases": [
+     "Morrall"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0133",
+    "text": "Bart Starr",
+    "aliases": [
+     "Starr"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0134",
+    "text": "Johnny Unitas",
+    "aliases": [
+     "Unitas"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0135",
+    "text": "Y. A. Tittle",
+    "aliases": [
+     "Tittle"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0136",
+    "text": "Jim Taylor",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0137",
+    "text": "Paul Hornung",
+    "aliases": [
+     "Hornung"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0138",
+    "text": "Norm Van Brocklin",
+    "aliases": [
+     "Van Brocklin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0139",
+    "text": "Charlie Conerly",
+    "aliases": [
+     "Conerly"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-004-a0140",
+    "text": "Jim Brown",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

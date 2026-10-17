@@ -1,0 +1,82 @@
+@id mus-013
+@text Nenne einen Künstler mit mindestens 50 Mio. monatlichen Hörern auf Spotify
+@typ geschlossen
+# Stand ca. 13.–16.10.2026 (spotifystats.com/kworb/chartmasters über Suchergebnisse; Werte schwanken täglich). Bands zählen als Künstler.
+# Gesichert ≥ 50 Mio. (Rang/Wert spotifystats 16.10.2026): Bruno Mars 129,6 · Rihanna 116,6 · The Weeknd 116,2 · Justin Bieber 112,3 · Taylor Swift 106,7 ·
+# Lady Gaga 100,5 · Drake 94,9 · Coldplay 94,3 · Ariana Grande 93,6 · Bad Bunny 92,4 · Katy Perry #12 · Billie Eilish 79,8 · Ed Sheeran 78,8 · Calvin Harris 74,4 ·
+# Eminem 73,3 · J Balvin 71,7 · Kendrick Lamar 70,5 · Kanye West 70,4 · Karol G 69,2 · Lana Del Rey 67,6 · Post Malone 65,6 · Travis Scott 62,2 · Daddy Yankee #32 ·
+# Justin Timberlake 60,1 · Shawn Mendes #45 · Doja Cat #46 · Ellie Goulding 54,2 · Halsey 54,2 · Rauw Alejandro 53,9 · Sabrina Carpenter 53,7 · Alicia Keys 53,6 ·
+# Zara Larsson 53,6 · sombr 53,4 · Arijit Singh 53,4 · Ozuna 53,1 · Imagine Dragons 52,7 · Future 52,5 · Queen 52,0 · Elton John 51,9 · Britney Spears 51,7 ·
+# Olivia Dean 51,7 · Maluma 51,5 · Khalid 51,4. Shakira, David Guetta, Pitbull, Maroon 5 laut Sept./Okt.-Listen 81–107 Mio.
+# Ränge 17–19, 25, 28–49, 67–72 konnten nicht einzeln abgerufen werden: dort nach Vorjahres-/Peak-Werten sehr wahrscheinlich u. a. Michael Jackson, Sia, SZA,
+# Dua Lipa, Harry Styles, Chris Brown, Beyoncé, Linkin Park, Miley Cyrus, Marshmello (tier 4–5, nicht exakt verifiziert).
+# Grenzfälle 45–50 Mio. (Okt. 2026): Fuerza Regida 48,4 · Red Hot Chili Peppers 46,6 · ferner Arctic Monkeys, Tame Impala, Benson Boone, Tate McRae, Alex Warren,
+# OneRepublic, The Chainsmokers, Sean Paul (ca. 45–55 Mio., schwankend) – zugelassen, damit niemand für eine knappe Antwort bestraft wird.
+# Nicht (Okt. 2026 unter 45 Mio.): P!nk 44,4 · Burna Boy 44,0.
+1 Taylor Swift
+2 Ed Sheeran
+2 Drake
+2 The Weeknd = Weeknd
+2 Billie Eilish
+2 Bad Bunny
+2 Rihanna
+2 Bruno Mars
+2 Justin Bieber = Bieber
+2 Ariana Grande
+2 Coldplay
+3 Lady Gaga
+3 Eminem
+3 Dua Lipa
+3 Shakira
+3 Katy Perry
+3 David Guetta
+3 Kanye West = Ye; Kanye
+3 Imagine Dragons
+3 Sabrina Carpenter
+3 Post Malone
+3 Michael Jackson
+3 Queen
+3 Kendrick Lamar
+4 Calvin Harris
+4 Pitbull
+4 Maroon 5
+4 Travis Scott
+4 Lana Del Rey
+4 Harry Styles
+4 Shawn Mendes
+4 Doja Cat
+4 SZA
+4 Beyoncé
+4 Sia
+4 Linkin Park
+4 Elton John
+4 Britney Spears
+4 Justin Timberlake
+4 Miley Cyrus
+4 Karol G
+4 J Balvin
+4 Daddy Yankee
+4 Chris Brown
+4 Alicia Keys
+4 Ellie Goulding
+4 Zara Larsson
+4 Halsey
+4 Marshmello
+4 Red Hot Chili Peppers = RHCP; Chili Peppers
+4 Arctic Monkeys
+5 Rauw Alejandro
+5 Ozuna
+5 Maluma
+5 Future
+5 Khalid
+5 Olivia Dean
+5 sombr
+5 Arijit Singh
+5 Fuerza Regida
+5 Tame Impala
+5 Benson Boone
+5 Tate McRae
+5 Alex Warren
+5 OneRepublic
+5 The Chainsmokers = Chainsmokers
+5 Sean Paul

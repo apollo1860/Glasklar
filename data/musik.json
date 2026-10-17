@@ -6525,5 +6525,427 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mus-013",
+  "text": "Nenne einen Künstler mit mindestens 50 Mio. monatlichen Hörern auf Spotify",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mus-013-a0001",
+    "text": "Taylor Swift",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-013-a0002",
+    "text": "Ed Sheeran",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0003",
+    "text": "Drake",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0004",
+    "text": "The Weeknd",
+    "aliases": [
+     "Weeknd"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0005",
+    "text": "Billie Eilish",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0006",
+    "text": "Bad Bunny",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0007",
+    "text": "Rihanna",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0008",
+    "text": "Bruno Mars",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0009",
+    "text": "Justin Bieber",
+    "aliases": [
+     "Bieber"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0010",
+    "text": "Ariana Grande",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0011",
+    "text": "Coldplay",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-013-a0012",
+    "text": "Lady Gaga",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0013",
+    "text": "Eminem",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0014",
+    "text": "Dua Lipa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0015",
+    "text": "Shakira",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0016",
+    "text": "Katy Perry",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0017",
+    "text": "David Guetta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0018",
+    "text": "Kanye West",
+    "aliases": [
+     "Ye",
+     "Kanye"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0019",
+    "text": "Imagine Dragons",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0020",
+    "text": "Sabrina Carpenter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0021",
+    "text": "Post Malone",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0022",
+    "text": "Michael Jackson",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0023",
+    "text": "Queen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0024",
+    "text": "Kendrick Lamar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-013-a0025",
+    "text": "Calvin Harris",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0026",
+    "text": "Pitbull",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0027",
+    "text": "Maroon 5",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0028",
+    "text": "Travis Scott",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0029",
+    "text": "Lana Del Rey",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0030",
+    "text": "Harry Styles",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0031",
+    "text": "Shawn Mendes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0032",
+    "text": "Doja Cat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0033",
+    "text": "SZA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0034",
+    "text": "Beyoncé",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0035",
+    "text": "Sia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0036",
+    "text": "Linkin Park",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0037",
+    "text": "Elton John",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0038",
+    "text": "Britney Spears",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0039",
+    "text": "Justin Timberlake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0040",
+    "text": "Miley Cyrus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0041",
+    "text": "Karol G",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0042",
+    "text": "J Balvin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0043",
+    "text": "Daddy Yankee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0044",
+    "text": "Chris Brown",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0045",
+    "text": "Alicia Keys",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0046",
+    "text": "Ellie Goulding",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0047",
+    "text": "Zara Larsson",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0048",
+    "text": "Halsey",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0049",
+    "text": "Marshmello",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0050",
+    "text": "Red Hot Chili Peppers",
+    "aliases": [
+     "RHCP",
+     "Chili Peppers"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0051",
+    "text": "Arctic Monkeys",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-013-a0052",
+    "text": "Rauw Alejandro",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0053",
+    "text": "Ozuna",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0054",
+    "text": "Maluma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0055",
+    "text": "Future",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0056",
+    "text": "Khalid",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0057",
+    "text": "Olivia Dean",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0058",
+    "text": "sombr",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0059",
+    "text": "Arijit Singh",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0060",
+    "text": "Fuerza Regida",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0061",
+    "text": "Tame Impala",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0062",
+    "text": "Benson Boone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0063",
+    "text": "Tate McRae",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0064",
+    "text": "Alex Warren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0065",
+    "text": "OneRepublic",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0066",
+    "text": "The Chainsmokers",
+    "aliases": [
+     "Chainsmokers"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-013-a0067",
+    "text": "Sean Paul",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

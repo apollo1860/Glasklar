@@ -4135,5 +4135,1760 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mar-011",
+  "text": "Nenne eine Dating-App",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-011-a0001",
+    "text": "Tinder",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-011-a0002",
+    "text": "Bumble",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-011-a0003",
+    "text": "Hinge",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-011-a0004",
+    "text": "Lovoo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-011-a0005",
+    "text": "Parship",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-011-a0006",
+    "text": "ElitePartner",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-011-a0007",
+    "text": "Badoo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-011-a0008",
+    "text": "Grindr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-011-a0009",
+    "text": "OkCupid",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-011-a0010",
+    "text": "Happn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-011-a0011",
+    "text": "Feeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0012",
+    "text": "Raya",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0013",
+    "text": "Her",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0014",
+    "text": "Joyclub",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0015",
+    "text": "Once",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0016",
+    "text": "Inner Circle",
+    "aliases": [
+     "The Inner Circle"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0017",
+    "text": "eDarling",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0018",
+    "text": "Match",
+    "aliases": [
+     "Match.com"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0019",
+    "text": "Plenty of Fish",
+    "aliases": [
+     "POF"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0020",
+    "text": "Facebook Dating",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0021",
+    "text": "LoveScout24",
+    "aliases": [
+     "FriendScout24"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0022",
+    "text": "Planetromeo",
+    "aliases": [
+     "Romeo"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0023",
+    "text": "C-Date",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-011-a0024",
+    "text": "Lemonswan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0025",
+    "text": "Coffee Meets Bagel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0026",
+    "text": "Jaumo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0027",
+    "text": "Finya",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0028",
+    "text": "Neu.de",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0029",
+    "text": "Bildkontakte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0030",
+    "text": "Tantan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0031",
+    "text": "Boo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0032",
+    "text": "Hily",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0033",
+    "text": "Taimi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0034",
+    "text": "Scruff",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0035",
+    "text": "Zoosk",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0036",
+    "text": "Meetic",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0037",
+    "text": "Mamba",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0038",
+    "text": "eHarmony",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0039",
+    "text": "Luxy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0040",
+    "text": "The League",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0041",
+    "text": "Muzz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0042",
+    "text": "Jdate",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0043",
+    "text": "Christian Mingle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0044",
+    "text": "Zweisam",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0045",
+    "text": "50plus-Treff",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0046",
+    "text": "Secret.de",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0047",
+    "text": "Ashley Madison",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0048",
+    "text": "First Affair",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0049",
+    "text": "Gleichklang",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0050",
+    "text": "Dil Mil",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0051",
+    "text": "Lex",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0052",
+    "text": "Poppen.de",
+    "aliases": [
+     "Poppen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0053",
+    "text": "Seeking",
+    "aliases": [
+     "Seeking Arrangement"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0054",
+    "text": "Skout",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0055",
+    "text": "MeetMe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0056",
+    "text": "Pure",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-011-a0057",
+    "text": "Archer",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-012",
+  "text": "Nenne ein Google-Produkt",
+  "kategorie": "marken",
+  "answers": [
+   {
+    "id": "mar-012-a0001",
+    "text": "YouTube",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-012-a0002",
+    "text": "Maps",
+    "aliases": [
+     "Google Maps"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-012-a0003",
+    "text": "Chrome",
+    "aliases": [
+     "Google Chrome"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-012-a0004",
+    "text": "Gmail",
+    "aliases": [
+     "Google Mail"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-012-a0005",
+    "text": "Android",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-012-a0006",
+    "text": "Google Suche",
+    "aliases": [
+     "Google Search",
+     "Google"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-012-a0007",
+    "text": "Drive",
+    "aliases": [
+     "Google Drive"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0008",
+    "text": "Pixel",
+    "aliases": [
+     "Google Pixel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0009",
+    "text": "Google Übersetzer",
+    "aliases": [
+     "Google Translate",
+     "Translate",
+     "Übersetzer"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0010",
+    "text": "Gemini",
+    "aliases": [
+     "Google Gemini"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0011",
+    "text": "Docs",
+    "aliases": [
+     "Google Docs",
+     "Google Dokumente"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0012",
+    "text": "Google Fotos",
+    "aliases": [
+     "Google Photos",
+     "Fotos"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0013",
+    "text": "Google Earth",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0014",
+    "text": "Play Store",
+    "aliases": [
+     "Google Play Store",
+     "Google Play"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0015",
+    "text": "Google Assistant",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-012-a0016",
+    "text": "Meet",
+    "aliases": [
+     "Google Meet"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0017",
+    "text": "Sheets",
+    "aliases": [
+     "Google Sheets",
+     "Google Tabellen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0018",
+    "text": "Slides",
+    "aliases": [
+     "Google Slides",
+     "Google Präsentationen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0019",
+    "text": "Google Kalender",
+    "aliases": [
+     "Google Calendar"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0020",
+    "text": "Nest",
+    "aliases": [
+     "Google Nest"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0021",
+    "text": "Chromecast",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0022",
+    "text": "Google Home",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0023",
+    "text": "Street View",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0024",
+    "text": "Google Lens",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0025",
+    "text": "Google Pay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0026",
+    "text": "Google Scholar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0027",
+    "text": "Google Ads",
+    "aliases": [
+     "AdWords"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0028",
+    "text": "Google Analytics",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0029",
+    "text": "Google Cloud",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0030",
+    "text": "Hangouts",
+    "aliases": [
+     "Google Hangouts"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0031",
+    "text": "Google Plus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0032",
+    "text": "Stadia",
+    "aliases": [
+     "Google Stadia"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0033",
+    "text": "Google Glass",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0034",
+    "text": "Chromebook",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0035",
+    "text": "Android Auto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0036",
+    "text": "YouTube Music",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0037",
+    "text": "Bard",
+    "aliases": [
+     "Google Bard"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-012-a0038",
+    "text": "Fitbit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0039",
+    "text": "Waze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0040",
+    "text": "Google Wallet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0041",
+    "text": "Google Workspace",
+    "aliases": [
+     "G Suite"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0042",
+    "text": "Google Keep",
+    "aliases": [
+     "Keep"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0043",
+    "text": "Google Forms",
+    "aliases": [
+     "Google Formulare"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0044",
+    "text": "Google Classroom",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0045",
+    "text": "Google Books",
+    "aliases": [
+     "Google Bücher"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0046",
+    "text": "Google News",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0047",
+    "text": "Google Trends",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0048",
+    "text": "Google Alerts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0049",
+    "text": "Google Flights",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0050",
+    "text": "Google Shopping",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0051",
+    "text": "Google Sites",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0052",
+    "text": "Google Groups",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0053",
+    "text": "Google Chat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0054",
+    "text": "Picasa",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0055",
+    "text": "Google Duo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0056",
+    "text": "Google Reader",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0057",
+    "text": "ChromeOS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0058",
+    "text": "Wear OS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0059",
+    "text": "Google TV",
+    "aliases": [
+     "Android TV"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0060",
+    "text": "YouTube Kids",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0061",
+    "text": "YouTube Premium",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0062",
+    "text": "Google Play Music",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0063",
+    "text": "NotebookLM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0064",
+    "text": "Nano Banana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0065",
+    "text": "TensorFlow",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0066",
+    "text": "Flutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0067",
+    "text": "Firebase",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0068",
+    "text": "Google Fonts",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0069",
+    "text": "Google Authenticator",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0070",
+    "text": "Google Cardboard",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0071",
+    "text": "Pixel Buds",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0072",
+    "text": "Pixel Watch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0073",
+    "text": "Nexus",
+    "aliases": [
+     "Google Nexus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0074",
+    "text": "Gboard",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0075",
+    "text": "Google Fit",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0076",
+    "text": "Google One",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0077",
+    "text": "Blogger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0078",
+    "text": "AdSense",
+    "aliases": [
+     "Google AdSense"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0079",
+    "text": "Search Console",
+    "aliases": [
+     "Google Search Console"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-012-a0080",
+    "text": "Allo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0081",
+    "text": "Orkut",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0082",
+    "text": "Google Wave",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0083",
+    "text": "Google Buzz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0084",
+    "text": "Inbox by Gmail",
+    "aliases": [
+     "Inbox"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0085",
+    "text": "YouTube TV",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0086",
+    "text": "Google Podcasts",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0087",
+    "text": "Google AI Studio",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0088",
+    "text": "Gemma",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0089",
+    "text": "Veo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0090",
+    "text": "Imagen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0091",
+    "text": "Antigravity",
+    "aliases": [
+     "Google Antigravity"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0092",
+    "text": "Go",
+    "aliases": [
+     "Golang"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0093",
+    "text": "Google Colab",
+    "aliases": [
+     "Colab"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0094",
+    "text": "Family Link",
+    "aliases": [
+     "Google Family Link"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0095",
+    "text": "Google Fi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0096",
+    "text": "Google Voice",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0097",
+    "text": "Google Takeout",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0098",
+    "text": "Google Arts & Culture",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0099",
+    "text": "Daydream",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0100",
+    "text": "Tilt Brush",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0101",
+    "text": "Pixel Tablet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0102",
+    "text": "Google Messages",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0103",
+    "text": "Google Domains",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0104",
+    "text": "FeedBurner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0105",
+    "text": "DoubleClick",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0106",
+    "text": "Google Tasks",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0107",
+    "text": "Jamboard",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0108",
+    "text": "Google Currents",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0109",
+    "text": "Google Desktop",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0110",
+    "text": "Google Toolbar",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0111",
+    "text": "Google Video",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0112",
+    "text": "Google Finance",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0113",
+    "text": "Tag Manager",
+    "aliases": [
+     "Google Tag Manager"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-012-a0114",
+    "text": "Google Sky",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-013",
+  "text": "Nenne eine Luxus-Uhrenmarke",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-013-a0001",
+    "text": "Rolex",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-013-a0002",
+    "text": "Omega",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-013-a0003",
+    "text": "Patek Philippe",
+    "aliases": [
+     "Patek"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-013-a0004",
+    "text": "Audemars Piguet",
+    "aliases": [
+     "AP"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-013-a0005",
+    "text": "Cartier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-013-a0006",
+    "text": "TAG Heuer",
+    "aliases": [
+     "Heuer"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-013-a0007",
+    "text": "Breitling",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-013-a0008",
+    "text": "Hublot",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-013-a0009",
+    "text": "IWC",
+    "aliases": [
+     "IWC Schaffhausen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-013-a0010",
+    "text": "A. Lange & Söhne",
+    "aliases": [
+     "Lange & Söhne",
+     "Lange"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-013-a0011",
+    "text": "Glashütte Original",
+    "aliases": [
+     "Glashütte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-013-a0012",
+    "text": "Richard Mille",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-013-a0013",
+    "text": "Tudor",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-013-a0014",
+    "text": "Longines",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-013-a0015",
+    "text": "Jaeger-LeCoultre",
+    "aliases": [
+     "JLC"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0016",
+    "text": "Vacheron Constantin",
+    "aliases": [
+     "Vacheron"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0017",
+    "text": "Panerai",
+    "aliases": [
+     "Officine Panerai"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0018",
+    "text": "Zenith",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0019",
+    "text": "Chopard",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0020",
+    "text": "Breguet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0021",
+    "text": "Blancpain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0022",
+    "text": "Piaget",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0023",
+    "text": "Montblanc",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0024",
+    "text": "Nomos",
+    "aliases": [
+     "Nomos Glashütte"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0025",
+    "text": "Bulgari",
+    "aliases": [
+     "Bvlgari"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0026",
+    "text": "Grand Seiko",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-013-a0027",
+    "text": "Ulysse Nardin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0028",
+    "text": "Girard-Perregaux",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0029",
+    "text": "Bell & Ross",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0030",
+    "text": "Sinn",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0031",
+    "text": "H. Moser & Cie.",
+    "aliases": [
+     "H. Moser",
+     "Moser"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0032",
+    "text": "F.P. Journe",
+    "aliases": [
+     "Journe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0033",
+    "text": "MB&F",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0034",
+    "text": "Jacob & Co.",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0035",
+    "text": "Roger Dubuis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0036",
+    "text": "Franck Muller",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0037",
+    "text": "Harry Winston",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0038",
+    "text": "Tiffany & Co.",
+    "aliases": [
+     "Tiffany"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0039",
+    "text": "Van Cleef & Arpels",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0040",
+    "text": "Chanel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0041",
+    "text": "Hermès",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0042",
+    "text": "Louis Vuitton",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0043",
+    "text": "Oris",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0044",
+    "text": "Rado",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0045",
+    "text": "Baume & Mercier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0046",
+    "text": "Parmigiani Fleurier",
+    "aliases": [
+     "Parmigiani"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0047",
+    "text": "Greubel Forsey",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0048",
+    "text": "Laurent Ferrier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0049",
+    "text": "Arnold & Son",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0050",
+    "text": "Czapek",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0051",
+    "text": "De Bethune",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0052",
+    "text": "Urwerk",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0053",
+    "text": "Corum",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0054",
+    "text": "Bovet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0055",
+    "text": "Carl F. Bucherer",
+    "aliases": [
+     "Bucherer"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0056",
+    "text": "Moritz Grossmann",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0057",
+    "text": "Wempe Glashütte",
+    "aliases": [
+     "Wempe"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0058",
+    "text": "Tutima",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0059",
+    "text": "Credor",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0060",
+    "text": "Jaquet Droz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0061",
+    "text": "Philippe Dufour",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-013-a0062",
+    "text": "Kari Voutilainen",
+    "aliases": [
+     "Voutilainen"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mar-014",
+  "text": "Nenne eine deutsche Fitnessstudio-Kette",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-014-a0001",
+    "text": "McFit",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-014-a0002",
+    "text": "FitX",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-014-a0003",
+    "text": "Clever Fit",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-014-a0004",
+    "text": "Fitness First",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-014-a0005",
+    "text": "John Reed",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-014-a0006",
+    "text": "EasyFitness",
+    "aliases": [
+     "EasyFit"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-014-a0007",
+    "text": "Kieser Training",
+    "aliases": [
+     "Kieser"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-014-a0008",
+    "text": "Mrs. Sporty",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-014-a0009",
+    "text": "Basic-Fit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-014-a0010",
+    "text": "Injoy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0011",
+    "text": "Holmes Place",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0012",
+    "text": "Elements",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0013",
+    "text": "Jumpers",
+    "aliases": [
+     "Jumpers Fitness"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0014",
+    "text": "Ai Fitness",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0015",
+    "text": "Fit Star",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0016",
+    "text": "Gold’s Gym",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0017",
+    "text": "Bodystreet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0018",
+    "text": "Fit+",
+    "aliases": [
+     "Fitplus"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0019",
+    "text": "FIT/One",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0020",
+    "text": "Wellyou",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0021",
+    "text": "Pfitzenmeier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-014-a0022",
+    "text": "Smile X",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0023",
+    "text": "Superfit",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0024",
+    "text": "Fitbox",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0025",
+    "text": "Körperformen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0026",
+    "text": "All Inclusive Fitness",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0027",
+    "text": "Aspria",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0028",
+    "text": "Meridian Spa & Fitness",
+    "aliases": [
+     "Meridian"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0029",
+    "text": "Viva Fitness",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0030",
+    "text": "Prime Time Fitness",
+    "aliases": [
+     "Prime Time"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-014-a0031",
+    "text": "Fitseveneleven",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]
