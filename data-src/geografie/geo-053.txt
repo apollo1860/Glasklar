@@ -1,0 +1,144 @@
+@id geo-053
+@text Nenne ein Land, das nicht mehr existiert
+@typ geschlossen
+# Untergegangene Staaten der Neuzeit, historische Reiche (Antike, Mittelalter) und deutsche Teilstaaten (nur als „Königreich …“).
+# Umbenannte Staaten (Persien, Siam, Ceylon, Birma, Zaire …) als tier3–5 aufgenommen: der Staat besteht fort, aber das „Land“ unter
+# diesem Namen nicht mehr. Ehemalige Kolonien nur bekannte Fälle (tier5). Bundesrepublik/Westdeutschland nicht (BRD besteht fort).
+# Nicht aufgenommen: Regionen/Provinzen ohne Staatlichkeit (Gallien, Germanien, Mesopotamien, Ostpreußen, Schlesien),
+# Bündnisse (Hanse, Ostblock, Warschauer Pakt), fiktive Länder (Atlantis), heute bestehende Staaten.
+
+1 DDR = Deutsche Demokratische Republik; Ostdeutschland; GDR
+1 Sowjetunion = UdSSR; SU; USSR; CCCP
+1 Jugoslawien = Yugoslavia
+1 Preußen = Königreich Preußen; Prussia
+2 Tschechoslowakei = ČSSR; ČSFR; Czechoslovakia
+2 Römisches Reich = Römisches Imperium; Imperium Romanum; Antikes Rom; Römerreich
+2 Österreich-Ungarn = Donaumonarchie; k.u.k. Monarchie; Habsburgermonarchie
+2 Osmanisches Reich = Osmanenreich; Ottomanisches Reich
+2 Deutsches Reich
+3 Drittes Reich = Großdeutsches Reich; Nazideutschland; NS-Staat
+3 Weimarer Republik
+3 Deutsches Kaiserreich = Kaiserreich
+3 Heiliges Römisches Reich = HRR; Heiliges Römisches Reich Deutscher Nation
+3 Byzantinisches Reich = Byzanz; Oströmisches Reich
+3 Weströmisches Reich
+3 Persien
+3 Rhodesien = Rhodesia
+3 Zaire
+3 Russisches Kaiserreich = Zarenreich; Kaiserreich Russland
+3 Mongolisches Reich = Mongolenreich
+3 Inkareich = Reich der Inka
+3 Aztekenreich = Reich der Azteken
+3 Perserreich = Achämenidenreich
+3 Babylonien = Babylon; Babylonisches Reich
+3 Altes Ägypten = Altägypten; Pharaonenreich
+3 Karthago
+3 Sparta
+3 Frankenreich = Fränkisches Reich; Karolingerreich
+3 Südvietnam
+3 Nordvietnam
+3 Serbien und Montenegro
+3 Siam
+4 Ceylon
+4 Birma = Burma
+4 Abessinien
+4 Swasiland
+4 Kampuchea = Demokratisches Kampuchea
+4 Dahomey
+4 Obervolta
+4 Nordjemen
+4 Südjemen
+4 Tibet
+4 Sikkim
+4 Biafra
+4 Königreich Hawaii = Hawaii
+4 Republik Texas = Texas
+4 Königreich Bayern
+4 Königreich Sachsen
+4 Königreich Württemberg
+4 Königreich Hannover
+4 Königreich Böhmen = Böhmen
+4 Makedonien = Mazedonien; Königreich Makedonien
+4 Assyrien = Assyrisches Reich
+4 Phönizien
+4 Konföderierte Staaten von Amerika = Konföderierte Staaten; Südstaaten; CSA
+4 Republik Venedig = Venedig
+4 Kirchenstaat
+4 Freie Stadt Danzig = Danzig
+4 Polen-Litauen
+4 Kiewer Rus
+4 Mogulreich
+4 Deutscher Bund
+4 Norddeutscher Bund
+4 Rheinbund
+4 Sansibar
+4 Tanganjika
+4 Ostpakistan
+4 Vereinigte Arabische Republik
+4 Kaisertum Österreich
+4 Hethiterreich = Hethiter
+4 Ostgotenreich
+4 Westgotenreich
+4 Vandalenreich
+5 Langobardenreich
+5 Hunnenreich
+5 Ostfrankenreich
+5 Westfrankenreich
+5 Lotharingien
+5 Herzogtum Burgund = Burgund
+5 Republik Genua = Genua
+5 Königreich Sardinien
+5 Königreich beider Sizilien = Königreich Neapel
+5 Savoyen
+5 Großherzogtum Baden
+5 Großherzogtum Toskana
+5 Deutschordensstaat
+5 Neutral-Moresnet = Moresnet
+5 Kongo-Freistaat = Kongostaat
+5 Belgisch-Kongo
+5 Oranje-Freistaat
+5 Transvaal = Südafrikanische Republik
+5 Deutsch-Südwestafrika
+5 Deutsch-Ostafrika
+5 Goldküste
+5 Betschuanaland
+5 Basutoland
+5 Njassaland
+5 Südwestafrika
+5 Französisch-Indochina = Indochina
+5 Britisch-Indien
+5 Mandschukuo
+5 Japanisches Kaiserreich
+5 Kaiserreich China
+5 Khmer-Reich = Angkor
+5 Tannu-Tuwa
+5 Zentralafrikanisches Kaiserreich
+5 Irischer Freistaat
+5 Neufundland
+5 Großkolumbien
+5 Zentralamerikanische Konföderation
+5 Protektorat Böhmen und Mähren
+5 Vichy-Frankreich
+5 Saarprotektorat
+5 Kaiserreich Mexiko
+5 Kaiserreich Brasilien
+5 Republik Kalifornien
+5 Akkad = Akkadisches Reich
+5 Urartu
+5 Lydien
+5 Numidien
+5 Ptolemäerreich
+5 Seleukidenreich
+5 Partherreich
+5 Sassanidenreich
+5 Kalifat der Abbasiden = Abbasidenkalifat
+5 Umayyaden-Kalifat
+5 Königreich Jerusalem
+5 Großmährisches Reich = Großmähren
+5 Goldene Horde
+5 Timuridenreich
+5 Malireich
+5 Songhaireich
+5 Königreich Kongo
+5 Zulureich
+5 Sultanat Oman und Maskat

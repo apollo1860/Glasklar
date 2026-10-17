@@ -7074,5 +7074,1197 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "tie-012",
+  "text": "Nenne ein Tier, dessen Name genau 4 Buchstaben hat",
+  "kategorie": "tiere",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "tie-012-a0001",
+    "text": "Hund",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-012-a0002",
+    "text": "Maus",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-012-a0003",
+    "text": "Hase",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-012-a0004",
+    "text": "Wolf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-012-a0005",
+    "text": "Affe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-012-a0006",
+    "text": "Esel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-012-a0007",
+    "text": "Igel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-012-a0008",
+    "text": "Löwe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-012-a0009",
+    "text": "Ente",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-012-a0010",
+    "text": "Gans",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0011",
+    "text": "Huhn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0012",
+    "text": "Hahn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0013",
+    "text": "Lamm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0014",
+    "text": "Kalb",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0015",
+    "text": "Puma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0016",
+    "text": "Lama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0017",
+    "text": "Möwe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0018",
+    "text": "Elch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0019",
+    "text": "Eule",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0020",
+    "text": "Rabe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0021",
+    "text": "Floh",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0022",
+    "text": "Laus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0023",
+    "text": "Wurm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0024",
+    "text": "Rind",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0025",
+    "text": "Pony",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0026",
+    "text": "Kiwi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0027",
+    "text": "Wels",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0028",
+    "text": "Orca",
+    "aliases": [
+     "Orka"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-012-a0029",
+    "text": "Fink",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0030",
+    "text": "Star",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0031",
+    "text": "Kauz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0032",
+    "text": "Pute",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0033",
+    "text": "Pfau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0034",
+    "text": "Eber",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0035",
+    "text": "Bock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0036",
+    "text": "Gams",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0037",
+    "text": "Nerz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0038",
+    "text": "Made",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0039",
+    "text": "Unke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0040",
+    "text": "Ross",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0041",
+    "text": "Gaul",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0042",
+    "text": "Muli",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0043",
+    "text": "Kitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0044",
+    "text": "Dodo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0045",
+    "text": "Ibis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0046",
+    "text": "Mops",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0047",
+    "text": "Rüde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0048",
+    "text": "Egel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0049",
+    "text": "Stör",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0050",
+    "text": "Butt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0051",
+    "text": "Kudu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0052",
+    "text": "Oryx",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0053",
+    "text": "Zebu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0054",
+    "text": "Maki",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0055",
+    "text": "Geiß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0056",
+    "text": "Lori",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0057",
+    "text": "Ochs",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-012-a0058",
+    "text": "Mink",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0059",
+    "text": "Gaur",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0060",
+    "text": "Anoa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0061",
+    "text": "Pika",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0062",
+    "text": "Paka",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0063",
+    "text": "Mara",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0064",
+    "text": "Orfe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0065",
+    "text": "Nase",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0066",
+    "text": "Mako",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0067",
+    "text": "Imme",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0068",
+    "text": "Unze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0069",
+    "text": "Fähe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0070",
+    "text": "Wutz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-012-a0071",
+    "text": "Skua",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "tie-013",
+  "text": "Nenne ein Tier, dessen Name genau 5 Buchstaben hat",
+  "kategorie": "tiere",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "tie-013-a0001",
+    "text": "Katze",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-013-a0002",
+    "text": "Pferd",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-013-a0003",
+    "text": "Tiger",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-013-a0004",
+    "text": "Zebra",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-013-a0005",
+    "text": "Biene",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0006",
+    "text": "Ziege",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0007",
+    "text": "Fuchs",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0008",
+    "text": "Taube",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0009",
+    "text": "Panda",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0010",
+    "text": "Koala",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0011",
+    "text": "Ratte",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0012",
+    "text": "Hyäne",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0013",
+    "text": "Kamel",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0014",
+    "text": "Schaf",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0015",
+    "text": "Robbe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-013-a0016",
+    "text": "Fisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0017",
+    "text": "Luchs",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0018",
+    "text": "Dachs",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0019",
+    "text": "Biber",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0020",
+    "text": "Bison",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0021",
+    "text": "Tapir",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0022",
+    "text": "Lemur",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0023",
+    "text": "Okapi",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0024",
+    "text": "Wespe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0025",
+    "text": "Mücke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0026",
+    "text": "Käfer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0027",
+    "text": "Spatz",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0028",
+    "text": "Amsel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0029",
+    "text": "Meise",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0030",
+    "text": "Adler",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0031",
+    "text": "Falke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0032",
+    "text": "Geier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0033",
+    "text": "Krähe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0034",
+    "text": "Lachs",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0035",
+    "text": "Hecht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0036",
+    "text": "Kröte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0037",
+    "text": "Molch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0038",
+    "text": "Echse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0039",
+    "text": "Gecko",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0040",
+    "text": "Kobra",
+    "aliases": [
+     "Cobra"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0041",
+    "text": "Viper",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0042",
+    "text": "Ochse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0043",
+    "text": "Stier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0044",
+    "text": "Bulle",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0045",
+    "text": "Stute",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0046",
+    "text": "Kater",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0047",
+    "text": "Welpe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0048",
+    "text": "Otter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0049",
+    "text": "Krake",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0050",
+    "text": "Krebs",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0051",
+    "text": "Zecke",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0052",
+    "text": "Motte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0053",
+    "text": "Raupe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0054",
+    "text": "Dingo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0055",
+    "text": "Gämse",
+    "aliases": [
+     "Gemse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0056",
+    "text": "Löwin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0057",
+    "text": "Küken",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0058",
+    "text": "Henne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-013-a0059",
+    "text": "Vogel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0060",
+    "text": "Lurch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0061",
+    "text": "Mungo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0062",
+    "text": "Iltis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0063",
+    "text": "Milbe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0064",
+    "text": "Larve",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0065",
+    "text": "Assel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0066",
+    "text": "Wanze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0067",
+    "text": "Gelse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0068",
+    "text": "Mamba",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0069",
+    "text": "Waran",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0070",
+    "text": "Fasan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0071",
+    "text": "Nandu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0072",
+    "text": "Tukan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0073",
+    "text": "Dohle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0074",
+    "text": "Milan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0075",
+    "text": "Erpel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0076",
+    "text": "Puter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0077",
+    "text": "Zobel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0078",
+    "text": "Skunk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0079",
+    "text": "Bärin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0080",
+    "text": "Pudel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0081",
+    "text": "Dogge",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0082",
+    "text": "Spitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0083",
+    "text": "Husky",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0084",
+    "text": "Boxer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0085",
+    "text": "Guppy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0086",
+    "text": "Barbe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0087",
+    "text": "Sepia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0088",
+    "text": "Ricke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0089",
+    "text": "Bache",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0090",
+    "text": "Zicke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0091",
+    "text": "Rappe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0092",
+    "text": "Hydra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0093",
+    "text": "Krill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0094",
+    "text": "Agame",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-013-a0095",
+    "text": "Färse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0096",
+    "text": "Mähre",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0097",
+    "text": "Falbe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0098",
+    "text": "Zibbe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0099",
+    "text": "Mieze",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0100",
+    "text": "Häsin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0101",
+    "text": "Äffin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0102",
+    "text": "Makak",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0103",
+    "text": "Loris",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0104",
+    "text": "Saiga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0105",
+    "text": "Takin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0106",
+    "text": "Aguti",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0107",
+    "text": "Indri",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0108",
+    "text": "Fossa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0109",
+    "text": "Bilch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0110",
+    "text": "Skink",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0111",
+    "text": "Polyp",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0112",
+    "text": "Pirol",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0113",
+    "text": "Ammer",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0114",
+    "text": "Häher",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0115",
+    "text": "Ralle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0116",
+    "text": "Lumme",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0117",
+    "text": "Weihe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0118",
+    "text": "Döbel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0119",
+    "text": "Aland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0120",
+    "text": "Molly",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0121",
+    "text": "Platy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0122",
+    "text": "Äsche",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0123",
+    "text": "Hasel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-013-a0124",
+    "text": "Laube",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

@@ -1,0 +1,198 @@
+@id wor-024
+@text Nenne eine Sprache, deren Name auf „-isch“ endet
+@typ geschlossen
+# Sprachen, historische Sprachen, Sprachfamilien/-gruppen (Keltisch, Germanisch, Slawisch), Mundarten/Varietäten
+# (Bairisch, Schwäbisch, Sächsisch, Österreichisch …) als tier3–5 sowie bekannte Kunstsprachen (Klingonisch, Elbisch) als tier4–5.
+# „Deutsch“ endet nur auf „-sch“, nicht auf „-isch“ → nicht aufgenommen; ebenso Kölsch, Latein, Farsi, Hindi, Thai usw.
+# Aliase nur, wenn sie ebenfalls auf -isch enden. Nicht aufgenommen, da keine Sprachbezeichnungen: Indisch, Afrikanisch,
+# Asiatisch, Belgisch, Schweizerisch, Kanadisch, Mexikanisch. Varietäten-Namen wie Brasilianisch (brasil. Portugiesisch),
+# Amerikanisch (amerik. Englisch), Marokkanisch/Libanesisch (arab. Dialekte) als tier5 aufgenommen; Denglisch (Mischsprache) tier5.
+
+1 Englisch
+1 Französisch
+1 Spanisch
+1 Italienisch
+2 Russisch
+2 Türkisch
+2 Japanisch
+2 Chinesisch
+2 Polnisch
+2 Portugiesisch
+2 Schwedisch
+2 Griechisch
+2 Arabisch
+2 Niederländisch = Holländisch
+3 Dänisch
+3 Norwegisch
+3 Finnisch
+3 Lateinisch
+3 Hebräisch
+3 Koreanisch
+3 Ungarisch
+3 Tschechisch
+3 Kroatisch
+3 Serbisch
+3 Rumänisch
+3 Persisch
+3 Ukrainisch
+3 Bulgarisch
+3 Albanisch
+3 Isländisch
+3 Bairisch = Bayerisch; Boarisch
+3 Schwäbisch
+3 Sächsisch
+3 Thailändisch
+3 Vietnamesisch
+3 Irisch
+3 Schottisch
+3 Kurdisch
+4 Slowakisch
+4 Slowenisch
+4 Bosnisch
+4 Mazedonisch = Makedonisch
+4 Montenegrinisch
+4 Weißrussisch = Belarussisch
+4 Litauisch
+4 Lettisch
+4 Estnisch
+4 Walisisch = Kymrisch
+4 Gälisch
+4 Bretonisch
+4 Baskisch
+4 Katalanisch
+4 Galicisch = Galizisch
+4 Rätoromanisch = Romanisch; Bündnerromanisch
+4 Friesisch
+4 Luxemburgisch
+4 Flämisch
+4 Jiddisch
+4 Aramäisch
+4 Altgriechisch
+4 Indonesisch
+4 Mongolisch
+4 Tibetisch
+4 Kantonesisch
+4 Georgisch
+4 Armenisch
+4 Aserbaidschanisch = Aserbeidschanisch
+4 Kasachisch
+4 Usbekisch
+4 Tamilisch
+4 Bengalisch
+4 Maltesisch
+4 Somalisch
+4 Ägyptisch = Altägyptisch
+4 Keltisch
+4 Germanisch
+4 Slawisch
+4 Fränkisch
+4 Hessisch
+4 Badisch
+4 Alemannisch
+4 Pfälzisch
+4 Österreichisch
+4 Berlinerisch = Berlinisch
+4 Wienerisch
+4 Klingonisch
+4 Elbisch
+4 Hawaiianisch = Hawaiisch
+4 Philippinisch
+4 Malaiisch
+4 Amharisch
+4 Berberisch
+4 Altnordisch
+4 Altenglisch
+4 Gotisch
+4 Sumerisch
+4 Phönizisch
+4 Etruskisch
+4 Kreolisch
+4 Schottisch-Gälisch
+4 Kastilisch
+4 Sizilianisch
+4 Sardisch
+4 Korsisch
+5 Okzitanisch = Provenzalisch
+5 Ladinisch
+5 Friaulisch
+5 Neapolitanisch
+5 Venezianisch
+5 Asturisch
+5 Aragonesisch
+5 Moldauisch
+5 Aromunisch
+5 Sorbisch
+5 Kaschubisch
+5 Färöisch
+5 Grönländisch
+5 Samisch = Lappisch
+5 Karelisch
+5 Tatarisch
+5 Baschkirisch
+5 Tschetschenisch
+5 Ossetisch
+5 Abchasisch
+5 Kirgisisch
+5 Tadschikisch
+5 Turkmenisch
+5 Uigurisch
+5 Hindustanisch
+5 Singhalesisch
+5 Nepalesisch
+5 Birmanisch = Burmesisch
+5 Laotisch
+5 Kambodschanisch
+5 Javanisch
+5 Sundanesisch
+5 Balinesisch
+5 Madagassisch
+5 Kabylisch
+5 Nubisch
+5 Äthiopisch = Altäthiopisch
+5 Koptisch
+5 Akkadisch
+5 Babylonisch
+5 Assyrisch
+5 Hethitisch
+5 Syrisch
+5 Punisch
+5 Oskisch
+5 Umbrisch
+5 Gallisch
+5 Altirisch
+5 Altisländisch
+5 Altpersisch
+5 Avestisch
+5 Mittelenglisch
+5 Kirchenslawisch = Altkirchenslawisch
+5 Haitianisch
+5 Samoanisch
+5 Tahitianisch
+5 Tongaisch
+5 Aztekisch
+5 Westfälisch
+5 Thüringisch
+5 Saarländisch
+5 Rheinisch
+5 Moselfränkisch
+5 Tirolerisch
+5 Steirisch
+5 Kärntnerisch
+5 Elsässisch
+5 Schlesisch
+5 Ostpreußisch
+5 Mecklenburgisch
+5 Jenisch
+5 Nordfriesisch
+5 Saterfriesisch
+5 Ostfriesisch
+5 Brasilianisch
+5 Amerikanisch
+5 Marokkanisch
+5 Libanesisch
+5 Denglisch
+5 Valyrisch = Hochvalyrisch
+5 Vulkanisch
+5 Simlisch
+5 Iranisch
+5 Skandinavisch

@@ -1,0 +1,79 @@
+@id tie-012
+@text Nenne ein Tier, dessen Name genau 4 Buchstaben hat
+@typ geschlossen
+# Deutsche Tiernamen, nur Einzelwörter; Umlaut und ß zählen als 1 Buchstabe (Länge per Skript geprüft).
+# Enthalten: Arten/Gattungen, Sammelbegriffe (Fisch, Vogel), Jungtiere, Geschlechts- und Jägerbezeichnungen, Pferdefarben (Rappe, Falbe) und einige bekannte Hunderassen.
+# Englische Namen nicht; Aliase nur gleich lange Schreibvarianten.
+# Nicht 4: Bär, Kuh, Reh, Hai, Aal, Wal, Uhu, Gnu, Yak, Emu, Ara, Sau (alle 3), Hirsch (6).
+
+1 Hund
+1 Maus
+1 Hase
+2 Wolf
+2 Affe
+2 Esel
+2 Igel
+2 Löwe
+2 Ente
+3 Gans
+3 Huhn
+3 Hahn
+3 Lamm
+3 Kalb
+3 Puma
+3 Lama
+3 Möwe
+3 Elch
+3 Eule
+3 Rabe
+3 Floh
+3 Laus
+3 Wurm
+3 Rind
+3 Pony
+3 Kiwi
+3 Wels
+3 Orca = Orka
+4 Fink
+4 Star
+4 Kauz
+4 Pute
+4 Pfau
+4 Eber
+4 Bock
+4 Gams
+4 Nerz
+4 Made
+4 Unke
+4 Ross
+4 Gaul
+4 Muli
+4 Kitz
+4 Dodo
+4 Ibis
+4 Mops
+4 Rüde
+4 Egel
+4 Stör
+4 Butt
+4 Kudu
+4 Oryx
+4 Zebu
+4 Maki
+4 Geiß
+4 Lori
+4 Ochs
+5 Mink
+5 Gaur
+5 Anoa
+5 Pika
+5 Paka
+5 Mara
+5 Orfe
+5 Nase
+5 Mako
+5 Imme
+5 Unze
+5 Fähe
+5 Wutz
+5 Skua

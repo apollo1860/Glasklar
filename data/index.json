@@ -6,8 +6,8 @@
       "id": "geografie",
       "name": "Geografie",
       "icon": "🌍",
-      "count": 52,
-      "v": "f0a82513fa",
+      "count": 53,
+      "v": "20bfd8cd7c",
       "questions": [
         "geo-001",
         "geo-002",
@@ -60,7 +60,8 @@
         "geo-049",
         "geo-050",
         "geo-051",
-        "geo-052"
+        "geo-052",
+        "geo-053"
       ]
     },
     {
@@ -106,8 +107,8 @@
       "id": "tiere",
       "name": "Tiere",
       "icon": "🐟",
-      "count": 9,
-      "v": "fdda853658",
+      "count": 11,
+      "v": "c527207545",
       "questions": [
         "tie-003",
         "tie-004",
@@ -117,7 +118,9 @@
         "tie-008",
         "tie-009",
         "tie-010",
-        "tie-011"
+        "tie-011",
+        "tie-012",
+        "tie-013"
       ]
     },
     {
@@ -177,8 +180,8 @@
       "id": "woerter",
       "name": "Wörter & Sprache",
       "icon": "🔤",
-      "count": 21,
-      "v": "4a87f2cd9a",
+      "count": 22,
+      "v": "2d8d932299",
       "questions": [
         "wor-003",
         "wor-004",
@@ -200,7 +203,8 @@
         "wor-020",
         "wor-021",
         "wor-022",
-        "wor-023"
+        "wor-023",
+        "wor-024"
       ]
     },
     {

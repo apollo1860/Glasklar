@@ -17630,5 +17630,934 @@
     "tier": 4
    }
   ]
+ },
+ {
+  "id": "geo-053",
+  "text": "Nenne ein Land, das nicht mehr existiert",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-053-a0001",
+    "text": "DDR",
+    "aliases": [
+     "Deutsche Demokratische Republik",
+     "Ostdeutschland",
+     "GDR"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-053-a0002",
+    "text": "Sowjetunion",
+    "aliases": [
+     "UdSSR",
+     "SU",
+     "USSR",
+     "CCCP"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-053-a0003",
+    "text": "Jugoslawien",
+    "aliases": [
+     "Yugoslavia"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-053-a0004",
+    "text": "Preußen",
+    "aliases": [
+     "Königreich Preußen",
+     "Prussia"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-053-a0005",
+    "text": "Tschechoslowakei",
+    "aliases": [
+     "ČSSR",
+     "ČSFR",
+     "Czechoslovakia"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-053-a0006",
+    "text": "Römisches Reich",
+    "aliases": [
+     "Römisches Imperium",
+     "Imperium Romanum",
+     "Antikes Rom",
+     "Römerreich"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-053-a0007",
+    "text": "Österreich-Ungarn",
+    "aliases": [
+     "Donaumonarchie",
+     "k.u.k. Monarchie",
+     "Habsburgermonarchie"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-053-a0008",
+    "text": "Osmanisches Reich",
+    "aliases": [
+     "Osmanenreich",
+     "Ottomanisches Reich"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-053-a0009",
+    "text": "Deutsches Reich",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-053-a0010",
+    "text": "Drittes Reich",
+    "aliases": [
+     "Großdeutsches Reich",
+     "Nazideutschland",
+     "NS-Staat"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0011",
+    "text": "Weimarer Republik",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0012",
+    "text": "Deutsches Kaiserreich",
+    "aliases": [
+     "Kaiserreich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0013",
+    "text": "Heiliges Römisches Reich",
+    "aliases": [
+     "HRR",
+     "Heiliges Römisches Reich Deutscher Nation"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0014",
+    "text": "Byzantinisches Reich",
+    "aliases": [
+     "Byzanz",
+     "Oströmisches Reich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0015",
+    "text": "Weströmisches Reich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0016",
+    "text": "Persien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0017",
+    "text": "Rhodesien",
+    "aliases": [
+     "Rhodesia"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0018",
+    "text": "Zaire",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0019",
+    "text": "Russisches Kaiserreich",
+    "aliases": [
+     "Zarenreich",
+     "Kaiserreich Russland"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0020",
+    "text": "Mongolisches Reich",
+    "aliases": [
+     "Mongolenreich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0021",
+    "text": "Inkareich",
+    "aliases": [
+     "Reich der Inka"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0022",
+    "text": "Aztekenreich",
+    "aliases": [
+     "Reich der Azteken"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0023",
+    "text": "Perserreich",
+    "aliases": [
+     "Achämenidenreich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0024",
+    "text": "Babylonien",
+    "aliases": [
+     "Babylon",
+     "Babylonisches Reich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0025",
+    "text": "Altes Ägypten",
+    "aliases": [
+     "Altägypten",
+     "Pharaonenreich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0026",
+    "text": "Karthago",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0027",
+    "text": "Sparta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0028",
+    "text": "Frankenreich",
+    "aliases": [
+     "Fränkisches Reich",
+     "Karolingerreich"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0029",
+    "text": "Südvietnam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0030",
+    "text": "Nordvietnam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0031",
+    "text": "Serbien und Montenegro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0032",
+    "text": "Siam",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-053-a0033",
+    "text": "Ceylon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0034",
+    "text": "Birma",
+    "aliases": [
+     "Burma"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0035",
+    "text": "Abessinien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0036",
+    "text": "Swasiland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0037",
+    "text": "Kampuchea",
+    "aliases": [
+     "Demokratisches Kampuchea"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0038",
+    "text": "Dahomey",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0039",
+    "text": "Obervolta",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0040",
+    "text": "Nordjemen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0041",
+    "text": "Südjemen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0042",
+    "text": "Tibet",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0043",
+    "text": "Sikkim",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0044",
+    "text": "Biafra",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0045",
+    "text": "Königreich Hawaii",
+    "aliases": [
+     "Hawaii"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0046",
+    "text": "Republik Texas",
+    "aliases": [
+     "Texas"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0047",
+    "text": "Königreich Bayern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0048",
+    "text": "Königreich Sachsen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0049",
+    "text": "Königreich Württemberg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0050",
+    "text": "Königreich Hannover",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0051",
+    "text": "Königreich Böhmen",
+    "aliases": [
+     "Böhmen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0052",
+    "text": "Makedonien",
+    "aliases": [
+     "Mazedonien",
+     "Königreich Makedonien"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0053",
+    "text": "Assyrien",
+    "aliases": [
+     "Assyrisches Reich"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0054",
+    "text": "Phönizien",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0055",
+    "text": "Konföderierte Staaten von Amerika",
+    "aliases": [
+     "Konföderierte Staaten",
+     "Südstaaten",
+     "CSA"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0056",
+    "text": "Republik Venedig",
+    "aliases": [
+     "Venedig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0057",
+    "text": "Kirchenstaat",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0058",
+    "text": "Freie Stadt Danzig",
+    "aliases": [
+     "Danzig"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0059",
+    "text": "Polen-Litauen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0060",
+    "text": "Kiewer Rus",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0061",
+    "text": "Mogulreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0062",
+    "text": "Deutscher Bund",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0063",
+    "text": "Norddeutscher Bund",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0064",
+    "text": "Rheinbund",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0065",
+    "text": "Sansibar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0066",
+    "text": "Tanganjika",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0067",
+    "text": "Ostpakistan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0068",
+    "text": "Vereinigte Arabische Republik",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0069",
+    "text": "Kaisertum Österreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0070",
+    "text": "Hethiterreich",
+    "aliases": [
+     "Hethiter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0071",
+    "text": "Ostgotenreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0072",
+    "text": "Westgotenreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0073",
+    "text": "Vandalenreich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-053-a0074",
+    "text": "Langobardenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0075",
+    "text": "Hunnenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0076",
+    "text": "Ostfrankenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0077",
+    "text": "Westfrankenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0078",
+    "text": "Lotharingien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0079",
+    "text": "Herzogtum Burgund",
+    "aliases": [
+     "Burgund"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0080",
+    "text": "Republik Genua",
+    "aliases": [
+     "Genua"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0081",
+    "text": "Königreich Sardinien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0082",
+    "text": "Königreich beider Sizilien",
+    "aliases": [
+     "Königreich Neapel"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0083",
+    "text": "Savoyen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0084",
+    "text": "Großherzogtum Baden",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0085",
+    "text": "Großherzogtum Toskana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0086",
+    "text": "Deutschordensstaat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0087",
+    "text": "Neutral-Moresnet",
+    "aliases": [
+     "Moresnet"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0088",
+    "text": "Kongo-Freistaat",
+    "aliases": [
+     "Kongostaat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0089",
+    "text": "Belgisch-Kongo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0090",
+    "text": "Oranje-Freistaat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0091",
+    "text": "Transvaal",
+    "aliases": [
+     "Südafrikanische Republik"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0092",
+    "text": "Deutsch-Südwestafrika",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0093",
+    "text": "Deutsch-Ostafrika",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0094",
+    "text": "Goldküste",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0095",
+    "text": "Betschuanaland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0096",
+    "text": "Basutoland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0097",
+    "text": "Njassaland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0098",
+    "text": "Südwestafrika",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0099",
+    "text": "Französisch-Indochina",
+    "aliases": [
+     "Indochina"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0100",
+    "text": "Britisch-Indien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0101",
+    "text": "Mandschukuo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0102",
+    "text": "Japanisches Kaiserreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0103",
+    "text": "Kaiserreich China",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0104",
+    "text": "Khmer-Reich",
+    "aliases": [
+     "Angkor"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0105",
+    "text": "Tannu-Tuwa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0106",
+    "text": "Zentralafrikanisches Kaiserreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0107",
+    "text": "Irischer Freistaat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0108",
+    "text": "Neufundland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0109",
+    "text": "Großkolumbien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0110",
+    "text": "Zentralamerikanische Konföderation",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0111",
+    "text": "Protektorat Böhmen und Mähren",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0112",
+    "text": "Vichy-Frankreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0113",
+    "text": "Saarprotektorat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0114",
+    "text": "Kaiserreich Mexiko",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0115",
+    "text": "Kaiserreich Brasilien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0116",
+    "text": "Republik Kalifornien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0117",
+    "text": "Akkad",
+    "aliases": [
+     "Akkadisches Reich"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0118",
+    "text": "Urartu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0119",
+    "text": "Lydien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0120",
+    "text": "Numidien",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0121",
+    "text": "Ptolemäerreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0122",
+    "text": "Seleukidenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0123",
+    "text": "Partherreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0124",
+    "text": "Sassanidenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0125",
+    "text": "Kalifat der Abbasiden",
+    "aliases": [
+     "Abbasidenkalifat"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0126",
+    "text": "Umayyaden-Kalifat",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0127",
+    "text": "Königreich Jerusalem",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0128",
+    "text": "Großmährisches Reich",
+    "aliases": [
+     "Großmähren"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0129",
+    "text": "Goldene Horde",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0130",
+    "text": "Timuridenreich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0131",
+    "text": "Malireich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0132",
+    "text": "Songhaireich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0133",
+    "text": "Königreich Kongo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0134",
+    "text": "Zulureich",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-053-a0135",
+    "text": "Sultanat Oman und Maskat",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

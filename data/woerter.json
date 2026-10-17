@@ -10510,5 +10510,1177 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "wor-024",
+  "text": "Nenne eine Sprache, deren Name auf „-isch“ endet",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-024-a0001",
+    "text": "Englisch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-024-a0002",
+    "text": "Französisch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-024-a0003",
+    "text": "Spanisch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-024-a0004",
+    "text": "Italienisch",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "wor-024-a0005",
+    "text": "Russisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0006",
+    "text": "Türkisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0007",
+    "text": "Japanisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0008",
+    "text": "Chinesisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0009",
+    "text": "Polnisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0010",
+    "text": "Portugiesisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0011",
+    "text": "Schwedisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0012",
+    "text": "Griechisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0013",
+    "text": "Arabisch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0014",
+    "text": "Niederländisch",
+    "aliases": [
+     "Holländisch"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-024-a0015",
+    "text": "Dänisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0016",
+    "text": "Norwegisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0017",
+    "text": "Finnisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0018",
+    "text": "Lateinisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0019",
+    "text": "Hebräisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0020",
+    "text": "Koreanisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0021",
+    "text": "Ungarisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0022",
+    "text": "Tschechisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0023",
+    "text": "Kroatisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0024",
+    "text": "Serbisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0025",
+    "text": "Rumänisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0026",
+    "text": "Persisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0027",
+    "text": "Ukrainisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0028",
+    "text": "Bulgarisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0029",
+    "text": "Albanisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0030",
+    "text": "Isländisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0031",
+    "text": "Bairisch",
+    "aliases": [
+     "Bayerisch",
+     "Boarisch"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0032",
+    "text": "Schwäbisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0033",
+    "text": "Sächsisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0034",
+    "text": "Thailändisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0035",
+    "text": "Vietnamesisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0036",
+    "text": "Irisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0037",
+    "text": "Schottisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0038",
+    "text": "Kurdisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-024-a0039",
+    "text": "Slowakisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0040",
+    "text": "Slowenisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0041",
+    "text": "Bosnisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0042",
+    "text": "Mazedonisch",
+    "aliases": [
+     "Makedonisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0043",
+    "text": "Montenegrinisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0044",
+    "text": "Weißrussisch",
+    "aliases": [
+     "Belarussisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0045",
+    "text": "Litauisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0046",
+    "text": "Lettisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0047",
+    "text": "Estnisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0048",
+    "text": "Walisisch",
+    "aliases": [
+     "Kymrisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0049",
+    "text": "Gälisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0050",
+    "text": "Bretonisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0051",
+    "text": "Baskisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0052",
+    "text": "Katalanisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0053",
+    "text": "Galicisch",
+    "aliases": [
+     "Galizisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0054",
+    "text": "Rätoromanisch",
+    "aliases": [
+     "Romanisch",
+     "Bündnerromanisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0055",
+    "text": "Friesisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0056",
+    "text": "Luxemburgisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0057",
+    "text": "Flämisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0058",
+    "text": "Jiddisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0059",
+    "text": "Aramäisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0060",
+    "text": "Altgriechisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0061",
+    "text": "Indonesisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0062",
+    "text": "Mongolisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0063",
+    "text": "Tibetisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0064",
+    "text": "Kantonesisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0065",
+    "text": "Georgisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0066",
+    "text": "Armenisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0067",
+    "text": "Aserbaidschanisch",
+    "aliases": [
+     "Aserbeidschanisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0068",
+    "text": "Kasachisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0069",
+    "text": "Usbekisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0070",
+    "text": "Tamilisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0071",
+    "text": "Bengalisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0072",
+    "text": "Maltesisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0073",
+    "text": "Somalisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0074",
+    "text": "Ägyptisch",
+    "aliases": [
+     "Altägyptisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0075",
+    "text": "Keltisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0076",
+    "text": "Germanisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0077",
+    "text": "Slawisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0078",
+    "text": "Fränkisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0079",
+    "text": "Hessisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0080",
+    "text": "Badisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0081",
+    "text": "Alemannisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0082",
+    "text": "Pfälzisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0083",
+    "text": "Österreichisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0084",
+    "text": "Berlinerisch",
+    "aliases": [
+     "Berlinisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0085",
+    "text": "Wienerisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0086",
+    "text": "Klingonisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0087",
+    "text": "Elbisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0088",
+    "text": "Hawaiianisch",
+    "aliases": [
+     "Hawaiisch"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0089",
+    "text": "Philippinisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0090",
+    "text": "Malaiisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0091",
+    "text": "Amharisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0092",
+    "text": "Berberisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0093",
+    "text": "Altnordisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0094",
+    "text": "Altenglisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0095",
+    "text": "Gotisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0096",
+    "text": "Sumerisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0097",
+    "text": "Phönizisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0098",
+    "text": "Etruskisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0099",
+    "text": "Kreolisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0100",
+    "text": "Schottisch-Gälisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0101",
+    "text": "Kastilisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0102",
+    "text": "Sizilianisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0103",
+    "text": "Sardisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0104",
+    "text": "Korsisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-024-a0105",
+    "text": "Okzitanisch",
+    "aliases": [
+     "Provenzalisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0106",
+    "text": "Ladinisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0107",
+    "text": "Friaulisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0108",
+    "text": "Neapolitanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0109",
+    "text": "Venezianisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0110",
+    "text": "Asturisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0111",
+    "text": "Aragonesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0112",
+    "text": "Moldauisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0113",
+    "text": "Aromunisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0114",
+    "text": "Sorbisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0115",
+    "text": "Kaschubisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0116",
+    "text": "Färöisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0117",
+    "text": "Grönländisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0118",
+    "text": "Samisch",
+    "aliases": [
+     "Lappisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0119",
+    "text": "Karelisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0120",
+    "text": "Tatarisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0121",
+    "text": "Baschkirisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0122",
+    "text": "Tschetschenisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0123",
+    "text": "Ossetisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0124",
+    "text": "Abchasisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0125",
+    "text": "Kirgisisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0126",
+    "text": "Tadschikisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0127",
+    "text": "Turkmenisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0128",
+    "text": "Uigurisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0129",
+    "text": "Hindustanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0130",
+    "text": "Singhalesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0131",
+    "text": "Nepalesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0132",
+    "text": "Birmanisch",
+    "aliases": [
+     "Burmesisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0133",
+    "text": "Laotisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0134",
+    "text": "Kambodschanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0135",
+    "text": "Javanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0136",
+    "text": "Sundanesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0137",
+    "text": "Balinesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0138",
+    "text": "Madagassisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0139",
+    "text": "Kabylisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0140",
+    "text": "Nubisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0141",
+    "text": "Äthiopisch",
+    "aliases": [
+     "Altäthiopisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0142",
+    "text": "Koptisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0143",
+    "text": "Akkadisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0144",
+    "text": "Babylonisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0145",
+    "text": "Assyrisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0146",
+    "text": "Hethitisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0147",
+    "text": "Syrisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0148",
+    "text": "Punisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0149",
+    "text": "Oskisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0150",
+    "text": "Umbrisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0151",
+    "text": "Gallisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0152",
+    "text": "Altirisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0153",
+    "text": "Altisländisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0154",
+    "text": "Altpersisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0155",
+    "text": "Avestisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0156",
+    "text": "Mittelenglisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0157",
+    "text": "Kirchenslawisch",
+    "aliases": [
+     "Altkirchenslawisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0158",
+    "text": "Haitianisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0159",
+    "text": "Samoanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0160",
+    "text": "Tahitianisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0161",
+    "text": "Tongaisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0162",
+    "text": "Aztekisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0163",
+    "text": "Westfälisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0164",
+    "text": "Thüringisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0165",
+    "text": "Saarländisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0166",
+    "text": "Rheinisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0167",
+    "text": "Moselfränkisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0168",
+    "text": "Tirolerisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0169",
+    "text": "Steirisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0170",
+    "text": "Kärntnerisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0171",
+    "text": "Elsässisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0172",
+    "text": "Schlesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0173",
+    "text": "Ostpreußisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0174",
+    "text": "Mecklenburgisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0175",
+    "text": "Jenisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0176",
+    "text": "Nordfriesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0177",
+    "text": "Saterfriesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0178",
+    "text": "Ostfriesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0179",
+    "text": "Brasilianisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0180",
+    "text": "Amerikanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0181",
+    "text": "Marokkanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0182",
+    "text": "Libanesisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0183",
+    "text": "Denglisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0184",
+    "text": "Valyrisch",
+    "aliases": [
+     "Hochvalyrisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0185",
+    "text": "Vulkanisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0186",
+    "text": "Simlisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0187",
+    "text": "Iranisch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "wor-024-a0188",
+    "text": "Skandinavisch",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]
