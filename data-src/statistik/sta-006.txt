@@ -10,15 +10,15 @@
 3 Sachsen-Anhalt
 3 Brandenburg
 2 Niedersachsen
-2 Thüringen
-2 Bayern
-2 Sachsen
-1 Baden-Württemberg = BaWü
+2 Thüringen = Freistaat Thüringen
+2 Bayern = Freistaat Bayern
+2 Sachsen = Freistaat Sachsen
+1 Baden-Württemberg = BaWü; BW
 1 Berlin
-1 Bremen
-1 Hamburg
+1 Bremen = Freie Hansestadt Bremen; Hansestadt Bremen
+1 Hamburg = Freie und Hansestadt Hamburg; Hansestadt Hamburg
 1 Hessen
 1 Nordrhein-Westfalen = NRW
-1 Rheinland-Pfalz
+1 Rheinland-Pfalz = RLP
 1 Saarland
 1 Schleswig-Holstein

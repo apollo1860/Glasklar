@@ -983,14 +983,17 @@
     "id": "sta-004-a0001",
     "text": "Baden-Württemberg",
     "aliases": [
-     "BaWü"
+     "BaWü",
+     "BW"
     ],
     "tier": 5
    },
    {
     "id": "sta-004-a0002",
     "text": "Bayern",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Bayern"
+    ],
     "tier": 3
    },
    {
@@ -1002,19 +1005,26 @@
    {
     "id": "sta-004-a0004",
     "text": "Sachsen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
     "tier": 2
    },
    {
     "id": "sta-004-a0005",
     "text": "Hamburg",
-    "aliases": [],
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
     "tier": 2
    },
    {
     "id": "sta-004-a0006",
     "text": "Rheinland-Pfalz",
-    "aliases": [],
+    "aliases": [
+     "RLP"
+    ],
     "tier": 2
    },
    {
@@ -1032,7 +1042,10 @@
    {
     "id": "sta-004-a0009",
     "text": "Bremen",
-    "aliases": [],
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
     "tier": 1
    },
    {
@@ -1079,7 +1092,9 @@
    {
     "id": "sta-004-a0016",
     "text": "Thüringen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
     "tier": 1
    }
   ]
@@ -1095,7 +1110,10 @@
    {
     "id": "sta-005-a0001",
     "text": "Bremen",
-    "aliases": [],
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
     "tier": 5
    },
    {
@@ -1107,7 +1125,10 @@
    {
     "id": "sta-005-a0003",
     "text": "Hamburg",
-    "aliases": [],
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
     "tier": 3
    },
    {
@@ -1137,14 +1158,17 @@
     "id": "sta-005-a0007",
     "text": "Baden-Württemberg",
     "aliases": [
-     "BaWü"
+     "BaWü",
+     "BW"
     ],
     "tier": 1
    },
    {
     "id": "sta-005-a0008",
     "text": "Bayern",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Bayern"
+    ],
     "tier": 1
    },
    {
@@ -1168,7 +1192,9 @@
    {
     "id": "sta-005-a0012",
     "text": "Rheinland-Pfalz",
-    "aliases": [],
+    "aliases": [
+     "RLP"
+    ],
     "tier": 1
    },
    {
@@ -1180,7 +1206,9 @@
    {
     "id": "sta-005-a0014",
     "text": "Sachsen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
     "tier": 1
    },
    {
@@ -1192,7 +1220,9 @@
    {
     "id": "sta-005-a0016",
     "text": "Thüringen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
     "tier": 1
    }
   ]
@@ -1235,26 +1265,33 @@
    {
     "id": "sta-006-a0005",
     "text": "Thüringen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
     "tier": 2
    },
    {
     "id": "sta-006-a0006",
     "text": "Bayern",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Bayern"
+    ],
     "tier": 2
    },
    {
     "id": "sta-006-a0007",
     "text": "Sachsen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
     "tier": 2
    },
    {
     "id": "sta-006-a0008",
     "text": "Baden-Württemberg",
     "aliases": [
-     "BaWü"
+     "BaWü",
+     "BW"
     ],
     "tier": 1
    },
@@ -1267,13 +1304,19 @@
    {
     "id": "sta-006-a0010",
     "text": "Bremen",
-    "aliases": [],
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
     "tier": 1
    },
    {
     "id": "sta-006-a0011",
     "text": "Hamburg",
-    "aliases": [],
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
     "tier": 1
    },
    {
@@ -1293,7 +1336,9 @@
    {
     "id": "sta-006-a0014",
     "text": "Rheinland-Pfalz",
-    "aliases": [],
+    "aliases": [
+     "RLP"
+    ],
     "tier": 1
    },
    {
@@ -1335,19 +1380,27 @@
    {
     "id": "sta-007-a0003",
     "text": "Bremen",
-    "aliases": [],
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
     "tier": 3
    },
    {
     "id": "sta-007-a0004",
     "text": "Thüringen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
     "tier": 2
    },
    {
     "id": "sta-007-a0005",
     "text": "Hamburg",
-    "aliases": [],
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
     "tier": 2
    },
    {
@@ -1360,14 +1413,17 @@
     "id": "sta-007-a0007",
     "text": "Baden-Württemberg",
     "aliases": [
-     "BaWü"
+     "BaWü",
+     "BW"
     ],
     "tier": 1
    },
    {
     "id": "sta-007-a0008",
     "text": "Bayern",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Bayern"
+    ],
     "tier": 1
    },
    {
@@ -1400,7 +1456,9 @@
    {
     "id": "sta-007-a0013",
     "text": "Rheinland-Pfalz",
-    "aliases": [],
+    "aliases": [
+     "RLP"
+    ],
     "tier": 1
    },
    {
@@ -1412,7 +1470,9 @@
    {
     "id": "sta-007-a0015",
     "text": "Sachsen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
     "tier": 1
    },
    {
@@ -1440,7 +1500,10 @@
    {
     "id": "sta-008-a0002",
     "text": "Bremen",
-    "aliases": [],
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
     "tier": 3
    },
    {
@@ -1452,7 +1515,9 @@
    {
     "id": "sta-008-a0004",
     "text": "Thüringen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
     "tier": 2
    },
    {
@@ -1464,21 +1529,27 @@
    {
     "id": "sta-008-a0006",
     "text": "Hamburg",
-    "aliases": [],
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
     "tier": 2
    },
    {
     "id": "sta-008-a0007",
     "text": "Baden-Württemberg",
     "aliases": [
-     "BaWü"
+     "BaWü",
+     "BW"
     ],
     "tier": 1
    },
    {
     "id": "sta-008-a0008",
     "text": "Bayern",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Bayern"
+    ],
     "tier": 1
    },
    {
@@ -1519,13 +1590,17 @@
    {
     "id": "sta-008-a0014",
     "text": "Rheinland-Pfalz",
-    "aliases": [],
+    "aliases": [
+     "RLP"
+    ],
     "tier": 1
    },
    {
     "id": "sta-008-a0015",
     "text": "Sachsen",
-    "aliases": [],
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
     "tier": 1
    },
    {

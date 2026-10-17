@@ -6,19 +6,19 @@
 # Bremen 11,0 %, Berlin 10,3 %, Hamburg 8,3 %, MV und Sachsen-Anhalt je 8,0 %.
 # Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
 
-5 Bremen
+5 Bremen = Freie Hansestadt Bremen; Hansestadt Bremen
 3 Berlin
-3 Hamburg
+3 Hamburg = Freie und Hansestadt Hamburg; Hansestadt Hamburg
 2 Mecklenburg-Vorpommern = MV; Meck-Pomm
 2 Sachsen-Anhalt
 2 Nordrhein-Westfalen = NRW
-1 Baden-Württemberg = BaWü
-1 Bayern
+1 Baden-Württemberg = BaWü; BW
+1 Bayern = Freistaat Bayern
 1 Brandenburg
 1 Hessen
 1 Niedersachsen
-1 Rheinland-Pfalz
+1 Rheinland-Pfalz = RLP
 1 Saarland
-1 Sachsen
+1 Sachsen = Freistaat Sachsen
 1 Schleswig-Holstein
-1 Thüringen
+1 Thüringen = Freistaat Thüringen

@@ -6,19 +6,19 @@
 # Mittel aus Frauen und Männern; Baden-Württemberg seit Jahren vorn.
 # Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
 
-5 Baden-Württemberg = BaWü
-3 Bayern
+5 Baden-Württemberg = BaWü; BW
+3 Bayern = Freistaat Bayern
 3 Hessen
-2 Sachsen
-2 Hamburg
-2 Rheinland-Pfalz
+2 Sachsen = Freistaat Sachsen
+2 Hamburg = Freie und Hansestadt Hamburg; Hansestadt Hamburg
+2 Rheinland-Pfalz = RLP
 1 Berlin
 1 Brandenburg
-1 Bremen
+1 Bremen = Freie Hansestadt Bremen; Hansestadt Bremen
 1 Mecklenburg-Vorpommern = MV; Meck-Pomm
 1 Niedersachsen
 1 Nordrhein-Westfalen = NRW
 1 Saarland
 1 Sachsen-Anhalt
 1 Schleswig-Holstein
-1 Thüringen
+1 Thüringen = Freistaat Thüringen

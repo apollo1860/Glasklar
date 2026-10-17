@@ -7,18 +7,18 @@
 # Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
 
 5 Saarland
-3 Bremen
+3 Bremen = Freie Hansestadt Bremen; Hansestadt Bremen
 3 Sachsen-Anhalt
-2 Thüringen
+2 Thüringen = Freistaat Thüringen
 2 Brandenburg
-2 Hamburg
-1 Baden-Württemberg = BaWü
-1 Bayern
+2 Hamburg = Freie und Hansestadt Hamburg; Hansestadt Hamburg
+1 Baden-Württemberg = BaWü; BW
+1 Bayern = Freistaat Bayern
 1 Berlin
 1 Hessen
 1 Mecklenburg-Vorpommern = MV; Meck-Pomm
 1 Niedersachsen
 1 Nordrhein-Westfalen = NRW
-1 Rheinland-Pfalz
-1 Sachsen
+1 Rheinland-Pfalz = RLP
+1 Sachsen = Freistaat Sachsen
 1 Schleswig-Holstein
