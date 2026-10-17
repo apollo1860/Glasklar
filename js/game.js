@@ -172,6 +172,7 @@ function submitAnswer(sub) {
 async function reveal(sub) {
   const q = S.question;
   $('#btn-skip').hidden = true;
+  $('#btn-q-review').hidden = true;
   $('#answer-area').hidden = true;
   const { me } = computeQuestionFills({ me: sub }, q, { multiplayer: false });
   const fill = me.fill;

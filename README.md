@@ -35,7 +35,7 @@ Mit Konfiguration lässt sich der Testmodus über `?lokal` in der URL erzwingen 
 - Kein Zeitlimit – bis auf eine Ausnahme: Haben alle bis auf eine:n geantwortet, bleiben dem letzten Spieler noch 20 Sekunden (`CONFIG.lastAnswerSeconds`). Der Countdown läuft über die Serverzeit (`.info/serverTimeOffset`), nicht über die Uhr des Geräts.
 - Antworten liegen bis zum Reveal verdeckt (die Regeln erlauben das Lesen erst nach der Frage), danach sind Eingaben gesperrt.
 - Reveal, sobald alle geantwortet haben oder die letzten 20 Sekunden abgelaufen sind.
-- Nach jeder Runde (3 Fragen) kommt ein überspringbarer Rundenrückblick: pro Frage, wer was geantwortet hat, die Einschätzung des Spiels (Sehr naheliegend … Sehr selten, bei Ranglisten Volltreffer … Weit daneben) und die Füllung. Über „Antworten der Runde“ lässt er sich in der Abrechnung erneut öffnen. Der Host merkt sich dafür die Abgaben unter `meta/log/qN`.
+- Nach jeder Frage öffnet sich nach der Glas-Animation ein überspringbarer Rückblick: wer was geantwortet hat, die Einschätzung des Spiels (Sehr naheliegend … Sehr selten, bei Ranglisten Volltreffer … Weit daneben) und die Füllung. Über „Wer hat was geantwortet?“ lässt er sich erneut öffnen; bei der nächsten Frage schließt er sich automatisch.
 - Reconnect: Spieler-ID und Raum werden gespeichert, beim Neuladen kommt „Zurück ins Spiel?".
 - Verlässt der Host den Raum, übernimmt der älteste verbundene Spieler. Bei weniger als 2 verbundenen Spielern pausiert das Spiel (ein laufender Countdown wird angehalten).
 - Räume, die länger als 6 Stunden inaktiv sind, werden beim Erstellen eines neuen Raums gelöscht.

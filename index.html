@@ -116,10 +116,20 @@
         <p id="reveal-question" class="reveal-question"></p>
         <div id="reveal-chips" class="answer-chips"></div>
         <p id="reveal-solution" class="reveal-solution" hidden></p>
+        <button id="btn-q-review" class="btn btn-ghost btn-block" data-act="q-review" hidden>Wer hat was geantwortet?</button>
         <button id="btn-next" class="btn btn-primary btn-xl btn-block" data-act="next" hidden>Nächste Frage</button>
         <p id="reveal-wait" class="wait-note" hidden>Warte auf den Host …</p>
       </div>
     </section>
+
+    <!-- RÜCKBLICK NACH JEDER FRAGE (Multiplayer) -->
+    <div id="q-review" class="review-back" hidden>
+      <div class="review-sheet" role="dialog" aria-modal="true" aria-labelledby="q-review-title">
+        <h2 id="q-review-title" class="result-title">Wer hat was geantwortet?</h2>
+        <div id="q-review-body"></div>
+        <button id="q-review-skip" class="btn btn-primary btn-xl btn-block review-skip" type="button">Weiter</button>
+      </div>
+    </div>
 
     <!-- ENDABRECHNUNG -->
     <section id="screen-result" class="screen" hidden>
@@ -210,13 +220,7 @@
 
     <!-- MULTIPLAYER: ENDABRECHNUNG -->
     <section id="screen-mp-result" class="screen" hidden>
-      <div id="mpr-review" class="scroll review-wrap" hidden>
-        <h2 class="result-title">Rundenrückblick</h2>
-        <p class="review-sub">Wer hat was geantwortet – und wie naheliegend war das?</p>
-        <div id="mpr-review-body"></div>
-        <button id="mpr-review-skip" class="btn btn-primary btn-xl btn-block review-skip" type="button">Weiter zur Abrechnung</button>
-      </div>
-      <div id="mpr-main" class="scroll result-wrap">
+      <div class="scroll result-wrap">
         <h2 id="mpr-title" class="result-title">Abrechnung</h2>
         <div id="mpr-glasses" class="glass-row"></div>
         <ol id="mpr-list" class="sip-list"></ol>
@@ -226,7 +230,6 @@
         </div>
         <div id="mpr-actions" class="result-actions">
           <button id="mpr-new" class="btn btn-primary btn-xl btn-block" data-act="new-round">Neue Runde</button>
-          <button id="mpr-review-open" class="btn btn-secondary btn-block" data-act="review-open" hidden>Antworten der Runde</button>
           <button id="mpr-end" class="btn btn-ghost btn-block" data-act="end-game">Spiel beenden</button>
           <p id="mpr-wait" class="wait-note" hidden>Warte auf den Host …</p>
         </div>

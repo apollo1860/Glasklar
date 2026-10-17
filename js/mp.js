@@ -268,6 +268,7 @@ export function createMultiplayer(ctx) {
       M.be.update(R('meta'), { hostId: uid() }).catch(() => {});
     }
     $('#pause-overlay').hidden = !isPaused();
+    if (M.meta.phase !== 'reveal') closeQReview();
 
     switch (M.meta.phase) {
       case 'lobby': renderLobby(); break;
@@ -394,7 +395,7 @@ export function createMultiplayer(ctx) {
     } else {
       upd[`played/${pick.id}`] = true;
     }
-    if (newRound) { upd.fills = null; upd['meta/log'] = null; }
+    if (newRound) upd.fills = null;
     await M.be.update(R(), upd);
     M.be.set(`roomsActivity/${M.code}`, TS).catch(() => {});
   }
@@ -403,17 +404,6 @@ export function createMultiplayer(ctx) {
     if (M.meta?.phase !== 'frage' || M.question?.seq !== seq || M.revealTriggered === seq) return;
     M.revealTriggered = seq;
     M.be.update(R('meta'), { phase: 'reveal' }).catch(() => { M.revealTriggered = null; });
-  }
-
-  /** Host: Abgaben der Frage für den Rundenrückblick merken (meta/log/qN). */
-  function writeLog(subs) {
-    const qKey = `q${M.meta.qNum}`;
-    if (M.meta.log?.[qKey]?.id === M.question.id) return;
-    const clean = {};
-    for (const [pid, s] of Object.entries(subs)) {
-      clean[pid] = s?.type === 'answer' ? { type: 'answer', answerId: s.answerId } : { type: s?.type === 'nothing' ? 'nothing' : 'timeout' };
-    }
-    M.be.update(R(), { [`meta/log/${qKey}`]: { id: M.question.id, kategorie: M.question.kategorie, subs: clean } }).catch(() => {});
   }
 
   function writeFills(fills) {
@@ -588,10 +578,11 @@ export function createMultiplayer(ctx) {
     const seq = M.question.seq;
     const subs = revealSubmissions(M.players, answers);
     const fills = computeQuestionFills(subs, q, { multiplayer: true });
-    if (isHost()) { writeFills(fills); writeLog(subs); }
+    if (isHost()) writeFills(fills);
 
     const panel = $('#reveal-panel');
     panel.dataset.done = '0';
+    $('#btn-q-review').hidden = true;
     $('#btn-skip').hidden = true;
     $('#answer-area').hidden = true;
     const mySub = subs[uid()];
@@ -645,7 +636,41 @@ export function createMultiplayer(ctx) {
     }
     if (M.question?.seq !== seq) return;
     panel.dataset.done = '1';
+    renderQReview(q, subs, fills);
+    $('#btn-q-review').hidden = false;
     updateRevealControls();
+    await wait(reducedMotion() ? 200 : 900);
+    if (M.question?.seq === seq && M.meta?.phase === 'reveal') openQReview();
+  }
+
+  /** Rückblick zur Frage: wer was geantwortet hat und wie das Spiel es einschätzt. */
+  function renderQReview(q, subs, fills) {
+    const rows = Object.keys(subs)
+      .sort((a, b) => (fills[a]?.fill ?? 0) - (fills[b]?.fill ?? 0) || compareDe(nameOf(a), nameOf(b)))
+      .map((pid) => {
+        const as = assessment(q, subs[pid]);
+        const f = fills[pid] || { fill: 0, bonus: 0 };
+        return `<li class="${pid === uid() ? 'me' : ''}">
+          <span class="rv-name">${esc(pid === uid() ? 'Du' : nameOf(pid))}</span>
+          <span class="rv-answer">${esc(as.text)}</span>
+          <span class="rv-tag ${as.kind}">${esc(as.label)}${f.bonus ? ` +${f.bonus}` : ''}</span>
+          <b class="rv-fill">${String(f.fill).replace('.', ',')}</b>
+        </li>`;
+      });
+    $('#q-review-body').innerHTML = `<p class="rv-text">${esc(q.text)}</p><ol class="rv-list">${rows.join('')}</ol>`;
+  }
+
+  function openQReview() {
+    if (M.meta?.phase !== 'reveal') return;
+    const box = $('#q-review');
+    box.hidden = false;
+    $('#q-review-skip').onclick = closeQReview;
+    box.onclick = (e) => { if (e.target === box) closeQReview(); };
+    $('#q-review-skip').focus({ preventScroll: true });
+  }
+
+  function closeQReview() {
+    $('#q-review').hidden = true;
   }
 
   function renderGroups(groups, myKey) {
@@ -698,58 +723,6 @@ export function createMultiplayer(ctx) {
       </li>`).join('');
   }
 
-  /** Rundenrückblick: pro Frage, wer was geantwortet hat und wie das Spiel es einschätzt. */
-  async function renderReview() {
-    const log = M.meta?.log || {};
-    const keys = Object.keys(log).sort();
-    if (!keys.length) return false;
-    const blocks = [];
-    for (const key of keys) {
-      const entry = log[key];
-      let q;
-      try { q = await getQuestion(entry.id, entry.kategorie); } catch { continue; }
-      const subs = entry.subs || {};
-      const fills = computeQuestionFills(subs, q, { multiplayer: true });
-      const rows = Object.keys(subs)
-        .sort((a, b) => (fills[a]?.fill ?? 0) - (fills[b]?.fill ?? 0) || compareDe(nameOf(a), nameOf(b)))
-        .map((pid) => {
-          const as = assessment(q, subs[pid]);
-          const f = fills[pid] || { fill: 0, bonus: 0 };
-          const pts = String(f.fill).replace('.', ',');
-          return `<li class="${pid === uid() ? 'me' : ''}">
-            <span class="rv-name">${esc(pid === uid() ? 'Du' : nameOf(pid))}</span>
-            <span class="rv-answer">${esc(as.text)}</span>
-            <span class="rv-tag ${as.kind}">${esc(as.label)}${f.bonus ? ` +${f.bonus}` : ''}</span>
-            <b class="rv-fill">${pts}</b>
-          </li>`;
-        });
-      blocks.push(`<div class="rv-q"><p class="rv-text">${esc(q.text)}</p><ol class="rv-list">${rows.join('')}</ol></div>`);
-    }
-    if (!blocks.length) return false;
-    $('#mpr-review-body').innerHTML = blocks.join('');
-    return true;
-  }
-
-  /** Zeigt den Rückblick, bis „Weiter" getippt wird (oder die Phase wechselt). */
-  function showReview() {
-    const box = $('#mpr-review');
-    const main = $('#mpr-main');
-    box.hidden = false;
-    main.hidden = true;
-    box.scrollTop = 0;
-    return new Promise((resolve) => {
-      const done = () => {
-        clearInterval(watch);
-        box.hidden = true;
-        main.hidden = false;
-        resolve();
-      };
-      const round = M.meta?.round;
-      const watch = setInterval(() => { if (M.meta?.phase !== 'endabrechnung' || M.meta.round !== round) done(); }, 400);
-      $('#mpr-review-skip').onclick = done;
-    });
-  }
-
   async function runResult() {
     const round = M.meta.round;
     showScreen('mp-result');
@@ -759,14 +732,6 @@ export function createMultiplayer(ctx) {
     const entries = Object.entries(sips).sort((a, b) => a[1] - b[1] || compareDe(nameOf(a[0]), nameOf(b[0])));
     $('#mpr-title').textContent = `Runde ${round} – Abrechnung`;
     $('#mpr-actions').classList.remove('show');
-    $('#mpr-review-open').hidden = true;
-
-    // Rundenrückblick zuerst (überspringbar), danach die Abrechnung
-    if (await renderReview()) {
-      await showReview();
-      if (M.meta?.phase !== 'endabrechnung' || M.meta.round !== round) return;
-      $('#mpr-review-open').hidden = false;
-    }
 
     const row = $('#mpr-glasses');
     row.innerHTML = '';
@@ -885,9 +850,7 @@ export function createMultiplayer(ctx) {
         }
         return true;
       case 'next': onNext(); return true;
-      case 'review-open':
-        renderReview().then((ok) => { if (ok) showReview(); });
-        return true;
+      case 'q-review': openQReview(); return true;
       case 'new-round':
         if (isHost() && M.meta?.phase === 'endabrechnung' && !isPaused()) {
           drawAndStart({ round: M.meta.round + 1, qNum: 1, newRound: true });
