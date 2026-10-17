@@ -1,0 +1,252 @@
+@id geo-046
+@text Nenne einen Fluss in Deutschland mit mindestens 50 km Länge
+@typ geschlossen
+# Flüsse, die (zumindest teilweise) durch Deutschland fließen, mit Gesamtlänge ≥ 50 km (inkl. Auslandsabschnitt).
+# Kanäle nicht. Gleichnamige Flüsse nur einmal (z. B. Kinzig, Vils, Oder, Sauer, Ilm, Wipper, Nuthe, Lauter, Schwarzach, Rodach, Löcknitz).
+# Grundlage: Liste von Flüssen in Deutschland (Wikipedia), aus dem Gedächtnis; Längen um 50 km teils unsicher
+# (z. B. Nethe, Alsenz, Glonn, Kraichbach, Saalbach, Würm, Bühler, Weißeritz). Nicht aufgenommen (< 50 km): Dreisam, Urft, Hamme, Bigge, Mümling, Weißer Main, Brigach, Breg.
+# Gliederung nach Flusssystemen.
+
+# Rhein und direkte Nebenflüsse
+1 Rhein = Rhine
+4 Wutach
+4 Wiese
+4 Elz
+3 Kinzig
+4 Schutter
+4 Rench
+4 Acher
+3 Murg
+4 Alb
+4 Pfinz
+5 Kraichbach
+5 Saalbach
+4 Lauter = Wieslauter
+4 Queich
+4 Speyerbach
+4 Weschnitz
+4 Selz
+3 Nahe
+4 Glan
+5 Alsenz
+5 Simmerbach
+4 Wied
+5 Nette
+3 Ahr
+3 Wupper
+4 Erft
+3 Emscher
+4 Issel = Oude IJssel
+# Bodensee-Zuflüsse
+4 Argen
+4 Schussen
+# Neckar
+2 Neckar
+4 Enz
+4 Nagold
+5 Würm
+3 Kocher
+3 Jagst
+4 Rems
+4 Murr
+4 Fils
+4 Elsenz
+5 Lein
+5 Bühler
+# Main
+2 Main
+4 Roter Main
+4 Rodach
+4 Itz
+4 Baunach
+4 Regnitz
+4 Pegnitz
+4 Wiesent
+4 Aisch
+5 Zenn
+4 Fränkische Saale
+4 Sinn
+4 Wern
+3 Tauber
+4 Gersprenz
+4 Nidda
+5 Nidder
+5 Wetter
+# Lahn
+3 Lahn
+4 Dill
+4 Ohm
+# Sieg
+3 Sieg
+4 Agger
+4 Nister
+# Mosel
+2 Mosel = Moselle
+3 Saar = Sarre
+4 Blies
+4 Nied
+4 Prims
+4 Sauer = Sûre
+4 Our
+4 Prüm
+4 Nims
+4 Kyll
+4 Salm
+4 Lieser
+# Ruhr
+3 Ruhr
+4 Lenne
+4 Volme
+4 Möhne
+# Lippe
+3 Lippe
+4 Stever
+4 Alme
+5 Ahse
+# Maas (über die Niederlande)
+4 Rur = Roer
+4 Inde
+4 Wurm
+4 Niers
+# IJssel / IJsselmeer
+4 Berkel
+4 Vechte = Vecht
+4 Dinkel
+# Ems
+3 Ems
+4 Hase
+4 Werse
+4 Leda
+5 Soeste
+# Weser
+2 Weser
+3 Werra
+4 Hörsel
+4 Ulster
+3 Fulda
+4 Haune
+3 Eder
+4 Schwalm
+4 Diemel
+5 Nethe
+4 Emmer
+4 Werre
+4 Große Aue
+3 Aller
+3 Leine
+4 Innerste
+4 Oker
+4 Schunter
+4 Fuhse
+5 Ise
+4 Örtze
+4 Böhme
+5 Lachte
+4 Wümme
+4 Hunte
+# Elbe
+1 Elbe
+4 Eger
+4 Wesenitz
+5 Weißeritz = Wilde Weißeritz
+4 Röder = Große Röder
+4 Pulsnitz
+4 Schwarze Elster
+5 Kleine Elster
+3 Mulde
+4 Zwickauer Mulde
+4 Freiberger Mulde
+4 Zschopau
+4 Flöha
+4 Chemnitz
+3 Saale
+3 Weiße Elster = Elster
+4 Pleiße
+4 Parthe
+3 Ilm
+3 Unstrut
+4 Gera
+4 Helme
+4 Wipper
+4 Schwarza
+4 Bode
+4 Selke
+4 Fuhne
+4 Ohre
+3 Havel
+2 Spree
+4 Dahme
+4 Nuthe
+4 Plane
+4 Rhin
+4 Dosse
+4 Jeetzel
+4 Ilmenau
+4 Luhe
+4 Oste
+4 Stör
+3 Alster
+4 Bille
+4 Elde
+4 Sude
+4 Löcknitz
+4 Stepenitz
+# Oder und Stettiner Haff
+3 Oder = Odra
+# (zählt auch für die Oder im Harz, 56 km, Nebenfluss der Rhume)
+3 Lausitzer Neiße = Neiße; Nysa
+4 Welse
+4 Uecker = Ucker
+4 Peene
+4 Tollense
+4 Trebel
+# Nord- und Ostsee (Schleswig-Holstein, Mecklenburg-Vorpommern)
+3 Eider
+4 Treene
+4 Trave
+4 Schwentine
+4 Warnow
+4 Nebel
+4 Recknitz
+# Donau
+1 Donau = Danube
+4 Lauchert
+4 Riß
+4 Iller
+4 Brenz
+3 Lech
+4 Wertach
+4 Mindel
+4 Günz
+4 Kammel
+4 Zusam
+4 Schmutter
+4 Wörnitz
+3 Altmühl
+5 Sulz
+4 Paar
+4 Abens
+4 Naab
+4 Waldnaab
+5 Haidenaab
+4 Vils
+4 Pfreimd
+4 Schwarzach
+4 Schwarze Laber
+3 Regen
+5 Schwarzer Regen
+4 Große Laber
+4 Kleine Laber
+2 Isar
+4 Amper = Ammer
+4 Loisach
+5 Glonn
+3 Inn
+3 Salzach
+4 Saalach
+4 Alz
+4 Tiroler Achen = Tiroler Ache; Großache
+4 Rott
+4 Isen
+4 Mangfall
+4 Ilz

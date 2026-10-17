@@ -1,0 +1,95 @@
+@id geo-037
+@text Nenne eine Stadt im Vereinigten Königreich mit mindestens 100.000 Einwohnern
+@typ geschlossen
+# Orte mit ≥ 100.000 Einwohnern im eigentlichen Ort (Built-up area subdivision 2011/2021 bzw. Localities in Schottland),
+# nach „List of towns and cities in the United Kingdom by population“. Wegen Definitionsunsicherheit großzügig:
+# Grenzfälle um 100.000 aufgenommen (Hemel Hempstead, Oldham, Wakefield, Mansfield, Walsall, Gillingham).
+# London als Ganzes; Londoner Stadtbezirke (Croydon, Westminster …) NICHT einzeln.
+
+1 London
+1 Manchester
+1 Liverpool
+2 Birmingham
+2 Edinburgh
+2 Glasgow
+3 Leeds
+3 Bristol
+3 Cardiff
+3 Belfast
+3 Sheffield
+3 Newcastle upon Tyne = Newcastle
+3 Oxford
+3 Cambridge
+3 Nottingham
+3 Southampton
+3 Brighton = Brighton and Hove
+4 York
+4 Aberdeen
+4 Leicester
+4 Coventry
+4 Bradford
+4 Plymouth
+4 Portsmouth
+4 Kingston upon Hull = Hull
+4 Dundee
+4 Swansea
+4 Reading
+4 Bournemouth
+4 Blackpool
+4 Norwich
+4 Exeter
+4 Derby
+4 Luton
+4 Sunderland
+4 Bolton
+4 Wolverhampton
+4 Stoke-on-Trent = Stoke
+4 Middlesbrough
+4 Milton Keynes
+4 Ipswich
+4 Huddersfield
+4 Watford
+4 Preston
+4 Wigan
+4 Doncaster
+5 Northampton
+5 Swindon
+5 Southend-on-Sea = Southend
+5 Warrington
+5 Peterborough
+5 Slough
+5 Poole
+5 Telford
+5 Gloucester
+5 Birkenhead
+5 Colchester
+5 Newport
+5 Sale
+5 Solihull
+5 High Wycombe
+5 Gateshead
+5 Crawley
+5 Cheltenham
+5 Blackburn
+5 Chelmsford
+5 Basildon
+5 Maidstone
+5 Rotherham
+5 Salford
+5 Worthing
+5 Rochdale
+5 Basingstoke
+5 Woking
+5 Stockport
+5 Bedford
+5 Lincoln
+5 Eastbourne
+5 St Helens = Saint Helens
+5 Sutton Coldfield
+5 Worcester
+5 Hemel Hempstead
+5 Oldham
+5 Wakefield
+5 Mansfield
+5 Walsall
+5 Gillingham

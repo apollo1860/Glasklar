@@ -1,0 +1,50 @@
+@id geo-035
+@text Nenne eine Stadt in Frankreich mit mindestens 100.000 Einwohnern
+@typ geschlossen
+# Gemeinden (communes) mit ≥ 100.000 Einwohnern laut INSEE (Recensement, Stand ca. 2021/2022).
+# Metropol-Frankreich + Überseedepartements; Saint-Denis (Réunion) und Saint-Denis (Seine-Saint-Denis) teilen sich einen Eintrag.
+# Grenzfälle knapp unter 100.000 aufgenommen: Roubaix, Tourcoing (je ca. 99.000). Nicht dabei: Nanterre, Avignon, Cannes, Monaco (eigener Staat).
+
+1 Paris
+1 Marseille
+2 Lyon
+2 Nizza = Nice
+2 Toulouse
+2 Bordeaux
+2 Straßburg = Strasbourg
+3 Lille
+3 Nantes
+3 Montpellier
+4 Rennes
+4 Toulon
+4 Reims
+4 Saint-Étienne
+4 Le Havre
+4 Dijon
+4 Grenoble
+4 Metz
+4 Le Mans
+4 Brest
+4 Nancy
+4 Amiens
+4 Clermont-Ferrand
+4 Aix-en-Provence
+4 Tours
+4 Orléans
+4 Rouen
+4 Caen
+4 Perpignan
+4 Limoges
+4 Annecy
+5 Angers
+5 Villeurbanne
+5 Saint-Denis
+5 Nîmes
+5 Boulogne-Billancourt
+5 Besançon = Bisanz
+5 Argenteuil
+5 Montreuil
+5 Mülhausen = Mulhouse
+5 Saint-Paul
+5 Roubaix
+5 Tourcoing

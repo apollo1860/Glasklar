@@ -1,0 +1,53 @@
+@id geo-036
+@text Nenne eine Stadt in Italien mit mindestens 100.000 Einwohnern
+@typ geschlossen
+# Gemeinden (comuni) mit ≥ 100.000 Einwohnern laut ISTAT (Stand ca. 2023).
+# Grenzfälle knapp darunter, früher bzw. laut Zensus 2011 über 100.000: Ancona, Andria (aufgenommen).
+# Nicht dabei: Udine, Arezzo, Cesena, Lecce, Pisa, Siena, Como (alle unter 100.000).
+
+1 Rom = Roma
+1 Mailand = Milano; Milan
+2 Neapel = Napoli; Naples
+2 Venedig = Venezia; Venice
+2 Florenz = Firenze; Florence
+2 Turin = Torino
+3 Palermo
+3 Genua = Genova; Genoa
+3 Bologna
+3 Verona
+3 Bari
+4 Catania
+4 Padua = Padova
+4 Triest = Trieste
+4 Bozen = Bolzano
+4 Trient = Trento
+4 Parma
+4 Brescia
+4 Bergamo
+4 Modena
+4 Messina
+4 Cagliari
+4 Rimini
+4 Perugia
+4 Salerno
+4 Livorno
+4 Ravenna
+4 Monza
+5 Prato
+5 Tarent = Taranto
+5 Reggio Calabria = Reggio di Calabria
+5 Reggio Emilia = Reggio nell'Emilia
+5 Foggia
+5 Ferrara
+5 Latina
+5 Giugliano in Campania = Giugliano
+5 Sassari
+5 Pescara
+5 Forlì
+5 Syrakus = Siracusa
+5 Vicenza
+5 Terni
+5 Novara
+5 Piacenza
+5 Ancona
+5 Andria

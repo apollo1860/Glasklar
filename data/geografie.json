@@ -8904,6 +8904,1602 @@
   ]
  },
  {
+  "id": "geo-035",
+  "text": "Nenne eine Stadt in Frankreich mit mindestens 100.000 Einwohnern",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-035-a0001",
+    "text": "Paris",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-035-a0002",
+    "text": "Marseille",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-035-a0003",
+    "text": "Lyon",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-035-a0004",
+    "text": "Nizza",
+    "aliases": [
+     "Nice"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-035-a0005",
+    "text": "Toulouse",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-035-a0006",
+    "text": "Bordeaux",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-035-a0007",
+    "text": "Straßburg",
+    "aliases": [
+     "Strasbourg"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-035-a0008",
+    "text": "Lille",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-035-a0009",
+    "text": "Nantes",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-035-a0010",
+    "text": "Montpellier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-035-a0011",
+    "text": "Rennes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0012",
+    "text": "Toulon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0013",
+    "text": "Reims",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0014",
+    "text": "Saint-Étienne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0015",
+    "text": "Le Havre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0016",
+    "text": "Dijon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0017",
+    "text": "Grenoble",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0018",
+    "text": "Metz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0019",
+    "text": "Le Mans",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0020",
+    "text": "Brest",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0021",
+    "text": "Nancy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0022",
+    "text": "Amiens",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0023",
+    "text": "Clermont-Ferrand",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0024",
+    "text": "Aix-en-Provence",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0025",
+    "text": "Tours",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0026",
+    "text": "Orléans",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0027",
+    "text": "Rouen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0028",
+    "text": "Caen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0029",
+    "text": "Perpignan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0030",
+    "text": "Limoges",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0031",
+    "text": "Annecy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-035-a0032",
+    "text": "Angers",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0033",
+    "text": "Villeurbanne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0034",
+    "text": "Saint-Denis",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0035",
+    "text": "Nîmes",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0036",
+    "text": "Boulogne-Billancourt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0037",
+    "text": "Besançon",
+    "aliases": [
+     "Bisanz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0038",
+    "text": "Argenteuil",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0039",
+    "text": "Montreuil",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0040",
+    "text": "Mülhausen",
+    "aliases": [
+     "Mulhouse"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0041",
+    "text": "Saint-Paul",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0042",
+    "text": "Roubaix",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-035-a0043",
+    "text": "Tourcoing",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-036",
+  "text": "Nenne eine Stadt in Italien mit mindestens 100.000 Einwohnern",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-036-a0001",
+    "text": "Rom",
+    "aliases": [
+     "Roma"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-036-a0002",
+    "text": "Mailand",
+    "aliases": [
+     "Milano",
+     "Milan"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-036-a0003",
+    "text": "Neapel",
+    "aliases": [
+     "Napoli",
+     "Naples"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-036-a0004",
+    "text": "Venedig",
+    "aliases": [
+     "Venezia",
+     "Venice"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-036-a0005",
+    "text": "Florenz",
+    "aliases": [
+     "Firenze",
+     "Florence"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-036-a0006",
+    "text": "Turin",
+    "aliases": [
+     "Torino"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-036-a0007",
+    "text": "Palermo",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-036-a0008",
+    "text": "Genua",
+    "aliases": [
+     "Genova",
+     "Genoa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-036-a0009",
+    "text": "Bologna",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-036-a0010",
+    "text": "Verona",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-036-a0011",
+    "text": "Bari",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-036-a0012",
+    "text": "Catania",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0013",
+    "text": "Padua",
+    "aliases": [
+     "Padova"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0014",
+    "text": "Triest",
+    "aliases": [
+     "Trieste"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0015",
+    "text": "Bozen",
+    "aliases": [
+     "Bolzano"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0016",
+    "text": "Trient",
+    "aliases": [
+     "Trento"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0017",
+    "text": "Parma",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0018",
+    "text": "Brescia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0019",
+    "text": "Bergamo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0020",
+    "text": "Modena",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0021",
+    "text": "Messina",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0022",
+    "text": "Cagliari",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0023",
+    "text": "Rimini",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0024",
+    "text": "Perugia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0025",
+    "text": "Salerno",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0026",
+    "text": "Livorno",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0027",
+    "text": "Ravenna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0028",
+    "text": "Monza",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-036-a0029",
+    "text": "Prato",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0030",
+    "text": "Tarent",
+    "aliases": [
+     "Taranto"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0031",
+    "text": "Reggio Calabria",
+    "aliases": [
+     "Reggio di Calabria"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0032",
+    "text": "Reggio Emilia",
+    "aliases": [
+     "Reggio nell'Emilia"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0033",
+    "text": "Foggia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0034",
+    "text": "Ferrara",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0035",
+    "text": "Latina",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0036",
+    "text": "Giugliano in Campania",
+    "aliases": [
+     "Giugliano"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0037",
+    "text": "Sassari",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0038",
+    "text": "Pescara",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0039",
+    "text": "Forlì",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0040",
+    "text": "Syrakus",
+    "aliases": [
+     "Siracusa"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0041",
+    "text": "Vicenza",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0042",
+    "text": "Terni",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0043",
+    "text": "Novara",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0044",
+    "text": "Piacenza",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0045",
+    "text": "Ancona",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-036-a0046",
+    "text": "Andria",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-037",
+  "text": "Nenne eine Stadt im Vereinigten Königreich mit mindestens 100.000 Einwohnern",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-037-a0001",
+    "text": "London",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-037-a0002",
+    "text": "Manchester",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-037-a0003",
+    "text": "Liverpool",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-037-a0004",
+    "text": "Birmingham",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-037-a0005",
+    "text": "Edinburgh",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-037-a0006",
+    "text": "Glasgow",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-037-a0007",
+    "text": "Leeds",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0008",
+    "text": "Bristol",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0009",
+    "text": "Cardiff",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0010",
+    "text": "Belfast",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0011",
+    "text": "Sheffield",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0012",
+    "text": "Newcastle upon Tyne",
+    "aliases": [
+     "Newcastle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0013",
+    "text": "Oxford",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0014",
+    "text": "Cambridge",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0015",
+    "text": "Nottingham",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0016",
+    "text": "Southampton",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0017",
+    "text": "Brighton",
+    "aliases": [
+     "Brighton and Hove"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-037-a0018",
+    "text": "York",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0019",
+    "text": "Aberdeen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0020",
+    "text": "Leicester",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0021",
+    "text": "Coventry",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0022",
+    "text": "Bradford",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0023",
+    "text": "Plymouth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0024",
+    "text": "Portsmouth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0025",
+    "text": "Kingston upon Hull",
+    "aliases": [
+     "Hull"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0026",
+    "text": "Dundee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0027",
+    "text": "Swansea",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0028",
+    "text": "Reading",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0029",
+    "text": "Bournemouth",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0030",
+    "text": "Blackpool",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0031",
+    "text": "Norwich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0032",
+    "text": "Exeter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0033",
+    "text": "Derby",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0034",
+    "text": "Luton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0035",
+    "text": "Sunderland",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0036",
+    "text": "Bolton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0037",
+    "text": "Wolverhampton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0038",
+    "text": "Stoke-on-Trent",
+    "aliases": [
+     "Stoke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0039",
+    "text": "Middlesbrough",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0040",
+    "text": "Milton Keynes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0041",
+    "text": "Ipswich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0042",
+    "text": "Huddersfield",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0043",
+    "text": "Watford",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0044",
+    "text": "Preston",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0045",
+    "text": "Wigan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0046",
+    "text": "Doncaster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-037-a0047",
+    "text": "Northampton",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0048",
+    "text": "Swindon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0049",
+    "text": "Southend-on-Sea",
+    "aliases": [
+     "Southend"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0050",
+    "text": "Warrington",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0051",
+    "text": "Peterborough",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0052",
+    "text": "Slough",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0053",
+    "text": "Poole",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0054",
+    "text": "Telford",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0055",
+    "text": "Gloucester",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0056",
+    "text": "Birkenhead",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0057",
+    "text": "Colchester",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0058",
+    "text": "Newport",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0059",
+    "text": "Sale",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0060",
+    "text": "Solihull",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0061",
+    "text": "High Wycombe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0062",
+    "text": "Gateshead",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0063",
+    "text": "Crawley",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0064",
+    "text": "Cheltenham",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0065",
+    "text": "Blackburn",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0066",
+    "text": "Chelmsford",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0067",
+    "text": "Basildon",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0068",
+    "text": "Maidstone",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0069",
+    "text": "Rotherham",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0070",
+    "text": "Salford",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0071",
+    "text": "Worthing",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0072",
+    "text": "Rochdale",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0073",
+    "text": "Basingstoke",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0074",
+    "text": "Woking",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0075",
+    "text": "Stockport",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0076",
+    "text": "Bedford",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0077",
+    "text": "Lincoln",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0078",
+    "text": "Eastbourne",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0079",
+    "text": "St Helens",
+    "aliases": [
+     "Saint Helens"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0080",
+    "text": "Sutton Coldfield",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0081",
+    "text": "Worcester",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0082",
+    "text": "Hemel Hempstead",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0083",
+    "text": "Oldham",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0084",
+    "text": "Wakefield",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0085",
+    "text": "Mansfield",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0086",
+    "text": "Walsall",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-037-a0087",
+    "text": "Gillingham",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-038",
+  "text": "Nenne eine Stadt in Spanien mit mindestens 100.000 Einwohnern",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-038-a0001",
+    "text": "Madrid",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-038-a0002",
+    "text": "Barcelona",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-038-a0003",
+    "text": "Valencia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-038-a0004",
+    "text": "Sevilla",
+    "aliases": [
+     "Seville"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-038-a0005",
+    "text": "Málaga",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-038-a0006",
+    "text": "Palma",
+    "aliases": [
+     "Palma de Mallorca"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-038-a0007",
+    "text": "Bilbao",
+    "aliases": [
+     "Bilbo"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0008",
+    "text": "Zaragoza",
+    "aliases": [
+     "Saragossa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0009",
+    "text": "Granada",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0010",
+    "text": "Alicante",
+    "aliases": [
+     "Alacant"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0011",
+    "text": "Córdoba",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0012",
+    "text": "Las Palmas de Gran Canaria",
+    "aliases": [
+     "Las Palmas"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0013",
+    "text": "San Sebastián",
+    "aliases": [
+     "Donostia"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0014",
+    "text": "Marbella",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-038-a0015",
+    "text": "Santa Cruz de Tenerife",
+    "aliases": [
+     "Santa Cruz"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0016",
+    "text": "Pamplona",
+    "aliases": [
+     "Iruña",
+     "Iruñea"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0017",
+    "text": "Salamanca",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0018",
+    "text": "Murcia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0019",
+    "text": "Valladolid",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0020",
+    "text": "Santiago de Compostela",
+    "aliases": [
+     "Santiago"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0021",
+    "text": "Cádiz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0022",
+    "text": "Vigo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0023",
+    "text": "Gijón",
+    "aliases": [
+     "Xixón"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0024",
+    "text": "Oviedo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0025",
+    "text": "Santander",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0026",
+    "text": "A Coruña",
+    "aliases": [
+     "La Coruña"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0027",
+    "text": "Burgos",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0028",
+    "text": "León",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0029",
+    "text": "Almería",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0030",
+    "text": "Elche",
+    "aliases": [
+     "Elx"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0031",
+    "text": "Jerez de la Frontera",
+    "aliases": [
+     "Jerez"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-038-a0032",
+    "text": "Vitoria-Gasteiz",
+    "aliases": [
+     "Vitoria",
+     "Gasteiz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0033",
+    "text": "L'Hospitalet de Llobregat",
+    "aliases": [
+     "Hospitalet"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0034",
+    "text": "Terrassa",
+    "aliases": [
+     "Tarrasa"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0035",
+    "text": "Badalona",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0036",
+    "text": "Sabadell",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0037",
+    "text": "Cartagena",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0038",
+    "text": "Móstoles",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0039",
+    "text": "Alcalá de Henares",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0040",
+    "text": "Fuenlabrada",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0041",
+    "text": "Leganés",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0042",
+    "text": "Getafe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0043",
+    "text": "Castellón de la Plana",
+    "aliases": [
+     "Castellón",
+     "Castelló de la Plana"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0044",
+    "text": "Albacete",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0045",
+    "text": "Alcorcón",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0046",
+    "text": "San Cristóbal de La Laguna",
+    "aliases": [
+     "La Laguna"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0047",
+    "text": "Logroño",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0048",
+    "text": "Badajoz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0049",
+    "text": "Huelva",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0050",
+    "text": "Lleida",
+    "aliases": [
+     "Lérida"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0051",
+    "text": "Tarragona",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0052",
+    "text": "Dos Hermanas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0053",
+    "text": "Torrejón de Ardoz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0054",
+    "text": "Parla",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0055",
+    "text": "Mataró",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0056",
+    "text": "Algeciras",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0057",
+    "text": "Santa Coloma de Gramenet",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0058",
+    "text": "Alcobendas",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0059",
+    "text": "Jaén",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0060",
+    "text": "Reus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0061",
+    "text": "Ourense",
+    "aliases": [
+     "Orense"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0062",
+    "text": "Telde",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0063",
+    "text": "Barakaldo",
+    "aliases": [
+     "Baracaldo"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0064",
+    "text": "Girona",
+    "aliases": [
+     "Gerona"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0065",
+    "text": "Lugo",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0066",
+    "text": "Cáceres",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-038-a0067",
+    "text": "Roquetas de Mar",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
   "id": "geo-039",
   "text": "Nenne ein Land, in dessen Flagge Blau vorkommt",
   "kategorie": "geografie",
@@ -12791,6 +14387,1400 @@
     "text": "Sambia",
     "aliases": [],
     "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-046",
+  "text": "Nenne einen Fluss in Deutschland mit mindestens 50 km Länge",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-046-a0001",
+    "text": "Rhein",
+    "aliases": [
+     "Rhine"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-046-a0002",
+    "text": "Wutach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0003",
+    "text": "Wiese",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0004",
+    "text": "Elz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0005",
+    "text": "Kinzig",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0006",
+    "text": "Schutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0007",
+    "text": "Rench",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0008",
+    "text": "Acher",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0009",
+    "text": "Murg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0010",
+    "text": "Alb",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0011",
+    "text": "Pfinz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0012",
+    "text": "Kraichbach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0013",
+    "text": "Saalbach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0014",
+    "text": "Lauter",
+    "aliases": [
+     "Wieslauter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0015",
+    "text": "Queich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0016",
+    "text": "Speyerbach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0017",
+    "text": "Weschnitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0018",
+    "text": "Selz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0019",
+    "text": "Nahe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0020",
+    "text": "Glan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0021",
+    "text": "Alsenz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0022",
+    "text": "Simmerbach",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0023",
+    "text": "Wied",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0024",
+    "text": "Nette",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0025",
+    "text": "Ahr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0026",
+    "text": "Wupper",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0027",
+    "text": "Erft",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0028",
+    "text": "Emscher",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0029",
+    "text": "Issel",
+    "aliases": [
+     "Oude IJssel"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0030",
+    "text": "Argen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0031",
+    "text": "Schussen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0032",
+    "text": "Neckar",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-046-a0033",
+    "text": "Enz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0034",
+    "text": "Nagold",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0035",
+    "text": "Würm",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0036",
+    "text": "Kocher",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0037",
+    "text": "Jagst",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0038",
+    "text": "Rems",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0039",
+    "text": "Murr",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0040",
+    "text": "Fils",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0041",
+    "text": "Elsenz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0042",
+    "text": "Lein",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0043",
+    "text": "Bühler",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0044",
+    "text": "Main",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-046-a0045",
+    "text": "Roter Main",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0046",
+    "text": "Rodach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0047",
+    "text": "Itz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0048",
+    "text": "Baunach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0049",
+    "text": "Regnitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0050",
+    "text": "Pegnitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0051",
+    "text": "Wiesent",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0052",
+    "text": "Aisch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0053",
+    "text": "Zenn",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0054",
+    "text": "Fränkische Saale",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0055",
+    "text": "Sinn",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0056",
+    "text": "Wern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0057",
+    "text": "Tauber",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0058",
+    "text": "Gersprenz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0059",
+    "text": "Nidda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0060",
+    "text": "Nidder",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0061",
+    "text": "Wetter",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0062",
+    "text": "Lahn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0063",
+    "text": "Dill",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0064",
+    "text": "Ohm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0065",
+    "text": "Sieg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0066",
+    "text": "Agger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0067",
+    "text": "Nister",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0068",
+    "text": "Mosel",
+    "aliases": [
+     "Moselle"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-046-a0069",
+    "text": "Saar",
+    "aliases": [
+     "Sarre"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0070",
+    "text": "Blies",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0071",
+    "text": "Nied",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0072",
+    "text": "Prims",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0073",
+    "text": "Sauer",
+    "aliases": [
+     "Sûre"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0074",
+    "text": "Our",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0075",
+    "text": "Prüm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0076",
+    "text": "Nims",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0077",
+    "text": "Kyll",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0078",
+    "text": "Salm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0079",
+    "text": "Lieser",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0080",
+    "text": "Ruhr",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0081",
+    "text": "Lenne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0082",
+    "text": "Volme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0083",
+    "text": "Möhne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0084",
+    "text": "Lippe",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0085",
+    "text": "Stever",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0086",
+    "text": "Alme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0087",
+    "text": "Ahse",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0088",
+    "text": "Rur",
+    "aliases": [
+     "Roer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0089",
+    "text": "Inde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0090",
+    "text": "Wurm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0091",
+    "text": "Niers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0092",
+    "text": "Berkel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0093",
+    "text": "Vechte",
+    "aliases": [
+     "Vecht"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0094",
+    "text": "Dinkel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0095",
+    "text": "Ems",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0096",
+    "text": "Hase",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0097",
+    "text": "Werse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0098",
+    "text": "Leda",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0099",
+    "text": "Soeste",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0100",
+    "text": "Weser",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-046-a0101",
+    "text": "Werra",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0102",
+    "text": "Hörsel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0103",
+    "text": "Ulster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0104",
+    "text": "Fulda",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0105",
+    "text": "Haune",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0106",
+    "text": "Eder",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0107",
+    "text": "Schwalm",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0108",
+    "text": "Diemel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0109",
+    "text": "Nethe",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0110",
+    "text": "Emmer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0111",
+    "text": "Werre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0112",
+    "text": "Große Aue",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0113",
+    "text": "Aller",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0114",
+    "text": "Leine",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0115",
+    "text": "Innerste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0116",
+    "text": "Oker",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0117",
+    "text": "Schunter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0118",
+    "text": "Fuhse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0119",
+    "text": "Ise",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0120",
+    "text": "Örtze",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0121",
+    "text": "Böhme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0122",
+    "text": "Lachte",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0123",
+    "text": "Wümme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0124",
+    "text": "Hunte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0125",
+    "text": "Elbe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-046-a0126",
+    "text": "Eger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0127",
+    "text": "Wesenitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0128",
+    "text": "Weißeritz",
+    "aliases": [
+     "Wilde Weißeritz"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0129",
+    "text": "Röder",
+    "aliases": [
+     "Große Röder"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0130",
+    "text": "Pulsnitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0131",
+    "text": "Schwarze Elster",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0132",
+    "text": "Kleine Elster",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0133",
+    "text": "Mulde",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0134",
+    "text": "Zwickauer Mulde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0135",
+    "text": "Freiberger Mulde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0136",
+    "text": "Zschopau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0137",
+    "text": "Flöha",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0138",
+    "text": "Chemnitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0139",
+    "text": "Saale",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0140",
+    "text": "Weiße Elster",
+    "aliases": [
+     "Elster"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0141",
+    "text": "Pleiße",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0142",
+    "text": "Parthe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0143",
+    "text": "Ilm",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0144",
+    "text": "Unstrut",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0145",
+    "text": "Gera",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0146",
+    "text": "Helme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0147",
+    "text": "Wipper",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0148",
+    "text": "Schwarza",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0149",
+    "text": "Bode",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0150",
+    "text": "Selke",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0151",
+    "text": "Fuhne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0152",
+    "text": "Ohre",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0153",
+    "text": "Havel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0154",
+    "text": "Spree",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-046-a0155",
+    "text": "Dahme",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0156",
+    "text": "Nuthe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0157",
+    "text": "Plane",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0158",
+    "text": "Rhin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0159",
+    "text": "Dosse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0160",
+    "text": "Jeetzel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0161",
+    "text": "Ilmenau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0162",
+    "text": "Luhe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0163",
+    "text": "Oste",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0164",
+    "text": "Stör",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0165",
+    "text": "Alster",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0166",
+    "text": "Bille",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0167",
+    "text": "Elde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0168",
+    "text": "Sude",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0169",
+    "text": "Löcknitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0170",
+    "text": "Stepenitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0171",
+    "text": "Oder",
+    "aliases": [
+     "Odra"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0172",
+    "text": "Lausitzer Neiße",
+    "aliases": [
+     "Neiße",
+     "Nysa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0173",
+    "text": "Welse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0174",
+    "text": "Uecker",
+    "aliases": [
+     "Ucker"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0175",
+    "text": "Peene",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0176",
+    "text": "Tollense",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0177",
+    "text": "Trebel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0178",
+    "text": "Eider",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0179",
+    "text": "Treene",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0180",
+    "text": "Trave",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0181",
+    "text": "Schwentine",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0182",
+    "text": "Warnow",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0183",
+    "text": "Nebel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0184",
+    "text": "Recknitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0185",
+    "text": "Donau",
+    "aliases": [
+     "Danube"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-046-a0186",
+    "text": "Lauchert",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0187",
+    "text": "Riß",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0188",
+    "text": "Iller",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0189",
+    "text": "Brenz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0190",
+    "text": "Lech",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0191",
+    "text": "Wertach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0192",
+    "text": "Mindel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0193",
+    "text": "Günz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0194",
+    "text": "Kammel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0195",
+    "text": "Zusam",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0196",
+    "text": "Schmutter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0197",
+    "text": "Wörnitz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0198",
+    "text": "Altmühl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0199",
+    "text": "Sulz",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0200",
+    "text": "Paar",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0201",
+    "text": "Abens",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0202",
+    "text": "Naab",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0203",
+    "text": "Waldnaab",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0204",
+    "text": "Haidenaab",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0205",
+    "text": "Vils",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0206",
+    "text": "Pfreimd",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0207",
+    "text": "Schwarzach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0208",
+    "text": "Schwarze Laber",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0209",
+    "text": "Regen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0210",
+    "text": "Schwarzer Regen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0211",
+    "text": "Große Laber",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0212",
+    "text": "Kleine Laber",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0213",
+    "text": "Isar",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-046-a0214",
+    "text": "Amper",
+    "aliases": [
+     "Ammer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0215",
+    "text": "Loisach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0216",
+    "text": "Glonn",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-046-a0217",
+    "text": "Inn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0218",
+    "text": "Salzach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-046-a0219",
+    "text": "Saalach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0220",
+    "text": "Alz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0221",
+    "text": "Tiroler Achen",
+    "aliases": [
+     "Tiroler Ache",
+     "Großache"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0222",
+    "text": "Rott",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0223",
+    "text": "Isen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0224",
+    "text": "Mangfall",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-046-a0225",
+    "text": "Ilz",
+    "aliases": [],
+    "tier": 4
    }
   ]
  }

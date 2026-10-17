@@ -1,0 +1,74 @@
+@id geo-038
+@text Nenne eine Stadt in Spanien mit mindestens 100.000 Einwohnern
+@typ geschlossen
+# Gemeinden (municipios) mit ≥ 100.000 Einwohnern laut INE (Padrón, Stand ca. 2023), inkl. Kanaren und Balearen.
+# Grenzfälle knapp unter 100.000 (zeitweise bzw. laut gängigen Listen um 100.000): Santiago de Compostela, Lugo, Cáceres, Roquetas de Mar (aufgenommen).
+# Nicht dabei: Toledo, Benidorm, Ibiza, Torrevieja, Guadalajara, Ceuta, Melilla (unter 100.000).
+
+1 Madrid
+1 Barcelona
+2 Valencia
+2 Sevilla = Seville
+2 Málaga
+2 Palma = Palma de Mallorca
+3 Bilbao = Bilbo
+3 Zaragoza = Saragossa
+3 Granada
+3 Alicante = Alacant
+3 Córdoba
+3 Las Palmas de Gran Canaria = Las Palmas
+3 San Sebastián = Donostia
+3 Marbella
+4 Santa Cruz de Tenerife = Santa Cruz
+4 Pamplona = Iruña; Iruñea
+4 Salamanca
+4 Murcia
+4 Valladolid
+4 Santiago de Compostela = Santiago
+4 Cádiz
+4 Vigo
+4 Gijón = Xixón
+4 Oviedo
+4 Santander
+4 A Coruña = La Coruña
+4 Burgos
+4 León
+4 Almería
+4 Elche = Elx
+4 Jerez de la Frontera = Jerez
+5 Vitoria-Gasteiz = Vitoria; Gasteiz
+5 L'Hospitalet de Llobregat = Hospitalet
+5 Terrassa = Tarrasa
+5 Badalona
+5 Sabadell
+5 Cartagena
+5 Móstoles
+5 Alcalá de Henares
+5 Fuenlabrada
+5 Leganés
+5 Getafe
+5 Castellón de la Plana = Castellón; Castelló de la Plana
+5 Albacete
+5 Alcorcón
+5 San Cristóbal de La Laguna = La Laguna
+5 Logroño
+5 Badajoz
+5 Huelva
+5 Lleida = Lérida
+5 Tarragona
+5 Dos Hermanas
+5 Torrejón de Ardoz
+5 Parla
+5 Mataró
+5 Algeciras
+5 Santa Coloma de Gramenet
+5 Alcobendas
+5 Jaén
+5 Reus
+5 Ourense = Orense
+5 Telde
+5 Barakaldo = Baracaldo
+5 Girona = Gerona
+5 Lugo
+5 Cáceres
+5 Roquetas de Mar
