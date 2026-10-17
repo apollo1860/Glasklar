@@ -654,7 +654,6 @@ export function createMultiplayer(ctx) {
           <span class="rv-name">${esc(pid === uid() ? 'Du' : nameOf(pid))}</span>
           <span class="rv-answer">${esc(as.text)}</span>
           <span class="rv-tag ${as.kind}">${esc(as.label)}${f.bonus ? ` +${f.bonus}` : ''}</span>
-          <b class="rv-fill">${String(f.fill).replace('.', ',')}</b>
         </li>`;
       });
     $('#q-review-body').innerHTML = `<p class="rv-text">${esc(q.text)}</p><ol class="rv-list">${rows.join('')}</ol>`;
