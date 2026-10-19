@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 40 432 432"><g transform="translate(256 262) scale(1.0) translate(-256 -262)">
+    <defs>
+      <linearGradient id="beer" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#f2b632"/><stop offset="1" stop-color="#c9820f"/>
+      </linearGradient>
+      <clipPath id="inside"><path d="M150 112 H362 L334 412 Q332 430 314 430 H198 Q180 430 178 412 Z"/></clipPath>
+    </defs>
+    <g clip-path="url(#inside)">
+      <rect x="120" y="96" width="272" height="360" fill="#fffdf9" opacity=".55"/>
+      <path d="M120 196 Q170 180 220 192 T320 188 T400 186 V460 H120 Z" fill="url(#beer)"/>
+      <path stroke="#e7dcc6" stroke-width="3" d="M120 168 Q150 140 184 156 Q214 126 252 148 Q288 124 322 150 Q354 132 400 156 V204 Q352 220 320 204 Q288 222 252 206 Q216 222 184 208 Q150 222 120 204 Z" fill="#fffdf9"/>
+      <circle cx="214" cy="300" r="7" fill="#fff" opacity=".55"/>
+      <circle cx="292" cy="344" r="9" fill="#fff" opacity=".45"/>
+      <circle cx="250" cy="382" r="6" fill="#fff" opacity=".5"/>
+      <circle cx="306" cy="276" r="5" fill="#fff" opacity=".5"/>
+      <path d="M182 128 L204 128 L184 400 L170 400 Z" fill="#fff" opacity=".35"/>
+    </g>
+    <path d="M150 112 H362 L334 412 Q332 430 314 430 H198 Q180 430 178 412 Z" fill="none" stroke="#1d1b18" stroke-width="16" stroke-linejoin="round"/>
+  </g></svg>
