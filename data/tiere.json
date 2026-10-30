@@ -9707,5 +9707,327 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "tie-016",
+  "text": "Nenne ein Tier, das im Tierpark Hellabrunn lebt",
+  "kategorie": "tiere",
+  "typ": "geschlossen",
+  "quelle": "hellabrunn.de, Wikipedia, Abendzeitung (per Suche, Stand 10/2026)",
+  "answers": [
+   {
+    "id": "tie-016-a0001",
+    "text": "Elefant",
+    "aliases": [
+     "Asiatischer Elefant"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-016-a0002",
+    "text": "Löwe",
+    "aliases": [
+     "Berberlöwe"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-016-a0003",
+    "text": "Eisbär",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-016-a0004",
+    "text": "Giraffe",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "tie-016-a0005",
+    "text": "Pinguin",
+    "aliases": [
+     "Humboldtpinguin",
+     "Königspinguin"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-016-a0006",
+    "text": "Tiger",
+    "aliases": [
+     "Sibirischer Tiger",
+     "Amurtiger"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0007",
+    "text": "Gorilla",
+    "aliases": [
+     "Flachlandgorilla"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0008",
+    "text": "Affe",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0009",
+    "text": "Schimpanse",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0010",
+    "text": "Erdmännchen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0011",
+    "text": "Robbe",
+    "aliases": [
+     "Seelöwe",
+     "Seebär"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0012",
+    "text": "Nashorn",
+    "aliases": [
+     "Panzernashorn",
+     "Indisches Panzernashorn"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-016-a0013",
+    "text": "Orang-Utan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0014",
+    "text": "Känguru",
+    "aliases": [
+     "Riesenkänguru"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0015",
+    "text": "Wolf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0016",
+    "text": "Elch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0017",
+    "text": "Steinbock",
+    "aliases": [
+     "Alpensteinbock"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0018",
+    "text": "Murmeltier",
+    "aliases": [
+     "Alpenmurmeltier"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0019",
+    "text": "Leopard",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0020",
+    "text": "Jaguar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0021",
+    "text": "Pelikan",
+    "aliases": [
+     "Rosapelikan"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0022",
+    "text": "Schlange",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0023",
+    "text": "Schildkröte",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0024",
+    "text": "Wisent",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0025",
+    "text": "Bison",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0026",
+    "text": "Gämse",
+    "aliases": [
+     "Gams",
+     "Abruzzengämse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0027",
+    "text": "Stachelschwein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0028",
+    "text": "Katta",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0029",
+    "text": "Antilope",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0030",
+    "text": "Ziege",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0031",
+    "text": "Schaf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0032",
+    "text": "Fisch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-016-a0033",
+    "text": "Leguan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0034",
+    "text": "Chamäleon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0035",
+    "text": "Takin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0036",
+    "text": "Moschusochse",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0037",
+    "text": "Seepferdchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0038",
+    "text": "Pfeilgiftfrosch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0039",
+    "text": "Heckrind",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0040",
+    "text": "Klammeraffe",
+    "aliases": [
+     "Braunkopf-Klammeraffe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0041",
+    "text": "Vari",
+    "aliases": [
+     "Roter Vari"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0042",
+    "text": "Siamang",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-016-a0043",
+    "text": "Schweinshirsch",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-016-a0044",
+    "text": "Blaumaulmeerkatze",
+    "aliases": [
+     "Meerkatze"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-016-a0045",
+    "text": "Klippschliefer",
+    "aliases": [
+     "Kap-Klippschliefer"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-016-a0046",
+    "text": "Lisztaffe",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

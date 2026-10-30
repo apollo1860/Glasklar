@@ -1,0 +1,54 @@
+@id ess-023
+@text Nenne eine Biersorte (z. B. Helles, Pils)
+@typ geschlossen
+# Bierstile und gängige Biermischgetränke. Keine Marken.
+
+1 Helles = Hell; Helles Bier
+1 Pils = Pilsner; Pilsener
+1 Weißbier = Weizen; Hefeweizen; Weizenbier; Hefeweißbier; Weisse
+2 Radler = Alsterwasser
+2 Dunkles = Dunkel; Dunkles Bier
+2 Export
+2 Bockbier = Bock
+2 Kölsch
+2 Altbier = Alt
+2 Märzen = Oktoberfestbier
+2 Alkoholfreies Bier = Alkoholfrei; Alkoholfreies
+3 Festbier = Wiesnbier
+3 Doppelbock
+3 Starkbier
+3 Kellerbier = Keller
+3 Zwickl = Zwickel; Zwicklbier
+3 Lager = Lagerbier
+3 Schwarzbier
+3 Rauchbier
+3 Pale Ale
+3 IPA = India Pale Ale
+3 Stout
+3 Berliner Weiße
+3 Kristallweizen = Kristallweißbier
+3 Dunkles Weißbier = Dunkles Weizen
+3 Russ = Russn; Russe
+3 Malzbier
+3 Craft Beer
+4 Porter
+4 Gose
+4 Leichtbier = Leichtes Weißbier
+4 Maibock
+4 Eisbock
+4 Weizenbock = Weizendoppelbock
+4 Landbier
+4 Zoigl
+4 Ale
+4 Witbier
+4 Diesel = Colabier
+4 Colaweizen
+4 Lambic
+4 Sour = Sour Beer
+5 Dinkelbier
+5 Roggenbier
+5 Tripel
+5 Dubbel
+5 Ungespundetes = Ungespundet
+5 Steinbier
+5 Kellerpils

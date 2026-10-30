@@ -20943,5 +20943,145 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "wor-046",
+  "text": "Nenne ein Synonym für „sich übergeben“",
+  "kategorie": "woerter",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "wor-046-a0001",
+    "text": "Kotzen",
+    "aliases": [
+     "Kotze"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-046-a0002",
+    "text": "Brechen",
+    "aliases": [
+     "Erbrechen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "wor-046-a0003",
+    "text": "Spucken",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-046-a0004",
+    "text": "Reihern",
+    "aliases": [
+     "Einen Reiher machen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-046-a0005",
+    "text": "Speiben",
+    "aliases": [
+     "Speim"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "wor-046-a0006",
+    "text": "Kübeln",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "wor-046-a0007",
+    "text": "Abkotzen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0008",
+    "text": "Bröckchen lachen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0009",
+    "text": "Die Fische füttern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0010",
+    "text": "Ulf rufen",
+    "aliases": [
+     "Ulfen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0011",
+    "text": "Rückwärts essen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0012",
+    "text": "Speien",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0013",
+    "text": "Würgen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "wor-046-a0014",
+    "text": "Auskotzen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-046-a0015",
+    "text": "Göbeln",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-046-a0016",
+    "text": "Vomieren",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-046-a0017",
+    "text": "Bröckchen husten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-046-a0018",
+    "text": "Mit dem Porzellangott reden",
+    "aliases": [
+     "Porzellangott"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "wor-046-a0019",
+    "text": "Die Kloschüssel umarmen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "wor-046-a0020",
+    "text": "Den Magen entleeren",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
  }
 ]

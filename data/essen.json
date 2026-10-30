@@ -12886,5 +12886,905 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "ess-023",
+  "text": "Nenne eine Biersorte (z. B. Helles, Pils)",
+  "kategorie": "essen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "ess-023-a0001",
+    "text": "Helles",
+    "aliases": [
+     "Hell",
+     "Helles Bier"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-023-a0002",
+    "text": "Pils",
+    "aliases": [
+     "Pilsner",
+     "Pilsener"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-023-a0003",
+    "text": "Weißbier",
+    "aliases": [
+     "Weizen",
+     "Hefeweizen",
+     "Weizenbier",
+     "Hefeweißbier",
+     "Weisse"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-023-a0004",
+    "text": "Radler",
+    "aliases": [
+     "Alsterwasser"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0005",
+    "text": "Dunkles",
+    "aliases": [
+     "Dunkel",
+     "Dunkles Bier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0006",
+    "text": "Export",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0007",
+    "text": "Bockbier",
+    "aliases": [
+     "Bock"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0008",
+    "text": "Kölsch",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0009",
+    "text": "Altbier",
+    "aliases": [
+     "Alt"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0010",
+    "text": "Märzen",
+    "aliases": [
+     "Oktoberfestbier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0011",
+    "text": "Alkoholfreies Bier",
+    "aliases": [
+     "Alkoholfrei",
+     "Alkoholfreies"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-023-a0012",
+    "text": "Festbier",
+    "aliases": [
+     "Wiesnbier"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0013",
+    "text": "Doppelbock",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0014",
+    "text": "Starkbier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0015",
+    "text": "Kellerbier",
+    "aliases": [
+     "Keller"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0016",
+    "text": "Zwickl",
+    "aliases": [
+     "Zwickel",
+     "Zwicklbier"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0017",
+    "text": "Lager",
+    "aliases": [
+     "Lagerbier"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0018",
+    "text": "Schwarzbier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0019",
+    "text": "Rauchbier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0020",
+    "text": "Pale Ale",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0021",
+    "text": "IPA",
+    "aliases": [
+     "India Pale Ale"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0022",
+    "text": "Stout",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0023",
+    "text": "Berliner Weiße",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0024",
+    "text": "Kristallweizen",
+    "aliases": [
+     "Kristallweißbier"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0025",
+    "text": "Dunkles Weißbier",
+    "aliases": [
+     "Dunkles Weizen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0026",
+    "text": "Russ",
+    "aliases": [
+     "Russn",
+     "Russe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0027",
+    "text": "Malzbier",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0028",
+    "text": "Craft Beer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-023-a0029",
+    "text": "Porter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0030",
+    "text": "Gose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0031",
+    "text": "Leichtbier",
+    "aliases": [
+     "Leichtes Weißbier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0032",
+    "text": "Maibock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0033",
+    "text": "Eisbock",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0034",
+    "text": "Weizenbock",
+    "aliases": [
+     "Weizendoppelbock"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0035",
+    "text": "Landbier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0036",
+    "text": "Zoigl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0037",
+    "text": "Ale",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0038",
+    "text": "Witbier",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0039",
+    "text": "Diesel",
+    "aliases": [
+     "Colabier"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0040",
+    "text": "Colaweizen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0041",
+    "text": "Lambic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0042",
+    "text": "Sour",
+    "aliases": [
+     "Sour Beer"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-023-a0043",
+    "text": "Dinkelbier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-023-a0044",
+    "text": "Roggenbier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-023-a0045",
+    "text": "Tripel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-023-a0046",
+    "text": "Dubbel",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-023-a0047",
+    "text": "Ungespundetes",
+    "aliases": [
+     "Ungespundet"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "ess-023-a0048",
+    "text": "Steinbier",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-023-a0049",
+    "text": "Kellerpils",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "ess-024",
+  "text": "Nenne eine Sorte von Ritter Sport",
+  "kategorie": "essen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "ess-024-a0001",
+    "text": "Alpenmilch",
+    "aliases": [
+     "Alpenmilchschokolade"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-024-a0002",
+    "text": "Marzipan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-024-a0003",
+    "text": "Rum Trauben Nuss",
+    "aliases": [
+     "Rum Traube Nuss"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-024-a0004",
+    "text": "Knusperflakes",
+    "aliases": [
+     "Cornflakes"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0005",
+    "text": "Joghurt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0006",
+    "text": "Nugat",
+    "aliases": [
+     "Nougat"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0007",
+    "text": "Voll-Nuss",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0008",
+    "text": "Ganze Haselnüsse",
+    "aliases": [
+     "Haselnuss",
+     "Haselnüsse"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0009",
+    "text": "Pfefferminz",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0010",
+    "text": "Halbbitter",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-024-a0011",
+    "text": "Nuss-Splitter",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0012",
+    "text": "Butterkeks",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0013",
+    "text": "Knusperkeks",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0014",
+    "text": "Olympia",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0015",
+    "text": "Erdbeer-Joghurt",
+    "aliases": [
+     "Erdbeere"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0016",
+    "text": "Ganze Mandeln",
+    "aliases": [
+     "Mandel",
+     "Mandeln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0017",
+    "text": "Honig Salz Mandel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0018",
+    "text": "Vollmilch",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0019",
+    "text": "Kakao-Mousse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0020",
+    "text": "Kokos",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-024-a0021",
+    "text": "Cashew",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-024-a0022",
+    "text": "Macadamia",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-024-a0023",
+    "text": "Espresso",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-024-a0024",
+    "text": "Edel-Bitter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-024-a0025",
+    "text": "Weiße Voll-Nuss",
+    "aliases": [],
+    "tier": 4
+   }
+  ]
+ },
+ {
+  "id": "ess-025",
+  "text": "Nenne einen Shot, den man in der Bar bestellen kann",
+  "kategorie": "essen",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "ess-025-a0001",
+    "text": "Jägermeister",
+    "aliases": [
+     "Jäger",
+     "Jägi"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-025-a0002",
+    "text": "Tequila",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "ess-025-a0003",
+    "text": "Wodka",
+    "aliases": [
+     "Vodka"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "ess-025-a0004",
+    "text": "Sambuca",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0005",
+    "text": "Kleiner Feigling",
+    "aliases": [
+     "Feigling",
+     "Feige"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0006",
+    "text": "Pfeffi",
+    "aliases": [
+     "Pfefferminzlikör",
+     "Pfefferminzschnaps"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0007",
+    "text": "Berliner Luft",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0008",
+    "text": "Ouzo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0009",
+    "text": "Mexikaner",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0010",
+    "text": "Kümmerling",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0011",
+    "text": "B-52",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "ess-025-a0012",
+    "text": "Ficken",
+    "aliases": [
+     "Ficken-Likör"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0013",
+    "text": "Rum",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0014",
+    "text": "Whisky",
+    "aliases": [
+     "Whiskey"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0015",
+    "text": "Gin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0016",
+    "text": "Absinth",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0017",
+    "text": "Obstler",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0018",
+    "text": "Williams",
+    "aliases": [
+     "Williamsbirne",
+     "Williams Christ"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0019",
+    "text": "Korn",
+    "aliases": [
+     "Doppelkorn"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0020",
+    "text": "Apfelkorn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0021",
+    "text": "Jägerbomb",
+    "aliases": [
+     "Jägerbombe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0022",
+    "text": "Kamikaze",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0023",
+    "text": "Baileys",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0024",
+    "text": "Amaretto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0025",
+    "text": "Limoncello",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0026",
+    "text": "Grappa",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0027",
+    "text": "Raki",
+    "aliases": [
+     "Rakı"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0028",
+    "text": "Underberg",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0029",
+    "text": "Fernet-Branca",
+    "aliases": [
+     "Fernet"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0030",
+    "text": "Ramazzotti",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0031",
+    "text": "Jack Daniel’s",
+    "aliases": [
+     "Jacky"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0032",
+    "text": "Licor 43",
+    "aliases": [
+     "43er"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0033",
+    "text": "Klopfer",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0034",
+    "text": "Saurer Apfel",
+    "aliases": [
+     "Sour Apple"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0035",
+    "text": "Fireball",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0036",
+    "text": "Schnaps",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "ess-025-a0037",
+    "text": "Schierker Feuerstein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0038",
+    "text": "Waldmeister",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0039",
+    "text": "Averna",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0040",
+    "text": "Malibu",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0041",
+    "text": "Blue Curaçao",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0042",
+    "text": "Mezcal",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0043",
+    "text": "Lemon Drop",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0044",
+    "text": "Zwetschgenwasser",
+    "aliases": [
+     "Zwetschge",
+     "Zwetschgenschnaps"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0045",
+    "text": "Enzian",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0046",
+    "text": "Bärwurz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0047",
+    "text": "Blutwurz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0048",
+    "text": "Blowjob",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0049",
+    "text": "Brain Shot",
+    "aliases": [
+     "Hirnshot",
+     "Brain"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0050",
+    "text": "Tequila Rose",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0051",
+    "text": "Sake",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0052",
+    "text": "Pisco",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "ess-025-a0053",
+    "text": "Flatliner",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "ess-025-a0054",
+    "text": "Slippery Nipple",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

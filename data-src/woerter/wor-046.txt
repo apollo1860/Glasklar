@@ -1,0 +1,25 @@
+@id wor-046
+@text Nenne ein Synonym für „sich übergeben“
+@typ geschlossen
+# Umgangssprache, regionale Ausdrücke (bairisch „speiben“) und Redewendungen.
+
+1 Kotzen = Kotze
+1 Brechen = Erbrechen
+2 Spucken
+2 Reihern = Einen Reiher machen
+2 Speiben = Speim
+2 Kübeln
+3 Abkotzen
+3 Bröckchen lachen
+3 Die Fische füttern
+3 Ulf rufen = Ulfen
+3 Rückwärts essen
+3 Speien
+3 Würgen
+4 Auskotzen
+4 Göbeln
+4 Vomieren
+4 Bröckchen husten
+4 Mit dem Porzellangott reden = Porzellangott
+4 Die Kloschüssel umarmen
+4 Den Magen entleeren

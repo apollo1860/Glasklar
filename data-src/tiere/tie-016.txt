@@ -1,0 +1,52 @@
+@id tie-016
+@text Nenne ein Tier, das im Tierpark Hellabrunn lebt
+@typ geschlossen
+@quelle hellabrunn.de, Wikipedia, Abendzeitung (per Suche, Stand 10/2026)
+# Nur Arten, deren Haltung belegt ist; Oberbegriffe (Affe, Pinguin, Robbe …) zählen. Fehlende bitte über das Fehlend-Log ergänzen.
+
+1 Elefant = Asiatischer Elefant
+1 Löwe = Berberlöwe
+1 Eisbär
+1 Giraffe
+1 Pinguin = Humboldtpinguin; Königspinguin
+2 Tiger = Sibirischer Tiger; Amurtiger
+2 Gorilla = Flachlandgorilla
+2 Affe
+2 Schimpanse
+2 Erdmännchen
+2 Robbe = Seelöwe; Seebär
+2 Nashorn = Panzernashorn; Indisches Panzernashorn
+3 Orang-Utan
+3 Känguru = Riesenkänguru
+3 Wolf
+3 Elch
+3 Steinbock = Alpensteinbock
+3 Murmeltier = Alpenmurmeltier
+3 Leopard
+3 Jaguar
+3 Pelikan = Rosapelikan
+3 Schlange
+3 Schildkröte
+3 Wisent
+3 Bison
+3 Gämse = Gams; Abruzzengämse
+3 Stachelschwein
+3 Katta
+3 Antilope
+3 Ziege
+3 Schaf
+3 Fisch
+4 Leguan
+4 Chamäleon
+4 Takin
+4 Moschusochse
+4 Seepferdchen
+4 Pfeilgiftfrosch
+4 Heckrind
+4 Klammeraffe = Braunkopf-Klammeraffe
+4 Vari = Roter Vari
+4 Siamang
+5 Schweinshirsch
+5 Blaumaulmeerkatze = Meerkatze
+5 Klippschliefer = Kap-Klippschliefer
+5 Lisztaffe
