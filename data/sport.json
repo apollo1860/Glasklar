@@ -3980,5 +3980,744 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "spo-007",
+  "text": "Nenne einen Verein, der schon in der Fußball-Bundesliga gespielt hat",
+  "kategorie": "sport",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "spo-007-a0001",
+    "text": "FC Bayern München",
+    "aliases": [
+     "Bayern",
+     "Bayern München",
+     "FCB"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-007-a0002",
+    "text": "Borussia Dortmund",
+    "aliases": [
+     "BVB",
+     "Dortmund"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-007-a0003",
+    "text": "FC Schalke 04",
+    "aliases": [
+     "Schalke",
+     "Schalke 04",
+     "S04"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-007-a0004",
+    "text": "Hamburger SV",
+    "aliases": [
+     "HSV",
+     "Hamburg"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-007-a0005",
+    "text": "Werder Bremen",
+    "aliases": [
+     "Bremen",
+     "Werder",
+     "SV Werder Bremen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0006",
+    "text": "Borussia Mönchengladbach",
+    "aliases": [
+     "Gladbach",
+     "Mönchengladbach",
+     "BMG"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0007",
+    "text": "Bayer 04 Leverkusen",
+    "aliases": [
+     "Leverkusen",
+     "Bayer Leverkusen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0008",
+    "text": "VfB Stuttgart",
+    "aliases": [
+     "Stuttgart",
+     "VfB"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0009",
+    "text": "Eintracht Frankfurt",
+    "aliases": [
+     "Frankfurt",
+     "Eintracht",
+     "SGE"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0010",
+    "text": "1. FC Köln",
+    "aliases": [
+     "Köln",
+     "FC Köln",
+     "Effzeh"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0011",
+    "text": "RB Leipzig",
+    "aliases": [
+     "Leipzig",
+     "RasenBallsport Leipzig"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0012",
+    "text": "VfL Wolfsburg",
+    "aliases": [
+     "Wolfsburg"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0013",
+    "text": "Hertha BSC",
+    "aliases": [
+     "Hertha",
+     "Hertha Berlin"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0014",
+    "text": "1. FC Union Berlin",
+    "aliases": [
+     "Union Berlin",
+     "Union",
+     "Eisern Union"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0015",
+    "text": "SC Freiburg",
+    "aliases": [
+     "Freiburg"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0016",
+    "text": "TSG Hoffenheim",
+    "aliases": [
+     "Hoffenheim",
+     "TSG 1899 Hoffenheim"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0017",
+    "text": "FSV Mainz 05",
+    "aliases": [
+     "Mainz",
+     "Mainz 05",
+     "1. FSV Mainz 05"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0018",
+    "text": "FC Augsburg",
+    "aliases": [
+     "Augsburg",
+     "FCA"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-007-a0019",
+    "text": "1. FC Kaiserslautern",
+    "aliases": [
+     "FCK",
+     "Lautern",
+     "Kaiserslautern"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0020",
+    "text": "1. FC Nürnberg",
+    "aliases": [
+     "Nürnberg",
+     "Club",
+     "FCN"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0021",
+    "text": "Hannover 96",
+    "aliases": [
+     "Hannover"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0022",
+    "text": "VfL Bochum",
+    "aliases": [
+     "Bochum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0023",
+    "text": "FC St. Pauli",
+    "aliases": [
+     "St. Pauli"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0024",
+    "text": "Fortuna Düsseldorf",
+    "aliases": [
+     "Düsseldorf",
+     "Fortuna"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0025",
+    "text": "Arminia Bielefeld",
+    "aliases": [
+     "Bielefeld",
+     "Arminia",
+     "DSC Arminia Bielefeld"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0026",
+    "text": "Darmstadt 98",
+    "aliases": [
+     "Darmstadt",
+     "SV Darmstadt 98",
+     "Lilien"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0027",
+    "text": "1. FC Heidenheim",
+    "aliases": [
+     "Heidenheim"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0028",
+    "text": "SC Paderborn 07",
+    "aliases": [
+     "Paderborn",
+     "SC Paderborn"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0029",
+    "text": "TSV 1860 München",
+    "aliases": [
+     "1860 München",
+     "1860",
+     "Sechzig",
+     "Löwen",
+     "Sechzger"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0030",
+    "text": "Karlsruher SC",
+    "aliases": [
+     "KSC",
+     "Karlsruhe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0031",
+    "text": "Eintracht Braunschweig",
+    "aliases": [
+     "Braunschweig"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0032",
+    "text": "MSV Duisburg",
+    "aliases": [
+     "Duisburg",
+     "MSV"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0033",
+    "text": "Hansa Rostock",
+    "aliases": [
+     "Rostock",
+     "F.C. Hansa Rostock",
+     "Hansa"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0034",
+    "text": "Energie Cottbus",
+    "aliases": [
+     "Cottbus",
+     "FC Energie Cottbus"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0035",
+    "text": "Dynamo Dresden",
+    "aliases": [
+     "Dresden",
+     "SG Dynamo Dresden"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0036",
+    "text": "Greuther Fürth",
+    "aliases": [
+     "Fürth",
+     "SpVgg Greuther Fürth",
+     "Kleeblatt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0037",
+    "text": "FC Ingolstadt 04",
+    "aliases": [
+     "Ingolstadt",
+     "FC Ingolstadt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0038",
+    "text": "Holstein Kiel",
+    "aliases": [
+     "Kiel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0039",
+    "text": "SV Elversberg",
+    "aliases": [
+     "Elversberg",
+     "SV 07 Elversberg"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0040",
+    "text": "Alemannia Aachen",
+    "aliases": [
+     "Aachen",
+     "Alemannia"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0041",
+    "text": "Kickers Offenbach",
+    "aliases": [
+     "Offenbach",
+     "OFC"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-007-a0042",
+    "text": "1. FC Saarbrücken",
+    "aliases": [
+     "Saarbrücken",
+     "FCS"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0043",
+    "text": "KFC Uerdingen 05",
+    "aliases": [
+     "Uerdingen",
+     "Bayer Uerdingen",
+     "Bayer 05 Uerdingen",
+     "KFC Uerdingen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0044",
+    "text": "Rot-Weiss Essen",
+    "aliases": [
+     "RWE",
+     "Essen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0045",
+    "text": "SpVgg Unterhaching",
+    "aliases": [
+     "Unterhaching",
+     "Haching"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0046",
+    "text": "SSV Ulm 1846",
+    "aliases": [
+     "Ulm",
+     "SSV Ulm"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0047",
+    "text": "Waldhof Mannheim",
+    "aliases": [
+     "Mannheim",
+     "SV Waldhof Mannheim",
+     "Waldhof"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0048",
+    "text": "SG Wattenscheid 09",
+    "aliases": [
+     "Wattenscheid",
+     "Wattenscheid 09"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0049",
+    "text": "Stuttgarter Kickers",
+    "aliases": [
+     "Kickers Stuttgart"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0050",
+    "text": "Rot-Weiß Oberhausen",
+    "aliases": [
+     "Oberhausen",
+     "RWO"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0051",
+    "text": "Wuppertaler SV",
+    "aliases": [
+     "Wuppertal",
+     "WSV"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0052",
+    "text": "Preußen Münster",
+    "aliases": [
+     "Münster",
+     "SC Preußen Münster"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0053",
+    "text": "Tennis Borussia Berlin",
+    "aliases": [
+     "TeBe",
+     "Tennis Borussia"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0054",
+    "text": "VfB Leipzig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0055",
+    "text": "Fortuna Köln",
+    "aliases": [
+     "SC Fortuna Köln"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0056",
+    "text": "FC 08 Homburg",
+    "aliases": [
+     "Homburg",
+     "FC Homburg"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-007-a0057",
+    "text": "Borussia Neunkirchen",
+    "aliases": [
+     "Neunkirchen"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-007-a0058",
+    "text": "Tasmania Berlin",
+    "aliases": [
+     "Tasmania",
+     "SC Tasmania 1900 Berlin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "spo-007-a0059",
+    "text": "Blau-Weiß 90 Berlin",
+    "aliases": [
+     "Blau-Weiß Berlin",
+     "Blau-Weiß 90"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "spo-008",
+  "text": "Nenne einen Spieler aus dem deutschen Weltmeister-Kader 2014",
+  "kategorie": "sport",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "spo-008-a0001",
+    "text": "Thomas Müller",
+    "aliases": [
+     "Müller"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-008-a0002",
+    "text": "Manuel Neuer",
+    "aliases": [
+     "Neuer"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-008-a0003",
+    "text": "Mario Götze",
+    "aliases": [
+     "Götze"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-008-a0004",
+    "text": "Bastian Schweinsteiger",
+    "aliases": [
+     "Schweinsteiger",
+     "Schweini"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-008-a0005",
+    "text": "Philipp Lahm",
+    "aliases": [
+     "Lahm"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "spo-008-a0006",
+    "text": "Toni Kroos",
+    "aliases": [
+     "Kroos"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0007",
+    "text": "Miroslav Klose",
+    "aliases": [
+     "Klose"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0008",
+    "text": "Mesut Özil",
+    "aliases": [
+     "Özil"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0009",
+    "text": "Mats Hummels",
+    "aliases": [
+     "Hummels"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0010",
+    "text": "Jérôme Boateng",
+    "aliases": [
+     "Boateng"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0011",
+    "text": "Lukas Podolski",
+    "aliases": [
+     "Podolski",
+     "Poldi"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0012",
+    "text": "Sami Khedira",
+    "aliases": [
+     "Khedira"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0013",
+    "text": "André Schürrle",
+    "aliases": [
+     "Schürrle"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "spo-008-a0014",
+    "text": "Per Mertesacker",
+    "aliases": [
+     "Mertesacker"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-008-a0015",
+    "text": "Benedikt Höwedes",
+    "aliases": [
+     "Höwedes"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-008-a0016",
+    "text": "Christoph Kramer",
+    "aliases": [
+     "Kramer"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-008-a0017",
+    "text": "Julian Draxler",
+    "aliases": [
+     "Draxler"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-008-a0018",
+    "text": "Kevin Großkreutz",
+    "aliases": [
+     "Großkreutz"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "spo-008-a0019",
+    "text": "Shkodran Mustafi",
+    "aliases": [
+     "Mustafi"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-008-a0020",
+    "text": "Matthias Ginter",
+    "aliases": [
+     "Ginter"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-008-a0021",
+    "text": "Roman Weidenfeller",
+    "aliases": [
+     "Weidenfeller"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-008-a0022",
+    "text": "Ron-Robert Zieler",
+    "aliases": [
+     "Zieler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "spo-008-a0023",
+    "text": "Erik Durm",
+    "aliases": [
+     "Durm"
+    ],
+    "tier": 5
+   }
+  ]
  }
 ]

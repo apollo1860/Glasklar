@@ -1,0 +1,65 @@
+@id spo-007
+@text Nenne einen Verein, der schon in der Fußball-Bundesliga gespielt hat
+@typ geschlossen
+# Alle Vereine mit mindestens einer Saison in der Bundesliga der Männer seit 1963/64, Stand Saison 2026/27
+# (neu: SV Elversberg; Aufsteiger Schalke 04 und SC Paderborn waren schon vorher dabei).
+
+1 FC Bayern München = Bayern; Bayern München; FCB
+1 Borussia Dortmund = BVB; Dortmund
+1 FC Schalke 04 = Schalke; Schalke 04; S04
+1 Hamburger SV = HSV; Hamburg
+2 Werder Bremen = Bremen; Werder; SV Werder Bremen
+2 Borussia Mönchengladbach = Gladbach; Mönchengladbach; BMG
+2 Bayer 04 Leverkusen = Leverkusen; Bayer Leverkusen
+2 VfB Stuttgart = Stuttgart; VfB
+2 Eintracht Frankfurt = Frankfurt; Eintracht; SGE
+2 1. FC Köln = Köln; FC Köln; Effzeh
+2 RB Leipzig = Leipzig; RasenBallsport Leipzig
+2 VfL Wolfsburg = Wolfsburg
+2 Hertha BSC = Hertha; Hertha Berlin
+2 1. FC Union Berlin = Union Berlin; Union; Eisern Union
+2 SC Freiburg = Freiburg
+2 TSG Hoffenheim = Hoffenheim; TSG 1899 Hoffenheim
+2 FSV Mainz 05 = Mainz; Mainz 05; 1. FSV Mainz 05
+2 FC Augsburg = Augsburg; FCA
+3 1. FC Kaiserslautern = FCK; Lautern; Kaiserslautern
+3 1. FC Nürnberg = Nürnberg; Club; FCN
+3 Hannover 96 = Hannover
+3 VfL Bochum = Bochum
+3 FC St. Pauli = St. Pauli
+3 Fortuna Düsseldorf = Düsseldorf; Fortuna
+3 Arminia Bielefeld = Bielefeld; Arminia; DSC Arminia Bielefeld
+3 Darmstadt 98 = Darmstadt; SV Darmstadt 98; Lilien
+3 1. FC Heidenheim = Heidenheim
+3 SC Paderborn 07 = Paderborn; SC Paderborn
+3 TSV 1860 München = 1860 München; 1860; Sechzig; Löwen; Sechzger
+3 Karlsruher SC = KSC; Karlsruhe
+3 Eintracht Braunschweig = Braunschweig
+3 MSV Duisburg = Duisburg; MSV
+3 Hansa Rostock = Rostock; F.C. Hansa Rostock; Hansa
+3 Energie Cottbus = Cottbus; FC Energie Cottbus
+3 Dynamo Dresden = Dresden; SG Dynamo Dresden
+3 Greuther Fürth = Fürth; SpVgg Greuther Fürth; Kleeblatt
+3 FC Ingolstadt 04 = Ingolstadt; FC Ingolstadt
+3 Holstein Kiel = Kiel
+3 SV Elversberg = Elversberg; SV 07 Elversberg
+3 Alemannia Aachen = Aachen; Alemannia
+3 Kickers Offenbach = Offenbach; OFC
+4 1. FC Saarbrücken = Saarbrücken; FCS
+4 KFC Uerdingen 05 = Uerdingen; Bayer Uerdingen; Bayer 05 Uerdingen; KFC Uerdingen
+4 Rot-Weiss Essen = RWE; Essen
+4 SpVgg Unterhaching = Unterhaching; Haching
+4 SSV Ulm 1846 = Ulm; SSV Ulm
+4 Waldhof Mannheim = Mannheim; SV Waldhof Mannheim; Waldhof
+4 SG Wattenscheid 09 = Wattenscheid; Wattenscheid 09
+4 Stuttgarter Kickers = Kickers Stuttgart
+4 Rot-Weiß Oberhausen = Oberhausen; RWO
+4 Wuppertaler SV = Wuppertal; WSV
+4 Preußen Münster = Münster; SC Preußen Münster
+4 Tennis Borussia Berlin = TeBe; Tennis Borussia
+4 VfB Leipzig
+4 Fortuna Köln = SC Fortuna Köln
+4 FC 08 Homburg = Homburg; FC Homburg
+5 Borussia Neunkirchen = Neunkirchen
+5 Tasmania Berlin = Tasmania; SC Tasmania 1900 Berlin
+5 Blau-Weiß 90 Berlin = Blau-Weiß Berlin; Blau-Weiß 90

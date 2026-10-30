@@ -1,0 +1,73 @@
+@id geo-055
+@text Nenne einen See in Bayern
+@typ geschlossen
+# Natürliche Seen, Stauseen und bekannte Badeseen (auch in München). Bodensee zählt (Bayern hat Uferanteil).
+# Nicht: Weiher/Teiche ohne „See“-Bekanntheit, Flüsse.
+
+1 Chiemsee = Bayerisches Meer
+1 Starnberger See = Würmsee
+1 Tegernsee
+1 Ammersee
+2 Königssee
+2 Bodensee
+2 Schliersee
+2 Walchensee
+2 Kochelsee
+2 Eibsee
+2 Forggensee
+2 Großer Brombachsee = Brombachsee
+3 Staffelsee
+3 Simssee
+3 Waginger See
+3 Großer Alpsee
+3 Alpsee
+3 Hopfensee
+3 Wörthsee
+3 Spitzingsee
+3 Sylvensteinsee = Sylvensteinspeicher
+3 Altmühlsee
+3 Feringasee
+3 Olympiasee
+3 Kleinhesseloher See
+3 Riemer See = Messesee
+3 Langbürgner See
+4 Weißensee
+4 Bannwaldsee
+4 Riegsee
+4 Pilsensee
+4 Osterseen = Großer Ostersee
+4 Rothsee
+4 Großer Arbersee = Arbersee
+4 Obersee
+4 Hintersee
+4 Tachinger See
+4 Langwieder See
+4 Fasaneriesee
+4 Feldmochinger See
+4 Karlsfelder See
+4 Heimstettener See
+4 Lerchenauer See
+4 Weßlinger See
+4 Barmsee
+4 Geroldsee = Wagenbrüchsee
+4 Lautersee
+4 Ferchensee
+4 Badersee
+4 Igelsbachsee
+4 Steinberger See
+4 Kuhsee
+4 Mandichosee
+5 Kleiner Arbersee
+5 Rachelsee
+5 Thumsee
+5 Frillensee
+5 Soinsee
+5 Abtsdorfer See
+5 Pelhamer See
+5 Seeoner Seen
+5 Murner See
+5 Rottachsee
+5 Grüntensee
+5 Niedersonthofener See
+5 Lußsee
+5 Dechsendorfer Weiher

@@ -1,0 +1,75 @@
+@id ess-022
+@text Nenne eine gängige Eissorte
+# Sorten, die man in deutschen Eisdielen oder im Supermarkt findet (Kugel-, Softeis- und Marken-Geschmack).
+
+1 Vanille
+1 Schokolade = Schoko
+1 Erdbeere = Erdbeer
+1 Stracciatella
+2 Zitrone
+2 Haselnuss = Nuss
+2 Pistazie
+2 Mango
+2 Joghurt
+2 Cookies = Cookie Dough
+2 Himbeere
+2 Banane
+2 Malaga = Rum-Rosine
+2 Karamell = Salted Caramel; Salzkaramell
+3 Kokos
+3 Kaffee = Mokka; Espresso
+3 Amarena = Amarenakirsche
+3 Kirsche
+3 Walnuss
+3 Tiramisu
+3 Cheesecake = Käsekuchen
+3 Waldmeister
+3 Heidelbeere = Blaubeere
+3 Pfirsich
+3 Melone = Wassermelone
+3 Maracuja = Passionsfrucht
+3 Mandel
+3 Minze = Minze-Schoko; After Eight
+3 Nougat
+3 Kinderschokolade = Kinder
+3 Weiße Schokolade
+3 Zartbitter = Zartbitterschokolade
+3 Sahne = Fior di Latte
+3 Puffo = Schlumpfeis; Schlumpf
+3 Kaugummi = Bubblegum
+3 Nutella
+3 Oreo
+3 Ferrero Rocher = Rocher
+3 Raffaello
+3 Limette
+3 Ananas
+3 Apfel = Grüner Apfel
+3 Marzipan
+3 Erdnuss = Erdnussbutter
+3 Mascarpone
+3 Eierlikör
+4 Orange
+4 Birne
+4 Kiwi
+4 Johannisbeere
+4 Brombeere
+4 Holunder
+4 Zimt
+4 Lebkuchen
+4 Spekulatius
+4 Matcha
+4 Snickers
+4 Twix
+4 Bounty
+4 Baileys
+4 Panna cotta
+4 Quark
+4 Buttermilch
+4 Grapefruit
+4 Rhabarber
+4 Sauerkirsche
+4 Kokos-Ananas = Piña Colada
+5 Feige
+5 Lavendel
+5 Basilikum
+5 Schwarzer Sesam

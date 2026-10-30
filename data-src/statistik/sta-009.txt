@@ -1,5 +1,5 @@
 @id sta-009
-@text Nenne deinen Geburtstag (TT.MM.) – je seltener, desto leerer das Glas
+@text Nenne ein Geburtsdatum (TT.MM.) – je seltener, desto leerer das Glas
 @typ geschlossen
 # Alle 366 Tage, Eingabe als „TT.MM.“ (zweistellig) oder „1. Januar“. Kein Alias ohne führende Null („1.1.“), weil
 # „1.11.“ und „11.1.“ nach Entfernen der Punkte kollidieren würden.

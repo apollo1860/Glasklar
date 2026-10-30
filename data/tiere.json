@@ -9227,5 +9227,485 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "tie-015",
+  "text": "Nenne ein Tier, das in Australien lebt",
+  "kategorie": "tiere",
+  "answers": [
+   {
+    "id": "tie-015-a0001",
+    "text": "Känguru",
+    "aliases": [
+     "Kängurus",
+     "Riesenkänguru",
+     "Rotes Riesenkänguru"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-015-a0002",
+    "text": "Koala",
+    "aliases": [
+     "Koalabär"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-015-a0003",
+    "text": "Krokodil",
+    "aliases": [
+     "Salzwasserkrokodil",
+     "Leistenkrokodil"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-015-a0004",
+    "text": "Spinne",
+    "aliases": [
+     "Spinnen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "tie-015-a0005",
+    "text": "Schlange",
+    "aliases": [
+     "Schlangen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-015-a0006",
+    "text": "Emu",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-015-a0007",
+    "text": "Schnabeltier",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-015-a0008",
+    "text": "Wombat",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-015-a0009",
+    "text": "Dingo",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "tie-015-a0010",
+    "text": "Hai",
+    "aliases": [
+     "Weißer Hai",
+     "Haie"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "tie-015-a0011",
+    "text": "Kakadu",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0012",
+    "text": "Tasmanischer Teufel",
+    "aliases": [
+     "Beutelteufel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0013",
+    "text": "Quokka",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0014",
+    "text": "Wallaby",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0015",
+    "text": "Ameisenigel",
+    "aliases": [
+     "Echidna"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0016",
+    "text": "Kasuar",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0017",
+    "text": "Kookaburra",
+    "aliases": [
+     "Lachender Hans"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0018",
+    "text": "Wellensittich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0019",
+    "text": "Nymphensittich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0020",
+    "text": "Trauerschwan",
+    "aliases": [
+     "Schwarzer Schwan"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0021",
+    "text": "Pelikan",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0022",
+    "text": "Clownfisch",
+    "aliases": [
+     "Nemo"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0023",
+    "text": "Meeresschildkröte",
+    "aliases": [
+     "Schildkröte"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0024",
+    "text": "Würfelqualle",
+    "aliases": [
+     "Seewespe",
+     "Qualle"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0025",
+    "text": "Taipan",
+    "aliases": [
+     "Inlandtaipan"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0026",
+    "text": "Braunschlange",
+    "aliases": [
+     "Östliche Braunschlange"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0027",
+    "text": "Python",
+    "aliases": [
+     "Teppichpython"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0028",
+    "text": "Kragenechse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0029",
+    "text": "Bartagame",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0030",
+    "text": "Waran",
+    "aliases": [
+     "Buntwaran",
+     "Goanna"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0031",
+    "text": "Trichternetzspinne",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0032",
+    "text": "Rotrückenspinne",
+    "aliases": [
+     "Redback"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0033",
+    "text": "Kaninchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0034",
+    "text": "Aga-Kröte",
+    "aliases": [
+     "Cane Toad"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0035",
+    "text": "Kamel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0036",
+    "text": "Possum",
+    "aliases": [
+     "Fuchskusu",
+     "Opossum"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0037",
+    "text": "Schaf",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0038",
+    "text": "Delfin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0039",
+    "text": "Wal",
+    "aliases": [
+     "Buckelwal"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0040",
+    "text": "Rochen",
+    "aliases": [
+     "Stachelrochen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0041",
+    "text": "Pinguin",
+    "aliases": [
+     "Zwergpinguin"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0042",
+    "text": "Seelöwe",
+    "aliases": [
+     "Australischer Seelöwe"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "tie-015-a0043",
+    "text": "Dornteufel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0044",
+    "text": "Tigerotter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0045",
+    "text": "Sugar Glider",
+    "aliases": [
+     "Kurzkopfgleitbeutler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0046",
+    "text": "Numbat",
+    "aliases": [
+     "Ameisenbeutler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0047",
+    "text": "Bilby",
+    "aliases": [
+     "Kaninchennasenbeutler"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0048",
+    "text": "Beutelmarder",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0049",
+    "text": "Baumkänguru",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0050",
+    "text": "Leierschwanz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0051",
+    "text": "Lori",
+    "aliases": [
+     "Allfarblori"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0052",
+    "text": "Rosakakadu",
+    "aliases": [
+     "Galah"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0053",
+    "text": "Rosella",
+    "aliases": [
+     "Rosellasittich"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0054",
+    "text": "Ibis",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0055",
+    "text": "Dugong",
+    "aliases": [
+     "Seekuh"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0056",
+    "text": "Blaugeringelter Krake",
+    "aliases": [
+     "Krake"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0057",
+    "text": "Seepferdchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0058",
+    "text": "Barramundi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0059",
+    "text": "Brumby",
+    "aliases": [
+     "Wildpferd"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0060",
+    "text": "Süßwasserkrokodil",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0061",
+    "text": "Fledermaus",
+    "aliases": [
+     "Flughund"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0062",
+    "text": "Termite",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "tie-015-a0063",
+    "text": "Lungenfisch",
+    "aliases": [
+     "Australischer Lungenfisch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "tie-015-a0064",
+    "text": "Beutelmull",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-015-a0065",
+    "text": "Tüpfelkuskus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "tie-015-a0066",
+    "text": "Laubenvogel",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

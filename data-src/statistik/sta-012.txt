@@ -1,0 +1,59 @@
+@id sta-012
+@text Nenne den US-Bundesstaat mit der höchsten Adipositas-Rate
+@typ rangliste
+@loesung 1. West Virginia (41,4 %) · 2. Mississippi (40,4 %) · 3. Louisiana (39,2 %) · 4./5. Alabama, Arkansas (je 38,9 %) (CDC BRFSS 2024 laut TFAH, State of Obesity 2025)
+@quelle CDC BRFSS 2024 via TFAH „State of Obesity 2025“; Plätze 6–10 geschätzt nach den Vorjahren
+# Anteil Erwachsener mit BMI ≥ 30 (selbst angegeben). Die Reihenfolge schwankt von Jahr zu Jahr stark.
+# Plätze 6–10 (Oklahoma, Tennessee, Kentucky, Indiana, Ohio) nicht exakt belegt – bei Bedarf mit den CDC-Karten abgleichen.
+# Füllung nach Rang: Platz 1–3 = 0, 4–8 = 1, 9–10 = 2, Rest = 3.
+
+5 West Virginia
+5 Mississippi
+5 Louisiana
+3 Alabama
+3 Arkansas
+3 Oklahoma
+3 Tennessee
+3 Kentucky
+2 Indiana
+2 Ohio
+1 Alaska
+1 Arizona
+1 Colorado
+1 Delaware
+1 Florida
+1 Georgia
+1 Idaho
+1 Illinois
+1 Iowa
+1 Kansas
+1 Maine
+1 Maryland
+1 Michigan
+1 Missouri
+1 Montana
+1 Nebraska
+1 Nevada
+1 New Mexico = Neumexiko
+1 North Carolina = Nordkarolina
+1 North Dakota = Norddakota
+1 Oregon
+1 Pennsylvania = Pennsylvanien
+1 South Carolina = Südkarolina
+1 South Dakota = Süddakota
+1 Texas
+1 Vermont
+1 Virginia
+1 Washington
+1 Wisconsin
+1 Wyoming
+1 Hawaii
+1 Massachusetts
+1 New Jersey
+1 New York
+1 Connecticut
+1 Kalifornien = California
+1 Minnesota
+1 Rhode Island
+1 Utah
+1 New Hampshire

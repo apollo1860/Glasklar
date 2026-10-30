@@ -1,0 +1,60 @@
+@id fil-015
+@text Nenne eine Figur aus „Friends“
+@typ geschlossen
+# Hauptfiguren, wiederkehrende Nebenfiguren und bekannte Gastrollen der Serie (1994–2004). Vorname reicht.
+
+1 Rachel Green = Rachel; Rach
+1 Ross Geller = Ross
+1 Monica Geller = Monica; Mon
+1 Chandler Bing = Chandler
+1 Joey Tribbiani = Joey
+1 Phoebe Buffay = Phoebe; Pheebs
+3 Gunther
+3 Janice = Janice Hosenstein
+3 Mike Hannigan = Mike
+3 Marcel
+3 Carol Willick = Carol
+3 Ben Geller = Ben
+3 Emma Geller-Green = Emma
+3 Ursula Buffay = Ursula
+3 Ugly Naked Guy = Hässlicher nackter Typ; Hässlicher Nackter
+4 Emily Waltham = Emily
+4 Susan Bunch = Susan
+4 Richard Burke = Richard; Dr. Richard Burke
+4 Jack Geller = Jack
+4 Judy Geller = Judy
+4 Frank Buffay Jr. = Frank Jr.; Frank
+4 Mr. Heckles = Heckles
+4 Estelle Leonard = Estelle
+4 Barry Farber = Barry
+4 Paolo
+4 Hugsy
+4 Huhn und Ente = Huhn; Ente; Chick and Duck
+4 Amy Green = Amy
+4 Janine Lecroix = Janine
+4 Charlie Wheeler = Charlie
+4 Mona
+4 Drake Ramoray = Dr. Drake Ramoray
+4 Tag Jones = Tag
+4 Julie
+4 David
+5 Kathy
+5 Mindy
+5 Erica
+5 Eddie Menuek = Eddie
+5 Gary
+5 Elizabeth Stevens = Elizabeth
+5 Pete Becker = Pete
+5 Gavin Mitchell = Gavin
+5 Mr. Treeger = Treeger
+5 Charles Bing = Helena Handbasket
+5 Nora Tyler Bing = Nora Bing; Nora
+5 Jill Green = Jill
+5 Leonard Green = Leonard
+5 Sandra Green = Sandra
+5 Joshua
+5 Fun Bobby = Bobby
+5 Lily Buffay = Lily
+5 Frank Buffay Sr. = Frank Sr.
+5 Alice Knight = Alice
+5 Kip

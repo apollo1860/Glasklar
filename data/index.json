@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated": "2026-10-17",
+  "generated": "2026-10-30",
   "categories": [
     {
       "id": "geografie",
       "name": "Geografie",
       "icon": "🌍",
-      "count": 54,
-      "v": "fc6fb04f59",
+      "count": 56,
+      "v": "f9967e5990",
       "questions": [
         "geo-001",
         "geo-002",
@@ -62,15 +62,17 @@
         "geo-051",
         "geo-052",
         "geo-053",
-        "geo-054"
+        "geo-054",
+        "geo-055",
+        "geo-056"
       ]
     },
     {
       "id": "statistik",
       "name": "Ranglisten",
       "icon": "📊",
-      "count": 9,
-      "v": "80a00a0d08",
+      "count": 12,
+      "v": "4b9e987a76",
       "questions": [
         "sta-001",
         "sta-002",
@@ -80,15 +82,18 @@
         "sta-006",
         "sta-007",
         "sta-008",
-        "sta-009"
+        "sta-009",
+        "sta-010",
+        "sta-011",
+        "sta-012"
       ]
     },
     {
       "id": "essen",
       "name": "Essen & Trinken",
       "icon": "🍕",
-      "count": 19,
-      "v": "109a8ab4cf",
+      "count": 21,
+      "v": "44d3e9936e",
       "questions": [
         "ess-002",
         "ess-003",
@@ -108,15 +113,17 @@
         "ess-017",
         "ess-018",
         "ess-019",
-        "ess-020"
+        "ess-020",
+        "ess-021",
+        "ess-022"
       ]
     },
     {
       "id": "tiere",
       "name": "Tiere",
       "icon": "🐟",
-      "count": 12,
-      "v": "05744f9580",
+      "count": 13,
+      "v": "f47727f7c3",
       "questions": [
         "tie-003",
         "tie-004",
@@ -129,30 +136,33 @@
         "tie-011",
         "tie-012",
         "tie-013",
-        "tie-014"
+        "tie-014",
+        "tie-015"
       ]
     },
     {
       "id": "sport",
       "name": "Sport",
       "icon": "⚽",
-      "count": 6,
-      "v": "992c062c49",
+      "count": 8,
+      "v": "dea4e9ca4a",
       "questions": [
         "spo-001",
         "spo-002",
         "spo-003",
         "spo-004",
         "spo-005",
-        "spo-006"
+        "spo-006",
+        "spo-007",
+        "spo-008"
       ]
     },
     {
       "id": "film",
       "name": "Film & Serien",
       "icon": "🎬",
-      "count": 14,
-      "v": "74653c4e47",
+      "count": 15,
+      "v": "a045b8823d",
       "questions": [
         "fil-001",
         "fil-002",
@@ -167,15 +177,16 @@
         "fil-011",
         "fil-012",
         "fil-013",
-        "fil-014"
+        "fil-014",
+        "fil-015"
       ]
     },
     {
       "id": "musik",
       "name": "Musik",
       "icon": "🎸",
-      "count": 11,
-      "v": "bd5c7a7510",
+      "count": 15,
+      "v": "d3bfd34e8a",
       "questions": [
         "mus-003",
         "mus-004",
@@ -187,7 +198,11 @@
         "mus-010",
         "mus-011",
         "mus-012",
-        "mus-013"
+        "mus-013",
+        "mus-014",
+        "mus-015",
+        "mus-016",
+        "mus-017"
       ]
     },
     {

@@ -6947,5 +6947,1170 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mus-014",
+  "text": "Nenne einen Song von Helene Fischer",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "quelle": "Universal Music, Chartarchive (per Suche, Stand 10/2026)",
+  "answers": [
+   {
+    "id": "mus-014-a0001",
+    "text": "Atemlos durch die Nacht",
+    "aliases": [
+     "Atemlos"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-014-a0002",
+    "text": "Herzbeben",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-014-a0003",
+    "text": "Achterbahn",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-014-a0004",
+    "text": "Phänomen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-014-a0005",
+    "text": "Fehlerfrei",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-014-a0006",
+    "text": "Regenbogenfarben",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-014-a0007",
+    "text": "Und morgen früh küss ich dich wach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-014-a0008",
+    "text": "Ich will immer wieder … dieses Fieber spür’n",
+    "aliases": [
+     "Ich will immer wieder",
+     "Dieses Fieber spüren",
+     "Fieber"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-014-a0009",
+    "text": "Flieger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0010",
+    "text": "Nur mit dir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0011",
+    "text": "Marathon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0012",
+    "text": "Mit keinem Andern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0013",
+    "text": "Von hier bis unendlich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0014",
+    "text": "Mitten im Paradies",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0015",
+    "text": "So nah wie du",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0016",
+    "text": "Lass mich in dein Leben",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0017",
+    "text": "Die Hölle morgen früh",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0018",
+    "text": "Vamos a Marte",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0019",
+    "text": "Rausch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-014-a0020",
+    "text": "Feuer am Horizont",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-014-a0021",
+    "text": "Ich geh’ in Flammen auf",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-014-a0022",
+    "text": "Wär’ heut mein letzter Tag",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-014-a0023",
+    "text": "Du lässt mich sein, so wie ich bin",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-014-a0024",
+    "text": "Volles Risiko",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mus-015",
+  "text": "Nenne einen Song von ABBA",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "quelle": "Diskografie ABBA (Singles und Albumtitel 1972–2021)",
+  "answers": [
+   {
+    "id": "mus-015-a0001",
+    "text": "Dancing Queen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-015-a0002",
+    "text": "Mamma Mia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-015-a0003",
+    "text": "Waterloo",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-015-a0004",
+    "text": "Gimme! Gimme! Gimme!",
+    "aliases": [
+     "Gimme Gimme Gimme (A Man After Midnight)"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-015-a0005",
+    "text": "The Winner Takes It All",
+    "aliases": [
+     "Winner Takes It All"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-015-a0006",
+    "text": "Money, Money, Money",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-015-a0007",
+    "text": "Super Trouper",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-015-a0008",
+    "text": "Take a Chance on Me",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-015-a0009",
+    "text": "Fernando",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-015-a0010",
+    "text": "Knowing Me, Knowing You",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0011",
+    "text": "Voulez-Vous",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0012",
+    "text": "Chiquitita",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0013",
+    "text": "Lay All Your Love on Me",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0014",
+    "text": "SOS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0015",
+    "text": "I Have a Dream",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0016",
+    "text": "Thank You for the Music",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0017",
+    "text": "Does Your Mother Know",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0018",
+    "text": "Honey, Honey",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0019",
+    "text": "Slipping Through My Fingers",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0020",
+    "text": "Happy New Year",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-015-a0021",
+    "text": "Ring Ring",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0022",
+    "text": "Summer Night City",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0023",
+    "text": "One of Us",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0024",
+    "text": "The Name of the Game",
+    "aliases": [
+     "Name of the Game"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0025",
+    "text": "Angeleyes",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0026",
+    "text": "Hasta Mañana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0027",
+    "text": "Head over Heels",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0028",
+    "text": "I Do, I Do, I Do, I Do, I Do",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0029",
+    "text": "Our Last Summer",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0030",
+    "text": "The Day Before You Came",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0031",
+    "text": "I Still Have Faith in You",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0032",
+    "text": "Don’t Shut Me Down",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0033",
+    "text": "Andante, Andante",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0034",
+    "text": "So Long",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-015-a0035",
+    "text": "Eagle",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0036",
+    "text": "Under Attack",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0037",
+    "text": "When All Is Said and Done",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0038",
+    "text": "Little Things",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0039",
+    "text": "Rock Me",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0040",
+    "text": "Nina, Pretty Ballerina",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0041",
+    "text": "The Visitors",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0042",
+    "text": "Cassandra",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0043",
+    "text": "People Need Love",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0044",
+    "text": "Bang-A-Boomerang",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0045",
+    "text": "Kisses of Fire",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0046",
+    "text": "Hole in Your Soul",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-015-a0047",
+    "text": "Two for the Price of One",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mus-016",
+  "text": "Nenne einen Song, der im Wiesn-Zelt gespielt wird",
+  "kategorie": "musik",
+  "answers": [
+   {
+    "id": "mus-016-a0001",
+    "text": "Ein Prosit der Gemütlichkeit",
+    "aliases": [
+     "Ein Prosit"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-016-a0002",
+    "text": "Fliegerlied",
+    "aliases": [
+     "So a schöner Tag",
+     "So ein schöner Tag",
+     "Und ich flieg flieg flieg"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-016-a0003",
+    "text": "Take Me Home, Country Roads",
+    "aliases": [
+     "Country Roads"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-016-a0004",
+    "text": "Atemlos durch die Nacht",
+    "aliases": [
+     "Atemlos"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-016-a0005",
+    "text": "Layla",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mus-016-a0006",
+    "text": "In München steht ein Hofbräuhaus",
+    "aliases": [
+     "Hofbräuhaus"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0007",
+    "text": "Sweet Caroline",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0008",
+    "text": "Hey Baby",
+    "aliases": [
+     "Hey Baby (Uhh Ahh)"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0009",
+    "text": "Skandal im Sperrbezirk",
+    "aliases": [
+     "Skandal"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0010",
+    "text": "Cordula Grün",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0011",
+    "text": "Viva Colonia",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0012",
+    "text": "Hulapalu",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0013",
+    "text": "Rock mi",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0014",
+    "text": "Anton aus Tirol",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0015",
+    "text": "Ein Stern (der deinen Namen trägt)",
+    "aliases": [
+     "Ein Stern"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0016",
+    "text": "Live is Life",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0017",
+    "text": "Wahnsinn",
+    "aliases": [
+     "Hölle Hölle Hölle"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0018",
+    "text": "Joana",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0019",
+    "text": "Wackelkontakt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-016-a0020",
+    "text": "Westerland",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0021",
+    "text": "Zehn nackte Friseusen",
+    "aliases": [
+     "10 nackte Friseusen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0022",
+    "text": "Schatzi schenk mir ein Foto",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0023",
+    "text": "Fürstenfeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0024",
+    "text": "Ich war noch niemals in New York",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0025",
+    "text": "Griechischer Wein",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0026",
+    "text": "Marmor, Stein und Eisen bricht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0027",
+    "text": "Seven Nation Army",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0028",
+    "text": "YMCA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0029",
+    "text": "Angels",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0030",
+    "text": "Ham kummst",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0031",
+    "text": "The Final Countdown",
+    "aliases": [
+     "Final Countdown"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0032",
+    "text": "Die immer lacht",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0033",
+    "text": "Mama Laudaaa",
+    "aliases": [
+     "Mama Lauda"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0034",
+    "text": "Komm hol das Lasso raus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0035",
+    "text": "Johnny Däpp",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0036",
+    "text": "Kufsteinlied",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0037",
+    "text": "Rock Me Amadeus",
+    "aliases": [
+     "Amadeus"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0038",
+    "text": "Hands Up",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0039",
+    "text": "Tage wie diese",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0040",
+    "text": "Stern des Südens",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0041",
+    "text": "Eviva España",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0042",
+    "text": "Freed from Desire",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0043",
+    "text": "Major Tom (völlig losgelöst)",
+    "aliases": [
+     "Major Tom"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0044",
+    "text": "Ein Bett im Kornfeld",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0045",
+    "text": "Verdammt, ich lieb dich",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0046",
+    "text": "Sierra Madre",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0047",
+    "text": "An der Nordseeküste",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0048",
+    "text": "Mendocino",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0049",
+    "text": "Das rote Pferd",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0050",
+    "text": "Summer of ’69",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0051",
+    "text": "I’m Gonna Be (500 Miles)",
+    "aliases": [
+     "500 Miles"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0052",
+    "text": "Dicht im Flieger",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0053",
+    "text": "Er gehört zu mir",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-016-a0054",
+    "text": "Rosamunde",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0055",
+    "text": "Resi, i hol di mit mei’m Traktor ab",
+    "aliases": [
+     "Resi"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0056",
+    "text": "Bayern, des samma mir",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0057",
+    "text": "Highway to Hell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0058",
+    "text": "Blau und weiß, wie lieb ich dich",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0059",
+    "text": "Weus’d a Herz hast wia a Bergwerk",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0060",
+    "text": "Herzilein",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0061",
+    "text": "I Will Survive",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0062",
+    "text": "Narcotic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0063",
+    "text": "Nur noch kurz die Welt retten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0064",
+    "text": "Schickeria",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0065",
+    "text": "Hey Jude",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0066",
+    "text": "Bohemian Rhapsody",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0067",
+    "text": "Mr. Brightside",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0068",
+    "text": "Bella Ciao",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0069",
+    "text": "Aber bitte mit Sahne",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0070",
+    "text": "Fiesta Mexicana",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0071",
+    "text": "Ab in den Süden",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0072",
+    "text": "Zillertaler Hochzeitsmarsch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0073",
+    "text": "Sweet Home Alabama",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0074",
+    "text": "Dancing Queen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0075",
+    "text": "Krawall und Remmidemmi",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0076",
+    "text": "Can’t Take My Eyes Off You",
+    "aliases": [
+     "I Love You Baby"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0077",
+    "text": "Dieser Weg",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-016-a0078",
+    "text": "Bergvagabunden",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-016-a0079",
+    "text": "Patrona Bavariae",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mus-016-a0080",
+    "text": "Bayerischer Defiliermarsch",
+    "aliases": [
+     "Defiliermarsch"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-016-a0081",
+    "text": "Alte Kameraden",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "mus-017",
+  "text": "Nenne einen deutschsprachigen Rapper oder eine Rap-Crew mit einer Zahl im Namen",
+  "kategorie": "musik",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mus-017-a0001",
+    "text": "Apache 207",
+    "aliases": [
+     "Apache"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-017-a0002",
+    "text": "Ufo361",
+    "aliases": [
+     "Ufo"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-017-a0003",
+    "text": "187 Strassenbande",
+    "aliases": [
+     "187"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mus-017-a0004",
+    "text": "Kay One",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mus-017-a0005",
+    "text": "Die Fantastischen Vier",
+    "aliases": [
+     "Fanta 4",
+     "Fanta Vier"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mus-017-a0006",
+    "text": "Sa4",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-017-a0007",
+    "text": "18 Karat",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mus-017-a0008",
+    "text": "Luvre47",
+    "aliases": [
+     "Luvre"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-017-a0009",
+    "text": "Kalazh44",
+    "aliases": [
+     "Kalazh"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mus-017-a0010",
+    "text": "Hamad45",
+    "aliases": [
+     "Hamad"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0011",
+    "text": "Nate57",
+    "aliases": [
+     "Nate"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0012",
+    "text": "Takt32",
+    "aliases": [
+     "Takt"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0013",
+    "text": "AchtVier",
+    "aliases": [
+     "84"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0014",
+    "text": "Lucio101",
+    "aliases": [
+     "Lucio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0015",
+    "text": "1986zig",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0016",
+    "text": "102 Boyz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0017",
+    "text": "01099",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0018",
+    "text": "Mosh36",
+    "aliases": [
+     "Mosh"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0019",
+    "text": "King Orgasmus One",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0020",
+    "text": "Monet192",
+    "aliases": [
+     "Monet"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0021",
+    "text": "Fünf Sterne deluxe",
+    "aliases": [
+     "5 Sterne deluxe"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mus-017-a0022",
+    "text": "Lugatti & 9ine",
+    "aliases": [
+     "9ine",
+     "Lugatti und 9ine"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mus-017-a0023",
+    "text": "Eins Zwo",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

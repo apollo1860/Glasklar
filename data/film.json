@@ -14261,5 +14261,436 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "fil-015",
+  "text": "Nenne eine Figur aus „Friends“",
+  "kategorie": "film",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "fil-015-a0001",
+    "text": "Rachel Green",
+    "aliases": [
+     "Rachel",
+     "Rach"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-015-a0002",
+    "text": "Ross Geller",
+    "aliases": [
+     "Ross"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-015-a0003",
+    "text": "Monica Geller",
+    "aliases": [
+     "Monica",
+     "Mon"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-015-a0004",
+    "text": "Chandler Bing",
+    "aliases": [
+     "Chandler"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-015-a0005",
+    "text": "Joey Tribbiani",
+    "aliases": [
+     "Joey"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-015-a0006",
+    "text": "Phoebe Buffay",
+    "aliases": [
+     "Phoebe",
+     "Pheebs"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-015-a0007",
+    "text": "Gunther",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0008",
+    "text": "Janice",
+    "aliases": [
+     "Janice Hosenstein"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0009",
+    "text": "Mike Hannigan",
+    "aliases": [
+     "Mike"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0010",
+    "text": "Marcel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0011",
+    "text": "Carol Willick",
+    "aliases": [
+     "Carol"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0012",
+    "text": "Ben Geller",
+    "aliases": [
+     "Ben"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0013",
+    "text": "Emma Geller-Green",
+    "aliases": [
+     "Emma"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0014",
+    "text": "Ursula Buffay",
+    "aliases": [
+     "Ursula"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0015",
+    "text": "Ugly Naked Guy",
+    "aliases": [
+     "Hässlicher nackter Typ",
+     "Hässlicher Nackter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-015-a0016",
+    "text": "Emily Waltham",
+    "aliases": [
+     "Emily"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0017",
+    "text": "Susan Bunch",
+    "aliases": [
+     "Susan"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0018",
+    "text": "Richard Burke",
+    "aliases": [
+     "Richard",
+     "Dr. Richard Burke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0019",
+    "text": "Jack Geller",
+    "aliases": [
+     "Jack"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0020",
+    "text": "Judy Geller",
+    "aliases": [
+     "Judy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0021",
+    "text": "Frank Buffay Jr.",
+    "aliases": [
+     "Frank Jr.",
+     "Frank"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0022",
+    "text": "Mr. Heckles",
+    "aliases": [
+     "Heckles"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0023",
+    "text": "Estelle Leonard",
+    "aliases": [
+     "Estelle"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0024",
+    "text": "Barry Farber",
+    "aliases": [
+     "Barry"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0025",
+    "text": "Paolo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0026",
+    "text": "Hugsy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0027",
+    "text": "Huhn und Ente",
+    "aliases": [
+     "Huhn",
+     "Ente",
+     "Chick and Duck"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0028",
+    "text": "Amy Green",
+    "aliases": [
+     "Amy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0029",
+    "text": "Janine Lecroix",
+    "aliases": [
+     "Janine"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0030",
+    "text": "Charlie Wheeler",
+    "aliases": [
+     "Charlie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0031",
+    "text": "Mona",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0032",
+    "text": "Drake Ramoray",
+    "aliases": [
+     "Dr. Drake Ramoray"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0033",
+    "text": "Tag Jones",
+    "aliases": [
+     "Tag"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0034",
+    "text": "Julie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0035",
+    "text": "David",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-015-a0036",
+    "text": "Kathy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0037",
+    "text": "Mindy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0038",
+    "text": "Erica",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0039",
+    "text": "Eddie Menuek",
+    "aliases": [
+     "Eddie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0040",
+    "text": "Gary",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0041",
+    "text": "Elizabeth Stevens",
+    "aliases": [
+     "Elizabeth"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0042",
+    "text": "Pete Becker",
+    "aliases": [
+     "Pete"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0043",
+    "text": "Gavin Mitchell",
+    "aliases": [
+     "Gavin"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0044",
+    "text": "Mr. Treeger",
+    "aliases": [
+     "Treeger"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0045",
+    "text": "Charles Bing",
+    "aliases": [
+     "Helena Handbasket"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0046",
+    "text": "Nora Tyler Bing",
+    "aliases": [
+     "Nora Bing",
+     "Nora"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0047",
+    "text": "Jill Green",
+    "aliases": [
+     "Jill"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0048",
+    "text": "Leonard Green",
+    "aliases": [
+     "Leonard"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0049",
+    "text": "Sandra Green",
+    "aliases": [
+     "Sandra"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0050",
+    "text": "Joshua",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0051",
+    "text": "Fun Bobby",
+    "aliases": [
+     "Bobby"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0052",
+    "text": "Lily Buffay",
+    "aliases": [
+     "Lily"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0053",
+    "text": "Frank Buffay Sr.",
+    "aliases": [
+     "Frank Sr."
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0054",
+    "text": "Alice Knight",
+    "aliases": [
+     "Alice"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-015-a0055",
+    "text": "Kip",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

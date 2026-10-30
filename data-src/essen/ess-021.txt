@@ -1,0 +1,76 @@
+@id ess-021
+@text Nenne eine Nudelsorte
+# Pasta-Formen (italienische Namen + deutsche Bezeichnungen) sowie deutsche und asiatische Nudeln.
+# Gnocchi und Schupfnudeln zählen umgangssprachlich mit; fertige Gerichte (Lasagne als Platte ja, Spaghetti Bolognese nein).
+
+1 Spaghetti
+1 Penne = Penne rigate
+1 Fusilli = Spiralnudeln
+1 Farfalle = Schleifchennudeln; Schmetterlingsnudeln; Schleifchen
+1 Tagliatelle
+2 Tortellini
+2 Lasagne = Lasagneplatten
+2 Makkaroni = Maccheroni; Macaroni
+2 Rigatoni
+2 Ravioli
+2 Linguine
+2 Spätzle
+2 Bandnudeln
+2 Spirelli
+2 Hörnchennudeln = Hörnchen
+2 Gnocchi
+3 Fettuccine
+3 Pappardelle
+3 Cannelloni
+3 Orecchiette
+3 Conchiglie = Muschelnudeln
+3 Tortiglioni
+3 Capellini
+3 Vermicelli
+3 Orzo = Kritharaki
+3 Tortelloni
+3 Sternchennudeln = Sternchen
+3 Buchstabennudeln = Buchstaben
+3 Suppennudeln
+3 Fadennudeln
+3 Eiernudeln
+3 Glasnudeln
+3 Reisnudeln
+3 Mie-Nudeln = Mie
+3 Udon
+3 Soba
+3 Ramen
+3 Schupfnudeln = Fingernudeln
+3 Wellenbandnudeln
+3 Spaghettini
+4 Ditalini
+4 Gemelli
+4 Casarecce
+4 Paccheri
+4 Bucatini
+4 Mafalde
+4 Radiatori
+4 Campanelle
+4 Rotelle = Wagenräder
+4 Trofie
+4 Strozzapreti
+4 Cavatappi
+4 Cavatelli
+4 Ziti
+4 Mezze maniche
+4 Tagliolini
+4 Agnolotti
+4 Cappelletti
+4 Lumaconi
+4 Anelli
+4 Maultaschen
+4 Fleckerl
+4 Pho-Nudeln
+4 Tortellacci
+5 Garganelli
+5 Mezzelune
+5 Pici
+5 Fregola
+5 Bigoli
+5 Malloreddus
+5 Culurgiones
