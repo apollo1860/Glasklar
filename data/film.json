@@ -14692,5 +14692,1283 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "fil-016",
+  "text": "Nenne eine Figur aus „How I Met Your Mother“",
+  "kategorie": "film",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "fil-016-a0001",
+    "text": "Ted Mosby",
+    "aliases": [
+     "Ted"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-016-a0002",
+    "text": "Barney Stinson",
+    "aliases": [
+     "Barney"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-016-a0003",
+    "text": "Robin Scherbatsky",
+    "aliases": [
+     "Robin",
+     "Robin Sparkles"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-016-a0004",
+    "text": "Marshall Eriksen",
+    "aliases": [
+     "Marshall"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-016-a0005",
+    "text": "Lily Aldrin",
+    "aliases": [
+     "Lily"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-016-a0006",
+    "text": "Tracy McConnell",
+    "aliases": [
+     "Tracy",
+     "Die Mutter",
+     "The Mother"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-016-a0007",
+    "text": "Ranjit",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-016-a0008",
+    "text": "Victoria",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-016-a0009",
+    "text": "Stella Zinman",
+    "aliases": [
+     "Stella"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-016-a0010",
+    "text": "Carl",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0011",
+    "text": "Zoey Pierson",
+    "aliases": [
+     "Zoey"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0012",
+    "text": "Nora",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0013",
+    "text": "Quinn Garvey",
+    "aliases": [
+     "Quinn"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0014",
+    "text": "Patrice",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0015",
+    "text": "Wendy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0016",
+    "text": "Kevin",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0017",
+    "text": "Don Frank",
+    "aliases": [
+     "Don"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0018",
+    "text": "Marvin Eriksen",
+    "aliases": [
+     "Marvin"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0019",
+    "text": "Loretta Stinson",
+    "aliases": [
+     "Loretta"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0020",
+    "text": "James Stinson",
+    "aliases": [
+     "James"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0021",
+    "text": "Sandy Rivers",
+    "aliases": [
+     "Sandy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0022",
+    "text": "Der Captain",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0023",
+    "text": "Mickey Aldrin",
+    "aliases": [
+     "Mickey"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0024",
+    "text": "Penny Mosby",
+    "aliases": [
+     "Penny"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0025",
+    "text": "Luke Mosby",
+    "aliases": [
+     "Luke"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0026",
+    "text": "Scooter",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0027",
+    "text": "Brad Morris",
+    "aliases": [
+     "Brad"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0028",
+    "text": "Cindy",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0029",
+    "text": "Jeanette Peterson",
+    "aliases": [
+     "Jeanette"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-016-a0030",
+    "text": "Marvin Eriksen Sr.",
+    "aliases": [
+     "Marvin Sr."
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0031",
+    "text": "Judy Eriksen",
+    "aliases": [
+     "Judy"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0032",
+    "text": "Jerome Whittaker",
+    "aliases": [
+     "Jerome"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0033",
+    "text": "Stuart",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0034",
+    "text": "Claudia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0035",
+    "text": "Arthur Hobbs",
+    "aliases": [
+     "Arthur"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0036",
+    "text": "Hammond Druthers",
+    "aliases": [
+     "Hammond"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0037",
+    "text": "Gael",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0038",
+    "text": "Abby",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0039",
+    "text": "Simon Tremblay",
+    "aliases": [
+     "Simon"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0040",
+    "text": "Linus",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-016-a0041",
+    "text": "Becky",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "fil-017",
+  "text": "Nenne eine Figur aus „The Big Bang Theory“",
+  "kategorie": "film",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "fil-017-a0001",
+    "text": "Sheldon Cooper",
+    "aliases": [
+     "Sheldon"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-017-a0002",
+    "text": "Leonard Hofstadter",
+    "aliases": [
+     "Leonard"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-017-a0003",
+    "text": "Penny",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-017-a0004",
+    "text": "Howard Wolowitz",
+    "aliases": [
+     "Howard"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-017-a0005",
+    "text": "Raj Koothrappali",
+    "aliases": [
+     "Raj",
+     "Rajesh Koothrappali"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-017-a0006",
+    "text": "Amy Farrah Fowler",
+    "aliases": [
+     "Amy"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-017-a0007",
+    "text": "Bernadette Rostenkowski",
+    "aliases": [
+     "Bernadette"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-017-a0008",
+    "text": "Stuart Bloom",
+    "aliases": [
+     "Stuart"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-017-a0009",
+    "text": "Barry Kripke",
+    "aliases": [
+     "Kripke",
+     "Barry"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-017-a0010",
+    "text": "Mrs. Wolowitz",
+    "aliases": [
+     "Debbie Wolowitz",
+     "Howards Mutter"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-017-a0011",
+    "text": "Mary Cooper",
+    "aliases": [
+     "Mary"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-017-a0012",
+    "text": "Wil Wheaton",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0013",
+    "text": "Leslie Winkle",
+    "aliases": [
+     "Leslie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0014",
+    "text": "Beverly Hofstadter",
+    "aliases": [
+     "Beverly"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0015",
+    "text": "Priya Koothrappali",
+    "aliases": [
+     "Priya"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0016",
+    "text": "Zack Johnson",
+    "aliases": [
+     "Zack"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0017",
+    "text": "Emily Sweeney",
+    "aliases": [
+     "Emily"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0018",
+    "text": "Bert Kibbler",
+    "aliases": [
+     "Bert"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0019",
+    "text": "Missy Cooper",
+    "aliases": [
+     "Missy"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0020",
+    "text": "Meemaw",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0021",
+    "text": "Arthur Jeffries",
+    "aliases": [
+     "Professor Proton",
+     "Arthur"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0022",
+    "text": "Halley Wolowitz",
+    "aliases": [
+     "Halley"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0023",
+    "text": "Cinnamon",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0024",
+    "text": "Kurt",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0025",
+    "text": "Stephen Hawking",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0026",
+    "text": "Mike Massimino",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-017-a0027",
+    "text": "Lucy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0028",
+    "text": "Alex Jensen",
+    "aliases": [
+     "Alex"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0029",
+    "text": "Dr. Gablehauser",
+    "aliases": [
+     "Gablehauser"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0030",
+    "text": "Präsident Siebert",
+    "aliases": [
+     "Siebert"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0031",
+    "text": "George Cooper Jr.",
+    "aliases": [
+     "George"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0032",
+    "text": "Alfred Hofstadter",
+    "aliases": [
+     "Alfred"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0033",
+    "text": "Stephanie Barnett",
+    "aliases": [
+     "Stephanie"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0034",
+    "text": "Ramona Nowitzki",
+    "aliases": [
+     "Ramona"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0035",
+    "text": "Dennis Kim",
+    "aliases": [
+     "Dennis"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0036",
+    "text": "Wyatt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0037",
+    "text": "Elizabeth Plimpton",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0038",
+    "text": "Anu",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-017-a0039",
+    "text": "Mandy Chao",
+    "aliases": [
+     "Mandy"
+    ],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "fil-018",
+  "text": "Nenne eine Figur aus „Breaking Bad“",
+  "kategorie": "film",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "fil-018-a0001",
+    "text": "Walter White",
+    "aliases": [
+     "Walter",
+     "Walt",
+     "Heisenberg",
+     "Mr. White"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-018-a0002",
+    "text": "Jesse Pinkman",
+    "aliases": [
+     "Jesse",
+     "Pinkman"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-018-a0003",
+    "text": "Skyler White",
+    "aliases": [
+     "Skyler"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-018-a0004",
+    "text": "Hank Schrader",
+    "aliases": [
+     "Hank"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-018-a0005",
+    "text": "Saul Goodman",
+    "aliases": [
+     "Saul",
+     "Jimmy McGill"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-018-a0006",
+    "text": "Gus Fring",
+    "aliases": [
+     "Gustavo Fring",
+     "Gus",
+     "Fring"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-018-a0007",
+    "text": "Mike Ehrmantraut",
+    "aliases": [
+     "Mike"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-018-a0008",
+    "text": "Walter White Jr.",
+    "aliases": [
+     "Flynn",
+     "Walt Jr."
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0009",
+    "text": "Marie Schrader",
+    "aliases": [
+     "Marie"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0010",
+    "text": "Todd Alquist",
+    "aliases": [
+     "Todd"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0011",
+    "text": "Tuco Salamanca",
+    "aliases": [
+     "Tuco"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0012",
+    "text": "Hector Salamanca",
+    "aliases": [
+     "Hector",
+     "Tio Salamanca",
+     "Tio"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0013",
+    "text": "Jane Margolis",
+    "aliases": [
+     "Jane"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0014",
+    "text": "Gale Boetticher",
+    "aliases": [
+     "Gale"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-018-a0015",
+    "text": "Lydia Rodarte-Quayle",
+    "aliases": [
+     "Lydia"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0016",
+    "text": "Badger",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0017",
+    "text": "Skinny Pete",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0018",
+    "text": "Combo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0019",
+    "text": "Steven Gomez",
+    "aliases": [
+     "Gomez",
+     "Gomie"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0020",
+    "text": "Krazy-8",
+    "aliases": [
+     "Domingo Molina"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0021",
+    "text": "Huell Babineaux",
+    "aliases": [
+     "Huell"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0022",
+    "text": "Andrea Cantillo",
+    "aliases": [
+     "Andrea"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0023",
+    "text": "Brock Cantillo",
+    "aliases": [
+     "Brock"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0024",
+    "text": "Ted Beneke",
+    "aliases": [
+     "Ted"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0025",
+    "text": "Onkel Jack",
+    "aliases": [
+     "Jack Welker"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0026",
+    "text": "Gretchen Schwartz",
+    "aliases": [
+     "Gretchen"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0027",
+    "text": "Elliott Schwartz",
+    "aliases": [
+     "Elliott"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0028",
+    "text": "Leonel und Marco Salamanca",
+    "aliases": [
+     "Die Cousins",
+     "Leonel Salamanca",
+     "Marco Salamanca"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0029",
+    "text": "Emilio Koyama",
+    "aliases": [
+     "Emilio"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0030",
+    "text": "Victor",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0031",
+    "text": "Holly White",
+    "aliases": [
+     "Holly"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0032",
+    "text": "Don Eladio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0033",
+    "text": "Ed Galbraith",
+    "aliases": [
+     "Ed"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-018-a0034",
+    "text": "Kuby",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0035",
+    "text": "Tyrus Kitt",
+    "aliases": [
+     "Tyrus"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0036",
+    "text": "Donald Margolis",
+    "aliases": [
+     "Donald"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0037",
+    "text": "Wendy",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0038",
+    "text": "Spooge",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0039",
+    "text": "Tortuga",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0040",
+    "text": "Juan Bolsa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0041",
+    "text": "Kaylee Ehrmantraut",
+    "aliases": [
+     "Kaylee"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0042",
+    "text": "Bogdan",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0043",
+    "text": "Drew Sharp",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "fil-018-a0044",
+    "text": "Kenny",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "fil-019",
+  "text": "Nenne eine Figur aus „Shrek“",
+  "kategorie": "film",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "fil-019-a0001",
+    "text": "Shrek",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "fil-019-a0002",
+    "text": "Esel",
+    "aliases": [
+     "Donkey"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-019-a0003",
+    "text": "Fiona",
+    "aliases": [
+     "Prinzessin Fiona"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-019-a0004",
+    "text": "Der gestiefelte Kater",
+    "aliases": [
+     "Gestiefelter Kater",
+     "Kater",
+     "Puss in Boots"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "fil-019-a0005",
+    "text": "Lord Farquaad",
+    "aliases": [
+     "Farquaad"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-019-a0006",
+    "text": "Drache",
+    "aliases": [
+     "Dragon",
+     "Drachendame"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-019-a0007",
+    "text": "Lebkuchenmann",
+    "aliases": [
+     "Lebkuchen",
+     "Gingy",
+     "Gingerbread Man"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-019-a0008",
+    "text": "Prinz Charming",
+    "aliases": [
+     "Charming"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-019-a0009",
+    "text": "Die gute Fee",
+    "aliases": [
+     "Fee",
+     "Gute Patin",
+     "Fairy Godmother"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "fil-019-a0010",
+    "text": "Pinocchio",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0011",
+    "text": "Die drei kleinen Schweinchen",
+    "aliases": [
+     "Schweinchen",
+     "Drei kleine Schweinchen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0012",
+    "text": "Der große böse Wolf",
+    "aliases": [
+     "Wolf",
+     "Großer böser Wolf"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0013",
+    "text": "Die drei blinden Mäuse",
+    "aliases": [
+     "Blinde Mäuse",
+     "Drei blinde Mäuse"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0014",
+    "text": "Rumpelstilzchen",
+    "aliases": [
+     "Rumpelstiltskin"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0015",
+    "text": "Artus",
+    "aliases": [
+     "Artie",
+     "König Artus"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0016",
+    "text": "Merlin",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0017",
+    "text": "König Harold",
+    "aliases": [
+     "Harold"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0018",
+    "text": "Königin Lillian",
+    "aliases": [
+     "Lillian"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0019",
+    "text": "Zauberspiegel",
+    "aliases": [
+     "Spiegel",
+     "Magischer Spiegel"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0020",
+    "text": "Schneewittchen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0021",
+    "text": "Aschenputtel",
+    "aliases": [
+     "Cinderella"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0022",
+    "text": "Dornröschen",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0023",
+    "text": "Rapunzel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0024",
+    "text": "Eselsdrachen",
+    "aliases": [
+     "Dronkeys"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "fil-019-a0025",
+    "text": "Doris",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0026",
+    "text": "Kitty Samtpfote",
+    "aliases": [
+     "Kitty Softpaws",
+     "Kitty"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0027",
+    "text": "Humpty Dumpty",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0028",
+    "text": "Muffinmann",
+    "aliases": [
+     "Muffin Man"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0029",
+    "text": "Robin Hood",
+    "aliases": [
+     "Monsieur Hood"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0030",
+    "text": "Captain Hook",
+    "aliases": [
+     "Käpt’n Hook"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0031",
+    "text": "Tinker Bell",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0032",
+    "text": "Brogan",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0033",
+    "text": "Cookie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0034",
+    "text": "Gretchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0035",
+    "text": "Farkle, Fergus und Felicia",
+    "aliases": [
+     "Farkle",
+     "Fergus",
+     "Felicia",
+     "Shreks Kinder"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0036",
+    "text": "Mongo",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0037",
+    "text": "Goldlöckchen",
+    "aliases": [
+     "Goldilocks"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0038",
+    "text": "Jack Horner",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0039",
+    "text": "Tod",
+    "aliases": [
+     "Death"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "fil-019-a0040",
+    "text": "Zyklop",
+    "aliases": [
+     "Cyclops"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "fil-019-a0041",
+    "text": "Thelonious",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

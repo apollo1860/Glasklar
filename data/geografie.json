@@ -19644,5 +19644,3583 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "geo-057",
+  "text": "Nenne ein deutsches Kfz-Kennzeichen (Unterscheidungszeichen, z. B. M, FS, DAH)",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-057-a0001",
+    "text": "M",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-057-a0002",
+    "text": "B",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-057-a0003",
+    "text": "HH",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0004",
+    "text": "K",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0005",
+    "text": "S",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0006",
+    "text": "F",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0007",
+    "text": "FS",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0008",
+    "text": "DAH",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0009",
+    "text": "A",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0010",
+    "text": "N",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0011",
+    "text": "STA",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0012",
+    "text": "EBE",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0013",
+    "text": "ED",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0014",
+    "text": "FFB",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0015",
+    "text": "RO",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0016",
+    "text": "D",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-057-a0017",
+    "text": "L",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0018",
+    "text": "DD",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0019",
+    "text": "H",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0020",
+    "text": "HB",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0021",
+    "text": "MA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0022",
+    "text": "KA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0023",
+    "text": "HD",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0024",
+    "text": "DO",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0025",
+    "text": "E",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0026",
+    "text": "BO",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0027",
+    "text": "MS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0028",
+    "text": "R",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0029",
+    "text": "IN",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0030",
+    "text": "WÜ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0031",
+    "text": "ER",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0032",
+    "text": "BA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0033",
+    "text": "TÖL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0034",
+    "text": "MB",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0035",
+    "text": "GAP",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0036",
+    "text": "LL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0037",
+    "text": "WM",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0038",
+    "text": "TS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0039",
+    "text": "BGL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0040",
+    "text": "PAF",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0041",
+    "text": "LA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0042",
+    "text": "AÖ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0043",
+    "text": "MÜ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0044",
+    "text": "AIC",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0045",
+    "text": "FÜ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0046",
+    "text": "RH",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0047",
+    "text": "LAU",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0048",
+    "text": "KE",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0049",
+    "text": "OA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0050",
+    "text": "OAL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0051",
+    "text": "MM",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0052",
+    "text": "KF",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0053",
+    "text": "BT",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0054",
+    "text": "BN",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0055",
+    "text": "AC",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0056",
+    "text": "KI",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0057",
+    "text": "HL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0058",
+    "text": "HRO",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0059",
+    "text": "MD",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0060",
+    "text": "EF",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0061",
+    "text": "HAL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0062",
+    "text": "WI",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0063",
+    "text": "MZ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0064",
+    "text": "SB",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0065",
+    "text": "C",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0066",
+    "text": "BI",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0067",
+    "text": "HN",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0068",
+    "text": "UL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0069",
+    "text": "FR",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0070",
+    "text": "KN",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0071",
+    "text": "GÖ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0072",
+    "text": "OS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0073",
+    "text": "OL",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0074",
+    "text": "BS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0075",
+    "text": "KS",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0076",
+    "text": "DU",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0077",
+    "text": "W",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0078",
+    "text": "WOB",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0079",
+    "text": "IK",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0080",
+    "text": "J",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0081",
+    "text": "GE",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0082",
+    "text": "PA",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0083",
+    "text": "AB",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0084",
+    "text": "NU",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0085",
+    "text": "DLG",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0086",
+    "text": "GZ",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0087",
+    "text": "KEH",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0088",
+    "text": "DGF",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0089",
+    "text": "LI",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0090",
+    "text": "ND",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0091",
+    "text": "NM",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0092",
+    "text": "EI",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0093",
+    "text": "ERH",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0094",
+    "text": "SW",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0095",
+    "text": "CO",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0096",
+    "text": "HO",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0097",
+    "text": "WUN",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0098",
+    "text": "SR",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0099",
+    "text": "DEG",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0100",
+    "text": "PAN",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-057-a0101",
+    "text": "AN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0102",
+    "text": "AS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0103",
+    "text": "AM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0104",
+    "text": "CHA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0105",
+    "text": "DON",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0106",
+    "text": "FO",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0107",
+    "text": "FRG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0108",
+    "text": "HAS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0109",
+    "text": "KC",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0110",
+    "text": "KG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0111",
+    "text": "KT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0112",
+    "text": "KU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0113",
+    "text": "LIF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0114",
+    "text": "MIL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0115",
+    "text": "MN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0116",
+    "text": "MSP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0117",
+    "text": "NEA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0118",
+    "text": "NES",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0119",
+    "text": "NEW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0120",
+    "text": "REG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0121",
+    "text": "SAD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0122",
+    "text": "SC",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0123",
+    "text": "TIR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0124",
+    "text": "WEN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0125",
+    "text": "WUG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0126",
+    "text": "AA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0127",
+    "text": "BAD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0128",
+    "text": "BB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0129",
+    "text": "BC",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0130",
+    "text": "BL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0131",
+    "text": "CW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0132",
+    "text": "EM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0133",
+    "text": "ES",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0134",
+    "text": "FDS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0135",
+    "text": "FN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0136",
+    "text": "GP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0137",
+    "text": "HDH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0138",
+    "text": "KÜN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0139",
+    "text": "LB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0140",
+    "text": "LÖ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0141",
+    "text": "MOS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0142",
+    "text": "OG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0143",
+    "text": "PF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0144",
+    "text": "RA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0145",
+    "text": "RT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0146",
+    "text": "RV",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0147",
+    "text": "RW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0148",
+    "text": "SHA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0149",
+    "text": "SIG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0150",
+    "text": "TBB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0151",
+    "text": "TÜ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0152",
+    "text": "TUT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0153",
+    "text": "VS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0154",
+    "text": "WN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0155",
+    "text": "WT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0156",
+    "text": "DA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0157",
+    "text": "DI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0158",
+    "text": "ERB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0159",
+    "text": "FB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0160",
+    "text": "FD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0161",
+    "text": "GG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0162",
+    "text": "GI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0163",
+    "text": "HG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0164",
+    "text": "HEF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0165",
+    "text": "HP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0166",
+    "text": "HR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0167",
+    "text": "KB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0168",
+    "text": "LDK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0169",
+    "text": "LM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0170",
+    "text": "MKK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0171",
+    "text": "MR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0172",
+    "text": "OF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0173",
+    "text": "RÜD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0174",
+    "text": "VB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0175",
+    "text": "ESW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0176",
+    "text": "HU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0177",
+    "text": "MTK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0178",
+    "text": "WW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0179",
+    "text": "AK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0180",
+    "text": "AW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0181",
+    "text": "AZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0182",
+    "text": "BIR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0183",
+    "text": "BIT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0184",
+    "text": "COC",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0185",
+    "text": "DAU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0186",
+    "text": "DÜW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0187",
+    "text": "EMS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0188",
+    "text": "FT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0189",
+    "text": "GER",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0190",
+    "text": "KH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0191",
+    "text": "KIB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0192",
+    "text": "KL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0193",
+    "text": "KO",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0194",
+    "text": "KUS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0195",
+    "text": "LD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0196",
+    "text": "LU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0197",
+    "text": "MYK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0198",
+    "text": "NR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0199",
+    "text": "NW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0200",
+    "text": "PS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0201",
+    "text": "RP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0202",
+    "text": "SIM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0203",
+    "text": "SÜW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0204",
+    "text": "TR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0205",
+    "text": "WIL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0206",
+    "text": "WO",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0207",
+    "text": "ZW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0208",
+    "text": "SP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0209",
+    "text": "HOM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0210",
+    "text": "MZG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0211",
+    "text": "NK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0212",
+    "text": "SLS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0213",
+    "text": "WND",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0214",
+    "text": "IGB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0215",
+    "text": "BM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0216",
+    "text": "BOR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0217",
+    "text": "BOT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0218",
+    "text": "COE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0219",
+    "text": "DN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0220",
+    "text": "EN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0221",
+    "text": "EU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0222",
+    "text": "GL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0223",
+    "text": "GM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0224",
+    "text": "GT",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0225",
+    "text": "HA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0226",
+    "text": "HAM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0227",
+    "text": "HER",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0228",
+    "text": "HF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0229",
+    "text": "HS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0230",
+    "text": "HSK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0231",
+    "text": "HX",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0232",
+    "text": "KLE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0233",
+    "text": "KR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0234",
+    "text": "LEV",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0235",
+    "text": "LIP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0236",
+    "text": "ME",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0237",
+    "text": "MG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0238",
+    "text": "MH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0239",
+    "text": "MI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0240",
+    "text": "MK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0241",
+    "text": "NE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0242",
+    "text": "OB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0243",
+    "text": "OE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0244",
+    "text": "PB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0245",
+    "text": "RE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0246",
+    "text": "RS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0247",
+    "text": "SG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0248",
+    "text": "SI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0249",
+    "text": "SO",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0250",
+    "text": "ST",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0251",
+    "text": "SU",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0252",
+    "text": "UN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0253",
+    "text": "VIE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0254",
+    "text": "WAF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0255",
+    "text": "WES",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0256",
+    "text": "AUR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0257",
+    "text": "CE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0258",
+    "text": "CLP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0259",
+    "text": "CUX",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0260",
+    "text": "DH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0261",
+    "text": "EL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0262",
+    "text": "EMD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0263",
+    "text": "FRI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0264",
+    "text": "GF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0265",
+    "text": "GS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0266",
+    "text": "HI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0267",
+    "text": "HK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0268",
+    "text": "HM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0269",
+    "text": "HOL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0270",
+    "text": "LER",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0271",
+    "text": "LG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0272",
+    "text": "NI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0273",
+    "text": "NOH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0274",
+    "text": "NOM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0275",
+    "text": "OHA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0276",
+    "text": "OHZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0277",
+    "text": "PE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0278",
+    "text": "ROW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0279",
+    "text": "SHG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0280",
+    "text": "STD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0281",
+    "text": "SZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0282",
+    "text": "UE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0283",
+    "text": "VEC",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0284",
+    "text": "WF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0285",
+    "text": "WHV",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0286",
+    "text": "WL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0287",
+    "text": "WST",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0288",
+    "text": "DAN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0289",
+    "text": "BRA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0290",
+    "text": "DEL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0291",
+    "text": "VER",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0292",
+    "text": "FL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0293",
+    "text": "HEI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0294",
+    "text": "IZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0295",
+    "text": "NF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0296",
+    "text": "NMS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0297",
+    "text": "OD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0298",
+    "text": "OH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0299",
+    "text": "PI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0300",
+    "text": "PLÖ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0301",
+    "text": "RD",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0302",
+    "text": "RZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0303",
+    "text": "SE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0304",
+    "text": "SL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0305",
+    "text": "BHV",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0306",
+    "text": "BAR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0307",
+    "text": "BRB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0308",
+    "text": "CB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0309",
+    "text": "EE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0310",
+    "text": "FF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0311",
+    "text": "HVL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0312",
+    "text": "LDS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0313",
+    "text": "LOS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0314",
+    "text": "MOL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0315",
+    "text": "OHV",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0316",
+    "text": "OPR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0317",
+    "text": "OSL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0318",
+    "text": "P",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0319",
+    "text": "PM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0320",
+    "text": "PR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0321",
+    "text": "SPN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0322",
+    "text": "TF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0323",
+    "text": "UM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0324",
+    "text": "HST",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0325",
+    "text": "HWI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0326",
+    "text": "LRO",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0327",
+    "text": "LUP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0328",
+    "text": "MSE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0329",
+    "text": "NB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0330",
+    "text": "NWM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0331",
+    "text": "SN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0332",
+    "text": "VG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0333",
+    "text": "VR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0334",
+    "text": "BZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0335",
+    "text": "ERZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0336",
+    "text": "FG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0337",
+    "text": "GR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0338",
+    "text": "MEI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0339",
+    "text": "PIR",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0340",
+    "text": "TDO",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0341",
+    "text": "V",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0342",
+    "text": "Z",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0343",
+    "text": "ABI",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0344",
+    "text": "BK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0345",
+    "text": "BLK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0346",
+    "text": "DE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0347",
+    "text": "HZ",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0348",
+    "text": "JL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0349",
+    "text": "MSH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0350",
+    "text": "SAW",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0351",
+    "text": "SDL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0352",
+    "text": "SK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0353",
+    "text": "WB",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0354",
+    "text": "SLK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0355",
+    "text": "ABG",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0356",
+    "text": "AP",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0357",
+    "text": "EA",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0358",
+    "text": "EIC",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0359",
+    "text": "G",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0360",
+    "text": "GTH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0361",
+    "text": "HBN",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0362",
+    "text": "KYF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0363",
+    "text": "NDH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0364",
+    "text": "SHK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0365",
+    "text": "SHL",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0366",
+    "text": "SLF",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0367",
+    "text": "SM",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0368",
+    "text": "SOK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0369",
+    "text": "SON",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0370",
+    "text": "UH",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0371",
+    "text": "WAK",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0372",
+    "text": "WE",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-057-a0373",
+    "text": "BOG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0374",
+    "text": "EBS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0375",
+    "text": "ESB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0376",
+    "text": "FDB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0377",
+    "text": "FEU",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0378",
+    "text": "FÜS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0379",
+    "text": "GEO",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0380",
+    "text": "GRA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0381",
+    "text": "GUN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0382",
+    "text": "HIP",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0383",
+    "text": "KÖZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0384",
+    "text": "LAN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0385",
+    "text": "MAI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0386",
+    "text": "MAL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0387",
+    "text": "MOD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0388",
+    "text": "MÜB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0389",
+    "text": "NAB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0390",
+    "text": "NAI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0391",
+    "text": "NEN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0392",
+    "text": "PAR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0393",
+    "text": "PEG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0394",
+    "text": "RID",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0395",
+    "text": "ROD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0396",
+    "text": "ROL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0397",
+    "text": "SEL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0398",
+    "text": "SOB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0399",
+    "text": "SUL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0400",
+    "text": "VIB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0401",
+    "text": "VIT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0402",
+    "text": "WOR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0403",
+    "text": "WOS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0404",
+    "text": "WS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0405",
+    "text": "ALZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0406",
+    "text": "BRK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0407",
+    "text": "HAB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0408",
+    "text": "KEM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0409",
+    "text": "MAR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0410",
+    "text": "OCH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0411",
+    "text": "SAN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0412",
+    "text": "SEF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0413",
+    "text": "UFF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0414",
+    "text": "WÜM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0415",
+    "text": "ILL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0416",
+    "text": "KRU",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0417",
+    "text": "AIB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0419",
+    "text": "LF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0420",
+    "text": "SOG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0421",
+    "text": "BUL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0422",
+    "text": "DKB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0423",
+    "text": "ROT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0424",
+    "text": "HEB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0425",
+    "text": "NÖ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0426",
+    "text": "CR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0427",
+    "text": "GD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0428",
+    "text": "LEO",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0429",
+    "text": "NT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0430",
+    "text": "KEL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0431",
+    "text": "ÜB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0432",
+    "text": "STO",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0433",
+    "text": "MGH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0434",
+    "text": "SÄK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0435",
+    "text": "VAI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0436",
+    "text": "HCH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0437",
+    "text": "WOL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0438",
+    "text": "DIL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0439",
+    "text": "BÜD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0440",
+    "text": "GN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0441",
+    "text": "SLÜ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0442",
+    "text": "USI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0443",
+    "text": "ZIG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0444",
+    "text": "FKB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0445",
+    "text": "GEL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0446",
+    "text": "HOG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0447",
+    "text": "LAT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0448",
+    "text": "ALS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0449",
+    "text": "ROF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0450",
+    "text": "WIZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0451",
+    "text": "MY",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0452",
+    "text": "PRÜ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0453",
+    "text": "ZEL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0454",
+    "text": "GOA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0455",
+    "text": "VK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0456",
+    "text": "AH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0457",
+    "text": "BÜR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0458",
+    "text": "CAS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0459",
+    "text": "DIN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0460",
+    "text": "GLA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0461",
+    "text": "LH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0462",
+    "text": "MO",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0463",
+    "text": "MON",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0464",
+    "text": "SLE",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0465",
+    "text": "TE",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0466",
+    "text": "WAR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0467",
+    "text": "WAT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0468",
+    "text": "LÜD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0469",
+    "text": "MES",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0470",
+    "text": "ARN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0471",
+    "text": "BRI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0472",
+    "text": "WIT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0473",
+    "text": "ERK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0474",
+    "text": "JÜL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0475",
+    "text": "EIN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0476",
+    "text": "ALF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0477",
+    "text": "BRV",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0478",
+    "text": "BSB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0479",
+    "text": "DUD",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0480",
+    "text": "HMÜ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0481",
+    "text": "MEL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0482",
+    "text": "NOR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0483",
+    "text": "RI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0484",
+    "text": "SFA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0485",
+    "text": "WTM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0486",
+    "text": "CLZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0487",
+    "text": "ECK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0488",
+    "text": "EH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0489",
+    "text": "FW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0490",
+    "text": "GUB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0491",
+    "text": "KW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0493",
+    "text": "NAU",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0494",
+    "text": "NP",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0495",
+    "text": "PER",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0496",
+    "text": "SEE",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0497",
+    "text": "SFB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0498",
+    "text": "ANG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0499",
+    "text": "BEL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0500",
+    "text": "FI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0501",
+    "text": "LC",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0502",
+    "text": "JB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0503",
+    "text": "ZS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0504",
+    "text": "KY",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0505",
+    "text": "WK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0506",
+    "text": "DM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0507",
+    "text": "GÜ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0508",
+    "text": "GW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0509",
+    "text": "LWL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0510",
+    "text": "MÜR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0511",
+    "text": "NZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0512",
+    "text": "PCH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0513",
+    "text": "RÜG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0514",
+    "text": "ANK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0515",
+    "text": "BÜZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0516",
+    "text": "GDB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0517",
+    "text": "GVM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0518",
+    "text": "NVP",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0519",
+    "text": "OVP",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0520",
+    "text": "RDG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0521",
+    "text": "TET",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0522",
+    "text": "UEM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0523",
+    "text": "DBR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0524",
+    "text": "MST",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0525",
+    "text": "PW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0526",
+    "text": "AU",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0527",
+    "text": "ANA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0528",
+    "text": "ASZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0529",
+    "text": "DL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0530",
+    "text": "DW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0531",
+    "text": "DZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0532",
+    "text": "EB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0533",
+    "text": "FLÖ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0534",
+    "text": "GC",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0535",
+    "text": "HC",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0536",
+    "text": "HY",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0537",
+    "text": "KM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0538",
+    "text": "LÖB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0539",
+    "text": "MAB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0540",
+    "text": "MTL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0541",
+    "text": "MW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0542",
+    "text": "NY",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0543",
+    "text": "OZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0544",
+    "text": "PL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0545",
+    "text": "RC",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0546",
+    "text": "RG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0547",
+    "text": "RIE",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0548",
+    "text": "STL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0549",
+    "text": "TG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0550",
+    "text": "TO",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0551",
+    "text": "WSW",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0552",
+    "text": "WUR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0553",
+    "text": "ZI",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0554",
+    "text": "ZP",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0555",
+    "text": "SEB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0556",
+    "text": "FTL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0557",
+    "text": "BNA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0558",
+    "text": "GHA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0559",
+    "text": "GRM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0560",
+    "text": "BBG",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0561",
+    "text": "BTF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0562",
+    "text": "GA",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0563",
+    "text": "HBS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0564",
+    "text": "KÖT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0565",
+    "text": "OK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0566",
+    "text": "QLB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0567",
+    "text": "SBK",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0568",
+    "text": "SGH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0569",
+    "text": "WR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0570",
+    "text": "WZL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0571",
+    "text": "ZE",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0572",
+    "text": "WSF",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0573",
+    "text": "NMB",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0574",
+    "text": "MER",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0575",
+    "text": "QFT",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0576",
+    "text": "HDL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0577",
+    "text": "OC",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0578",
+    "text": "EIL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0579",
+    "text": "HET",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0580",
+    "text": "JE",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0581",
+    "text": "GHC",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0582",
+    "text": "ASL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0583",
+    "text": "HV",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0584",
+    "text": "WMS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0585",
+    "text": "ART",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0586",
+    "text": "EIS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0587",
+    "text": "LBS",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0588",
+    "text": "MGN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0589",
+    "text": "MHL",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0590",
+    "text": "NH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0591",
+    "text": "PN",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0592",
+    "text": "RU",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0593",
+    "text": "SCZ",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0594",
+    "text": "SDH",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0595",
+    "text": "SÖM",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0596",
+    "text": "ZR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-057-a0597",
+    "text": "APD",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

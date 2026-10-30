@@ -1,0 +1,49 @@
+@id fil-018
+@text Nenne eine Figur aus „Breaking Bad“
+@typ geschlossen
+# Figuren der Serie (2008–2013) und des Films „El Camino“. Vor- oder Nachname reicht.
+
+1 Walter White = Walter; Walt; Heisenberg; Mr. White
+1 Jesse Pinkman = Jesse; Pinkman
+2 Skyler White = Skyler
+2 Hank Schrader = Hank
+2 Saul Goodman = Saul; Jimmy McGill
+2 Gus Fring = Gustavo Fring; Gus; Fring
+2 Mike Ehrmantraut = Mike
+3 Walter White Jr. = Flynn; Walt Jr.
+3 Marie Schrader = Marie
+3 Todd Alquist = Todd
+3 Tuco Salamanca = Tuco
+3 Hector Salamanca = Hector; Tio Salamanca; Tio
+3 Jane Margolis = Jane
+3 Gale Boetticher = Gale
+4 Lydia Rodarte-Quayle = Lydia
+4 Badger
+4 Skinny Pete
+4 Combo
+4 Steven Gomez = Gomez; Gomie
+4 Krazy-8 = Domingo Molina
+4 Huell Babineaux = Huell
+4 Andrea Cantillo = Andrea
+4 Brock Cantillo = Brock
+4 Ted Beneke = Ted
+4 Onkel Jack = Jack Welker
+4 Gretchen Schwartz = Gretchen
+4 Elliott Schwartz = Elliott
+4 Leonel und Marco Salamanca = Die Cousins; Leonel Salamanca; Marco Salamanca
+4 Emilio Koyama = Emilio
+4 Victor
+4 Holly White = Holly
+4 Don Eladio
+4 Ed Galbraith = Ed
+5 Kuby
+5 Tyrus Kitt = Tyrus
+5 Donald Margolis = Donald
+5 Wendy
+5 Spooge
+5 Tortuga
+5 Juan Bolsa
+5 Kaylee Ehrmantraut = Kaylee
+5 Bogdan
+5 Drew Sharp
+5 Kenny

@@ -9909,5 +9909,482 @@
     "tier": 5
    }
   ]
+ },
+ {
+  "id": "mar-020",
+  "text": "Nenne ein Apple-Produkt",
+  "kategorie": "marken",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "mar-020-a0001",
+    "text": "iPhone",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-020-a0002",
+    "text": "iPad",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-020-a0003",
+    "text": "MacBook",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-020-a0004",
+    "text": "AirPods",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "mar-020-a0005",
+    "text": "Apple Watch",
+    "aliases": [
+     "Watch"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "mar-020-a0006",
+    "text": "iMac",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0007",
+    "text": "iPod",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0008",
+    "text": "Mac",
+    "aliases": [
+     "Macintosh"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0009",
+    "text": "MacBook Air",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0010",
+    "text": "MacBook Pro",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0033",
+    "text": "Apple TV",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0012",
+    "text": "iTunes",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0013",
+    "text": "Apple Music",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0014",
+    "text": "iCloud",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0015",
+    "text": "App Store",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0016",
+    "text": "iOS",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "mar-020-a0017",
+    "text": "Mac mini",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0018",
+    "text": "Mac Pro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0019",
+    "text": "HomePod",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0020",
+    "text": "AirTag",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0021",
+    "text": "Apple Pencil",
+    "aliases": [
+     "Pencil"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0022",
+    "text": "Magic Mouse",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0023",
+    "text": "Vision Pro",
+    "aliases": [
+     "Apple Vision Pro"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0024",
+    "text": "AirPods Pro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0025",
+    "text": "iPad Pro",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0026",
+    "text": "iPad mini",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0027",
+    "text": "iPad Air",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0028",
+    "text": "Siri",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0029",
+    "text": "Safari",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0030",
+    "text": "FaceTime",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0031",
+    "text": "iMessage",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0032",
+    "text": "Apple Pay",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0076",
+    "text": "Apple TV Plus",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0034",
+    "text": "macOS",
+    "aliases": [
+     "OS X"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0035",
+    "text": "GarageBand",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0036",
+    "text": "EarPods",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0037",
+    "text": "AirDrop",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "mar-020-a0038",
+    "text": "Mac Studio",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0039",
+    "text": "Magic Keyboard",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0040",
+    "text": "Magic Trackpad",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0041",
+    "text": "AirPods Max",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0042",
+    "text": "iPod nano",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0043",
+    "text": "iPod shuffle",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0044",
+    "text": "iPod touch",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0045",
+    "text": "iPod classic",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0046",
+    "text": "Final Cut Pro",
+    "aliases": [
+     "Final Cut"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0047",
+    "text": "Logic Pro",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0048",
+    "text": "Keynote",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0049",
+    "text": "Pages",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0050",
+    "text": "Numbers",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0051",
+    "text": "Apple Karten",
+    "aliases": [
+     "Apple Maps",
+     "Karten"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0052",
+    "text": "Studio Display",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0053",
+    "text": "Apple Card",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0054",
+    "text": "iWork",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0055",
+    "text": "Beats",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0056",
+    "text": "MagSafe",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0057",
+    "text": "Apple Books",
+    "aliases": [
+     "iBooks"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0058",
+    "text": "watchOS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0059",
+    "text": "iPadOS",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0060",
+    "text": "Apple Arcade",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "mar-020-a0061",
+    "text": "Pro Display XDR",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0062",
+    "text": "Time Capsule",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0063",
+    "text": "AirPort",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0064",
+    "text": "Newton",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0065",
+    "text": "Apple II",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0066",
+    "text": "Lisa",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0067",
+    "text": "iBook",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0068",
+    "text": "PowerBook",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0069",
+    "text": "eMac",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0070",
+    "text": "Xserve",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0071",
+    "text": "Apple One",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0072",
+    "text": "Apple News",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0073",
+    "text": "Apple Fitness+",
+    "aliases": [
+     "Fitness+"
+    ],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0074",
+    "text": "Xcode",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "mar-020-a0075",
+    "text": "Swift",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

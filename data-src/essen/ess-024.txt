@@ -1,0 +1,30 @@
+@id ess-024
+@text Nenne eine Sorte von Ritter Sport
+@typ geschlossen
+# Bekannte Sorten aus dem bunten Sortiment (Stand 2026), auch frühere Namen. Weitere bitte über das Fehlend-Log ergänzen.
+
+1 Alpenmilch = Alpenmilchschokolade
+1 Marzipan
+1 Rum Trauben Nuss = Rum Traube Nuss
+2 Knusperflakes = Cornflakes
+2 Joghurt
+2 Nugat = Nougat
+2 Voll-Nuss
+2 Ganze Haselnüsse = Haselnuss; Haselnüsse
+2 Pfefferminz
+2 Halbbitter
+3 Nuss-Splitter
+3 Butterkeks
+3 Knusperkeks
+3 Olympia
+3 Erdbeer-Joghurt = Erdbeere
+3 Ganze Mandeln = Mandel; Mandeln
+3 Honig Salz Mandel
+3 Vollmilch
+3 Kakao-Mousse
+3 Kokos
+4 Cashew
+4 Macadamia
+4 Espresso
+4 Edel-Bitter
+4 Weiße Voll-Nuss

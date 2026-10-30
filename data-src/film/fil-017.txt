@@ -1,0 +1,44 @@
+@id fil-017
+@text Nenne eine Figur aus „The Big Bang Theory“
+@typ geschlossen
+# Hauptfiguren, wiederkehrende Nebenfiguren und Gastauftritte als sie selbst (2007–2019). Vorname reicht. Ohne „Young Sheldon“-only-Figuren.
+
+1 Sheldon Cooper = Sheldon
+1 Leonard Hofstadter = Leonard
+1 Penny
+1 Howard Wolowitz = Howard
+1 Raj Koothrappali = Raj; Rajesh Koothrappali
+2 Amy Farrah Fowler = Amy
+2 Bernadette Rostenkowski = Bernadette
+3 Stuart Bloom = Stuart
+3 Barry Kripke = Kripke; Barry
+3 Mrs. Wolowitz = Debbie Wolowitz; Howards Mutter
+3 Mary Cooper = Mary
+4 Wil Wheaton
+4 Leslie Winkle = Leslie
+4 Beverly Hofstadter = Beverly
+4 Priya Koothrappali = Priya
+4 Zack Johnson = Zack
+4 Emily Sweeney = Emily
+4 Bert Kibbler = Bert
+4 Missy Cooper = Missy
+4 Meemaw
+4 Arthur Jeffries = Professor Proton; Arthur
+4 Halley Wolowitz = Halley
+4 Cinnamon
+4 Kurt
+4 Stephen Hawking
+4 Mike Massimino
+5 Lucy
+5 Alex Jensen = Alex
+5 Dr. Gablehauser = Gablehauser
+5 Präsident Siebert = Siebert
+5 George Cooper Jr. = George
+5 Alfred Hofstadter = Alfred
+5 Stephanie Barnett = Stephanie
+5 Ramona Nowitzki = Ramona
+5 Dennis Kim = Dennis
+5 Wyatt
+5 Elizabeth Plimpton
+5 Anu
+5 Mandy Chao = Mandy

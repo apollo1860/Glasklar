@@ -1,0 +1,59 @@
+@id ess-025
+@text Nenne einen Shot, den man in der Bar bestellen kann
+@typ geschlossen
+# Pur getrunkene Spirituosen und Liköre (auch Marken) sowie klassische Shot-Mixe. Keine Longdrinks/Cocktails im Glas.
+
+1 Jägermeister = Jäger; Jägi
+1 Tequila
+1 Wodka = Vodka
+2 Sambuca
+2 Kleiner Feigling = Feigling; Feige
+2 Pfeffi = Pfefferminzlikör; Pfefferminzschnaps
+2 Berliner Luft
+2 Ouzo
+2 Mexikaner
+2 Kümmerling
+2 B-52
+3 Ficken = Ficken-Likör
+3 Rum
+3 Whisky = Whiskey
+3 Gin
+3 Absinth
+3 Obstler
+3 Williams = Williamsbirne; Williams Christ
+3 Korn = Doppelkorn
+3 Apfelkorn
+3 Jägerbomb = Jägerbombe
+3 Kamikaze
+3 Baileys
+3 Amaretto
+3 Limoncello
+3 Grappa
+3 Raki = Rakı
+3 Underberg
+3 Fernet-Branca = Fernet
+3 Ramazzotti
+3 Jack Daniel’s = Jacky
+3 Licor 43 = 43er
+3 Klopfer
+3 Saurer Apfel = Sour Apple
+3 Fireball
+3 Schnaps
+4 Schierker Feuerstein
+4 Waldmeister
+4 Averna
+4 Malibu
+4 Blue Curaçao
+4 Mezcal
+4 Lemon Drop
+4 Zwetschgenwasser = Zwetschge; Zwetschgenschnaps
+4 Enzian
+4 Bärwurz
+4 Blutwurz
+4 Blowjob
+4 Brain Shot = Hirnshot; Brain
+4 Tequila Rose
+4 Sake
+4 Pisco
+5 Flatliner
+5 Slippery Nipple

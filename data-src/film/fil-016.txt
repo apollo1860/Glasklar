@@ -1,0 +1,46 @@
+@id fil-016
+@text Nenne eine Figur aus „How I Met Your Mother“
+@typ geschlossen
+# Hauptfiguren, wiederkehrende Nebenfiguren und bekannte Gastrollen der Serie (2005–2014). Vorname reicht.
+
+1 Ted Mosby = Ted
+1 Barney Stinson = Barney
+1 Robin Scherbatsky = Robin; Robin Sparkles
+1 Marshall Eriksen = Marshall
+1 Lily Aldrin = Lily
+3 Tracy McConnell = Tracy; Die Mutter; The Mother
+3 Ranjit
+3 Victoria
+3 Stella Zinman = Stella
+4 Carl
+4 Zoey Pierson = Zoey
+4 Nora
+4 Quinn Garvey = Quinn
+4 Patrice
+4 Wendy
+4 Kevin
+4 Don Frank = Don
+4 Marvin Eriksen = Marvin
+4 Loretta Stinson = Loretta
+4 James Stinson = James
+4 Sandy Rivers = Sandy
+4 Der Captain
+4 Mickey Aldrin = Mickey
+4 Penny Mosby = Penny
+4 Luke Mosby = Luke
+4 Scooter
+4 Brad Morris = Brad
+4 Cindy
+4 Jeanette Peterson = Jeanette
+5 Marvin Eriksen Sr. = Marvin Sr.
+5 Judy Eriksen = Judy
+5 Jerome Whittaker = Jerome
+5 Stuart
+5 Claudia
+5 Arthur Hobbs = Arthur
+5 Hammond Druthers = Hammond
+5 Gael
+5 Abby
+5 Simon Tremblay = Simon
+5 Linus
+5 Becky

@@ -1,0 +1,46 @@
+@id fil-019
+@text Nenne eine Figur aus „Shrek“
+@typ geschlossen
+# Figuren aus den vier Shrek-Filmen und den „Der gestiefelte Kater“-Filmen. Deutsche Namen als Haupttext, englische als Alias.
+
+1 Shrek
+1 Esel = Donkey
+1 Fiona = Prinzessin Fiona
+1 Der gestiefelte Kater = Gestiefelter Kater; Kater; Puss in Boots
+2 Lord Farquaad = Farquaad
+2 Drache = Dragon; Drachendame
+2 Lebkuchenmann = Lebkuchen; Gingy; Gingerbread Man
+2 Prinz Charming = Charming
+2 Die gute Fee = Fee; Gute Patin; Fairy Godmother
+3 Pinocchio
+3 Die drei kleinen Schweinchen = Schweinchen; Drei kleine Schweinchen
+3 Der große böse Wolf = Wolf; Großer böser Wolf
+3 Die drei blinden Mäuse = Blinde Mäuse; Drei blinde Mäuse
+3 Rumpelstilzchen = Rumpelstiltskin
+3 Artus = Artie; König Artus
+3 Merlin
+3 König Harold = Harold
+3 Königin Lillian = Lillian
+3 Zauberspiegel = Spiegel; Magischer Spiegel
+3 Schneewittchen
+3 Aschenputtel = Cinderella
+3 Dornröschen
+3 Rapunzel
+3 Eselsdrachen = Dronkeys
+4 Doris
+4 Kitty Samtpfote = Kitty Softpaws; Kitty
+4 Humpty Dumpty
+4 Muffinmann = Muffin Man
+4 Robin Hood = Monsieur Hood
+4 Captain Hook = Käpt’n Hook
+4 Tinker Bell
+4 Brogan
+4 Cookie
+4 Gretchen
+4 Farkle, Fergus und Felicia = Farkle; Fergus; Felicia; Shreks Kinder
+4 Mongo
+4 Goldlöckchen = Goldilocks
+4 Jack Horner
+4 Tod = Death
+5 Zyklop = Cyclops
+5 Thelonious

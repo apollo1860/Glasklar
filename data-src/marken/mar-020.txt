@@ -1,0 +1,80 @@
+@id mar-020
+@text Nenne ein Apple-Produkt
+@typ geschlossen
+# Geräte, Zubehör, Software und Dienste von Apple (aktuell und historisch). Produktlinien zählen, Modellnummern nicht.
+
+1 iPhone
+1 iPad
+1 MacBook
+1 AirPods
+1 Apple Watch = Watch
+2 iMac
+2 iPod
+2 Mac = Macintosh
+2 MacBook Air
+2 MacBook Pro
+2 Apple TV
+2 iTunes
+2 Apple Music
+2 iCloud
+2 App Store
+2 iOS
+3 Mac mini
+3 Mac Pro
+3 HomePod
+3 AirTag
+3 Apple Pencil = Pencil
+3 Magic Mouse
+3 Vision Pro = Apple Vision Pro
+3 AirPods Pro
+3 iPad Pro
+3 iPad mini
+3 iPad Air
+3 Siri
+3 Safari
+3 FaceTime
+3 iMessage
+3 Apple Pay
+3 Apple TV Plus
+3 macOS = OS X
+3 GarageBand
+3 EarPods
+3 AirDrop
+4 Mac Studio
+4 Magic Keyboard
+4 Magic Trackpad
+4 AirPods Max
+4 iPod nano
+4 iPod shuffle
+4 iPod touch
+4 iPod classic
+4 Final Cut Pro = Final Cut
+4 Logic Pro
+4 Keynote
+4 Pages
+4 Numbers
+4 Apple Karten = Apple Maps; Karten
+4 Studio Display
+4 Apple Card
+4 iWork
+4 Beats
+4 MagSafe
+4 Apple Books = iBooks
+4 watchOS
+4 iPadOS
+4 Apple Arcade
+5 Pro Display XDR
+5 Time Capsule
+5 AirPort
+5 Newton
+5 Apple II
+5 Lisa
+5 iBook
+5 PowerBook
+5 eMac
+5 Xserve
+5 Apple One
+5 Apple News
+5 Apple Fitness+ = Fitness+
+5 Xcode
+5 Swift
