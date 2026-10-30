@@ -1,0 +1,24 @@
+@id sta-011
+@text Nenne das Bundesland mit dem höchsten Anteil an Katholiken
+@typ rangliste
+@loesung 1. Saarland (49,0 %) · 2. Bayern (42,2 %) · 3. Rheinland-Pfalz (34,7 %) · 4. Nordrhein-Westfalen (32,7 %) · 5. Baden-Württemberg (28,4 %) · 6. Hessen (18,7 %) (DBK, 2023)
+@quelle Deutsche Bischofskonferenz, Katholiken und Bevölkerung nach Bundesländern 2023
+# Anteil der Kirchenmitglieder der katholischen Kirche an der Bevölkerung; Bundesschnitt 24,0 %.
+# Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
+5 Saarland
+3 Bayern = Freistaat Bayern
+3 Rheinland-Pfalz = RLP
+2 Nordrhein-Westfalen = NRW
+2 Baden-Württemberg = BaWü; BW
+2 Hessen
+1 Berlin
+1 Brandenburg
+1 Bremen = Freie Hansestadt Bremen; Hansestadt Bremen
+1 Hamburg = Freie und Hansestadt Hamburg; Hansestadt Hamburg
+1 Mecklenburg-Vorpommern = MV; Meck-Pomm
+1 Niedersachsen
+1 Sachsen = Freistaat Sachsen
+1 Sachsen-Anhalt
+1 Schleswig-Holstein
+1 Thüringen = Freistaat Thüringen

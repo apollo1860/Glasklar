@@ -1613,7 +1613,7 @@
  },
  {
   "id": "sta-009",
-  "text": "Nenne deinen Geburtstag (TT.MM.) – je seltener, desto leerer das Glas",
+  "text": "Nenne ein Geburtsdatum (TT.MM.) – je seltener, desto leerer das Glas",
   "kategorie": "statistik",
   "typ": "geschlossen",
   "answers": [
@@ -4544,6 +4544,586 @@
      "31. Dezember"
     ],
     "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "sta-010",
+  "text": "Nenne das Bundesland mit dem höchsten Durchschnittsalter",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Sachsen-Anhalt (48,4) · 2. Mecklenburg-Vorpommern (48,3) · 3. Thüringen (48,2) · 4. Brandenburg · 5. Sachsen · 6. Saarland (Destatis, Stand Ende 2025)",
+  "quelle": "Destatis, Bevölkerungsstand 31.12.2025 (Pressemitteilung 10/2026); Plätze 4–6 nach Vorjahreswerten (2024: Brandenburg 47,5, Sachsen 47,1)",
+  "answers": [
+   {
+    "id": "sta-010-a0001",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-010-a0002",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-010-a0003",
+    "text": "Thüringen",
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-010-a0004",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-010-a0005",
+    "text": "Sachsen",
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-010-a0006",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-010-a0007",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü",
+     "BW"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0008",
+    "text": "Bayern",
+    "aliases": [
+     "Freistaat Bayern"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0009",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0010",
+    "text": "Bremen",
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0011",
+    "text": "Hamburg",
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0012",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0013",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0014",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0015",
+    "text": "Rheinland-Pfalz",
+    "aliases": [
+     "RLP"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-010-a0016",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-011",
+  "text": "Nenne das Bundesland mit dem höchsten Anteil an Katholiken",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. Saarland (49,0 %) · 2. Bayern (42,2 %) · 3. Rheinland-Pfalz (34,7 %) · 4. Nordrhein-Westfalen (32,7 %) · 5. Baden-Württemberg (28,4 %) · 6. Hessen (18,7 %) (DBK, 2023)",
+  "quelle": "Deutsche Bischofskonferenz, Katholiken und Bevölkerung nach Bundesländern 2023",
+  "answers": [
+   {
+    "id": "sta-011-a0001",
+    "text": "Saarland",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-011-a0002",
+    "text": "Bayern",
+    "aliases": [
+     "Freistaat Bayern"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-011-a0003",
+    "text": "Rheinland-Pfalz",
+    "aliases": [
+     "RLP"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "sta-011-a0004",
+    "text": "Nordrhein-Westfalen",
+    "aliases": [
+     "NRW"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-011-a0005",
+    "text": "Baden-Württemberg",
+    "aliases": [
+     "BaWü",
+     "BW"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "sta-011-a0006",
+    "text": "Hessen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-011-a0007",
+    "text": "Berlin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0008",
+    "text": "Brandenburg",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0009",
+    "text": "Bremen",
+    "aliases": [
+     "Freie Hansestadt Bremen",
+     "Hansestadt Bremen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0010",
+    "text": "Hamburg",
+    "aliases": [
+     "Freie und Hansestadt Hamburg",
+     "Hansestadt Hamburg"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0011",
+    "text": "Mecklenburg-Vorpommern",
+    "aliases": [
+     "MV",
+     "Meck-Pomm"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0012",
+    "text": "Niedersachsen",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0013",
+    "text": "Sachsen",
+    "aliases": [
+     "Freistaat Sachsen"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0014",
+    "text": "Sachsen-Anhalt",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0015",
+    "text": "Schleswig-Holstein",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-011-a0016",
+    "text": "Thüringen",
+    "aliases": [
+     "Freistaat Thüringen"
+    ],
+    "tier": 1
+   }
+  ]
+ },
+ {
+  "id": "sta-012",
+  "text": "Nenne den US-Bundesstaat mit der höchsten Adipositas-Rate",
+  "kategorie": "statistik",
+  "typ": "rangliste",
+  "loesung": "1. West Virginia (41,4 %) · 2. Mississippi (40,4 %) · 3. Louisiana (39,2 %) · 4./5. Alabama, Arkansas (je 38,9 %) (CDC BRFSS 2024 laut TFAH, State of Obesity 2025)",
+  "quelle": "CDC BRFSS 2024 via TFAH „State of Obesity 2025“; Plätze 6–10 geschätzt nach den Vorjahren",
+  "answers": [
+   {
+    "id": "sta-012-a0001",
+    "text": "West Virginia",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-012-a0002",
+    "text": "Mississippi",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-012-a0003",
+    "text": "Louisiana",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "sta-012-a0004",
+    "text": "Alabama",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-012-a0005",
+    "text": "Arkansas",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-012-a0006",
+    "text": "Oklahoma",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-012-a0007",
+    "text": "Tennessee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-012-a0008",
+    "text": "Kentucky",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "sta-012-a0009",
+    "text": "Indiana",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-012-a0010",
+    "text": "Ohio",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "sta-012-a0011",
+    "text": "Alaska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0012",
+    "text": "Arizona",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0013",
+    "text": "Colorado",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0014",
+    "text": "Delaware",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0015",
+    "text": "Florida",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0016",
+    "text": "Georgia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0017",
+    "text": "Idaho",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0018",
+    "text": "Illinois",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0019",
+    "text": "Iowa",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0020",
+    "text": "Kansas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0021",
+    "text": "Maine",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0022",
+    "text": "Maryland",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0023",
+    "text": "Michigan",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0024",
+    "text": "Missouri",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0025",
+    "text": "Montana",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0026",
+    "text": "Nebraska",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0027",
+    "text": "Nevada",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0028",
+    "text": "New Mexico",
+    "aliases": [
+     "Neumexiko"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0029",
+    "text": "North Carolina",
+    "aliases": [
+     "Nordkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0030",
+    "text": "North Dakota",
+    "aliases": [
+     "Norddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0031",
+    "text": "Oregon",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0032",
+    "text": "Pennsylvania",
+    "aliases": [
+     "Pennsylvanien"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0033",
+    "text": "South Carolina",
+    "aliases": [
+     "Südkarolina"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0034",
+    "text": "South Dakota",
+    "aliases": [
+     "Süddakota"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0035",
+    "text": "Texas",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0036",
+    "text": "Vermont",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0037",
+    "text": "Virginia",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0038",
+    "text": "Washington",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0039",
+    "text": "Wisconsin",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0040",
+    "text": "Wyoming",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0041",
+    "text": "Hawaii",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0042",
+    "text": "Massachusetts",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0043",
+    "text": "New Jersey",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0044",
+    "text": "New York",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0045",
+    "text": "Connecticut",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0046",
+    "text": "Kalifornien",
+    "aliases": [
+     "California"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0047",
+    "text": "Minnesota",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0048",
+    "text": "Rhode Island",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0049",
+    "text": "Utah",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "sta-012-a0050",
+    "text": "New Hampshire",
+    "aliases": [],
+    "tier": 1
    }
   ]
  }

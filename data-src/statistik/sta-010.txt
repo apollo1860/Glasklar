@@ -1,0 +1,24 @@
+@id sta-010
+@text Nenne das Bundesland mit dem höchsten Durchschnittsalter
+@typ rangliste
+@loesung 1. Sachsen-Anhalt (48,4) · 2. Mecklenburg-Vorpommern (48,3) · 3. Thüringen (48,2) · 4. Brandenburg · 5. Sachsen · 6. Saarland (Destatis, Stand Ende 2025)
+@quelle Destatis, Bevölkerungsstand 31.12.2025 (Pressemitteilung 10/2026); Plätze 4–6 nach Vorjahreswerten (2024: Brandenburg 47,5, Sachsen 47,1)
+# Jüngstes Land: Hamburg (42,3), dann Berlin und Bremen.
+# Füllung nach Rang: Platz 1 = 0, 2–3 = 1, 4–6 = 2, Rest = 3.
+
+5 Sachsen-Anhalt
+3 Mecklenburg-Vorpommern = MV; Meck-Pomm
+3 Thüringen = Freistaat Thüringen
+2 Brandenburg
+2 Sachsen = Freistaat Sachsen
+2 Saarland
+1 Baden-Württemberg = BaWü; BW
+1 Bayern = Freistaat Bayern
+1 Berlin
+1 Bremen = Freie Hansestadt Bremen; Hansestadt Bremen
+1 Hamburg = Freie und Hansestadt Hamburg; Hansestadt Hamburg
+1 Hessen
+1 Niedersachsen
+1 Nordrhein-Westfalen = NRW
+1 Rheinland-Pfalz = RLP
+1 Schleswig-Holstein

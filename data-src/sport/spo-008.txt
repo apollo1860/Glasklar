@@ -1,0 +1,29 @@
+@id spo-008
+@text Nenne einen Spieler aus dem deutschen Weltmeister-Kader 2014
+@typ geschlossen
+# Alle 23 Spieler des WM-Kaders 2014 (Brasilien), Nachname reicht. Nicht: Bundestrainer Joachim Löw,
+# Marco Reus (vor dem Turnier verletzt, nachnominiert wurde Shkodran Mustafi).
+
+1 Thomas Müller = Müller
+1 Manuel Neuer = Neuer
+1 Mario Götze = Götze
+1 Bastian Schweinsteiger = Schweinsteiger; Schweini
+1 Philipp Lahm = Lahm
+2 Toni Kroos = Kroos
+2 Miroslav Klose = Klose
+2 Mesut Özil = Özil
+2 Mats Hummels = Hummels
+2 Jérôme Boateng = Boateng
+2 Lukas Podolski = Podolski; Poldi
+2 Sami Khedira = Khedira
+2 André Schürrle = Schürrle
+3 Per Mertesacker = Mertesacker
+3 Benedikt Höwedes = Höwedes
+3 Christoph Kramer = Kramer
+3 Julian Draxler = Draxler
+3 Kevin Großkreutz = Großkreutz
+4 Shkodran Mustafi = Mustafi
+4 Matthias Ginter = Ginter
+4 Roman Weidenfeller = Weidenfeller
+4 Ron-Robert Zieler = Zieler
+5 Erik Durm = Durm

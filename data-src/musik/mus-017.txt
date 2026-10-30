@@ -1,0 +1,29 @@
+@id mus-017
+@text Nenne einen deutschsprachigen Rapper oder eine Rap-Crew mit einer Zahl im Namen
+@typ geschlossen
+# Zahl als Ziffer oder ausgeschrieben (auch „One“, „Vier“). Inkl. Österreich und Schweiz.
+# Nicht: frühere Künstlernamen (RAF 3.0 → RAF Camora). Fehlende bitte über das Fehlend-Log ergänzen.
+
+1 Apache 207 = Apache
+1 Ufo361 = Ufo
+1 187 Strassenbande = 187
+2 Kay One
+2 Die Fantastischen Vier = Fanta 4; Fanta Vier
+3 Sa4
+3 18 Karat
+3 Luvre47 = Luvre
+3 Kalazh44 = Kalazh
+4 Hamad45 = Hamad
+4 Nate57 = Nate
+4 Takt32 = Takt
+4 AchtVier = 84
+4 Lucio101 = Lucio
+4 1986zig
+4 102 Boyz
+4 01099
+4 Mosh36 = Mosh
+4 King Orgasmus One
+4 Monet192 = Monet
+4 Fünf Sterne deluxe = 5 Sterne deluxe
+5 Lugatti & 9ine = 9ine; Lugatti und 9ine
+5 Eins Zwo

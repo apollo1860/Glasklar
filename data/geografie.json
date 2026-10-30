@@ -18636,5 +18636,1013 @@
     "tier": 3
    }
   ]
+ },
+ {
+  "id": "geo-055",
+  "text": "Nenne einen See in Bayern",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-055-a0001",
+    "text": "Chiemsee",
+    "aliases": [
+     "Bayerisches Meer"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-055-a0002",
+    "text": "Starnberger See",
+    "aliases": [
+     "Würmsee"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-055-a0003",
+    "text": "Tegernsee",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-055-a0004",
+    "text": "Ammersee",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-055-a0005",
+    "text": "Königssee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0006",
+    "text": "Bodensee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0007",
+    "text": "Schliersee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0008",
+    "text": "Walchensee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0009",
+    "text": "Kochelsee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0010",
+    "text": "Eibsee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0011",
+    "text": "Forggensee",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0012",
+    "text": "Großer Brombachsee",
+    "aliases": [
+     "Brombachsee"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-055-a0013",
+    "text": "Staffelsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0014",
+    "text": "Simssee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0015",
+    "text": "Waginger See",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0016",
+    "text": "Großer Alpsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0017",
+    "text": "Alpsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0018",
+    "text": "Hopfensee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0019",
+    "text": "Wörthsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0020",
+    "text": "Spitzingsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0021",
+    "text": "Sylvensteinsee",
+    "aliases": [
+     "Sylvensteinspeicher"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0022",
+    "text": "Altmühlsee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0023",
+    "text": "Feringasee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0024",
+    "text": "Olympiasee",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0025",
+    "text": "Kleinhesseloher See",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0026",
+    "text": "Riemer See",
+    "aliases": [
+     "Messesee"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0027",
+    "text": "Langbürgner See",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-055-a0028",
+    "text": "Weißensee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0029",
+    "text": "Bannwaldsee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0030",
+    "text": "Riegsee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0031",
+    "text": "Pilsensee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0032",
+    "text": "Osterseen",
+    "aliases": [
+     "Großer Ostersee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0033",
+    "text": "Rothsee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0034",
+    "text": "Großer Arbersee",
+    "aliases": [
+     "Arbersee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0035",
+    "text": "Obersee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0036",
+    "text": "Hintersee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0037",
+    "text": "Tachinger See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0038",
+    "text": "Langwieder See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0039",
+    "text": "Fasaneriesee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0040",
+    "text": "Feldmochinger See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0041",
+    "text": "Karlsfelder See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0042",
+    "text": "Heimstettener See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0043",
+    "text": "Lerchenauer See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0044",
+    "text": "Weßlinger See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0045",
+    "text": "Barmsee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0046",
+    "text": "Geroldsee",
+    "aliases": [
+     "Wagenbrüchsee"
+    ],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0047",
+    "text": "Lautersee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0048",
+    "text": "Ferchensee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0049",
+    "text": "Badersee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0050",
+    "text": "Igelsbachsee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0051",
+    "text": "Steinberger See",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0052",
+    "text": "Kuhsee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0053",
+    "text": "Mandichosee",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-055-a0054",
+    "text": "Kleiner Arbersee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0055",
+    "text": "Rachelsee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0056",
+    "text": "Thumsee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0057",
+    "text": "Frillensee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0058",
+    "text": "Soinsee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0059",
+    "text": "Abtsdorfer See",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0060",
+    "text": "Pelhamer See",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0061",
+    "text": "Seeoner Seen",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0062",
+    "text": "Murner See",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0063",
+    "text": "Rottachsee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0064",
+    "text": "Grüntensee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0065",
+    "text": "Niedersonthofener See",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0066",
+    "text": "Lußsee",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-055-a0067",
+    "text": "Dechsendorfer Weiher",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
+ },
+ {
+  "id": "geo-056",
+  "text": "Nenne einen Münchner Stadtteil",
+  "kategorie": "geografie",
+  "typ": "geschlossen",
+  "answers": [
+   {
+    "id": "geo-056-a0001",
+    "text": "Schwabing",
+    "aliases": [
+     "Schwabing-West",
+     "Schwabing-Freimann"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-056-a0002",
+    "text": "Maxvorstadt",
+    "aliases": [],
+    "tier": 1
+   },
+   {
+    "id": "geo-056-a0003",
+    "text": "Sendling",
+    "aliases": [
+     "Sendling-Westpark"
+    ],
+    "tier": 1
+   },
+   {
+    "id": "geo-056-a0004",
+    "text": "Haidhausen",
+    "aliases": [
+     "Au-Haidhausen"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0005",
+    "text": "Giesing",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0006",
+    "text": "Bogenhausen",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0007",
+    "text": "Pasing",
+    "aliases": [
+     "Pasing-Obermenzing"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0008",
+    "text": "Neuhausen",
+    "aliases": [
+     "Neuhausen-Nymphenburg"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0009",
+    "text": "Nymphenburg",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0010",
+    "text": "Glockenbachviertel",
+    "aliases": [
+     "Glockenbach"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0011",
+    "text": "Isarvorstadt",
+    "aliases": [
+     "Ludwigsvorstadt-Isarvorstadt"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0012",
+    "text": "Lehel",
+    "aliases": [
+     "Altstadt-Lehel"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0013",
+    "text": "Altstadt",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0014",
+    "text": "Moosach",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0015",
+    "text": "Trudering",
+    "aliases": [
+     "Trudering-Riem"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0016",
+    "text": "Neuperlach",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0017",
+    "text": "Laim",
+    "aliases": [],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0018",
+    "text": "Westend",
+    "aliases": [
+     "Schwanthalerhöhe"
+    ],
+    "tier": 2
+   },
+   {
+    "id": "geo-056-a0019",
+    "text": "Au",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0020",
+    "text": "Ludwigsvorstadt",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0021",
+    "text": "Milbertshofen",
+    "aliases": [
+     "Milbertshofen-Am Hart"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0022",
+    "text": "Freimann",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0023",
+    "text": "Riem",
+    "aliases": [
+     "Messestadt Riem",
+     "Messestadt"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0024",
+    "text": "Perlach",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0025",
+    "text": "Ramersdorf",
+    "aliases": [
+     "Ramersdorf-Perlach"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0026",
+    "text": "Berg am Laim",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0027",
+    "text": "Thalkirchen",
+    "aliases": [
+     "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0028",
+    "text": "Obersendling",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0029",
+    "text": "Solln",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0030",
+    "text": "Forstenried",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0031",
+    "text": "Hadern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0032",
+    "text": "Großhadern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0033",
+    "text": "Aubing",
+    "aliases": [
+     "Aubing-Lochhausen-Langwied"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0034",
+    "text": "Allach",
+    "aliases": [
+     "Allach-Untermenzing"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0035",
+    "text": "Obermenzing",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0036",
+    "text": "Feldmoching",
+    "aliases": [
+     "Feldmoching-Hasenbergl"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0037",
+    "text": "Hasenbergl",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0038",
+    "text": "Harlaching",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0039",
+    "text": "Obergiesing",
+    "aliases": [
+     "Obergiesing-Fasangarten"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0040",
+    "text": "Untergiesing",
+    "aliases": [
+     "Untergiesing-Harlaching"
+    ],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0041",
+    "text": "Freiham",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0042",
+    "text": "Gärtnerplatzviertel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0043",
+    "text": "Schlachthofviertel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0044",
+    "text": "Werksviertel",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0045",
+    "text": "Gern",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0046",
+    "text": "Mittersendling",
+    "aliases": [],
+    "tier": 3
+   },
+   {
+    "id": "geo-056-a0047",
+    "text": "Fürstenried",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0048",
+    "text": "Blumenau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0049",
+    "text": "Lochhausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0050",
+    "text": "Langwied",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0051",
+    "text": "Untermenzing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0052",
+    "text": "Fasanerie",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0053",
+    "text": "Lerchenau",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0054",
+    "text": "Am Hart",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0055",
+    "text": "Harthof",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0056",
+    "text": "Oberföhring",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0057",
+    "text": "Johanneskirchen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0058",
+    "text": "Englschalking",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0059",
+    "text": "Daglfing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0060",
+    "text": "Zamdorf",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0061",
+    "text": "Denning",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0062",
+    "text": "Steinhausen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0063",
+    "text": "Waldtrudering",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0064",
+    "text": "Waldperlach",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0065",
+    "text": "Fasangarten",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0066",
+    "text": "Menterschwaige",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0067",
+    "text": "Kleinhadern",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0068",
+    "text": "Neuaubing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0069",
+    "text": "Westkreuz",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0070",
+    "text": "Ludwigsfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0071",
+    "text": "Oberwiesenfeld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0072",
+    "text": "Domagkpark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0073",
+    "text": "Parkstadt Schwabing",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0074",
+    "text": "Ackermannbogen",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0075",
+    "text": "Herzogpark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0076",
+    "text": "Arabellapark",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0077",
+    "text": "Kreuzviertel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0078",
+    "text": "Angerviertel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0079",
+    "text": "Hackenviertel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0080",
+    "text": "Franzosenviertel",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0081",
+    "text": "Sendlinger Feld",
+    "aliases": [],
+    "tier": 4
+   },
+   {
+    "id": "geo-056-a0082",
+    "text": "Graggenau",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0083",
+    "text": "Alte Heide",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0084",
+    "text": "Kieferngarten",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0085",
+    "text": "Arnulfpark",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0086",
+    "text": "Prinz-Eugen-Park",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0087",
+    "text": "Holzapfelkreuth",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0088",
+    "text": "Neuforstenried",
+    "aliases": [],
+    "tier": 5
+   },
+   {
+    "id": "geo-056-a0089",
+    "text": "Siemenssiedlung",
+    "aliases": [],
+    "tier": 5
+   }
+  ]
  }
 ]

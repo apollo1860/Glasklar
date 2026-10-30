@@ -1,0 +1,53 @@
+@id mus-015
+@text Nenne einen Song von ABBA
+@typ geschlossen
+@quelle Diskografie ABBA (Singles und Albumtitel 1972–2021)
+# Inkl. „Voyage“ (2021). Ohne Solo-Songs der Mitglieder.
+
+1 Dancing Queen
+1 Mamma Mia
+1 Waterloo
+2 Gimme! Gimme! Gimme! = Gimme Gimme Gimme (A Man After Midnight)
+2 The Winner Takes It All = Winner Takes It All
+2 Money, Money, Money
+2 Super Trouper
+2 Take a Chance on Me
+2 Fernando
+3 Knowing Me, Knowing You
+3 Voulez-Vous
+3 Chiquitita
+3 Lay All Your Love on Me
+3 SOS
+3 I Have a Dream
+3 Thank You for the Music
+3 Does Your Mother Know
+3 Honey, Honey
+3 Slipping Through My Fingers
+3 Happy New Year
+4 Ring Ring
+4 Summer Night City
+4 One of Us
+4 The Name of the Game = Name of the Game
+4 Angeleyes
+4 Hasta Mañana
+4 Head over Heels
+4 I Do, I Do, I Do, I Do, I Do
+4 Our Last Summer
+4 The Day Before You Came
+4 I Still Have Faith in You
+4 Don’t Shut Me Down
+4 Andante, Andante
+4 So Long
+5 Eagle
+5 Under Attack
+5 When All Is Said and Done
+5 Little Things
+5 Rock Me
+5 Nina, Pretty Ballerina
+5 The Visitors
+5 Cassandra
+5 People Need Love
+5 Bang-A-Boomerang
+5 Kisses of Fire
+5 Hole in Your Soul
+5 Two for the Price of One

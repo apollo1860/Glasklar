@@ -1,0 +1,86 @@
+@id mus-016
+@text Nenne einen Song, der im Wiesn-Zelt gespielt wird
+# Klassiker der Festzelt-Kapellen und Partyhits, die auf dem Oktoberfest regelmäßig laufen (Wiesn-Hits der letzten Jahre inklusive).
+# Titel oder geläufiger Kurztitel; Interpret nur, wo es zur Unterscheidung hilft.
+
+1 Ein Prosit der Gemütlichkeit = Ein Prosit
+1 Fliegerlied = So a schöner Tag; So ein schöner Tag; Und ich flieg flieg flieg
+1 Take Me Home, Country Roads = Country Roads
+1 Atemlos durch die Nacht = Atemlos
+1 Layla
+2 In München steht ein Hofbräuhaus = Hofbräuhaus
+2 Sweet Caroline
+2 Hey Baby = Hey Baby (Uhh Ahh)
+2 Skandal im Sperrbezirk = Skandal
+2 Cordula Grün
+2 Viva Colonia
+2 Hulapalu
+2 Rock mi
+2 Anton aus Tirol
+2 Ein Stern (der deinen Namen trägt) = Ein Stern
+2 Live is Life
+2 Wahnsinn = Hölle Hölle Hölle
+2 Joana
+2 Wackelkontakt
+3 Westerland
+3 Zehn nackte Friseusen = 10 nackte Friseusen
+3 Schatzi schenk mir ein Foto
+3 Fürstenfeld
+3 Ich war noch niemals in New York
+3 Griechischer Wein
+3 Marmor, Stein und Eisen bricht
+3 Seven Nation Army
+3 YMCA
+3 Angels
+3 Ham kummst
+3 The Final Countdown = Final Countdown
+3 Die immer lacht
+3 Mama Laudaaa = Mama Lauda
+3 Komm hol das Lasso raus
+3 Johnny Däpp
+3 Kufsteinlied
+3 Rock Me Amadeus = Amadeus
+3 Hands Up
+3 Tage wie diese
+3 Stern des Südens
+3 Eviva España
+3 Freed from Desire
+3 Major Tom (völlig losgelöst) = Major Tom
+3 Ein Bett im Kornfeld
+3 Verdammt, ich lieb dich
+3 Sierra Madre
+3 An der Nordseeküste
+3 Mendocino
+3 Das rote Pferd
+3 Summer of ’69
+3 I’m Gonna Be (500 Miles) = 500 Miles
+3 Dicht im Flieger
+3 Er gehört zu mir
+4 Rosamunde
+4 Resi, i hol di mit mei’m Traktor ab = Resi
+4 Bayern, des samma mir
+4 Highway to Hell
+4 Blau und weiß, wie lieb ich dich
+4 Weus’d a Herz hast wia a Bergwerk
+4 Herzilein
+4 I Will Survive
+4 Narcotic
+4 Nur noch kurz die Welt retten
+4 Schickeria
+4 Hey Jude
+4 Bohemian Rhapsody
+4 Mr. Brightside
+4 Bella Ciao
+4 Aber bitte mit Sahne
+4 Fiesta Mexicana
+4 Ab in den Süden
+4 Zillertaler Hochzeitsmarsch
+4 Sweet Home Alabama
+4 Dancing Queen
+4 Krawall und Remmidemmi
+4 Can’t Take My Eyes Off You = I Love You Baby
+4 Dieser Weg
+5 Bergvagabunden
+5 Patrona Bavariae
+5 Bayerischer Defiliermarsch = Defiliermarsch
+5 Alte Kameraden

@@ -1,0 +1,95 @@
+@id geo-056
+@text Nenne einen Münchner Stadtteil
+@typ geschlossen
+# Die 25 Stadtbezirke (Doppelnamen als Alias) und geläufige Stadtteile, Viertel und Siedlungen innerhalb der Stadtgrenze.
+# Nicht: Umlandgemeinden (Garching, Unterhaching, Grünwald, Ottobrunn …).
+
+1 Schwabing = Schwabing-West; Schwabing-Freimann
+1 Maxvorstadt
+1 Sendling = Sendling-Westpark
+2 Haidhausen = Au-Haidhausen
+2 Giesing
+2 Bogenhausen
+2 Pasing = Pasing-Obermenzing
+2 Neuhausen = Neuhausen-Nymphenburg
+2 Nymphenburg
+2 Glockenbachviertel = Glockenbach
+2 Isarvorstadt = Ludwigsvorstadt-Isarvorstadt
+2 Lehel = Altstadt-Lehel
+2 Altstadt
+2 Moosach
+2 Trudering = Trudering-Riem
+2 Neuperlach
+2 Laim
+2 Westend = Schwanthalerhöhe
+3 Au
+3 Ludwigsvorstadt
+3 Milbertshofen = Milbertshofen-Am Hart
+3 Freimann
+3 Riem = Messestadt Riem; Messestadt
+3 Perlach
+3 Ramersdorf = Ramersdorf-Perlach
+3 Berg am Laim
+3 Thalkirchen = Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+3 Obersendling
+3 Solln
+3 Forstenried
+3 Hadern
+3 Großhadern
+3 Aubing = Aubing-Lochhausen-Langwied
+3 Allach = Allach-Untermenzing
+3 Obermenzing
+3 Feldmoching = Feldmoching-Hasenbergl
+3 Hasenbergl
+3 Harlaching
+3 Obergiesing = Obergiesing-Fasangarten
+3 Untergiesing = Untergiesing-Harlaching
+3 Freiham
+3 Gärtnerplatzviertel
+3 Schlachthofviertel
+3 Werksviertel
+3 Gern
+3 Mittersendling
+4 Fürstenried
+4 Blumenau
+4 Lochhausen
+4 Langwied
+4 Untermenzing
+4 Fasanerie
+4 Lerchenau
+4 Am Hart
+4 Harthof
+4 Oberföhring
+4 Johanneskirchen
+4 Englschalking
+4 Daglfing
+4 Zamdorf
+4 Denning
+4 Steinhausen
+4 Waldtrudering
+4 Waldperlach
+4 Fasangarten
+4 Menterschwaige
+4 Kleinhadern
+4 Neuaubing
+4 Westkreuz
+4 Ludwigsfeld
+4 Oberwiesenfeld
+4 Domagkpark
+4 Parkstadt Schwabing
+4 Ackermannbogen
+4 Herzogpark
+4 Arabellapark
+4 Kreuzviertel
+4 Angerviertel
+4 Hackenviertel
+4 Franzosenviertel
+4 Sendlinger Feld
+5 Graggenau
+5 Alte Heide
+5 Kieferngarten
+5 Arnulfpark
+5 Prinz-Eugen-Park
+5 Holzapfelkreuth
+5 Neuforstenried
+5 Siemenssiedlung

@@ -1,0 +1,71 @@
+@id tie-015
+@text Nenne ein Tier, das in Australien lebt
+# Einheimische Arten (Land, Luft, Küste/Great Barrier Reef) und bekannte eingeführte Tiere, die dort wild leben (Kaninchen, Aga-Kröte, Kamel, Brumby).
+# Sammelbegriffe wie „Spinne“, „Schlange“, „Hai“ zählen. Nicht: reine Nutz-/Haustiere ohne Australien-Bezug (Hund, Katze).
+
+1 Känguru = Kängurus; Riesenkänguru; Rotes Riesenkänguru
+1 Koala = Koalabär
+1 Krokodil = Salzwasserkrokodil; Leistenkrokodil
+1 Spinne = Spinnen
+2 Schlange = Schlangen
+2 Emu
+2 Schnabeltier
+2 Wombat
+2 Dingo
+2 Hai = Weißer Hai; Haie
+3 Kakadu
+3 Tasmanischer Teufel = Beutelteufel
+3 Quokka
+3 Wallaby
+3 Ameisenigel = Echidna
+3 Kasuar
+3 Kookaburra = Lachender Hans
+3 Wellensittich
+3 Nymphensittich
+3 Trauerschwan = Schwarzer Schwan
+3 Pelikan
+3 Clownfisch = Nemo
+3 Meeresschildkröte = Schildkröte
+3 Würfelqualle = Seewespe; Qualle
+3 Taipan = Inlandtaipan
+3 Braunschlange = Östliche Braunschlange
+3 Python = Teppichpython
+3 Kragenechse
+3 Bartagame
+3 Waran = Buntwaran; Goanna
+3 Trichternetzspinne
+3 Rotrückenspinne = Redback
+3 Kaninchen
+3 Aga-Kröte = Cane Toad
+3 Kamel
+3 Possum = Fuchskusu; Opossum
+3 Schaf
+3 Delfin
+3 Wal = Buckelwal
+3 Rochen = Stachelrochen
+3 Pinguin = Zwergpinguin
+3 Seelöwe = Australischer Seelöwe
+4 Dornteufel
+4 Tigerotter
+4 Sugar Glider = Kurzkopfgleitbeutler
+4 Numbat = Ameisenbeutler
+4 Bilby = Kaninchennasenbeutler
+4 Beutelmarder
+4 Baumkänguru
+4 Leierschwanz
+4 Lori = Allfarblori
+4 Rosakakadu = Galah
+4 Rosella = Rosellasittich
+4 Ibis
+4 Dugong = Seekuh
+4 Blaugeringelter Krake = Krake
+4 Seepferdchen
+4 Barramundi
+4 Brumby = Wildpferd
+4 Süßwasserkrokodil
+4 Fledermaus = Flughund
+4 Termite
+5 Lungenfisch = Australischer Lungenfisch
+5 Beutelmull
+5 Tüpfelkuskus
+5 Laubenvogel
